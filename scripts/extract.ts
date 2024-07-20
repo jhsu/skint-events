@@ -93,19 +93,17 @@ async function processSkintFeed(url: string): Promise<SkintEvent[]> {
 		console.log('-------');
 		console.log(content);
 
-		try {
-			const extractedEvents = await extractEventInfo(content);
-			events.push(...extractedEvents);
-		} catch (e) {
-			console.error(`Error processing item: ${item.title}. Error: ${e}`);
-		}
+		const extractedEvents = await extractEventInfo(content);
+		events.push(...extractedEvents);
 	}
 
 	return sortEventsByDateDescending(events);
 }
 
-// Example usage
 async function main() {
+	if (!process.env.OPENAI_API_KEY) {
+		throw new Error('missing OPENAI_API_KEY')
+	}
 	const feedUrl = "https://www.theskint.com/feed/";
 	const events = await processSkintFeed(feedUrl);
 

@@ -4,7 +4,7 @@ import fs from 'node:fs'
 
 async function loadEvents() {
   'use server'
-  const events = await fs.promises.readFile('../events.json')
+  const events = await fs.promises.readFile('./events.json')
   return JSON.parse(events.toString())
 }
 

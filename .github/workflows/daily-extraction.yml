@@ -23,7 +23,7 @@ jobs:
         run: npm ci
 
       - name: Run extraction script
-        run: npm exec tsx ./scripts/extract.tsx
+        run: npm exec tsx ./scripts/extract.ts
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 

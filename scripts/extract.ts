@@ -47,11 +47,20 @@ async function fetchAndParseRSS(url: string): Promise<any> {
 	};
 }
 
+function sortEventsByDateDescending(events: SkintEvent[]): SkintEvent[] {
+	return events.sort((a, b) => {
+		const dateA = a.start_date || '';
+		const dateB = b.start_date || '';
+		return dateB.localeCompare(dateA);
+	});
+}
+
 // Function to extract event info using AI
 async function extractEventInfo(content: string): Promise<SkintEvent[]> {
 	const { object } = await generateObject({
 		model: openai('gpt-4o-mini'),
 		schema: SkintPostSchema,
+		system: `Extract upcoming event information in a useful manner.\n The current date and time is ${new Date().toISOString()}.`,
 		prompt: `Extract events information from the following text. Infer the event timestamp, address, and cost if possible. If you can't determine a specific field, leave it as undefined. Here's an example of the content structure:
 
     <p><span style="font-family:trebuchet ms;">fri 10pm (+ 8/16): <b>str8 west coastin&#8217;</b>: west coast hip-hop vibes take over friends and lovers (crown heights) at this annual dance party spun by djs eleven, raichous, dstrukt, and still life. $5 before 11pm with rsvp, $10 without. </span><a style="font-family: trebuchet ms;" href="https://www.eventbrite.com/e/str8-west-coastin-feat-dj-eleven-x-dstrukt-x-still-life-x-raichous-tickets-919851068307" target="_blank" rel="noopener"><b><font color="#FF6600">>></font color></b></a></p>
@@ -92,7 +101,7 @@ async function processSkintFeed(url: string): Promise<SkintEvent[]> {
 		}
 	}
 
-	return events;
+	return sortEventsByDateDescending(events);
 }
 
 // Example usage

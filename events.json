@@ -1,18 +1,18 @@
 [
   {
-    "title": "Myrtle Avenue Summer Nights",
-    "description": "An evening of music, activities & specials featuring free live music from Jem Bleu and The Benny Lopez Latin Jazz Ensemble, along with various activities for kids and adults.",
-    "start_date": "2024-07-19",
-    "start_time": "5:00 pm",
-    "end_date": "2024-07-19",
-    "end_time": "8:00 pm",
-    "link": "https://myrtleavenue.org/summer/",
-    "address": "Fort Greene and Clinton Hill, Brooklyn",
+    "title": "Philippines Fest Two-Year Anniversary",
+    "description": "A celebration of Filipino culture with food, music, and performances.",
+    "start_date": "2024-07-21",
+    "start_time": "10:00 am",
+    "end_date": "2024-07-21",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/philippinesfest/",
+    "address": "Times Square (7th Ave bet 47th + 49th Sts)",
     "cost": "Free"
   },
   {
     "title": "Go Africa Carnival",
-    "description": "A vibrant carnival celebrating African culture with various activities and performances.",
+    "description": "A vibrant carnival celebrating African culture with music, dance, and food.",
     "start_date": "2024-07-20",
     "start_time": "10:00 am",
     "end_date": "2024-07-20",
@@ -44,19 +44,19 @@
     "cost": "Free"
   },
   {
-    "title": "Philippines Fest Two-Year Anniversary",
-    "description": "A celebration of Filipino culture with food, performances, and activities.",
-    "start_date": "2024-07-21",
-    "start_time": "10:00 am",
-    "end_date": "2024-07-21",
-    "end_time": "6:00 pm",
-    "link": "https://www.instagram.com/philippinesfest/",
-    "address": "Times Square (7th Ave bet 47th + 49th Sts)",
+    "title": "Myrtle Avenue Summer Nights",
+    "description": "An evening of music, activities & specials featuring free live music from Jem Bleu and The Benny Lopez Latin Jazz Ensemble, along with various activities for kids and adults.",
+    "start_date": "2024-07-19",
+    "start_time": "5:00 pm",
+    "end_date": "2024-07-19",
+    "end_time": "8:00 pm",
+    "link": "https://myrtleavenue.org/summer/",
+    "address": "Fort Greene and Clinton Hill, Brooklyn",
     "cost": "Free"
   },
   {
     "title": "Lazy, Hazy, Swayze Days",
-    "description": "A film series celebrating the works of Patrick Swayze, featuring movies like Dirty Dancing and Point Break.",
+    "description": "A film series celebrating the works of Patrick Swayze, including classics like Dirty Dancing and Point Break.",
     "start_date": "2024-07-19",
     "end_date": "2024-07-28",
     "link": "https://metrograph.com/category/lazy-hazy-swayze-days/",
@@ -65,7 +65,7 @@
   },
   {
     "title": "Happy Hopper Weekend",
-    "description": "A celebration of Edward Hopper's birthday with 3D installations and performances.",
+    "description": "Celebrate Edward Hopper's birthday with special events and installations at various locations.",
     "start_date": "2024-07-19",
     "end_date": "2024-07-22",
     "link": "https://meatpacking-district.com/calendar/happy-hopper-day",
@@ -74,7 +74,7 @@
   },
   {
     "title": "Dunes in the Dunes",
-    "description": "A film series showcasing adaptations of Frank Herbert's Dune in a unique outdoor setting.",
+    "description": "Experience adaptations of Frank Herbert's Dune in a unique outdoor setting.",
     "start_date": "2024-07-19",
     "end_date": "2024-07-21",
     "link": "https://www.rockawayfilmfestival.org/program/dunes-in-the-dunes",
@@ -83,21 +83,21 @@
   },
   {
     "title": "Rock! Away! Summer Music Festival",
-    "description": "A music festival featuring over 25 bands performing at the Rockaway Amphitheater.",
+    "description": "A three-day music festival featuring over 25 bands at the Rockaway Amphitheater.",
     "start_date": "2024-07-19",
     "end_date": "2024-07-21",
     "link": "https://www.eventable.nyc/rock-away",
     "address": "Rockaway Amphitheater",
-    "cost": "Free (donations welcome)"
+    "cost": "Free"
   },
   {
     "title": "Third Annual Lincoln Center's Summer for the City",
-    "description": "A series of free concerts and performances at Lincoln Center throughout the summer.",
+    "description": "A series of free concerts, dance parties, and performances at Lincoln Center.",
     "start_date": "2024-07-19",
     "end_date": "2024-08-31",
     "link": "https://www.lincolncenter.org/series/summer-for-the-city",
     "address": "Lincoln Center",
-    "cost": "Free and choose-what-you-pay"
+    "cost": "Free"
   },
   {
     "title": "Carnegie Hall Citywide",
@@ -105,25 +105,25 @@
     "start_date": "2024-07-19",
     "end_date": "2024-08-02",
     "link": "https://www.carnegiehall.org/Events/Citywide",
-    "address": "Various locations across NYC",
+    "address": "Various locations in NYC",
     "cost": "Free"
   },
   {
     "title": "46th Annual BRIC Celebrate Brooklyn! Festival",
     "description": "NYC's longest-running free outdoor performing arts festival with concerts and films.",
     "start_date": "2024-07-19",
-    "end_date": "2024-09-01",
+    "end_date": "2024-08-31",
     "link": "https://bricartsmedia.org/celebrate-brooklyn/",
     "address": "Prospect Park",
     "cost": "Free"
   },
   {
     "title": "Free Outdoor Movies",
-    "description": "A series of free outdoor movie screenings at various parks across NYC.",
+    "description": "Enjoy a selection of free outdoor movies at various parks across NYC.",
     "start_date": "2024-07-19",
     "end_date": "2024-07-22",
     "link": "https://www.nycgovparks.org/events",
-    "address": "Various locations across NYC",
+    "address": "Various locations in NYC",
     "cost": "Free"
   },
   {
@@ -133,7 +133,7 @@
     "end_date": "2024-08-16",
     "link": "https://www.momaps1.org/programs/421-warm-up-2024",
     "address": "PS1, Long Island City",
-    "cost": "$18-22 general, $15-18 students"
+    "cost": "$18-22"
   },
   {
     "title": "Summer Sway at The Shed",
@@ -150,7 +150,7 @@
     "start_date": "2024-07-19",
     "end_date": "2024-08-09",
     "link": "https://whitney.org/events/public-records-2024",
-    "address": "Whitney Museum, Meatpacking District",
+    "address": "Whitney Museum",
     "cost": "Free"
   },
   {
@@ -173,7 +173,7 @@
     "end_time": "10:00 pm",
     "link": "https://www.chelseamusichall.com/event/stef-dag-presents-oh-the-horrorof-being-a-girl/",
     "address": "Chelsea Music Hall",
-    "cost": "$20 with promo code ‘sdag’ (reg. $25)"
+    "cost": "$20 with promo code 'sdag' (reg. $25)"
   },
   {
     "title": "Kweendom",
@@ -181,7 +181,7 @@
     "start_date": "2024-07-19",
     "start_time": "7:00 pm",
     "end_date": "2024-07-19",
-    "end_time": "10:00 pm",
+    "end_time": "9:00 pm",
     "link": "https://www.eventbrite.com/e/kweendom-tickets-945983872227",
     "address": "Pete’s Candy Store, Williamsburg",
     "cost": "Free (donations welcome)"
@@ -198,45 +198,12 @@
     "cost": "$25 admission includes skate rental"
   },
   {
-    "title": "Bitches Brew Comedy Show",
-    "description": "A women-produced and hosted comedy show featuring various comedians.",
-    "start_date": "2024-07-19",
-    "start_time": "8:30 pm",
-    "end_date": "2024-07-19",
-    "end_time": "10:30 pm",
-    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "address": "Halyards, Gowanus",
-    "cost": "Free (tip jar will be passed around)"
-  },
-  {
-    "title": "Rooftop Films Summer Series: My First Film",
-    "description": "A night of docu-shorts exploring the human experience with live music and an after party.",
-    "start_date": "2024-07-19",
-    "start_time": "8:30 pm",
-    "end_date": "2024-07-19",
-    "end_time": "10:30 pm",
-    "link": "https://rooftopfilms.com/event/poetic-portraits/",
-    "address": "The Old American Can Factory, Gowanus",
-    "cost": "$18"
-  },
-  {
-    "title": "Str8 West Coastin’",
-    "description": "An annual dance party featuring West Coast hip-hop vibes and various DJs.",
-    "start_date": "2024-07-19",
-    "start_time": "10:00 pm",
-    "end_date": "2024-07-19",
-    "end_time": "2:00 am",
-    "link": "https://www.eventbrite.com/e/str8-west-coastin-feat-dj-eleven-x-dstrukt-x-still-life-x-raichous-tickets-919851068307",
-    "address": "Friends and Lovers, Crown Heights",
-    "cost": "$5 before 11pm with RSVP, $10 without"
-  },
-  {
     "title": "Live Band Pop-Punk/Emo Karaoke",
     "description": "A night of karaoke featuring pop-punk and emo songs.",
     "start_date": "2024-07-19",
     "start_time": "11:00 pm",
-    "end_date": "2024-07-20",
-    "end_time": "2:00 am",
+    "end_date": "2024-07-19",
+    "end_time": "1:00 am",
     "link": "https://www.seetickets.us/event/live-band-pop-punkemo-karaoke-w-all-killer-no-filler/609783",
     "address": "TV Eye, Ridgewood",
     "cost": "$15 adv, $20 day of"

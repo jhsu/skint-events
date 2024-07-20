@@ -22,7 +22,6 @@ const SkintPostSchema = z.object({
 }).describe("A list of events extracted from the post content with event information and link to more info");
 
 type SkintEvent = z.infer<typeof SkintEventSchema>;
-type SkintPost = z.infer<typeof SkintPostSchema>;
 
 // Function to fetch and parse RSS feed
 async function fetchAndParseRSS(url: string): Promise<any> {

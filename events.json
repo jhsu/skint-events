@@ -1,7 +1,51 @@
 [
   {
+    "title": "Free Outdoor Movies",
+    "description": "Enjoy free outdoor movies at various parks across NYC.",
+    "start_date": "2024-07-22",
+    "link": "https://www.nycgovparks.org/events",
+    "address": "Various locations in NYC",
+    "cost": "Free"
+  },
+  {
+    "title": "Broadway by the Boardwalk",
+    "description": "Free concerts featuring Broadway stars at Hudson River Park's Clinton Cove.",
+    "start_date": "2024-07-22",
+    "start_time": "6:30 pm",
+    "link": "https://hudsonriverpark.org/visit/events/event/broadway-by-the-boardwalk-july-22-2024-ramin-karimloo/",
+    "address": "Hudson River Park's Clinton Cove (Hell’s Kitchen)",
+    "cost": "Free"
+  },
+  {
+    "title": "The Story Collider Podcast’s Science Storytelling Show: ‘Revelation’",
+    "description": "A storytelling show featuring personal stories about revelations.",
+    "start_date": "2024-07-22",
+    "start_time": "7:00 pm",
+    "link": "https://www.storycollider.org/tickets/2024/7/22/new-york-ny-revelation",
+    "address": "Caveat (LES)",
+    "cost": "$18.76 with promo code 'collide5' (reg. $20-25)"
+  },
+  {
+    "title": "Movie Musical Mondays: A Star is Born",
+    "description": "A monthly series of iconic musicals at Village East by Angelika.",
+    "start_date": "2024-07-22",
+    "start_time": "3:45 pm",
+    "link": "https://www.angelikafilmcenter.com/villageeast/signature-programming/musical-mondays",
+    "address": "Village East by Angelika",
+    "cost": "$18"
+  },
+  {
+    "title": "An Evening With... Screening Series",
+    "description": "A screening series celebrating stars in iconic films.",
+    "start_date": "2024-07-22",
+    "start_time": "7:00 pm",
+    "link": "https://www.angelikafilmcenter.com/cinemas123/signature-programming/dinner-with-1",
+    "address": "Cinema 123 by Angelika (UES)",
+    "cost": "$22"
+  },
+  {
     "title": "Philippines Fest Two-Year Anniversary",
-    "description": "A celebration of Filipino culture with food, performances, and community activities.",
+    "description": "A celebration of Filipino culture with food, performances, and activities.",
     "start_date": "2024-07-21",
     "start_time": "10:00 am",
     "end_date": "2024-07-21",
@@ -12,7 +56,7 @@
   },
   {
     "title": "Go Africa Carnival",
-    "description": "A vibrant celebration featuring cultural performances, food, and community activities.",
+    "description": "A vibrant carnival celebrating African culture with various activities and performances.",
     "start_date": "2024-07-20",
     "start_time": "10:00 am",
     "end_date": "2024-07-20",
@@ -23,13 +67,13 @@
   },
   {
     "title": "Jersey City Night Market",
-    "description": "A lively market featuring local vendors, food, and entertainment.",
+    "description": "A lively night market featuring local vendors, food, and entertainment.",
     "start_date": "2024-07-20",
     "start_time": "2:00 pm",
     "end_date": "2024-07-20",
     "end_time": "8:00 pm",
     "link": "https://www.midnightmarketevents.com/jcnightmarket",
-    "address": "Journal Square-Magnolia Landing, Jersey City",
+    "address": "Journal Square-Magnolia Landing",
     "cost": "Free"
   },
   {
@@ -45,7 +89,7 @@
   },
   {
     "title": "Myrtle Avenue Summer Nights",
-    "description": "Enjoy free live music from Jem Bleu and The Benny Lopez Latin Jazz Ensemble, along with activities for kids and adults, including tarot card readings, caricature drawing, and more.",
+    "description": "An evening of music, activities & specials featuring free live music from Jem Bleu and The Benny Lopez Latin Jazz Ensemble, along with various activities for kids and adults.",
     "start_date": "2024-07-19",
     "start_time": "5:00 pm",
     "end_date": "2024-07-19",
@@ -92,7 +136,7 @@
   },
   {
     "title": "Third Annual Lincoln Center's Summer for the City",
-    "description": "200+ free concerts, dance parties, performances, and film screenings throughout the summer.",
+    "description": "A series of free concerts, dance parties, and performances at Lincoln Center.",
     "start_date": "2024-07-19",
     "end_date": "2024-08-31",
     "link": "https://www.lincolncenter.org/series/summer-for-the-city",
@@ -110,7 +154,7 @@
   },
   {
     "title": "46th Annual BRIC Celebrate Brooklyn! Festival",
-    "description": "NYC's longest-running free outdoor performing arts festival with concerts, films, and dance.",
+    "description": "NYC's longest-running free outdoor performing arts festival with concerts and films.",
     "start_date": "2024-07-19",
     "end_date": "2024-08-31",
     "link": "https://bricartsmedia.org/celebrate-brooklyn/",
@@ -119,7 +163,7 @@
   },
   {
     "title": "Free Outdoor Movies",
-    "description": "Enjoy various movies under the stars at different parks across NYC.",
+    "description": "Enjoy free outdoor movies at various parks across NYC.",
     "start_date": "2024-07-19",
     "end_date": "2024-07-22",
     "link": "https://www.nycgovparks.org/events",
@@ -132,7 +176,7 @@
     "start_date": "2024-07-19",
     "end_date": "2024-08-16",
     "link": "https://www.momaps1.org/programs/421-warm-up-2024",
-    "address": "PS1, Long Island City",
+    "address": "PS1's Long Island City Courtyard",
     "cost": "$18-22"
   },
   {
@@ -141,7 +185,7 @@
     "start_date": "2024-07-19",
     "end_date": "2024-08-16",
     "link": "https://www.theshed.org/program/437-summer-sway",
-    "address": "The Shed, Hudson Yards",
+    "address": "The Shed’s Outdoor Plaza",
     "cost": "Free"
   },
   {
@@ -155,11 +199,11 @@
   },
   {
     "title": "Renée Carlino + Julia Stiles: This Used to Be Us",
-    "description": "A discussion with screenwriter Renée Carlino and actor Julia Stiles about Carlino's latest novel.",
+    "description": "A discussion with screenwriter Renée Carlino and actress Julia Stiles about Carlino's latest novel.",
     "start_date": "2024-07-19",
     "start_time": "6:00 pm",
     "link": "https://www.strandbooks.com/events/event71924",
-    "address": "The Rare Book Room at Strand Bookstore, Union Square",
+    "address": "The Rare Book Room at Strand Bookstore (Union Square)",
     "cost": "$10 admission, $22.90 with book"
   },
   {
@@ -168,16 +212,17 @@
     "start_date": "2024-07-19",
     "start_time": "7:00 pm",
     "link": "https://www.eventbrite.com/e/kweendom-tickets-945983872227",
-    "address": "Pete’s Candy Store, Williamsburg",
-    "cost": "Free"
+    "address": "Pete’s Candy Store (Williamsburg)",
+    "cost": "Free (donations welcome)"
   },
   {
     "title": "Dreamland Roller Disco",
-    "description": "Themed skate parties at Prospect Park's LeFrak Center.",
+    "description": "Themed skate parties at Prospect Park's Lefrak Center.",
     "start_date": "2024-07-19",
     "start_time": "7:00 pm",
+    "end_time": "10:00 pm",
     "link": "https://dreamlandrollerrink.com",
-    "address": "Prospect Park, Brooklyn",
+    "address": "Prospect Park's Lefrak Center",
     "cost": "$25 admission includes skate rental"
   },
   {
@@ -186,7 +231,7 @@
     "start_date": "2024-07-19",
     "start_time": "8:00 pm",
     "link": "https://www.eventbrite.com/e/best-night-ever-comedy-tickets-937960624477",
-    "address": "El Santo Taqueria, East Williamsburg/Bushwick",
+    "address": "El Santo Taqueria (East Williamsburg / Bushwick)",
     "cost": "$10 adv, $15 door"
   },
   {
@@ -204,8 +249,8 @@
     "start_date": "2024-07-19",
     "start_time": "8:30 pm",
     "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "address": "Halyards, Gowanus",
-    "cost": "Free"
+    "address": "Back Room at Halyards (Gowanus)",
+    "cost": "Free (tip jar will be passed around)"
   },
   {
     "title": "Rooftop Films Summer Series: My First Film",
@@ -213,7 +258,7 @@
     "start_date": "2024-07-19",
     "start_time": "8:30 pm",
     "link": "https://rooftopfilms.com/event/poetic-portraits/",
-    "address": "The Old American Can Factory, Gowanus",
+    "address": "The Old American Can Factory (Gowanus)",
     "cost": "$18"
   },
   {
@@ -222,7 +267,7 @@
     "start_date": "2024-07-19",
     "start_time": "10:00 pm",
     "link": "https://www.eventbrite.com/e/str8-west-coastin-feat-dj-eleven-x-dstrukt-x-still-life-x-raichous-tickets-919851068307",
-    "address": "Friends and Lovers, Crown Heights",
+    "address": "Friends and Lovers (Crown Heights)",
     "cost": "$5 before 11pm with RSVP, $10 without"
   },
   {
@@ -231,7 +276,7 @@
     "start_date": "2024-07-19",
     "start_time": "11:00 pm",
     "link": "https://www.seetickets.us/event/live-band-pop-punkemo-karaoke-w-all-killer-no-filler/609783",
-    "address": "TV Eye, Ridgewood",
+    "address": "TV Eye (Ridgewood)",
     "cost": "$15 adv, $20 day of"
   }
 ]

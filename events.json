@@ -1,282 +1,94 @@
 [
   {
-    "title": "Free Outdoor Movies",
-    "description": "Enjoy free outdoor movies at various parks across NYC.",
-    "start_date": "2024-07-22",
-    "link": "https://www.nycgovparks.org/events",
-    "address": "Various locations in NYC",
+    "title": "Free Outdoor Movies: After Hours",
+    "description": "Free outdoor movie screening of 'After Hours' at Elizabeth Street Garden (Nolita).",
+    "start_date": "2024-07-24",
+    "link": "https://www.elizabethstreetgarden.com/calendar/2024/6/26/movie-night-eewaf-n7peg",
+    "address": "Elizabeth Street Garden, Nolita",
     "cost": "Free"
   },
   {
-    "title": "Broadway by the Boardwalk",
-    "description": "Free concerts featuring Broadway stars at Hudson River Park's Clinton Cove.",
-    "start_date": "2024-07-22",
-    "start_time": "6:30 pm",
-    "link": "https://hudsonriverpark.org/visit/events/event/broadway-by-the-boardwalk-july-22-2024-ramin-karimloo/",
-    "address": "Hudson River Park's Clinton Cove (Hell’s Kitchen)",
+    "title": "Free Outdoor Movies: Barbie",
+    "description": "Free outdoor movie screening of 'Barbie' at Hoyt Playground (Astoria).",
+    "start_date": "2024-07-24",
+    "link": "https://www.nycgovparks.org/events/2024/07/24/movies-under-the-stars-barbie",
+    "address": "Hoyt Playground, Astoria",
     "cost": "Free"
   },
   {
-    "title": "The Story Collider Podcast’s Science Storytelling Show: ‘Revelation’",
-    "description": "A storytelling show featuring personal stories about revelations.",
-    "start_date": "2024-07-22",
-    "start_time": "7:00 pm",
-    "link": "https://www.storycollider.org/tickets/2024/7/22/new-york-ny-revelation",
-    "address": "Caveat (LES)",
-    "cost": "$18.76 with promo code 'collide5' (reg. $20-25)"
-  },
-  {
-    "title": "Movie Musical Mondays: A Star is Born",
-    "description": "A monthly series of iconic musicals at Village East by Angelika.",
-    "start_date": "2024-07-22",
-    "start_time": "3:45 pm",
-    "link": "https://www.angelikafilmcenter.com/villageeast/signature-programming/musical-mondays",
-    "address": "Village East by Angelika",
-    "cost": "$18"
-  },
-  {
-    "title": "An Evening With... Screening Series",
-    "description": "A screening series celebrating stars in iconic films.",
-    "start_date": "2024-07-22",
-    "start_time": "7:00 pm",
-    "link": "https://www.angelikafilmcenter.com/cinemas123/signature-programming/dinner-with-1",
-    "address": "Cinema 123 by Angelika (UES)",
-    "cost": "$22"
-  },
-  {
-    "title": "Philippines Fest Two-Year Anniversary",
-    "description": "A celebration of Filipino culture with food, performances, and activities.",
-    "start_date": "2024-07-21",
-    "start_time": "10:00 am",
-    "end_date": "2024-07-21",
-    "end_time": "6:00 pm",
-    "link": "https://www.instagram.com/philippinesfest/",
-    "address": "Times Square (7th Ave bet 47th + 49th Sts)",
-    "cost": "Free"
-  },
-  {
-    "title": "Go Africa Carnival",
-    "description": "A vibrant carnival celebrating African culture with various activities and performances.",
-    "start_date": "2024-07-20",
-    "start_time": "10:00 am",
-    "end_date": "2024-07-20",
-    "end_time": "6:00 pm",
-    "link": "https://www.eventbrite.com/e/go-africa-carnival-2024-7202024-tickets-393798571127",
-    "address": "W 116th Street bet Adam Clayton Powell Boulevard + Frederick Douglass Boulevard, South Harlem",
-    "cost": "Free"
-  },
-  {
-    "title": "Jersey City Night Market",
-    "description": "A lively night market featuring local vendors, food, and entertainment.",
-    "start_date": "2024-07-20",
-    "start_time": "2:00 pm",
-    "end_date": "2024-07-20",
-    "end_time": "8:00 pm",
-    "link": "https://www.midnightmarketevents.com/jcnightmarket",
-    "address": "Journal Square-Magnolia Landing",
-    "cost": "Free"
-  },
-  {
-    "title": "Origami USA Convention's Exhibition + Shopping Event",
-    "description": "An exhibition and shopping event showcasing origami art and crafts.",
-    "start_date": "2024-07-20",
-    "start_time": "10:00 am",
-    "end_date": "2024-07-21",
-    "end_time": "4:00 pm",
-    "link": "https://origamiusa.org/files/convention2024_exhibition_flyer.pdf",
-    "address": "Sheraton Times Square",
-    "cost": "Free"
-  },
-  {
-    "title": "Myrtle Avenue Summer Nights",
-    "description": "An evening of music, activities & specials featuring free live music from Jem Bleu and The Benny Lopez Latin Jazz Ensemble, along with various activities for kids and adults.",
-    "start_date": "2024-07-19",
-    "start_time": "5:00 pm",
-    "end_date": "2024-07-19",
-    "end_time": "8:00 pm",
-    "link": "https://myrtleavenue.org/summer/",
-    "address": "Fort Greene and Clinton Hill, Brooklyn",
-    "cost": "Free"
-  },
-  {
-    "title": "Lazy, Hazy, Swayze Days",
-    "description": "Metrograph celebrates summer with a series of films starring Patrick Swayze.",
-    "start_date": "2024-07-19",
+    "title": "114th Annual St. Ann Italian Festival",
+    "description": "Hoboken's 114th Annual Italian Festival brings zeppole, fried calamari, wood-fired pizza, live music, rides, and more to 7th + Jefferson streets for five days.",
+    "start_date": "2024-07-24",
     "end_date": "2024-07-28",
-    "link": "https://metrograph.com/category/lazy-hazy-swayze-days/",
-    "address": "Metrograph (LES)",
-    "cost": "$17"
+    "link": "https://patch.com/new-jersey/hoboken/st-anns-festival-returns-hoboken-next-week-get-schedule-here",
+    "address": "7th + Jefferson Streets, Hoboken",
+    "cost": "Free (pay-as-you-go)"
   },
   {
-    "title": "Happy Hopper Weekend",
-    "description": "Celebrate Edward Hopper's birthday with 3D installations and performances.",
-    "start_date": "2024-07-19",
-    "end_date": "2024-07-22",
-    "link": "https://meatpacking-district.com/calendar/happy-hopper-day",
-    "address": "38 Gansevoort Street",
+    "title": "Summer Sounds at Manhattan West",
+    "description": "Manhattan West (Midtown West at 385 9th Avenue) hosts a free series of weekly performances by musicians from around the globe. Today: Luca Mundaca – combining elements of jazz and bossa nova, this Brazilian singer-songwriter weaves together songs of longing, love, Brazil’s vibrant essence, and the human experience.",
+    "start_date": "2024-07-23",
+    "start_time": "12:00 pm",
+    "end_date": "2024-07-30",
+    "end_time": "1:00 pm",
+    "link": "https://manhattanwestnyc.com/event/summer-sounds-2024/",
+    "address": "385 9th Avenue, Midtown West",
     "cost": "Free"
   },
   {
-    "title": "Dunes in the Dunes",
-    "description": "Experience adaptations of Frank Herbert's Dune in the sandy dunes of Rockaway.",
-    "start_date": "2024-07-19",
-    "end_date": "2024-07-21",
-    "link": "https://www.rockawayfilmfestival.org/program/dunes-in-the-dunes",
-    "address": "Averne Cinema (Far Rockaway)",
+    "title": "Collage Party",
+    "description": "Get crafty at Tiny Arts Supply Store’s collage party at the Windjammer (Ridgewood). Supplies included, but also bring items to use/share.",
+    "start_date": "2024-07-23",
+    "start_time": "7:00 pm",
+    "link": "https://withfriends.co/event/20093394/collage_party_with_tiny_arts_supply",
+    "address": "Windjammer, Ridgewood",
+    "cost": "$5+ suggested donation"
+  },
+  {
+    "title": "Live at the Gantries",
+    "description": "Kupferberg Center for the Arts presents Live at the Gantries, an annual outdoor concert series at Gantry Plaza State Park. Tonight: Super Yamba Band (Afro-beat and Afro-funk).",
+    "start_date": "2024-07-23",
+    "start_time": "7:00 pm",
+    "end_date": "2024-08-13",
+    "link": "https://kupferbergcenter.org/event/super-yamba-band/",
+    "address": "Gantry Plaza State Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Drop In: Comedy",
+    "description": "Mia Jackson and Isabel Hagen present a comedy show at Two Boots Pizza in Park Slope, with standup by Jamie Shriner (The Onion), Hari Kondabolu (Netflix), Alex Babbitt (HBO) and April Brody (VH1). Bonus: free beer 7:30-8pm (one/person), and raffles for free pizza.",
+    "start_date": "2024-07-23",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/drop-in-comedy-free-show-free-beer-pizza-raffle-tickets-838394539637",
+    "address": "Two Boots Pizza, Park Slope",
+    "cost": "Free ($10 suggested)"
+  },
+  {
+    "title": "Naumburg Orchestral Concerts",
+    "description": "Outdoor orchestral concerts return to Central Park's historic Naumburg Bandshell for a 119th season. Tonight: The Handel + Haydn Society will perform works by Handel, Bach, and Corelli. Hosted by WQXR’s Terrance McKnight. All concerts will be broadcast live.",
+    "start_date": "2024-07-23",
+    "start_time": "7:30 pm",
+    "link": "https://naumburgconcerts.org/upcoming",
+    "address": "Naumburg Bandshell, Central Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Live Band Karaoke at Arlene's Grocery",
+    "description": "Choose from over 175 rock and pop songs and sing with your very own live band backing you up at Arlene's Grocery (LES). Led by Leslie Goshko, and featuring Lucas Shine, Matthew Lindsey, and Alan Camlet.",
+    "start_date": "2024-07-23",
+    "start_time": "8:00 pm",
+    "end_date": "2024-08-27",
+    "link": "https://www.arlenesgrocerynyc.com/upcoming-",
+    "address": "Arlene's Grocery, LES",
     "cost": "$10"
   },
   {
-    "title": "Rock! Away! Summer Music Festival",
-    "description": "A three-day music festival featuring 25+ bands at the Rockaway Amphitheater.",
-    "start_date": "2024-07-19",
-    "end_date": "2024-07-21",
-    "link": "https://www.eventable.nyc/rock-away",
-    "address": "Rockaway Amphitheater",
-    "cost": "Free"
-  },
-  {
-    "title": "Third Annual Lincoln Center's Summer for the City",
-    "description": "A series of free concerts, dance parties, and performances at Lincoln Center.",
-    "start_date": "2024-07-19",
-    "end_date": "2024-08-31",
-    "link": "https://www.lincolncenter.org/series/summer-for-the-city",
-    "address": "Lincoln Center",
-    "cost": "Free"
-  },
-  {
-    "title": "Carnegie Hall Citywide",
-    "description": "A series of free outdoor concerts across NYC.",
-    "start_date": "2024-07-19",
-    "end_date": "2024-08-02",
-    "link": "https://www.carnegiehall.org/Events/Citywide",
-    "address": "Various locations in NYC",
-    "cost": "Free"
-  },
-  {
-    "title": "46th Annual BRIC Celebrate Brooklyn! Festival",
-    "description": "NYC's longest-running free outdoor performing arts festival with concerts and films.",
-    "start_date": "2024-07-19",
-    "end_date": "2024-08-31",
-    "link": "https://bricartsmedia.org/celebrate-brooklyn/",
-    "address": "Prospect Park",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies",
-    "description": "Enjoy free outdoor movies at various parks across NYC.",
-    "start_date": "2024-07-19",
-    "end_date": "2024-07-22",
-    "link": "https://www.nycgovparks.org/events",
-    "address": "Various locations in NYC",
-    "cost": "Free"
-  },
-  {
-    "title": "Warm Up 2024",
-    "description": "MOMA’s annual outdoor party series featuring DJs and artists from around the world.",
-    "start_date": "2024-07-19",
-    "end_date": "2024-08-16",
-    "link": "https://www.momaps1.org/programs/421-warm-up-2024",
-    "address": "PS1's Long Island City Courtyard",
-    "cost": "$18-22"
-  },
-  {
-    "title": "Summer Sway at The Shed",
-    "description": "A series of free performances celebrating hip hop and its art forms.",
-    "start_date": "2024-07-19",
-    "end_date": "2024-08-16",
-    "link": "https://www.theshed.org/program/437-summer-sway",
-    "address": "The Shed’s Outdoor Plaza",
-    "cost": "Free"
-  },
-  {
-    "title": "Whitney Museum + Public Records Free Music Friday Nights",
-    "description": "A series of free performances at the Whitney Museum.",
-    "start_date": "2024-07-19",
-    "end_date": "2024-08-09",
-    "link": "https://whitney.org/events/public-records-2024",
-    "address": "Whitney Museum",
-    "cost": "Free"
-  },
-  {
-    "title": "Renée Carlino + Julia Stiles: This Used to Be Us",
-    "description": "A discussion with screenwriter Renée Carlino and actress Julia Stiles about Carlino's latest novel.",
-    "start_date": "2024-07-19",
-    "start_time": "6:00 pm",
-    "link": "https://www.strandbooks.com/events/event71924",
-    "address": "The Rare Book Room at Strand Bookstore (Union Square)",
-    "cost": "$10 admission, $22.90 with book"
-  },
-  {
-    "title": "Kweendom",
-    "description": "An LGBTQ+ comedy and storytelling show featuring various performers.",
-    "start_date": "2024-07-19",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/kweendom-tickets-945983872227",
-    "address": "Pete’s Candy Store (Williamsburg)",
-    "cost": "Free (donations welcome)"
-  },
-  {
-    "title": "Dreamland Roller Disco",
-    "description": "Themed skate parties at Prospect Park's Lefrak Center.",
-    "start_date": "2024-07-19",
-    "start_time": "7:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://dreamlandrollerrink.com",
-    "address": "Prospect Park's Lefrak Center",
-    "cost": "$25 admission includes skate rental"
-  },
-  {
-    "title": "Best Night Ever: Comedy Music Party",
-    "description": "A comedy and music party featuring various performers.",
-    "start_date": "2024-07-19",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/best-night-ever-comedy-tickets-937960624477",
-    "address": "El Santo Taqueria (East Williamsburg / Bushwick)",
-    "cost": "$10 adv, $15 door"
-  },
-  {
-    "title": "Stef Dag Presents: Oh! The Horror... of Being a Girl",
-    "description": "A standup comedy show by Stef Dag covering various topics.",
-    "start_date": "2024-07-19",
-    "start_time": "8:00 pm",
-    "link": "https://www.chelseamusichall.com/event/stef-dag-presents-oh-the-horrorof-being-a-girl/",
-    "address": "Chelsea Music Hall",
-    "cost": "$20 with promo code 'sdag' (reg. $25)"
-  },
-  {
-    "title": "Bitches Brew Comedy Show",
-    "description": "A women-produced and hosted comedy show featuring various comedians.",
-    "start_date": "2024-07-19",
-    "start_time": "8:30 pm",
-    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "address": "Back Room at Halyards (Gowanus)",
-    "cost": "Free (tip jar will be passed around)"
-  },
-  {
-    "title": "Rooftop Films Summer Series: My First Film",
-    "description": "A night of docu-shorts exploring the human experience with live music and an after party.",
-    "start_date": "2024-07-19",
-    "start_time": "8:30 pm",
-    "link": "https://rooftopfilms.com/event/poetic-portraits/",
-    "address": "The Old American Can Factory (Gowanus)",
-    "cost": "$18"
-  },
-  {
-    "title": "Str8 West Coastin’",
-    "description": "An annual dance party featuring West Coast hip-hop vibes and DJs.",
-    "start_date": "2024-07-19",
-    "start_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/str8-west-coastin-feat-dj-eleven-x-dstrukt-x-still-life-x-raichous-tickets-919851068307",
-    "address": "Friends and Lovers (Crown Heights)",
-    "cost": "$5 before 11pm with RSVP, $10 without"
-  },
-  {
-    "title": "Live Band Pop-Punk/Emo Karaoke",
-    "description": "A night of karaoke featuring pop-punk and emo songs.",
-    "start_date": "2024-07-19",
-    "start_time": "11:00 pm",
-    "link": "https://www.seetickets.us/event/live-band-pop-punkemo-karaoke-w-all-killer-no-filler/609783",
-    "address": "TV Eye (Ridgewood)",
-    "cost": "$15 adv, $20 day of"
+    "title": "Hyperfocus: A Neurodivergent Comedy Show",
+    "description": "Host Virginia Dickens (The Onion, Reductress) and a lineup of neurodivergent comedians share the wealth of their super-niche knowledge at the Hyperfocus show. Featuring Kate Sisk (Comedy Central), Elissa Bassist (The New York Times), Eddie Dougrou, and Carrie Ross.",
+    "start_date": "2024-07-23",
+    "start_time": "9:30 pm",
+    "link": "https://caveat.nyc/events/hyperfocus-a-neurodivergent-comedy-show-7-23-2024",
+    "address": "Caveat, LES",
+    "cost": "$15 with promo code ‘focus’ (reg. $20+)"
   }
 ]

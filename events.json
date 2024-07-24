@@ -1,13 +1,5 @@
 [
   {
-    "title": "Free Outdoor Movies: After Hours",
-    "description": "Free outdoor movie screening of 'After Hours' at Elizabeth Street Garden (Nolita).",
-    "start_date": "2024-07-24",
-    "link": "https://www.elizabethstreetgarden.com/calendar/2024/6/26/movie-night-eewaf-n7peg",
-    "address": "Elizabeth Street Garden, Nolita",
-    "cost": "Free"
-  },
-  {
     "title": "Free Outdoor Movies: Barbie",
     "description": "Free outdoor movie screening of 'Barbie' at Hoyt Playground (Astoria).",
     "start_date": "2024-07-24",
@@ -22,7 +14,88 @@
     "end_date": "2024-07-28",
     "link": "https://patch.com/new-jersey/hoboken/st-anns-festival-returns-hoboken-next-week-get-schedule-here",
     "address": "7th + Jefferson Streets, Hoboken",
-    "cost": "Free (pay-as-you-go)"
+    "cost": "Free admission (pay-as-you-go)"
+  },
+  {
+    "title": "Hold On to Your Butts",
+    "description": "Two actors and a foley artist perform a live, shot-for-shot parody of Jurassic Park at Brooklyn Art Haus (Williamsburg).",
+    "start_date": "2024-07-24",
+    "end_date": "2024-07-26",
+    "link": "https://www.stellartickets.com/o/brooklyn-art-haus--2/events/hold-on-to-your-butts",
+    "address": "Brooklyn Art Haus, Williamsburg",
+    "cost": "$15+"
+  },
+  {
+    "title": "Summer Concerts at Hudson Yards",
+    "description": "The annual Bowery Presents concert series returns to the public square + gardens at Hudson Yards. Tonight: Trousdale with opener Rett Madison.",
+    "start_date": "2024-07-24",
+    "start_time": "6:00 pm",
+    "link": "https://www.hudsonyardsnewyork.com/summer-concerts-wells-fargo-stage-0",
+    "address": "Hudson Yards",
+    "cost": "Free"
+  },
+  {
+    "title": "Summerstage",
+    "description": "NYC’s iconic summer performing arts festival returns with 85 free and benefit shows in Central Park and 12 neighborhood parks across the five boroughs. Tonight: Arooj Aftab, Sid Sriram, Emel, and DJ Rekha at Rumsey Playfield in Central Park.",
+    "start_date": "2024-07-24",
+    "start_time": "6:00 pm",
+    "link": "https://cityparksfoundation.org/calendar/category/summerstage/",
+    "address": "Rumsey Playfield, Central Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Jazz at Pier 84",
+    "description": "The Jazz Foundation of America presents its annual series of outdoor evening concerts at Hell’s Kitchen’s Pier 84. Tonight: Joaquin Pozo y La Clave Suena.",
+    "start_date": "2024-07-24",
+    "start_time": "7:00 pm",
+    "link": "https://hudsonriverpark.org/visit/events/event/jazz-at-pier-84-joaquin-pozo-y-la-clave-suena/",
+    "address": "Pier 84, Hell's Kitchen",
+    "cost": "Free"
+  },
+  {
+    "title": "Summer Sounds! at Carl Schurz Park",
+    "description": "Steel Impressions Caribbean Band closes out this year’s Summer Sounds! concert series, held at the elevated John Finley Walk (Yorkville).",
+    "start_date": "2024-07-24",
+    "start_time": "7:00 pm",
+    "link": "https://www.carlschurzparknyc.org/events",
+    "address": "John Finley Walk, Carl Schurz Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Letters + Sodas: LIC Rooftop Reading Series",
+    "description": "Writer Lana Schwartz (The New Yorker, The Onion, McSweeney’s) brings together standup, essays, and humor pieces for a new rooftop reading series at Long Island City’s The Greats of Craft. Featuring Alise Morales (Seth Meyers), Brandon Follick (Reductress), Chandler Dean (The New Yorker), Charu Sinha (Vulture), and others.",
+    "start_date": "2024-07-24",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-944451528947",
+    "address": "The Greats of Craft, Long Island City",
+    "cost": "$5"
+  },
+  {
+    "title": "We Have Fun: A Stand-Up Show",
+    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s (Park Slope), with stand-up by Adam Conover (Adam Ruins Everything), Isabel Hagen (Fallon), Hari Kondabolu (Netflix), and Bryant Denton (NPR).",
+    "start_date": "2024-07-24",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
+    "address": "Young Ethel’s, Park Slope",
+    "cost": "Free"
+  },
+  {
+    "title": "Garden State 20th Anniversary Concert",
+    "description": "Don’t panic, just let go as folk band Youth in a Roman Field pays tribute to the soundtrack of Zach Braff’s Garden State.",
+    "start_date": "2024-07-24",
+    "start_time": "8:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=912704422497",
+    "address": "Littlefield, Gowanus",
+    "cost": "$12 adv, $15 day of"
+  },
+  {
+    "title": "Hanna Dickinson Presents: Goofy C*nt Nation",
+    "description": "Comedian and writer Hanna Dickinson (Comedy Central) hosts 'A Night of Goofy Jokes from a Goofy Gal and Her Friends' at Union Hall (Park Slope). Featuring Isabel Hagen (Fallon), Natasha Vaynblat (Comedy Central), and Julio Diaz (Netflix is a Joke).",
+    "start_date": "2024-07-24",
+    "start_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/hanna-dickinson-presents-goofy-cnt-nation-tickets-940606528447",
+    "address": "Union Hall, Park Slope",
+    "cost": "$12"
   },
   {
     "title": "Summer Sounds at Manhattan West",
@@ -36,12 +109,20 @@
     "cost": "Free"
   },
   {
+    "title": "Third Annual Lincoln Center's Summer for the City",
+    "description": "Lincoln Center hosts 200+ free or choose-what-you-pay concerts, dance parties, performances, films screenings, and more through August. This week: Festival Orchestra of Lincoln Center: Beethoven's Pastoral and a Huang Ruo premiere (Tues + Weds 7:30pm), Danny Lipsitz and the Brass Tracks Ballroom Orchestra (Weds 6:30pm), Stud Country Social Dance Party (Thurs 6:30pm), Shallow Alcove (Thurs 7:30pm), and more.",
+    "start_date": "2024-07-23",
+    "end_date": "2024-08-31",
+    "link": "https://www.lincolncenter.org/series/summer-for-the-city",
+    "cost": "Free or choose-what-you-pay"
+  },
+  {
     "title": "Collage Party",
-    "description": "Get crafty at Tiny Arts Supply Store’s collage party at the Windjammer (Ridgewood). Supplies included, but also bring items to use/share.",
+    "description": "Get crafty at Tiny Arts Supply Store’s collage party at The Windjammer (Ridgewood). Supplies included, but also bring items to use/share.",
     "start_date": "2024-07-23",
     "start_time": "7:00 pm",
     "link": "https://withfriends.co/event/20093394/collage_party_with_tiny_arts_supply",
-    "address": "Windjammer, Ridgewood",
+    "address": "The Windjammer, Ridgewood",
     "cost": "$5+ suggested donation"
   },
   {
@@ -56,12 +137,12 @@
   },
   {
     "title": "Drop In: Comedy",
-    "description": "Mia Jackson and Isabel Hagen present a comedy show at Two Boots Pizza in Park Slope, with standup by Jamie Shriner (The Onion), Hari Kondabolu (Netflix), Alex Babbitt (HBO) and April Brody (VH1). Bonus: free beer 7:30-8pm (one/person), and raffles for free pizza.",
+    "description": "Mia Jackson and Isabel Hagen present a comedy show at Two Boots Pizza in Park Slope, with standup by Jamie Shriner (The Onion), Hari Kondabolu (Netflix), Alex Babbitt (HBO) and April Brody (VH1). Bonus: Free beer 7:30-8pm (one/person), and raffles for free pizza.",
     "start_date": "2024-07-23",
     "start_time": "7:30 pm",
     "link": "https://www.eventbrite.com/e/drop-in-comedy-free-show-free-beer-pizza-raffle-tickets-838394539637",
     "address": "Two Boots Pizza, Park Slope",
-    "cost": "Free ($10 suggested)"
+    "cost": "Free admission ($10 suggested)"
   },
   {
     "title": "Naumburg Orchestral Concerts",

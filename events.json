@@ -1,179 +1,130 @@
 [
   {
-    "title": "Summer Sounds at Manhattan West",
-    "description": "Manhattan West (Midtown West at 385 9th Avenue) hosts a free series of weekly performances by musicians from around the globe. Today: Luca Mundaca – combining elements of jazz and bossa nova, this Brazilian singer-songwriter weaves together songs of longing, love, Brazil’s vibrant essence, and the human experience.",
-    "start_date": "2024-07-25",
+    "title": "Brooklyn Night Market",
+    "description": "A monthly market featuring local vendors and food at Industry City.",
+    "start_date": "2024-07-29",
+    "start_time": "4:00 pm",
+    "end_date": "2024-07-29",
+    "end_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/night-markets-nyc-brooklyn-tickets-807404477527",
+    "address": "Industry City",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Summer Brunch + Shop – Women-Owned Businesses at Grand Bazaar NYC",
+    "description": "A brunch event featuring women-owned businesses at Grand Bazaar NYC.",
+    "start_date": "2024-07-28",
+    "start_time": "10:00 am",
+    "end_date": "2024-07-28",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/summer-brunch-shop-women-owned-businesses-3/",
+    "address": "100 W 77th St at Columbus Ave, UWS",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Ballet Folklórico Mexicano de Nueva York’s 12th Annual Guelaguetza Festival",
+    "description": "A cultural festival celebrating Mexican heritage at Socrates Sculpture Park.",
+    "start_date": "2024-07-28",
     "start_time": "12:00 pm",
-    "end_date": "2024-07-30",
-    "end_time": "1:00 pm",
-    "link": "https://manhattanwestnyc.com/event/summer-sounds-2024/",
-    "address": "385 9th Avenue, Midtown West",
+    "end_date": "2024-07-28",
+    "end_time": "6:00 pm",
+    "link": "https://socratessculpturepark.org/program/guelaguetza-2024/",
+    "address": "Socrates Sculpture Park, LIC",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Arcade Swap Meet",
+    "description": "A community event for arcade enthusiasts at Wonderville.",
+    "start_date": "2024-07-28",
+    "start_time": "1:00 pm",
+    "end_date": "2024-07-28",
+    "end_time": "5:00 pm",
+    "link": "https://www.wonderville.nyc/events/arcade-swap-meet-july-2024",
+    "address": "Wonderville, Bushwick",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Comic Swap",
+    "description": "A gathering for comic book lovers at Anyone Comics.",
+    "start_date": "2024-07-28",
+    "start_time": "3:00 pm",
+    "end_date": "2024-07-28",
+    "end_time": "4:00 pm",
+    "link": "https://www.anyonecomics.com/events/b267hq91bmfd8b12a938lovy58jqjj-b6emg",
+    "address": "Anyone Comics, Crown Heights",
+    "cost": "Undefined"
+  },
+  {
+    "title": "11th Annual Bed-Stuy Stoops Summer Festival",
+    "description": "A community festival with local vendors and activities at Stuyvesant Ave and Decatur Street.",
+    "start_date": "2024-07-27",
+    "start_time": "1:00 pm",
+    "end_date": "2024-07-27",
+    "end_time": "7:00 pm",
+    "link": "https://www.instagram.com/stoopsbedstuy",
+    "address": "Stuyvesant Ave and Decatur Street",
     "cost": "Free"
   },
   {
-    "title": "Third Annual Lincoln Center's Summer for the City",
-    "description": "Lincoln Center hosts 200+ free or choose-what-you-pay concerts, dance parties, performances, films screenings, and more through August. This week: Festival Orchestra of Lincoln Center: Beethoven's Pastoral and a Huang Ruo premiere (Tues + Weds 7:30pm), Danny Lipsitz and the Brass Tracks Ballroom Orchestra (Weds 6:30pm), Stud Country Social Dance Party (Thurs 6:30pm), Shallow Alcove (Thurs 7:30pm), and more.",
-    "start_date": "2024-07-25",
-    "end_date": "2024-08-31",
-    "link": "https://www.lincolncenter.org/series/summer-for-the-city",
+    "title": "Eighth Annual Kingsland Wildflowers Festival",
+    "description": "A festival celebrating community engagement and nature at Kingsland Wildflowers Green Roof.",
+    "start_date": "2024-07-27",
+    "start_time": "2:00 pm",
+    "end_date": "2024-07-27",
+    "end_time": "8:00 pm",
+    "link": "http://www.kingslandwildflowers.com/events/2024/6/25/8th-anual-kingsland-wildflowers",
+    "address": "Kingsland Wildflowers Green Roof, Greenpoint",
     "cost": "Free"
   },
   {
-    "title": "Collage Party",
-    "description": "Get crafty at Tiny Arts Supply Store’s collage party at the Windjammer (Ridgewood). Supplies included, but also bring items to use/share.",
-    "start_date": "2024-07-25",
-    "start_time": "7:00 pm",
-    "link": "https://withfriends.co/event/20093394/collage_party_with_tiny_arts_supply",
-    "address": "Windjammer, Ridgewood",
-    "cost": "$5+ suggested donation"
+    "title": "FAD Market Summer Pop-Up",
+    "description": "A summer market featuring local artisans and vendors at The Invisible Dog Art Center.",
+    "start_date": "2024-07-27",
+    "start_time": "11:00 am",
+    "end_date": "2024-07-28",
+    "end_time": "6:00 pm",
+    "link": "https://fadmarket.co/summer-id",
+    "address": "The Invisible Dog Art Center, Boerum Hill",
+    "cost": "Undefined"
   },
   {
-    "title": "Live at the Gantries",
-    "description": "Kupferberg Center for the Arts presents Live at the Gantries, an annual outdoor concert series at Gantry Plaza State Park. Tonight: Super Yamba Band (Afro-beat and Afro-funk).",
-    "start_date": "2024-07-25",
-    "start_time": "7:00 pm",
-    "link": "https://kupferbergcenter.org/event/super-yamba-band/",
-    "address": "Gantry Plaza State Park",
-    "cost": "Free"
+    "title": "African Restaurant Week African Pop-Up Festival",
+    "description": "A festival celebrating African cuisine and culture at Hillel Plaza.",
+    "start_date": "2024-07-27",
+    "start_time": "12:00 pm",
+    "end_date": "2024-07-28",
+    "end_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/african-popup-festival-2024-summer-edition-tickets-795572547907",
+    "address": "Hillel Plaza at Flatbush/Nostrand",
+    "cost": "Undefined"
   },
   {
-    "title": "Drop In: Comedy",
-    "description": "Mia Jackson and Isabel Hagen present a comedy show at Two Boots Pizza in Park Slope, with standup by Jamie Shriner (The Onion), Hari Kondabolu (Netflix), Alex Babbitt (HBO) and April Brody (VH1). Bonus: Free beer 7:30-8pm (one/person), and raffles for free pizza.",
-    "start_date": "2024-07-25",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/drop-in-comedy-free-show-free-beer-pizza-raffle-tickets-838394539637",
-    "address": "Two Boots Pizza, Park Slope",
-    "cost": "Free ($10 suggested)"
-  },
-  {
-    "title": "Naumburg Orchestral Concerts",
-    "description": "Outdoor orchestral concerts return to Central Park's historic Naumburg Bandshell for a 119th season. Tonight: The Handel + Haydn Society will perform works by Handel, Bach, and Corelli. Hosted by WQXR’s Terrance McKnight. All concerts will be broadcast live.",
-    "start_date": "2024-07-25",
-    "start_time": "7:30 pm",
-    "link": "https://naumburgconcerts.org/upcoming",
-    "address": "Naumburg Bandshell, Central Park",
-    "cost": "Free"
-  },
-  {
-    "title": "Live Band Karaoke at Arlene's Grocery",
-    "description": "Choose from over 175 rock and pop songs and sing with your very own live band backing you up at Arlene's Grocery (LES). Led by Leslie Goshko, and featuring Lucas Shine, Matthew Lindsey, and Alan Camlet.",
-    "start_date": "2024-07-25",
+    "title": "Chinatown Night Market",
+    "description": "An evening market featuring food and cultural experiences at Forsyth Plaza.",
+    "start_date": "2024-07-26",
     "start_time": "8:00 pm",
-    "link": "https://www.arlenesgrocerynyc.com/upcoming-",
-    "address": "Arlene's Grocery, LES",
-    "cost": "$10"
-  },
-  {
-    "title": "Hyperfocus: A Neurodivergent Comedy Show",
-    "description": "Host Virginia Dickens (The Onion, Reductress) and a lineup of neurodivergent comedians share the wealth of their super-niche knowledge at the Hyperfocus show. Featuring Kate Sisk (Comedy Central), Elissa Bassist (The New York Times), Eddie Dougrou, and Carrie Ross.",
-    "start_date": "2024-07-25",
-    "start_time": "9:30 pm",
-    "link": "https://caveat.nyc/events/hyperfocus-a-neurodivergent-comedy-show-7-23-2024",
-    "address": "Caveat, LES",
-    "cost": "$15 with promo code ‘focus’ (reg. $20+)"
-  },
-  {
-    "title": "Free Outdoor Movies",
-    "description": "Various outdoor movies showing tonight include: After Hours at Elizabeth Street Garden (Nolita), Barbie at Hoyt Playground (Astoria), Chicago at Pier A Park (Hoboken), Little Fugitive at Tompkins Square Park Skate/Playground (East Village), Much Ado About Nothing at Brooklyn War Memorial in Cadman Plaza Park (Brooklyn Heights/Downtown Brooklyn), The Little Mermaid at Play Area in Carmansville Playground (Sugar Hill), The Night Visitors at Fort Greene Park (Fort Greene), The Princess Bride at Pier I in Riverside Park South (UWS).",
-    "start_date": "2024-07-25",
-    "link": "https://www.nycgovparks.org/events/2024/07/24/movies-under-the-stars-barbie",
+    "end_date": "2024-07-26",
+    "end_time": "12:00 am",
+    "link": "https://www.thinkchinatown.org/happenings/2024/7/26/july-chinatown-night-market",
+    "address": "Forsyth Plaza",
     "cost": "Free"
+  },
+  {
+    "title": "45th Annual Thunderbird American Indian Powwow",
+    "description": "A cultural event featuring traditional American Indian dance and music at Queens County Farm Museum.",
+    "start_date": "2024-07-26",
+    "end_date": "2024-07-28",
+    "link": "https://www.queensfarm.org/thunderbird-american-indian-powwow/",
+    "address": "Queens County Farm Museum",
+    "cost": "$18"
   },
   {
     "title": "114th Annual St. Ann Italian Festival",
-    "description": "Hoboken's 114th Annual Italian Festival brings zeppole, fried calamari, wood-fired pizza, live music, rides, and more to 7th + Jefferson streets for five days.",
-    "start_date": "2024-07-25",
-    "end_date": "2024-07-29",
+    "description": "A vibrant Italian festival featuring food, music, and community activities at 7th + Jefferson Streets.",
+    "start_date": "2024-07-26",
+    "end_date": "2024-07-28",
     "link": "https://patch.com/new-jersey/hoboken/st-anns-festival-returns-hoboken-next-week-get-schedule-here",
     "address": "7th + Jefferson Streets, Hoboken",
-    "cost": "Free (pay-as-you-go)"
-  },
-  {
-    "title": "Hold On to Your Butts",
-    "description": "Two actors and a foley artist perform a live, shot-for-shot parody of Jurassic Park at Brooklyn Art Haus (Williamsburg).",
-    "start_date": "2024-07-25",
-    "end_date": "2024-07-27",
-    "link": "https://www.stellartickets.com/o/brooklyn-art-haus--2/events/hold-on-to-your-butts",
-    "address": "Brooklyn Art Haus, Williamsburg",
-    "cost": "$15+"
-  },
-  {
-    "title": "Carnegie Hall Citywide",
-    "description": "Carnegie Hall presents a series of free outdoor concerts across NYC. Wednesday at 6pm: Jazz vocalist Ekep Nkwelle at Madison Square Park (Flatiron); Friday at 7pm: Bassist and bandleader Michael Olatuja at Bryant Park (Midtown).",
-    "start_date": "2024-07-25",
-    "link": "https://www.carnegiehall.org/Events/Citywide",
-    "cost": "Free"
-  },
-  {
-    "title": "Summer Concerts at Hudson Yards",
-    "description": "The annual Bowery Presents concert series returns to the public square + gardens at Hudson Yards. Tonight: Trousdale with opener Rett Madison.",
-    "start_date": "2024-07-25",
-    "start_time": "6:00 pm",
-    "link": "https://www.hudsonyardsnewyork.com/summer-concerts-wells-fargo-stage-0",
-    "address": "Hudson Yards",
-    "cost": "Free"
-  },
-  {
-    "title": "Summerstage",
-    "description": "NYC’s iconic summer performing arts festival returns with 85 free and benefit shows in Central Park and 12 neighborhood parks across the five boroughs. Tonight: Arooj Aftab, Sid Sriram, Emel, and DJ Rekha at Rumsey Playfield in Central Park.",
-    "start_date": "2024-07-25",
-    "start_time": "6:00 pm",
-    "link": "https://cityparksfoundation.org/calendar/category/summerstage/",
-    "address": "Rumsey Playfield, Central Park",
-    "cost": "Free"
-  },
-  {
-    "title": "Jazz at Pier 84",
-    "description": "The Jazz Foundation of America presents its annual series of outdoor evening concerts at Hell’s Kitchen's Pier 84. Tonight: Joaquin Pozo y La Clave Suena.",
-    "start_date": "2024-07-25",
-    "start_time": "7:00 pm",
-    "link": "https://hudsonriverpark.org/visit/events/event/jazz-at-pier-84-joaquin-pozo-y-la-clave-suena/",
-    "address": "Pier 84, Hell's Kitchen",
-    "cost": "Free"
-  },
-  {
-    "title": "Summer Sounds! at Carl Schurz Park",
-    "description": "Steel Impressions Caribbean Band closes out this year’s Summer Sounds! concert series, held at the elevated John Finley Walk (Yorkville).",
-    "start_date": "2024-07-25",
-    "start_time": "7:00 pm",
-    "link": "https://www.carlschurzparknyc.org/events",
-    "address": "Carl Schurz Park, Yorkville",
-    "cost": "Free"
-  },
-  {
-    "title": "Letters + Sodas: LIC Rooftop Reading Series",
-    "description": "Writer Lana Schwartz (The New Yorker, The Onion, McSweeney’s) brings together standup, essays, and humor pieces for a new rooftop reading series at Long Island City’s The Greats of Craft. Featuring Alise Morales (Seth Meyers), Brandon Follick (Reductress), Chandler Dean (The New Yorker), Charu Sinha (Vulture), and others.",
-    "start_date": "2024-07-25",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-944451528947",
-    "address": "The Greats of Craft, Long Island City",
-    "cost": "$5"
-  },
-  {
-    "title": "We Have Fun: A Stand-Up Show",
-    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s (Park Slope), with stand-up by Adam Conover (Adam Ruins Everything), Isabel Hagen (Fallon), Hari Kondabolu (Netflix), and Bryant Denton (NPR).",
-    "start_date": "2024-07-25",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
-    "address": "Young Ethel’s, Park Slope",
-    "cost": "Free"
-  },
-  {
-    "title": "Garden State 20th Anniversary Concert",
-    "description": "Don’t panic, just let go as folk band Youth in a Roman Field pays tribute to the soundtrack of Zach Braff’s Garden State.",
-    "start_date": "2024-07-25",
-    "start_time": "8:00 pm",
-    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=912704422497",
-    "address": "Littlefield, Gowanus",
-    "cost": "$12 adv, $15 day of"
-  },
-  {
-    "title": "Hanna Dickinson Presents: Goofy C*nt Nation",
-    "description": "Comedian and writer Hanna Dickinson (Comedy Central) hosts ‘a night of goofy jokes from a goofy gal and her friends’ at Union Hall (Park Slope). Featuring Isabel Hagen (Fallon), Natasha Vaynblat (Comedy Central), and Julio Diaz (Netflix is a Joke).",
-    "start_date": "2024-07-25",
-    "start_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/hanna-dickinson-presents-goofy-cnt-nation-tickets-940606528447",
-    "address": "Union Hall, Park Slope",
-    "cost": "$12"
+    "cost": "Undefined"
   }
 ]

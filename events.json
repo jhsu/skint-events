@@ -1,7 +1,7 @@
 [
   {
     "title": "Brooklyn Night Market",
-    "description": "A monthly market featuring local vendors and food at Industry City.",
+    "description": "A monthly night market featuring local vendors at Industry City.",
     "start_date": "2024-07-29",
     "start_time": "4:00 pm",
     "end_date": "2024-07-29",
@@ -12,7 +12,7 @@
   },
   {
     "title": "Summer Brunch + Shop – Women-Owned Businesses at Grand Bazaar NYC",
-    "description": "A brunch event featuring women-owned businesses at Grand Bazaar NYC.",
+    "description": "A market featuring women-owned businesses at Grand Bazaar NYC.",
     "start_date": "2024-07-28",
     "start_time": "10:00 am",
     "end_date": "2024-07-28",
@@ -56,7 +56,7 @@
   },
   {
     "title": "11th Annual Bed-Stuy Stoops Summer Festival",
-    "description": "A community festival with local vendors and activities at Stuyvesant Ave and Decatur Street.",
+    "description": "A community festival featuring local vendors and activities at Stuyvesant Ave and Decatur Street.",
     "start_date": "2024-07-27",
     "start_time": "1:00 pm",
     "end_date": "2024-07-27",
@@ -120,7 +120,7 @@
   },
   {
     "title": "114th Annual St. Ann Italian Festival",
-    "description": "A vibrant Italian festival featuring food, music, and community activities at 7th + Jefferson Streets.",
+    "description": "A vibrant Italian festival featuring food, music, and cultural activities at 7th + Jefferson Streets.",
     "start_date": "2024-07-26",
     "end_date": "2024-07-28",
     "link": "https://patch.com/new-jersey/hoboken/st-anns-festival-returns-hoboken-next-week-get-schedule-here",

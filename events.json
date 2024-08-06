@@ -1,448 +1,114 @@
 [
   {
-    "title": "Free Outdoor Movies",
-    "description": "Enjoy free outdoor movie screenings in various parks.",
-    "start_date": "2024-08-05",
-    "end_date": "2024-08-05",
-    "link": "https://bryantpark.org/calendar/event/2023-movie-nights/2024-08-05",
-    "address": "Various locations",
-    "cost": "Free"
+    "title": "West Harlem Night Market",
+    "description": "Second Thursdays 4-10pm, through October.",
+    "start_date": "2024-08-08",
+    "start_time": "4:00 pm",
+    "end_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/night-markets-nyc-west-harlem-tickets-767640010937",
+    "address": "2th Avenue and West 133rd Street",
+    "cost": "Free admission"
   },
   {
-    "title": "Broadway by the Boardwalk",
-    "description": "Free concerts featuring Broadway stars along the waterfront.",
-    "start_date": "2024-08-05",
-    "start_time": "6:30 pm",
-    "link": "https://hudsonriverpark.org/visit/events/event/broadway-by-the-boardwalk-august-5-2024-adam-jacobs-arielle-jacobs/",
-    "address": "Hudson River Park, Clinton Cove",
-    "cost": "Free"
+    "title": "East Harlem Giglio Festival",
+    "description": "Festival in East Harlem.",
+    "start_date": "2024-08-08",
+    "end_date": "2024-08-11",
+    "link": "https://www.eastharlemgiglio.org/",
+    "address": "Pleasant Avenue between 114th + 116th Streets, East Harlem",
+    "cost": "Free admission"
   },
   {
-    "title": "Miss Manhattan Non-Fiction Reading Series",
-    "description": "A showcase for nonfiction writers featuring readings by various authors.",
-    "start_date": "2024-08-05",
-    "start_time": "7:30 pm",
-    "link": "https://www.elyssamaxxgoodman.com/miss-manhattan-nonfiction-reading-series",
-    "address": "Niagara Bar, East Village",
-    "cost": "Free"
-  },
-  {
-    "title": "Sweeties Comedy",
-    "description": "A standup showcase hosted by Mary Houlihan.",
-    "start_date": "2024-08-05",
-    "start_time": "8:00 pm",
-    "link": "https://www.instagram.com/maryhoulie/",
-    "address": "Gutter Bar, Williamsburg",
-    "cost": "$10"
-  },
-  {
-    "title": "No Monopoly Allowed Game Night",
-    "description": "A monthly board game night that avoids Monopoly-related games.",
-    "start_date": "2024-08-05",
-    "start_time": "8:30 pm",
-    "link": "https://www.eventbrite.com/e/no-monopoly-allowed-tickets-673133389087",
-    "address": "Pinebox Rockshop, Bushwick",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Chips Ahoy Ice Cream Sandwiches",
-    "description": "Enjoy free Chips Ahoy ice cream sandwiches.",
-    "start_date": "2024-08-04",
+    "title": "Ghirardelli Chocolate Empire State Building Grand Opening",
+    "description": "Ribbon cutting with Mary J. Blidge, free hot fudge sundaes for the first 102 guests, $5 mini sundaes from 2-6pm.",
+    "start_date": "2024-08-06",
     "start_time": "12:00 pm",
-    "end_time": "4:00 pm",
-    "link": "https://www.amny.com/lifestyle/eat-and-drink/chocolate-chip-cookie-day-soho-chips-ahoy/",
-    "address": "513 Broadway, Soho",
-    "cost": "Free"
+    "link": "https://www.ghirardelli.com/stores/new-york",
+    "address": "Empire State Building",
+    "cost": "Free admission, $5 mini sundaes from 2-6pm"
   },
   {
-    "title": "Afrobeats vs Amapiano Takeover",
-    "description": "A music festival featuring Afrobeats and Amapiano artists.",
-    "start_date": "2024-08-04",
-    "start_time": "12:00 pm",
-    "end_time": "6:00 pm",
-    "link": "https://www.eventbrite.com/e/afrobeats-vs-amapiano-takeover-barclays-center-festival-tickets-919706877027",
-    "address": "Barclays Center Plaza, Prospect Heights",
-    "cost": "Free"
+    "title": "Free Pizza",
+    "description": "Free pizza at East Village Pizza (mention codeword ‘evp’).",
+    "start_date": "2024-08-06",
+    "start_time": "2:00 pm",
+    "link": "https://www.instagram.com/p/C95Xj_qPZ_J/",
+    "address": "East Village Pizza",
+    "cost": "Free admission"
   },
   {
-    "title": "Playa Style Costume Bazaar",
-    "description": "A costume bazaar featuring unique outfits and accessories.",
-    "start_date": "2024-08-04",
-    "start_time": "1:00 pm",
-    "end_time": "7:00 pm",
-    "link": "https://shotgun.live/events/playa-style-costume-bazaar",
-    "address": "House of Yes, Bushwick",
-    "cost": ""
+    "title": "Holy Rosary Church's Annual La Festa Italiana",
+    "description": "Annual festival in Jersey City.",
+    "start_date": "2024-08-06",
+    "start_time": "5:00 pm",
+    "end_date": "2024-08-11",
+    "end_time": "11:00 pm",
+    "link": "https://www.lafestajc.com",
+    "address": "Jersey City",
+    "cost": "Free admission"
   },
   {
-    "title": "Break for Justice",
-    "description": "A breakdancing competition for a cause.",
-    "start_date": "2024-08-04",
-    "start_time": "3:00 pm",
-    "end_time": "7:00 pm",
-    "link": "https://www.instagram.com/elpuentepresente/",
-    "address": "Maria Hernandez Park, Bushwick",
-    "cost": "Free"
+    "title": "Dancing Around the World’s Boro",
+    "description": "Open dance classes taught by a diverse range of Queens-based dance groups as part of the annual Queensboro Dance Festival.",
+    "start_date": "2024-08-06",
+    "start_time": "6:00 pm",
+    "end_date": "2024-08-14",
+    "link": "https://socratessculpturepark.org/program/queensboro-dance-1/",
+    "address": "Socrates Sculpture Park, LIC",
+    "cost": "Free admission"
   },
   {
-    "title": "Soul Summit",
-    "description": "An open-air dance party featuring house music.",
-    "start_date": "2024-08-04",
-    "start_time": "3:00 pm",
-    "end_time": "8:00 pm",
-    "link": "https://www.fortgreenepark.org/calendar/soul-summit-080424",
-    "address": "Fort Greene Park",
-    "cost": "Free"
+    "title": "Third Annual Lincoln Center's Summer for the City",
+    "description": "200+ free or choose-what-you-pay concerts, dance parties, performances, film screenings, and more through August.",
+    "start_date": "2024-08-06",
+    "end_date": "2024-08-11",
+    "link": "https://www.lincolncenter.org/series/summer-for-the-city",
+    "address": "Lincoln Center",
+    "cost": "Free and choose-what-you-pay admission"
   },
   {
-    "title": "Rooftop Films Summer Series: Obvious Child with Jenny Slate",
-    "description": "A screening of 'Obvious Child' followed by a panel discussion with the cast.",
-    "start_date": "2024-08-04",
+    "title": "Caregivers",
+    "description": "Award-winning storytellers Erin Barker and Jeff Simmermon perform solo shows about their relationships with their parents.",
+    "start_date": "2024-08-06",
     "start_time": "7:00 pm",
-    "link": "https://rooftopfilms.com/event/obvious-child/",
-    "address": "Industry City Courtyard 5/6",
-    "cost": "Free"
-  },
-  {
-    "title": "Hot Gossip Comedy Show",
-    "description": "An evening of stand-up comedy featuring various comedians.",
-    "start_date": "2024-08-04",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/hot-gossip-with-jonathan-van-halem-tickets-951662577387",
-    "address": "Union Hall, Park Slope",
+    "link": "https://caveat.nyc/events/caregivers-8-6-2024",
+    "address": "Caveat, LES",
     "cost": "$12 adv, $15 door"
   },
   {
-    "title": "A.I. vs Human Comedy Roast Battle",
-    "description": "A roast battle between a human comedian and an AI.",
-    "start_date": "2024-08-04",
-    "start_time": "8:30 pm",
-    "link": "https://www.eventbrite.com/e/ai-vs-human-roast-battle-tickets-955990241547",
-    "address": "Under St. Marks, East Village",
-    "cost": "$12.51 with promo code 'skint' (reg. $23.18)"
+    "title": "Live at the Gantries",
+    "description": "Annual outdoor concert series at Gantry Plaza State Park featuring Sunny Jain’s Wild Wild East.",
+    "start_date": "2024-08-06",
+    "start_time": "7:00 pm",
+    "link": "https://kupferbergcenter.org/event/wild-wild-east/",
+    "address": "Gantry Plaza State Park",
+    "cost": "Free admission"
   },
   {
-    "title": "Brooklyn Summer Beer, Wine & Spirits Fest",
-    "description": "An all-access pass to try beer, wine, and spirits from around the world, held indoors at the Brooklyn Navy Yard. Guests will enjoy samples paired with live music and food available for purchase.",
-    "start_date": "2024-08-03",
-    "start_time": "1:00 pm",
-    "end_time": "9:30 pm",
-    "link": "https://www.eventbrite.com/e/brooklyn-summer-beer-wine-and-spirits-fest-tickets-905224891017?discount=SKINT",
-    "address": "141 Flushing Ave, Brooklyn, NY 11205",
-    "cost": "$18-22 general, $15-18 students"
-  },
-  {
-    "title": "50¢ Hot Dogs at Gray's Papaya",
-    "description": "Enjoy 50¢ hot dogs at Gray's Papaya, with a limit of 10 per order.",
-    "start_date": "2024-08-03",
-    "link": "https://www.instagram.com/p/C93uVldsroI/",
-    "address": "2090 Broadway",
-    "cost": "50¢ each"
-  },
-  {
-    "title": "Taiwan Fest",
-    "description": "A cultural festival celebrating Taiwanese culture.",
-    "start_date": "2024-08-03",
-    "start_time": "2:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://taiwanfest.nyc/2024-08-03",
-    "address": "Culture Lab LIC",
-    "cost": ""
-  },
-  {
-    "title": "Jersey City Night Market",
-    "description": "A vibrant night market featuring local vendors and food.",
-    "start_date": "2024-08-03",
-    "start_time": "3:00 pm",
-    "end_time": "9:00 pm",
-    "link": "https://www.midnightmarketevents.com/jcnightmarket",
-    "address": "City Hall Ancillary Lot",
-    "cost": ""
-  },
-  {
-    "title": "Bronx Night Market",
-    "description": "A monthly night market featuring food, music, and local vendors.",
-    "start_date": "2024-08-03",
-    "start_time": "4:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/night-markets-nyc-fordham-plaza-tickets-807361689547",
-    "address": "1 Fordham Plaza",
-    "cost": ""
-  },
-  {
-    "title": "2024 Hong Kong Dragon Boat Festival",
-    "description": "A cultural festival featuring dragon boat races and performances.",
-    "start_date": "2024-08-03",
-    "start_time": "9:00 am",
-    "end_time": "5:00 pm",
-    "link": "https://www.hkdbf-ny.org",
-    "address": "Flushing Meadows Corona Park, Queens",
-    "cost": ""
-  },
-  {
-    "title": "CatVideoFest",
-    "description": "A film festival celebrating cat videos.",
-    "start_date": "2024-08-03",
-    "end_date": "2024-08-17",
-    "link": "http://www.catvideofest.com",
-    "address": "Various locations",
-    "cost": ""
-  },
-  {
-    "title": "Ties That Bind: Tales of Madness Film Series",
-    "description": "A film series featuring horror and psychological thrillers.",
-    "start_date": "2024-08-03",
-    "end_date": "2024-08-24",
-    "link": "https://metrograph.com/category/ties-that-bind/",
-    "address": "Metrograph, LES",
-    "cost": ""
-  },
-  {
-    "title": "Shakespeare in the Garden",
-    "description": "A performance of Shakespeare's 'Love's Labour's Lost' in a community garden.",
-    "start_date": "2024-08-03",
-    "start_time": "6:00 pm",
-    "link": "https://www.westsidecommunitygarden.org",
-    "address": "West Side Community Garden",
-    "cost": "Free"
-  },
-  {
-    "title": "NYC Summer Streets Festival",
-    "description": "An annual festival where NYC streets are closed to traffic for public enjoyment.",
-    "start_date": "2024-08-03",
-    "start_time": "7:00 am",
-    "end_time": "3:00 pm",
-    "link": "https://www.nyc.gov/html/dot/html/pedestrians/summerstreets.shtml",
-    "address": "Manhattan (from Brooklyn Bridge to 125th Street)",
-    "cost": "Free"
-  },
-  {
-    "title": "26th Annual Broadway Barks",
-    "description": "A pet adoption event featuring Broadway stars and local shelters.",
-    "start_date": "2024-08-03",
-    "start_time": "3:00 pm",
-    "end_time": "6:00 pm",
-    "link": "https://www.broadwaybarks.org/copy-of-press-release-1",
-    "address": "Shubert Alley (between W 44th + W 45th Sts and Broadway + 8th Ave)",
-    "cost": "Free"
-  },
-  {
-    "title": "Keith Sweat Concert",
-    "description": "R&B singer Keith Sweat performs live in Harlem.",
-    "start_date": "2024-08-03",
-    "start_time": "5:00 pm",
-    "link": "https://riseupnycconcerts.com/concerts/keith-sweat/",
-    "address": "Apollo Theater, Harlem",
-    "cost": "Free"
-  },
-  {
-    "title": "First Saturdays @ Brooklyn Museum: ‘Sol/Soley/Solo’",
-    "description": "An evening celebrating Caribbean cultures with live music and art.",
-    "start_date": "2024-08-03",
-    "start_time": "5:00 pm",
-    "link": "https://www.brooklynmuseum.org/visit/first_saturdays/",
-    "address": "Brooklyn Museum",
-    "cost": "Free (RSVP required)"
-  },
-  {
-    "title": "Silent Disco at Pier I",
-    "description": "A silent disco with three DJs spinning different genres.",
-    "start_date": "2024-08-03",
-    "start_time": "6:00 pm",
-    "link": "https://www.nycgovparks.org/events/2024/08/03/summer-on-the-hudson-silent-disco",
-    "address": "Riverside Park’s Pier I",
-    "cost": "Free (credit/debit card may be needed for headphone check-in)"
-  },
-  {
-    "title": "Feel the News with Marcela Onyango",
-    "description": "A comedy variety show discussing current events with humor.",
-    "start_date": "2024-08-03",
+    "title": "Naumburg Orchestral Concerts",
+    "description": "Outdoor orchestral concerts at Central Park's historic Naumburg Bandshell featuring Acronym Baroque Music Ensemble.",
+    "start_date": "2024-08-06",
     "start_time": "7:30 pm",
-    "link": "https://www.fnlbk.com/upcoming/2021/6/11/feel-the-news-w-marcela-onyengo-jw9eb",
-    "address": "Friends and Lovers, Crown Heights",
-    "cost": "$10"
+    "link": "https://naumburgconcerts.org/upcoming",
+    "address": "Central Park",
+    "cost": "Free admission"
   },
   {
-    "title": "Friend Island Comedy",
-    "description": "A comedy show featuring various performers in a friendly atmosphere.",
-    "start_date": "2024-08-03",
-    "start_time": "7:30 pm",
-    "link": "https://www.instagram.com/friendislanduk/",
-    "address": "Fiction Bar/Cafe, Williamsburg",
-    "cost": "$7 adv, $10 door"
-  },
-  {
-    "title": "Sup, Bro? Comedy Show",
-    "description": "A comedy show featuring Alison Leiby and Josh Gondelman with special guests.",
-    "start_date": "2024-08-03",
-    "start_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/sup-bro-tickets-950365086557",
-    "address": "Union Hall, Park Slope",
-    "cost": "$10 adv, $15 door"
-  },
-  {
-    "title": "You Are Not Alone: An Uplifting Show About Depression",
-    "description": "A show featuring improvisers and artists sharing their experiences with mental health.",
-    "start_date": "2024-08-03",
-    "start_time": "10:30 pm",
-    "link": "https://magnettheater.com/show/58294",
-    "address": "Magnet Theater, Chelsea",
-    "cost": "$10"
-  },
-  {
-    "title": "Defamed to Acclaimed Film Series",
-    "description": "A film series showcasing films that were initially panned but later appreciated.",
-    "start_date": "2024-08-02",
-    "end_date": "2024-08-15",
-    "link": "https://www.ifccenter.com/series/defamed-to-acclaimed/",
-    "address": "IFC Center, Greenwich Village",
-    "cost": ""
-  },
-  {
-    "title": "Fall in Love with a Brand New Musical",
-    "description": "A new musical about romance and big-city life.",
-    "start_date": "2024-08-02",
-    "end_date": "2024-09-01",
-    "link": "https://www.59e59.org/shows/show-detail/the-sabbath-girl-a-new-musical/?utm_source=sabbathgirlskint&utm_medium=web&utm_campaign=sabbathgirl",
-    "address": "59E59 Theaters, UES",
-    "cost": "$26 with promo code 'skint' (reg. $66-86)"
-  },
-  {
-    "title": "Celebrating 100 Years of James Baldwin Exhibition",
-    "description": "An exhibition celebrating the life and work of James Baldwin.",
-    "start_date": "2024-08-02",
-    "end_date": "2024-08-28",
-    "link": "https://www.nypl.org/events/exhibitions/jimmy-gods-black-revolutionary-mouth",
-    "address": "Schomburg Center for Research in Black Culture, Harlem",
-    "cost": "Free"
-  },
-  {
-    "title": "The Black Hole Experience",
-    "description": "An interactive mobile exhibit exploring the mysteries of black holes.",
-    "start_date": "2024-08-02",
-    "end_date": "2024-08-28",
-    "link": "https://www.eventbrite.ca/e/the-black-hole-experience-an-immersive-exhibition-by-age-of-union-tickets-949021688417",
-    "address": "7th Ave + W 47th St, Times Square",
-    "cost": "Free"
-  },
-  {
-    "title": "Summer for the City at Lincoln Center",
-    "description": "A series of free concerts and performances at Lincoln Center.",
-    "start_date": "2024-08-02",
-    "end_date": "2024-08-04",
-    "link": "https://www.lincolncenter.org/series/summer-for-the-city",
-    "address": "Lincoln Center",
-    "cost": "Free"
-  },
-  {
-    "title": "SummerStage Festival",
-    "description": "NYC’s iconic summer performing arts festival with free shows across the city.",
-    "start_date": "2024-08-02",
-    "end_date": "2024-08-04",
-    "link": "https://cityparksfoundation.org/calendar/category/summerstage/",
-    "address": "Various locations",
-    "cost": "Free"
-  },
-  {
-    "title": "Second Annual Landmark Festival",
-    "description": "A festival celebrating NYC’s hip hop culture with art, music, and vendors.",
-    "start_date": "2024-08-02",
-    "end_date": "2024-08-03",
-    "link": "https://www.instagram.com/p/C9sS_3QvjQm/?img_index=1",
-    "address": "CLLCTV NYC (Fri), First Street Green Art Park (Sat), Bronx Brewery (After Party)",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies",
-    "description": "Enjoy free outdoor movie screenings in various parks.",
-    "start_date": "2024-08-02",
-    "end_date": "2024-08-02",
-    "link": "http://www.cinemalic.com/movies",
-    "address": "Various locations",
-    "cost": "Free"
-  },
-  {
-    "title": "Warm Up 2024",
-    "description": "MOMA’s annual outdoor party series featuring DJs and artists.",
-    "start_date": "2024-08-02",
-    "start_time": "4:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://www.momaps1.org/programs/421-warm-up-2024",
-    "address": "PS1, Long Island City",
-    "cost": "$18-22 general, $15-18 students"
-  },
-  {
-    "title": "Summer Sway at The Shed",
-    "description": "A series of free performances celebrating hip hop culture.",
-    "start_date": "2024-08-02",
-    "start_time": "5:00 pm",
-    "end_time": "sunset",
-    "link": "https://www.theshed.org/program/437-summer-sway",
-    "address": "The Shed, Hudson Yards",
-    "cost": "Free"
-  },
-  {
-    "title": "Immigrant Jam Comedy",
-    "description": "A stand-up comedy show featuring immigrant and first-generation comedians.",
-    "start_date": "2024-08-02",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/series/immigrant-jam/",
-    "address": "Caveat, LES",
-    "cost": "$15 with promo code 'jamily' (reg. $20)"
-  },
-  {
-    "title": "Carnegie Hall Citywide",
-    "description": "A series of free outdoor concerts across NYC.",
-    "start_date": "2024-08-02",
-    "start_time": "7:00 pm",
-    "link": "https://www.carnegiehall.org/Events/Citywide",
-    "address": "Bryant Park, Midtown",
-    "cost": "Free"
-  },
-  {
-    "title": "46th Annual BRIC Celebrate Brooklyn! Festival",
-    "description": "NYC's longest-running free outdoor performing arts festival.",
-    "start_date": "2024-08-02",
-    "start_time": "7:00 pm",
-    "link": "https://bricartsmedia.org/event/meshell-ndegeocello-talibah-safiya/",
-    "address": "Lena Horne Bandshell, Prospect Park",
-    "cost": "Free"
-  },
-  {
-    "title": "Dreamland Roller Disco",
-    "description": "Themed skate parties at Prospect Park's LeFrak Center.",
-    "start_date": "2024-08-02",
-    "start_time": "7:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://dreamlandrollerrink.com",
-    "address": "Prospect Park, Brooklyn",
-    "cost": "$25 admission includes skate rental"
-  },
-  {
-    "title": "Transplants Comedy Show",
-    "description": "Stand-up comedy featuring diverse comedians sharing their stories.",
-    "start_date": "2024-08-02",
-    "start_time": "7:30 pm",
-    "link": "https://qedastoria.com/products/transplants-comedy-show",
-    "address": "Q.E.D., Astoria",
-    "cost": "$15"
-  },
-  {
-    "title": "The Drunk Texts: Harry the First, or the Knave Who Hath Lived",
-    "description": "A Shakespearean retelling of Harry Potter with drinking games and audience participation.",
-    "start_date": "2024-08-02",
+    "title": "Cherry on Top Comedy",
+    "description": "Stand-up comedy show in an ice cream shop featuring a female, queer, and non-binary lineup.",
+    "start_date": "2024-08-06",
     "start_time": "8:00 pm",
-    "link": "https://randomaccesstheatre.weebly.com/drunk-texts.html",
-    "address": "The Rat NYC, Dumbo",
-    "cost": "$12"
+    "link": "https://www.eventbrite.com/e/cherry-on-top-comedy-tickets-599553620017",
+    "address": "The Social, Prospect Heights",
+    "cost": "$5-10 admission"
   },
   {
-    "title": "Bitches Brew Comedy Show",
-    "description": "A women-produced and hosted comedy show featuring various comedians.",
-    "start_date": "2024-08-02",
-    "start_time": "8:30 pm",
-    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "address": "Halyards, Gowanus",
-    "cost": "Free (tip jar will be passed around)"
+    "title": "Drenched Stand Up Comedy",
+    "description": "Comedy show at Arlo Nomad's Mirror Bar featuring various comedians.",
+    "start_date": "2024-08-06",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/drenched-stand-up-comedy-tickets-891621272227",
+    "address": "Arlo Nomad's Mirror Bar",
+    "cost": "$13 (2-for-1 special available)"
   }
 ]

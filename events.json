@@ -1,114 +1,129 @@
 [
   {
-    "title": "West Harlem Night Market",
-    "description": "Second Thursdays 4-10pm, through October.",
-    "start_date": "2024-08-08",
-    "start_time": "4:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/night-markets-nyc-west-harlem-tickets-767640010937",
-    "address": "2th Avenue and West 133rd Street",
-    "cost": "Free admission"
+    "title": "Grand Street Restaurant Week",
+    "description": "A week-long event featuring local restaurants in East Williamsburg.",
+    "start_date": "2024-08-12",
+    "end_date": "2024-08-25",
+    "link": "https://www.grandstreetbk.org/blog/our-guide-to-summer-rw-24",
+    "address": "East Williamsburg",
+    "cost": "Undefined"
   },
   {
-    "title": "East Harlem Giglio Festival",
-    "description": "Festival in East Harlem.",
-    "start_date": "2024-08-08",
+    "title": "Made in Brooklyn Pop-Up at Grand Bazaar NYC",
+    "description": "A pop-up event featuring local vendors and products.",
+    "start_date": "2024-08-11",
+    "start_time": "10:00 am",
     "end_date": "2024-08-11",
-    "link": "https://www.eastharlemgiglio.org/",
-    "address": "Pleasant Avenue between 114th + 116th Streets, East Harlem",
-    "cost": "Free admission"
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/made-in-brooklyn-pop-up/",
+    "address": "100 W 77th St at Columbus Ave, UWS",
+    "cost": "Undefined"
   },
   {
-    "title": "Ghirardelli Chocolate Empire State Building Grand Opening",
-    "description": "Ribbon cutting with Mary J. Blidge, free hot fudge sundaes for the first 102 guests, $5 mini sundaes from 2-6pm.",
-    "start_date": "2024-08-06",
+    "title": "42nd Annual Dominican Day Parade",
+    "description": "A parade celebrating Dominican culture along Sixth Avenue.",
+    "start_date": "2024-08-11",
     "start_time": "12:00 pm",
-    "link": "https://www.ghirardelli.com/stores/new-york",
-    "address": "Empire State Building",
-    "cost": "Free admission, $5 mini sundaes from 2-6pm"
+    "end_date": "2024-08-11",
+    "link": "https://abc7ny.com/post/national-dominican-day-parade-2024-avenue-route-when-where-how-watch-nyc-celebration/15137280/",
+    "address": "Sixth Avenue from W 37th to W 55th Streets",
+    "cost": "Undefined"
   },
   {
-    "title": "Free Pizza",
-    "description": "Free pizza at East Village Pizza (mention codeword ‘evp’).",
-    "start_date": "2024-08-06",
-    "start_time": "2:00 pm",
-    "link": "https://www.instagram.com/p/C95Xj_qPZ_J/",
-    "address": "East Village Pizza",
-    "cost": "Free admission"
+    "title": "A Great Day in Harlem",
+    "description": "A community event at General Grant National Memorial.",
+    "start_date": "2024-08-11",
+    "start_time": "12:00 pm",
+    "end_date": "2024-08-11",
+    "end_time": "7:00 pm",
+    "link": "https://harlemweek.com/calendar/?loxi_pathname=%2Fa-great-day-in-harlem-4-928",
+    "address": "General Grant National Memorial, Morningside Heights",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Showgirl Swap and Shop",
+    "description": "A shopping event at Beauty Bar in East Village.",
+    "start_date": "2024-08-11",
+    "start_time": "3:00 pm",
+    "end_date": "2024-08-11",
+    "end_time": "5:00 pm",
+    "link": "https://www.facebook.com/share/1jytFuEWJSTixgWJ/",
+    "address": "Beauty Bar, East Village",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Jersey City Night Market",
+    "description": "A night market featuring local vendors and food.",
+    "start_date": "2024-08-11",
+    "start_time": "3:00 pm",
+    "end_date": "2024-08-11",
+    "end_time": "9:00 pm",
+    "link": "https://www.midnightmarketevents.com/jcnightmarket",
+    "address": "City Hall Ancillary Lot, Jersey City",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Chinatown Block Party",
+    "description": "A block party celebrating Chinatown culture.",
+    "start_date": "2024-08-11",
+    "start_time": "4:30 pm",
+    "end_date": "2024-08-11",
+    "end_time": "8:30 pm",
+    "link": "https://www.thinkchinatown.org/happenings/2024/08/11/chinatown-block-party-with-yiuyiu-canton-mambo",
+    "address": "Mott + Mosco Streets",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Blues BBQ Music + Food Festival",
+    "description": "A festival featuring music and food at Pier 76.",
+    "start_date": "2024-08-10",
+    "start_time": "1:00 pm",
+    "end_date": "2024-08-10",
+    "end_time": "9:00 pm",
+    "link": "https://hudsonriverpark.org/visit/events/event/blues-bbq-festival-2024/",
+    "address": "Pier 76, Midtown West",
+    "cost": "Undefined"
+  },
+  {
+    "title": "12th Annual Hindu Lamp Ceremony",
+    "description": "A cultural ceremony at Brooklyn Bridge Park's Pebble Beach.",
+    "start_date": "2024-08-10",
+    "start_time": "3:00 pm",
+    "end_date": "2024-08-10",
+    "end_time": "7:30 pm",
+    "link": "https://brooklynbridgepark.org/event/hindu-lamp-ceremony/",
+    "address": "Brooklyn Bridge Park's Pebble Beach",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Indian Independence Day Celebration",
+    "description": "Celebration at Jersey City’s Exchange Place.",
+    "start_date": "2024-08-10",
+    "start_time": "5:00 pm",
+    "end_date": "2024-08-10",
+    "end_time": "8:30 pm",
+    "link": "https://www.facebook.com/events/1021192928939172/",
+    "address": "Jersey City’s Exchange Place",
+    "cost": "Undefined"
   },
   {
     "title": "Holy Rosary Church's Annual La Festa Italiana",
-    "description": "Annual festival in Jersey City.",
-    "start_date": "2024-08-06",
+    "description": "Cultural festival in Jersey City with food and activities.",
+    "start_date": "2024-08-09",
     "start_time": "5:00 pm",
     "end_date": "2024-08-11",
     "end_time": "11:00 pm",
     "link": "https://www.lafestajc.com",
     "address": "Jersey City",
-    "cost": "Free admission"
+    "cost": "Free"
   },
   {
-    "title": "Dancing Around the World’s Boro",
-    "description": "Open dance classes taught by a diverse range of Queens-based dance groups as part of the annual Queensboro Dance Festival.",
-    "start_date": "2024-08-06",
-    "start_time": "6:00 pm",
-    "end_date": "2024-08-14",
-    "link": "https://socratessculpturepark.org/program/queensboro-dance-1/",
-    "address": "Socrates Sculpture Park, LIC",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Third Annual Lincoln Center's Summer for the City",
-    "description": "200+ free or choose-what-you-pay concerts, dance parties, performances, film screenings, and more through August.",
-    "start_date": "2024-08-06",
+    "title": "East Harlem Giglio Festival",
+    "description": "Cultural festival featuring food and activities on Pleasant Avenue between 114th + 116th streets.",
+    "start_date": "2024-08-09",
     "end_date": "2024-08-11",
-    "link": "https://www.lincolncenter.org/series/summer-for-the-city",
-    "address": "Lincoln Center",
-    "cost": "Free and choose-what-you-pay admission"
-  },
-  {
-    "title": "Caregivers",
-    "description": "Award-winning storytellers Erin Barker and Jeff Simmermon perform solo shows about their relationships with their parents.",
-    "start_date": "2024-08-06",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/events/caregivers-8-6-2024",
-    "address": "Caveat, LES",
-    "cost": "$12 adv, $15 door"
-  },
-  {
-    "title": "Live at the Gantries",
-    "description": "Annual outdoor concert series at Gantry Plaza State Park featuring Sunny Jain’s Wild Wild East.",
-    "start_date": "2024-08-06",
-    "start_time": "7:00 pm",
-    "link": "https://kupferbergcenter.org/event/wild-wild-east/",
-    "address": "Gantry Plaza State Park",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Naumburg Orchestral Concerts",
-    "description": "Outdoor orchestral concerts at Central Park's historic Naumburg Bandshell featuring Acronym Baroque Music Ensemble.",
-    "start_date": "2024-08-06",
-    "start_time": "7:30 pm",
-    "link": "https://naumburgconcerts.org/upcoming",
-    "address": "Central Park",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Cherry on Top Comedy",
-    "description": "Stand-up comedy show in an ice cream shop featuring a female, queer, and non-binary lineup.",
-    "start_date": "2024-08-06",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/cherry-on-top-comedy-tickets-599553620017",
-    "address": "The Social, Prospect Heights",
-    "cost": "$5-10 admission"
-  },
-  {
-    "title": "Drenched Stand Up Comedy",
-    "description": "Comedy show at Arlo Nomad's Mirror Bar featuring various comedians.",
-    "start_date": "2024-08-06",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/drenched-stand-up-comedy-tickets-891621272227",
-    "address": "Arlo Nomad's Mirror Bar",
-    "cost": "$13 (2-for-1 special available)"
+    "link": "https://www.eastharlemgiglio.org/",
+    "address": "Pleasant Avenue between 114th + 116th streets, East Harlem",
+    "cost": "Free"
   }
 ]

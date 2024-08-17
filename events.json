@@ -1,5 +1,104 @@
 [
   {
+    "title": "90¢ Soft Serve Ice Cream",
+    "description": "Enjoy discounted soft serve ice cream at participating Carvel locations.",
+    "start_date": "2024-08-19",
+    "start_time": "undefined",
+    "end_date": "2024-08-19",
+    "end_time": "undefined",
+    "link": "https://www.instagram.com/p/C-Vm0qiPFBQ/",
+    "address": "Participating Carvel locations",
+    "cost": "90¢"
+  },
+  {
+    "title": "42nd India Day Parade and Festival",
+    "description": "A parade celebrating Indian culture with food, booths, and cultural programs along Madison Avenue.",
+    "start_date": "2024-08-18",
+    "start_time": "12:00 pm",
+    "end_date": "2024-08-18",
+    "end_time": "undefined",
+    "link": "https://fianynjct.org",
+    "address": "Madison Ave from E 38th to E 27th St",
+    "cost": "Free"
+  },
+  {
+    "title": "Bomb's Annual Small Press Flea",
+    "description": "A market featuring small press publications and vendors, taking place at Amant in East Williamsburg.",
+    "start_date": "2024-08-17",
+    "start_time": "10:00 am",
+    "end_date": "2024-08-17",
+    "end_time": "4:00 pm",
+    "link": "https://bombmagazine.org/events/small-press-flea-2024/",
+    "address": "Amant, East Williamsburg",
+    "cost": "Free"
+  },
+  {
+    "title": "The Big Aussie BBQ",
+    "description": "A barbecue event at Old Stone House in Park Slope, featuring Australian food and culture.",
+    "start_date": "2024-08-17",
+    "start_time": "12:00 pm",
+    "end_date": "2024-08-17",
+    "end_time": "5:00 pm",
+    "link": "https://bigaussiebbq.com",
+    "address": "Old Stone House, Park Slope",
+    "cost": "Free"
+  },
+  {
+    "title": "Super Moon Pop-Up Market",
+    "description": "A market featuring local vendors and crafts at Caffeine Underground in Bushwick.",
+    "start_date": "2024-08-17",
+    "start_time": "12:00 pm",
+    "end_date": "2024-08-17",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/p/C-TXbSpS6Dp/",
+    "address": "Caffeine Underground, Bushwick",
+    "cost": "Free"
+  },
+  {
+    "title": "Black Vegfest",
+    "description": "A festival celebrating Black vegan culture and cuisine at Lincoln Terrace Park in Crown Heights.",
+    "start_date": "2024-08-17",
+    "start_time": "12:00 pm",
+    "end_date": "2024-08-17",
+    "end_time": "7:00 pm",
+    "link": "https://blackvegfest.org",
+    "address": "Lincoln Terrace Park, Crown Heights",
+    "cost": "Free"
+  },
+  {
+    "title": "The Blerd Spot",
+    "description": "An event featuring games and activities for the Black nerd community at Wonderville in Bushwick.",
+    "start_date": "2024-08-17",
+    "start_time": "2:00 pm",
+    "end_date": "2024-08-17",
+    "end_time": "6:00 pm",
+    "link": "https://www.wonderville.nyc/events/the-blerd-spot",
+    "address": "Wonderville, Bushwick",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "Jersey City Night Market",
+    "description": "A night market featuring local vendors and food at Journal Square-Magnolia Landing.",
+    "start_date": "2024-08-17",
+    "start_time": "2:00 pm",
+    "end_date": "2024-08-17",
+    "end_time": "8:00 pm",
+    "link": "https://www.midnightmarketevents.com/jcnightmarket",
+    "address": "Journal Square-Magnolia Landing",
+    "cost": "Free"
+  },
+  {
+    "title": "64th Annual Jersey City Puerto Rican Heritage Arts + Culture Festival and Parade",
+    "description": "A celebration of Puerto Rican culture with arts, crafts, and a parade in Jersey City.",
+    "start_date": "2024-08-17",
+    "start_time": "undefined",
+    "end_date": "2024-08-18",
+    "end_time": "undefined",
+    "link": "https://www.nj.com/hudson/2024/08/64-years-of-celebrating-puerto-rican-culture-continues-this-weekend-with-jersey-city-parade-festival.html",
+    "address": "Jersey City",
+    "cost": "Free"
+  },
+  {
     "title": "Myrtle Avenue Summer Nights",
     "description": "An evening of free live music, activities, and fun for the whole family featuring music from Rome Neal's Banana Puddin' Jazz, Jem Bleu at Corkscrew & DJ Del, along with family-friendly activities along Myrtle Avenue and the Myrtle Plaza.",
     "start_date": "2024-08-16",
@@ -9,137 +108,5 @@
     "link": "https://myrtleavenue.org/summer/",
     "address": "Fort Greene and Clinton Hill, Brooklyn",
     "cost": "Free"
-  },
-  {
-    "title": "Warm Up 2024",
-    "description": "MOMA’s annual outdoor party series brings beats and bodies to PS1’s Long Island City courtyard for six nights, featuring a lineup that includes DJs and artists from various cities.",
-    "start_date": "2024-08-16",
-    "start_time": "4:00 pm",
-    "end_date": "2024-08-16",
-    "end_time": "10:00 pm",
-    "link": "https://www.momaps1.org/programs/421-warm-up-2024",
-    "address": "PS1, Long Island City",
-    "cost": "$18-22 general, $15-18 students"
-  },
-  {
-    "title": "Summer Sway at The Shed",
-    "description": "Celebrating the roots of hip hop with free performances highlighting queer, trans, and BIPOC community-based art.",
-    "start_date": "2024-08-16",
-    "start_time": "5:00 pm",
-    "end_date": "2024-08-16",
-    "end_time": "sunset",
-    "link": "https://www.theshed.org/program/437-summer-sway",
-    "address": "The Shed, Hudson Yards",
-    "cost": "Free"
-  },
-  {
-    "title": "Brooklyn Poets Summer Workshop Showcase",
-    "description": "An evening of readings featuring teachers and students from Brooklyn Poets’ summer workshops.",
-    "start_date": "2024-08-16",
-    "start_time": "6:30 pm",
-    "end_date": "2024-08-16",
-    "end_time": "8:00 pm",
-    "link": "https://brooklynpoets.org/events/all/bpws-81624",
-    "address": "Brooklyn Heights",
-    "cost": "Free"
-  },
-  {
-    "title": "Kweendom",
-    "description": "An LGBTQ+ comedy and storytelling show featuring performances by various artists.",
-    "start_date": "2024-08-16",
-    "start_time": "7:00 pm",
-    "end_date": "2024-08-16",
-    "end_time": "9:00 pm",
-    "link": "https://www.eventbrite.com/e/kweendom-tickets-980729567537",
-    "address": "Pete's Candy Store, Williamsburg",
-    "cost": "Free (donations welcome)"
-  },
-  {
-    "title": "The Deliverance",
-    "description": "Screening of Lee Daniels' film followed by a Q&A with Daniels moderated by Bradley Cooper.",
-    "start_date": "2024-08-16",
-    "start_time": "7:00 pm",
-    "end_date": "2024-08-16",
-    "end_time": "9:00 pm",
-    "link": "https://www.paristheaternyc.com/films/showtimes/?filmId=HO00005746",
-    "address": "The Paris Theater, Midtown",
-    "cost": "$17 general, $15 seniors/students"
-  },
-  {
-    "title": "Seventh Annual MX. Nobody Pageant",
-    "description": "Brooklyn's most transgressive all-gender, all-style drag competition returns for its seventh year.",
-    "start_date": "2024-08-16",
-    "start_time": "7:00 pm",
-    "end_date": "2024-08-16",
-    "end_time": "9:00 pm",
-    "link": "https://dice.fm/event/mxb7gl-mx-nobody-vii-week-2-16th-aug-purgatory-new-york-tickets",
-    "address": "Purgatory, Bushwick",
-    "cost": "$19.27"
-  },
-  {
-    "title": "Dreamland Roller Disco",
-    "description": "Lola Star’s themed skate parties return to Prospect Park’s LeFrak Center for another season.",
-    "start_date": "2024-08-16",
-    "start_time": "7:00 pm",
-    "end_date": "2024-08-16",
-    "end_time": "10:00 pm",
-    "link": "https://dreamlandrollerrink.com",
-    "address": "Prospect Park, LeFrak Center",
-    "cost": "$25 admission includes skate rental"
-  },
-  {
-    "title": "Best Night Ever: Comedy Music Party",
-    "description": "Comedy, music, and party combine at this event featuring various performers.",
-    "start_date": "2024-08-16",
-    "start_time": "7:30 pm",
-    "end_date": "2024-08-16",
-    "end_time": "9:30 pm",
-    "link": "https://www.eventbrite.com/e/best-night-ever-comedy-show-tickets-972533021447",
-    "address": "El Santo Taqueria, East Williamsburg/Bushwick",
-    "cost": "$10 adv, $16 day of"
-  },
-  {
-    "title": "Rooftop Films Summer Series: Look Into My Eyes",
-    "description": "Screening of a documentary followed by a Q&A with the director and featured psychics.",
-    "start_date": "2024-08-16",
-    "start_time": "7:45 pm",
-    "end_date": "2024-08-16",
-    "end_time": "10:00 pm",
-    "link": "https://rooftopfilms.com/event/look-into-my-eyes/",
-    "address": "Green-Wood Cemetery, Brooklyn",
-    "cost": "$18"
-  },
-  {
-    "title": "Kate Sisk",
-    "description": "Comedian Kate Sisk performs a new hour of stand-up at Littlefield.",
-    "start_date": "2024-08-16",
-    "start_time": "8:00 pm",
-    "end_date": "2024-08-16",
-    "end_time": "9:30 pm",
-    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=943725607697",
-    "address": "Littlefield, Gowanus",
-    "cost": "$5 off with promo code 'sisk5'"
-  },
-  {
-    "title": "Bitches Brew Comedy Show",
-    "description": "A women-produced and hosted comedy show featuring various stand-up comedians.",
-    "start_date": "2024-08-16",
-    "start_time": "8:30 pm",
-    "end_date": "2024-08-16",
-    "end_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "address": "Halyards, Gowanus",
-    "cost": "Free (tips welcome)"
-  },
-  {
-    "title": "Str8 West Coastin'",
-    "description": "West coast hip-hop vibes take over Friends and Lovers at this annual dance party spun by DJs Eleven, Still Life, and Dizam.",
-    "start_date": "2024-08-16",
-    "start_time": "10:00 pm",
-    "end_date": "2024-08-16",
-    "end_time": "2:00 am",
-    "link": "https://www.eventbrite.com/e/str8-west-coastin-feat-still-life-x-eleven-x-dizam-tickets-919851068307",
-    "address": "Friends and Lovers, Crown Heights",
-    "cost": "$5 before 11pm with RSVP, $10 without"
   }
 ]

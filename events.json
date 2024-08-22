@@ -1,5 +1,49 @@
 [
   {
+    "title": "East Village Queer Film Festival",
+    "description": "The annual showcase of LGBTQIA+ artist-made cinema returns to the Wild Project with five programs.",
+    "start_date": "2024-08-22",
+    "end_date": "2024-08-25",
+    "link": "https://thewildproject.org/performances/east-village-queer-film-festival-2024/",
+    "address": "The Wild Project, East Village",
+    "cost": "$10"
+  },
+  {
+    "title": "Free Outdoor Movies - Creed",
+    "description": "Free outdoor movie screening of 'Creed' at 145th and the Hudson River in Riverside Park.",
+    "start_date": "2024-08-22",
+    "link": "https://www.nycgovparks.org/events/2024/08/22/summer-on-the-hudson-movies-on-the-waterfront-creed-2015",
+    "address": "145th and the Hudson River, Riverside Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Pop-Punk / Emo Tribute Night",
+    "description": "Tribute bands Black Heart Social Club, Songs for Your Mixtape, and Alt Side Parking take over Arlene's Grocery (LES) with pop-punk and emo songs for you to rock out to.",
+    "start_date": "2024-08-22",
+    "start_time": "7:00 pm",
+    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
+    "address": "Arlene's Grocery, LES",
+    "cost": "$10 adv, $15 day-of"
+  },
+  {
+    "title": "Found Footage Festival",
+    "description": "Joe Pickett (The Onion) and Nick Prueher (Colbert) share their latest and greatest hilarious VHS finds from 2024, including a new age ‘self massage’ tape, a video catalog of porcelain dolls, a montage of VHS programs to entertain your dog, and more.",
+    "start_date": "2024-08-22",
+    "start_time": "7:30 pm",
+    "link": "https://www.ifccenter.com/films/found-footage-festivals-summer-spectacular/",
+    "address": "IFC Center, Greenwich Village",
+    "cost": "$18 general, $15 seniors"
+  },
+  {
+    "title": "Awkward Sex… and the City with Natalie Wall",
+    "description": "From cocaine-infused one-night stands to IBS flare-ups during cunnilingus, comedian Natalie Wall shares the humor in her sexual encounters at the Awkward Sex… and the City storytelling show.",
+    "start_date": "2024-08-22",
+    "start_time": "9:30 pm",
+    "link": "https://www.caveat.nyc/events/awkward-sex-and-the-city-with-natalie-wall-8-22-2024",
+    "address": "Caveat, LES",
+    "cost": "$12 adv, $15 door"
+  },
+  {
     "title": "Paramount in the 1970s",
     "description": "Museum of Modern Art (Midtown) presents a selection of 25 classic and lesser-known films that were produced or distributed by Paramount Pictures during the 1970s, including the first two Godfather films, Harold and Maude, Heaven Can Wait, Leadbelly, Nashville, Saturday Night Fever, The Secret Life of Plants, Three Days of the Condor, and more, with several films presented in new restorations.",
     "start_date": "2024-08-21",
@@ -28,7 +72,7 @@
   },
   {
     "title": "Ryze + Shyne",
-    "description": "Brandon Follick, Edson Montenegro, and Papirossa host Ryze + Shyne, a morning show-style comedy/variety show, but at night. Featuring performances by Marcia Belsky (NPR), Sydney Duncan (Wild 'N Out), and Fareeha Khan (Comedy Central).",
+    "description": "Brandon Follick, Edson Montenegro, and Papirossa host Ryze + Shyne, a morning show-style comedy/variety show, but at night. Featuring performances by Marcia Belsky (NPR), Sydney Duncan (Wild ‘n Out), and Fareeha Khan (Comedy Central).",
     "start_date": "2024-08-21",
     "start_time": "7:30 pm",
     "link": "https://clubcummingnyc.com/schedule/ryzeandshyne",
@@ -45,22 +89,6 @@
     "cost": "$17.85 with promo code ‘skint’ (reg. $28.52)"
   },
   {
-    "title": "Free Outdoor Movies: Little Women",
-    "description": "Free outdoor movie screening of 'Little Women' at Pier I in Riverside Park South (The Hudson).",
-    "start_date": "2024-08-21",
-    "link": "https://www.nycgovparks.org/events/2024/08/21/summer-on-the-hudson-pier-i-picture-show-little-women-2019",
-    "address": "Pier I, Riverside Park South",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Space Jam",
-    "description": "Free outdoor movie screening of 'Space Jam' at Annunciation Playground (West Harlem).",
-    "start_date": "2024-08-21",
-    "link": "https://www.nycgovparks.org/events/2024/08/21/movies-under-the-stars-space-jam-1996",
-    "address": "Annunciation Playground, West Harlem",
-    "cost": "Free"
-  },
-  {
     "title": "U.S. Open Fan Week",
     "description": "Fall in love with tennis at the U.S. Open’s annual fan week, an annual week of events leading up to the main matches, including the qualifying tournament, the legends exhibition match, practice sessions, Arthur Ashe Kids’ Day, a block party, and more at the USTA Billie Jean King National Tennis Center (Flushing Meadows – Corona Park, Queens). Note: most events are free, with some requiring paid tickets.",
     "start_date": "2024-08-20",
@@ -71,11 +99,11 @@
   },
   {
     "title": "SummerStage",
-    "description": "NYC’s iconic summer performing arts festival returns with 85 free and benefit shows in Central Park and 12 neighborhood parks across the five boroughs. This week: The Gaslight Anthem and Joyce Manor at Rumsey Playfield in Central Park (Weds 6-10pm, ticketed benefit show); Inffinito Brazilian Film Festival presents a screening of 'Gerson King Combo' with live performances by Alcione, Larissa Luz, and DJ Nyack at Rumsey Playfield in Central Park (Thurs 6-10pm, free admission); and several Charlie Parker Jazz Festival concerts at various locations (thru Sun, free admission).",
+    "description": "NYC’s iconic summer performing arts festival returns with 85 free and benefit shows in Central Park and 12 neighborhood parks across the five boroughs. This week: The Gaslight Anthem and Joyce Manor at Rumsey Playfield in Central Park (Weds 6-10pm, ticketed benefit show); Inffinito Brazilian Film Festival presents a screening of Gerson King Combo with live performances by Alcione, Larissa Luz, and DJ Nyack at Rumsey Playfield in Central Park (Thurs 6-10pm, free admission); and several Charlie Parker Jazz Festival concerts at various locations (thru Sun, free admission).",
     "start_date": "2024-08-20",
     "end_date": "2024-08-25",
     "link": "https://cityparksfoundation.org/calendar/category/summerstage/",
-    "address": "Central Park and various neighborhood parks",
+    "address": "Central Park and various locations",
     "cost": "Free, some events require tickets"
   },
   {

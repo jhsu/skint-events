@@ -1,136 +1,198 @@
 [
   {
-    "title": "East Village Queer Film Festival",
-    "description": "The annual showcase of LGBTQIA+ artist-made cinema returns to the Wild Project with five programs.",
-    "start_date": "2024-08-22",
+    "title": "Brooklyn Night Market",
+    "description": "A monthly market featuring local vendors, food, and entertainment at Industry City.",
+    "start_date": "2024-08-26",
+    "start_time": "4:00 pm",
+    "end_date": "2024-08-26",
+    "end_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/night-markets-nyc-brooklyn-tickets-807404477527",
+    "address": "Industry City",
+    "cost": ""
+  },
+  {
+    "title": "47th Annual Brighton Jubilee",
+    "description": "A community festival featuring food, music, and activities on Brighton Beach Avenue.",
+    "start_date": "2024-08-25",
+    "start_time": "10:00 am",
     "end_date": "2024-08-25",
-    "link": "https://thewildproject.org/performances/east-village-queer-film-festival-2024/",
-    "address": "The Wild Project, East Village",
-    "cost": "$10"
+    "end_time": "6:00 pm",
+    "link": "http://brightonbeach.com/jubilee-festival.html",
+    "address": "Brighton Beach Avenue between Corbin Place + Coney Island Ave",
+    "cost": "Free admission"
   },
   {
-    "title": "Free Outdoor Movies - Creed",
-    "description": "Free outdoor movie screening of 'Creed' at 145th and the Hudson River in Riverside Park.",
-    "start_date": "2024-08-22",
-    "link": "https://www.nycgovparks.org/events/2024/08/22/summer-on-the-hudson-movies-on-the-waterfront-creed-2015",
-    "address": "145th and the Hudson River, Riverside Park",
-    "cost": "Free"
+    "title": "Pakistan Day Parade",
+    "description": "A parade celebrating Pakistani culture and heritage along Madison Avenue.",
+    "start_date": "2024-08-25",
+    "start_time": "10:00 am",
+    "end_date": "2024-08-25",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/pakistandayparadenyc/",
+    "address": "Madison Ave from E 38th St to E 28th St",
+    "cost": ""
   },
   {
-    "title": "Pop-Punk / Emo Tribute Night",
-    "description": "Tribute bands Black Heart Social Club, Songs for Your Mixtape, and Alt Side Parking take over Arlene's Grocery (LES) with pop-punk and emo songs for you to rock out to.",
-    "start_date": "2024-08-22",
-    "start_time": "7:00 pm",
-    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
-    "address": "Arlene's Grocery, LES",
-    "cost": "$10 adv, $15 day-of"
+    "title": "Jakarta Day at Indonesian Street Festival",
+    "description": "A celebration of Indonesian culture with food, performances, and activities on 68th Street.",
+    "start_date": "2024-08-24",
+    "start_time": "11:00 am",
+    "end_date": "2024-08-24",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/indonesiainnewyork/",
+    "address": "68th Street between Madison Ave and 5th Ave",
+    "cost": "Free admission"
   },
   {
-    "title": "Found Footage Festival",
-    "description": "Joe Pickett (The Onion) and Nick Prueher (Colbert) share their latest and greatest hilarious VHS finds from 2024, including a new age ‘self massage’ tape, a video catalog of porcelain dolls, a montage of VHS programs to entertain your dog, and more.",
-    "start_date": "2024-08-22",
-    "start_time": "7:30 pm",
-    "link": "https://www.ifccenter.com/films/found-footage-festivals-summer-spectacular/",
-    "address": "IFC Center, Greenwich Village",
-    "cost": "$18 general, $15 seniors"
+    "title": "23rd Jersey City LGBTQ+ Pride Equality March and Festival",
+    "description": "A march and festival celebrating LGBTQ+ pride in Jersey City, with activities and performances.",
+    "start_date": "2024-08-24",
+    "start_time": "12:00 pm",
+    "end_date": "2024-08-24",
+    "end_time": "9:00 pm",
+    "link": "https://jerseycitypride.com/events/",
+    "address": "March starts at 1pm, festival runs 1pm-9pm",
+    "cost": "Free admission"
   },
   {
-    "title": "Awkward Sex… and the City with Natalie Wall",
-    "description": "From cocaine-infused one-night stands to IBS flare-ups during cunnilingus, comedian Natalie Wall shares the humor in her sexual encounters at the Awkward Sex… and the City storytelling show.",
-    "start_date": "2024-08-22",
-    "start_time": "9:30 pm",
-    "link": "https://www.caveat.nyc/events/awkward-sex-and-the-city-with-natalie-wall-8-22-2024",
-    "address": "Caveat, LES",
-    "cost": "$12 adv, $15 door"
+    "title": "NYC Migrant Solidarity Presents: Street Vendor Takeover",
+    "description": "An event featuring street vendors and cultural activities at Trans-Pecos.",
+    "start_date": "2024-08-24",
+    "start_time": "3:30 pm",
+    "link": "https://www.instagram.com/p/C-5XJ3buO0d/",
+    "address": "Trans-Pecos (Ridgewood)",
+    "cost": ""
   },
   {
-    "title": "Paramount in the 1970s",
-    "description": "Museum of Modern Art (Midtown) presents a selection of 25 classic and lesser-known films that were produced or distributed by Paramount Pictures during the 1970s, including the first two Godfather films, Harold and Maude, Heaven Can Wait, Leadbelly, Nashville, Saturday Night Fever, The Secret Life of Plants, Three Days of the Condor, and more, with several films presented in new restorations.",
-    "start_date": "2024-08-21",
-    "end_date": "2024-09-15",
-    "link": "https://www.moma.org/calendar/film/5721",
-    "address": "Museum of Modern Art, Midtown",
-    "cost": "$14 general, $12 seniors, $10 students"
+    "title": "Great Jones Distilling Co. Third Anniversary $3 Tours and $3 Pours",
+    "description": "Celebrate the anniversary with affordable tours and drinks at Great Jones Distilling Co.",
+    "start_date": "2024-08-24",
+    "end_date": "2024-08-25",
+    "link": "https://greatjonesdistillingco.com/events/great-jones-distilling-co-third-anniversary/",
+    "cost": "$3"
   },
   {
-    "title": "38th Chelsea International Fine Art Competition Exhibition",
-    "description": "Agora Gallery’s annual juried exhibition features paintings and sculptures, handpicked among hundreds of international and local applicants, in a range of styles and media. Opening reception 8/22 6-8pm.",
-    "start_date": "2024-08-21",
-    "end_date": "2024-08-28",
-    "link": "https://agora-gallery.com/ag-exhibitions/the-38th-chelsea-international-fine-art-competition-august-21-28-2024/",
-    "address": "Agora Gallery, Chelsea",
-    "cost": "Free"
-  },
-  {
-    "title": "IndieSummer at the Rink",
-    "description": "Rough Trade and Rockefeller Center team up for IndieSummer, a series of free concerts at Rock Center's rink. Tonight: Kassa Overall and DJ Miss Hap.",
-    "start_date": "2024-08-21",
-    "start_time": "5:00 pm",
-    "link": "https://www.rockefellercenter.com/events/indiesummer-at-the-rink-presented-by-rough-trade-and-rockefeller-center/",
-    "address": "Rockefeller Center, NYC",
-    "cost": "Free"
-  },
-  {
-    "title": "Ryze + Shyne",
-    "description": "Brandon Follick, Edson Montenegro, and Papirossa host Ryze + Shyne, a morning show-style comedy/variety show, but at night. Featuring performances by Marcia Belsky (NPR), Sydney Duncan (Wild ‘n Out), and Fareeha Khan (Comedy Central).",
-    "start_date": "2024-08-21",
-    "start_time": "7:30 pm",
-    "link": "https://clubcummingnyc.com/schedule/ryzeandshyne",
-    "address": "Club Cumming, East Village",
-    "cost": "$12 adv, $15 day-of"
-  },
-  {
-    "title": "Written in Brooklyn: A Storytelling Series",
-    "description": "Join host Carly Ann Filbin at the Wythe Hotel for an evening of stories told by colorful characters sharing their true tales with you. Tonight’s theme: ‘Simply the Best.’",
-    "start_date": "2024-08-21",
+    "title": "Chinatown Night Market",
+    "description": "An evening market featuring food and cultural experiences in Forsyth Plaza.",
+    "start_date": "2024-08-23",
     "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/written-in-brooklyn-storytelling-series-at-the-wythe-hotel-tickets-952707793657",
-    "address": "Wythe Hotel, Brooklyn",
-    "cost": "$17.85 with promo code ‘skint’ (reg. $28.52)"
+    "end_date": "2024-08-23",
+    "end_time": "11:00 pm",
+    "link": "https://www.thinkchinatown.org/nightmarket",
+    "address": "Forsyth Plaza",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Big + Loud Screening Series",
+    "description": "A series of classic films presented in 70mm at The Paris Theater, featuring various titles.",
+    "start_date": "2024-08-23",
+    "end_date": "2024-10-31",
+    "link": "https://www.paristheaternyc.com/series/big-loud-2024/",
+    "address": "The Paris Theater (Midtown)",
+    "cost": "$17 general, $15 seniors/students"
+  },
+  {
+    "title": "The Metropolitan Opera Summer HD Festival",
+    "description": "Outdoor screenings of opera productions at Lincoln Center's Josie Robertson Plaza.",
+    "start_date": "2024-08-23",
+    "end_date": "2024-09-02",
+    "link": "https://www.metopera.org/season/summer-events/summer-hd-festival/",
+    "address": "Lincoln Center's Josie Robertson Plaza",
+    "cost": "Free admission"
   },
   {
     "title": "U.S. Open Fan Week",
-    "description": "Fall in love with tennis at the U.S. Open’s annual fan week, an annual week of events leading up to the main matches, including the qualifying tournament, the legends exhibition match, practice sessions, Arthur Ashe Kids’ Day, a block party, and more at the USTA Billie Jean King National Tennis Center (Flushing Meadows – Corona Park, Queens). Note: most events are free, with some requiring paid tickets.",
-    "start_date": "2024-08-20",
+    "description": "A week of events leading up to the U.S. Open tennis tournament, including free activities and exhibitions.",
+    "start_date": "2024-08-23",
     "end_date": "2024-08-25",
     "link": "https://www.usopen.org/en_US/about/us_open_fan_week.html",
-    "address": "USTA Billie Jean King National Tennis Center, Flushing Meadows – Corona Park, Queens",
-    "cost": "Free, some events require paid tickets"
+    "address": "USTA Billie Jean King National Tennis Center (Flushing Meadows – Corona Park, Queens)",
+    "cost": "Most events are free, some require tickets."
+  },
+  {
+    "title": "Battle Week",
+    "description": "Commemorate the anniversary of the Battle of Brooklyn with various events and activities.",
+    "start_date": "2024-08-23",
+    "end_date": "2024-08-25",
+    "link": "https://theoldstonehouse.org/events/",
+    "cost": "Various locations and prices."
+  },
+  {
+    "title": "Third Annual Kustom Kulture Festival",
+    "description": "A festival featuring live tattooing, custom motorcycles, and more at BKLoft26.",
+    "start_date": "2024-08-23",
+    "end_date": "2024-08-25",
+    "link": "https://www.instagram.com/kustomkulturefest",
+    "address": "BKLoft26 (Greenwood Heights)",
+    "cost": "$25 admission"
+  },
+  {
+    "title": "Fourth Annual Rockaway Beach Surf Music Festival",
+    "description": "A music festival featuring surf bands at Rockaway Bazaar.",
+    "start_date": "2024-08-23",
+    "end_date": "2024-08-25",
+    "link": "https://www.facebook.com/events/2709863472505599",
+    "address": "Rockaway Bazaar",
+    "cost": "Free admission."
   },
   {
     "title": "SummerStage",
-    "description": "NYC’s iconic summer performing arts festival returns with 85 free and benefit shows in Central Park and 12 neighborhood parks across the five boroughs. This week: The Gaslight Anthem and Joyce Manor at Rumsey Playfield in Central Park (Weds 6-10pm, ticketed benefit show); Inffinito Brazilian Film Festival presents a screening of Gerson King Combo with live performances by Alcione, Larissa Luz, and DJ Nyack at Rumsey Playfield in Central Park (Thurs 6-10pm, free admission); and several Charlie Parker Jazz Festival concerts at various locations (thru Sun, free admission).",
-    "start_date": "2024-08-20",
+    "description": "NYC's iconic summer performing arts festival with free and benefit shows across the city.",
+    "start_date": "2024-08-23",
     "end_date": "2024-08-25",
     "link": "https://cityparksfoundation.org/calendar/category/summerstage/",
-    "address": "Central Park and various locations",
-    "cost": "Free, some events require tickets"
+    "cost": "Free admission."
   },
   {
-    "title": "Brooklyn Books + Booze",
-    "description": "Hear established and up-and-coming authors of different genres read from their current works every third Tuesday of the month at Barrow's Intense Tasting Room (Industry City). Tonight's edition features Meg Elison, Joshua Palmatier, Leslye Penelope, A.T. Sayre, and J.S. Breukelaar.",
-    "start_date": "2024-08-20",
+    "title": "Free Outdoor Movies",
+    "description": "Outdoor movie screenings at various locations, weather permitting.",
+    "start_date": "2024-08-23",
+    "link": "https://www.nycgovparks.org/events/2024/08/23/17th-inffinito-brazilian-film-festival",
+    "cost": "Free admission."
+  },
+  {
+    "title": "Limousine Reading Series",
+    "description": "An evening of new readings from writers at Berry Park.",
+    "start_date": "2024-08-23",
     "start_time": "7:00 pm",
-    "link": "https://randeedawn.com/bonus/brooklyn-books-booze/",
-    "address": "Barrow's Intense Tasting Room, Industry City",
-    "cost": "Free"
+    "link": "https://partiful.com/e/DljjaaoZmghHbQpGjUq6",
+    "address": "Berry Park (Williamsburg)",
+    "cost": "Free admission."
   },
   {
-    "title": "The Broad Squad",
-    "description": "Kendra Cunningham curates this monthly throwback variety show filled with stand up, storytelling, and music. Tonight's performers: Kimberly Dinaro (Fallon), Cyndi Freeman (The Moth), Shelly Colman, Mel Ferraro, and Jenn Wehrung.",
-    "start_date": "2024-08-20",
+    "title": "Asian AF Variety Show",
+    "description": "A variety show featuring Asian American performers at UCB Theatre.",
+    "start_date": "2024-08-23",
     "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/the-broad-squad-tickets-989694983337",
-    "address": "Young Ethel’s, Park Slope",
-    "cost": "$5 suggested donation"
+    "link": "https://ucbcomedy.com/show/ucbny-preview-asian-af-3/",
+    "address": "UCB Theatre (East Village)",
+    "cost": "$15 adv, $20 door."
   },
   {
-    "title": "Marvel vs DC Drag Show",
-    "description": "Capes and curves combine as your favorite comic book characters battle it out on stage at Ginger Von Snap's Marvel vs DC Drag Show. Costumes are encouraged, with a $100 prize going to the best.",
-    "start_date": "2024-08-20",
+    "title": "Rooftop Films Summer Series: Closing Night",
+    "description": "A night of short films, filmmaker Q&A, and live music at Green-Wood Cemetery.",
+    "start_date": "2024-08-23",
+    "start_time": "7:45 pm",
+    "link": "https://rooftopfilms.com/event/rooftop-shots-closing-night-2024/",
+    "address": "Green-Wood Cemetery (Brooklyn)",
+    "cost": "$18."
+  },
+  {
+    "title": "Prideshow at the Sideshow: Season Finale",
+    "description": "An evening of drag, singing, and comedy at Coney Island USA.",
+    "start_date": "2024-08-23",
     "start_time": "8:00 pm",
-    "link": "https://dice.fm/event/mxx9gl-marvel-vs-dc-20th-aug-cmon-everybody-new-york-tickets",
-    "address": "C’mon Everybody, Bed-Stuy",
-    "cost": "Free"
+    "link": "https://www.coneyisland.com/event/prideshow082334",
+    "address": "Coney Island USA",
+    "cost": "$20."
+  },
+  {
+    "title": "Bitches Brew Comedy Show",
+    "description": "A women-produced comedy show at Halyards (Gowanus).",
+    "start_date": "2024-08-23",
+    "start_time": "8:30 pm",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Halyards (Gowanus)",
+    "cost": "Free admission (tips welcome)."
   }
 ]

@@ -7,41 +7,63 @@
     "end_date": "2024-09-03",
     "end_time": "8:00 pm",
     "link": "https://www.eventbrite.com/e/ignite-thailand-fest-tickets-995451350787",
-    "address": "Father Duffy Square, Times Square",
+    "address": "Father Duffy Square in Times Square",
     "cost": "Free"
   },
   {
     "title": "Vegan Night Market",
-    "description": "A monthly market featuring vegan food vendors and products.",
+    "description": "A monthly market featuring vegan food and products.",
     "start_date": "2024-09-03",
     "start_time": "2:00 pm",
-    "end_date": "2024-09-03",
+    "end_date": "2024-10-01",
     "end_time": "9:00 pm",
     "link": "https://www.eventbrite.com/e/night-markets-nyc-columbus-circle-tickets-951696819807",
     "address": "Central Park South at Columbus Circle",
     "cost": "Free"
   },
   {
-    "title": "Fall Migration Birding Tours at Bryant Park",
-    "description": "Guided birding tours at Bryant Park during migratory season.",
+    "title": "Bands Bikes + BBQ",
+    "description": "A day filled with live music, a bike show, vendors, tattoos, and BBQ at TV Eye.",
     "start_date": "2024-09-03",
-    "start_time": "8:00 am",
-    "end_date": "2024-10-11",
-    "end_time": "9:00 am",
-    "link": "https://bryantpark.org/activities/birding-tours",
-    "address": "Bryant Park",
-    "cost": "Free"
+    "start_time": "4:00 pm",
+    "end_date": "2024-09-03",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/bandsbikesbbq/",
+    "address": "TV Eye (Ridgewood)",
+    "cost": "$25"
   },
   {
-    "title": "2-for-1 Broadway Week Tickets",
-    "description": "Seasonal promotion for discounted Broadway show tickets.",
+    "title": "Blood Roses: A Tori Amos Tribute Show",
+    "description": "A drag tribute show featuring Tori Amos songs at C'mon Everybody.",
     "start_date": "2024-09-03",
-    "start_time": "All day",
-    "end_date": "2024-09-15",
-    "end_time": "All day",
-    "link": "https://www.nyctourism.com/broadway-week/",
-    "address": "Various Broadway theaters",
-    "cost": "Varies"
+    "start_time": "8:00 pm",
+    "end_date": "2024-09-03",
+    "end_time": "10:00 pm",
+    "link": "https://dice.fm/event/bbvkmk-blood-roses-a-tori-amos-tribute-show-1st-sep-cmon-everybody-new-york-tickets",
+    "address": "C'mon Everybody (Bed-Stuy)",
+    "cost": "$12.36 adv, $15 door"
+  },
+  {
+    "title": "A.I. vs Human Comedy Roast Battle",
+    "description": "A roast battle between a human comedian and an AI at The Pit.",
+    "start_date": "2024-09-03",
+    "start_time": "8:30 pm",
+    "end_date": "2024-09-03",
+    "end_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/ai-vs-human-roast-battle-tickets-995473156007",
+    "address": "The Pit (Chelsea)",
+    "cost": "$12.51 with promo code ‘skintdiscount’ (reg. $23.18)"
+  },
+  {
+    "title": "Fourth Annual Japan Village Summer Festival",
+    "description": "A cultural festival at Japan Village Courtyard featuring food and activities.",
+    "start_date": "2024-09-02",
+    "start_time": "2:00 pm",
+    "end_date": "2024-09-02",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/p/C-5PHnLuaz6/?hl=en",
+    "address": "Japan Village Courtyard (Industry City)",
+    "cost": "Free"
   },
   {
     "title": "West Indian Day Parade",
@@ -56,14 +78,25 @@
   },
   {
     "title": "Barefoot Shakespeare Company: Unrehearsed Twelfth Night",
-    "description": "An outdoor production of Twelfth Night with no rehearsals.",
+    "description": "An outdoor production of Twelfth Night with a twist at Central Park.",
     "start_date": "2024-09-02",
     "start_time": "4:00 pm",
     "end_date": "2024-09-02",
     "end_time": "6:00 pm",
     "link": "https://barefootshakespeare.org/2024/08/08/unrehearsed-2024/",
-    "address": "Summit Rock at Central Park, UWS",
+    "address": "Summit Rock at Central Park (UWS)",
     "cost": "Free (tips encouraged)"
+  },
+  {
+    "title": "Gems Zine Exhibition and Launch",
+    "description": "An exhibition and zine-making event at Finback Brewery.",
+    "start_date": "2024-09-02",
+    "start_time": "5:00 pm",
+    "end_date": "2024-09-02",
+    "end_time": "9:00 pm",
+    "link": "https://partiful.com/e/gXFUnGMN9PR5j7XCZDXq",
+    "address": "Finback Brewery (Gowanus)",
+    "cost": "Free"
   },
   {
     "title": "Soul Summit",
@@ -73,67 +106,56 @@
     "end_date": "2024-09-02",
     "end_time": "10:00 pm",
     "link": "https://knockdown.center/event/soul-summit-2/",
-    "address": "Knockdown Center, Maspeth",
+    "address": "Knockdown Center (Maspeth)",
     "cost": "Free"
   },
   {
     "title": "Biology on Tap",
-    "description": "A speaker series blending biology and beer with trivia and prizes.",
+    "description": "A speaker series blending biology and beer at Pete's Candy Store.",
     "start_date": "2024-09-02",
     "start_time": "7:00 pm",
     "end_date": "2024-09-02",
     "end_time": "9:00 pm",
     "link": "https://www.instagram.com/biologyontap/",
-    "address": "Pete's Candy Store, Williamsburg",
+    "address": "Pete's Candy Store (Williamsburg)",
     "cost": "Free ($5 suggested donation)"
   },
   {
     "title": "Living Radio: Contemporary Radio Drama, with a Revisionist Twist",
-    "description": "Live performances of new radio plays inspired by current events.",
+    "description": "Live performances of new radio plays at Kraine Theater.",
     "start_date": "2024-09-02",
     "start_time": "7:00 pm",
     "end_date": "2024-09-02",
     "end_time": "9:00 pm",
     "link": "https://www.frigid.nyc/event/6897:556/",
-    "address": "Kraine Theater, East Village",
+    "address": "Kraine Theater (East Village)",
     "cost": "Sliding scale admission"
   },
   {
     "title": "No Monopoly Allowed Game Night",
-    "description": "A monthly board game night that avoids Monopoly games.",
+    "description": "A monthly board game night at Pinebox Rockshop.",
     "start_date": "2024-09-02",
     "start_time": "8:30 pm",
     "end_date": "2024-09-02",
     "end_time": "10:30 pm",
     "link": "https://www.eventbrite.com/e/no-monopoly-allowed-tickets-917311743117",
-    "address": "Pinebox Rockshop, Bushwick",
-    "cost": "Free"
-  },
-  {
-    "title": "Fourth Annual Japan Village Summer Festival",
-    "description": "A cultural festival at Japan Village Courtyard featuring food and activities.",
-    "start_date": "2024-09-01",
-    "start_time": "2:00 pm",
-    "end_date": "2024-09-01",
-    "end_time": "6:00 pm",
-    "link": "https://www.instagram.com/p/C-5PHnLuaz6/?hl=en",
-    "address": "Japan Village Courtyard, Industry City",
+    "address": "Pinebox Rockshop (Bushwick)",
     "cost": "Free"
   },
   {
     "title": "End of Summer Sales at Grand Bazaar NYC",
-    "description": "Indoor and outdoor sales event featuring various vendors and products.",
+    "description": "Indoor and outdoor sales event featuring various vendors.",
     "start_date": "2024-09-01",
     "start_time": "10:00 am",
     "end_date": "2024-09-01",
     "end_time": "5:00 pm",
     "link": "https://grandbazaarnyc.org/events/end-of-summer-sales-bazaar-2/",
-    "address": "100 W 77th St at Columbus Ave, UWS",
+    "address": "100 W 77th St at Columbus Ave (UWS)",
     "cost": "Free"
   },
   {
     "title": "Rooftop Cinema Club",
-    "description": "Outdoor movie screenings with provided wireless headphones at Embassy Suites Hotel.",
+    "description": "Outdoor movie screenings with wireless headphones at Embassy Suites Hotel.",
     "start_date": "2024-09-01",
     "start_time": "Various times",
     "end_date": "2024-09-30",
@@ -144,18 +166,18 @@
   },
   {
     "title": "Spielberg Film Series",
-    "description": "A screening series of 20 blockbusters by Stephen Spielberg at Film Forum.",
+    "description": "A series of screenings of classic Spielberg films at Film Forum.",
     "start_date": "2024-09-01",
     "start_time": "Various times",
     "end_date": "2024-09-12",
     "end_time": "Various times",
     "link": "https://filmforum.org/series/spielberg",
-    "address": "Film Forum, South Village",
+    "address": "Film Forum (South Village)",
     "cost": "$17"
   },
   {
     "title": "11th Brooklyn Wildlife Summer Festival",
-    "description": "A festival featuring over 50 musical artists across 12 Brooklyn venues.",
+    "description": "A festival featuring diverse musical artists across multiple venues in Brooklyn.",
     "start_date": "2024-09-01",
     "start_time": "Various times",
     "end_date": "2024-09-08",
@@ -166,7 +188,7 @@
   },
   {
     "title": "The Metropolitan Opera Summer HD Festival",
-    "description": "Outdoor screenings of the Met's live opera series at Lincoln Center.",
+    "description": "Outdoor screenings of opera productions at Lincoln Center.",
     "start_date": "2024-09-01",
     "start_time": "7:30 pm",
     "end_date": "2024-09-02",
@@ -177,13 +199,13 @@
   },
   {
     "title": "15th Annual NYC Unicycle Festival",
-    "description": "A weekend of unicycle performances and activities for all skill levels.",
+    "description": "A festival celebrating unicycling with events for all skill levels.",
     "start_date": "2024-09-01",
     "start_time": "Various times",
     "end_date": "2024-09-03",
     "end_time": "Various times",
     "link": "http://nycunifest.com",
-    "address": "Various locations in NYC",
+    "address": "Various locations",
     "cost": "Free"
   },
   {
@@ -210,13 +232,13 @@
   },
   {
     "title": "Free Outdoor Movies",
-    "description": "Outdoor movie screenings at various parks in NYC, weather permitting.",
+    "description": "Outdoor movie screenings at various parks (weather permitting).",
     "start_date": "2024-09-01",
     "start_time": "Various times",
     "end_date": "2024-09-01",
     "end_time": "Various times",
     "link": "http://www.cinemalic.com/movies",
-    "address": "Various parks in NYC",
+    "address": "Various parks",
     "cost": "Free"
   },
   {
@@ -227,18 +249,18 @@
     "end_date": "2024-09-01",
     "end_time": "9:00 pm",
     "link": "https://www.caveat.nyc/events/shoes-off-mouth-off-8-30-2024",
-    "address": "Caveat, LES",
+    "address": "Caveat (LES)",
     "cost": "$18.76 with promo code 'somoskint' (reg. $24.41 adv, $25 door)"
   },
   {
     "title": "Seventh Annual MX. Nobody Pageant",
-    "description": "An all-gender drag competition in Brooklyn, featuring various performances.",
+    "description": "An all-gender drag competition in Brooklyn.",
     "start_date": "2024-09-01",
     "start_time": "7:00 pm",
     "end_date": "2024-09-01",
     "end_time": "9:00 pm",
     "link": "https://dice.fm/event/xevaya-mx-nobody-vii-week-3-30th-aug-purgatory-new-york-tickets",
-    "address": "Purgatory, Bushwick",
+    "address": "Purgatory (Bushwick)",
     "cost": "$19.27"
   },
   {
@@ -254,24 +276,24 @@
   },
   {
     "title": "Yacht Rock Skate",
-    "description": "A themed skate event with DJ Rich Medina at Xanadu.",
+    "description": "A skate event with smooth music at Xanadu.",
     "start_date": "2024-09-01",
     "start_time": "8:00 pm",
     "end_date": "2024-09-01",
     "end_time": "10:00 pm",
     "link": "https://dice.fm/event/6dday3-yacht-rock-skate-ft-rich-medina-30th-aug-xanadu-new-york-city-tickets",
-    "address": "Xanadu, Bushwick",
+    "address": "Xanadu (Bushwick)",
     "cost": "$17.91 (skate rental is extra, or BYO)"
   },
   {
     "title": "Bitches Brew Comedy Show",
-    "description": "A women-produced comedy show featuring various stand-up performances.",
+    "description": "A women-produced and hosted comedy show at Halyards.",
     "start_date": "2024-09-01",
     "start_time": "8:30 pm",
     "end_date": "2024-09-01",
     "end_time": "10:00 pm",
     "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "address": "Halyards, Gowanus",
+    "address": "Halyards (Gowanus)",
     "cost": "Free (tip jar will be passed around)"
   },
   {
@@ -282,40 +304,7 @@
     "end_date": "2024-09-01",
     "end_time": "11:00 pm",
     "link": "https://caveat.nyc/events/fucked-up-play-fest-8-30-2024",
-    "address": "Caveat, LES",
+    "address": "Caveat (LES)",
     "cost": "$18 adv, $20 door"
-  },
-  {
-    "title": "Bands Bikes + BBQ",
-    "description": "A day filled with live music, a bike show, and BBQ at TV Eye.",
-    "start_date": "2024-09-01",
-    "start_time": "4:00 pm",
-    "end_date": "2024-09-01",
-    "end_time": "8:00 pm",
-    "link": "https://www.instagram.com/bandsbikesbbq/",
-    "address": "TV Eye, Ridgewood",
-    "cost": "$25"
-  },
-  {
-    "title": "Blood Roses: A Tori Amos Tribute Show",
-    "description": "A drag tribute show featuring performances inspired by Tori Amos.",
-    "start_date": "2024-09-01",
-    "start_time": "8:00 pm",
-    "end_date": "2024-09-01",
-    "end_time": "10:00 pm",
-    "link": "https://dice.fm/event/bbvkmk-blood-roses-a-tori-amos-tribute-show-1st-sep-cmon-everybody-new-york-tickets",
-    "address": "C'mon Everybody, Bed-Stuy",
-    "cost": "$12.36 adv, $15 door"
-  },
-  {
-    "title": "A.I. vs Human Comedy Roast Battle",
-    "description": "A roast battle between a human comedian and an AI, hosted by Harmon Leon.",
-    "start_date": "2024-09-01",
-    "start_time": "8:30 pm",
-    "end_date": "2024-09-01",
-    "end_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/ai-vs-human-roast-battle-tickets-995473156007",
-    "address": "The Pit, Chelsea",
-    "cost": "$12.51 with promo code 'skintdiscount' (reg. $23.18)"
   }
 ]

@@ -7,7 +7,7 @@
     "end_date": "2024-09-05",
     "end_time": "8:00 pm",
     "link": "https://www.eventbrite.com/e/ignite-thailand-fest-tickets-995451350787",
-    "address": "Father Duffy Square in Times Square",
+    "address": "Father Duffy Square, Times Square",
     "cost": "Free"
   },
   {
@@ -33,6 +33,28 @@
     "cost": "Free"
   },
   {
+    "title": "Barefoot Shakespeare Company: Unrehearsed Twelfth Night",
+    "description": "An outdoor production of Twelfth Night with a twist.",
+    "start_date": "2024-09-04",
+    "start_time": "4:00 pm",
+    "end_date": "2024-09-04",
+    "end_time": "6:00 pm",
+    "link": "https://barefootshakespeare.org/2024/08/08/unrehearsed-2024/",
+    "address": "Summit Rock, Central Park (UWS)",
+    "cost": "Free (tips encouraged)"
+  },
+  {
+    "title": "Gems Zine Exhibition and Launch",
+    "description": "An exhibition and zine-making event celebrating the launch of a new zine.",
+    "start_date": "2024-09-04",
+    "start_time": "5:00 pm",
+    "end_date": "2024-09-04",
+    "end_time": "9:00 pm",
+    "link": "https://partiful.com/e/gXFUnGMN9PR5j7XCZDXq",
+    "address": "Finback Brewery, Gowanus",
+    "cost": "Free"
+  },
+  {
     "title": "Bands Bikes + BBQ",
     "description": "A day filled with live music, a bike show, vendors, tattoos, and BBQ.",
     "start_date": "2024-09-04",
@@ -40,7 +62,7 @@
     "end_date": "2024-09-04",
     "end_time": "6:00 pm",
     "link": "https://www.instagram.com/bandsbikesbbq/",
-    "address": "TV Eye (Ridgewood)",
+    "address": "TV Eye, Ridgewood",
     "cost": "$25"
   },
   {
@@ -51,29 +73,29 @@
     "end_date": "2024-09-04",
     "end_time": "10:00 pm",
     "link": "https://dice.fm/event/bbvkmk-blood-roses-a-tori-amos-tribute-show-1st-sep-cmon-everybody-new-york-tickets",
-    "address": "C’mon Everybody (Bed-Stuy)",
+    "address": "C’mon Everybody, Bed-Stuy",
     "cost": "$12.36 adv, $15 door"
   },
   {
     "title": "A.I. vs Human Comedy Roast Battle",
-    "description": "A roast battle between a human comedian and an AI, hosted by Harmon Leon.",
+    "description": "A roast battle between a human comedian and an AI foe.",
     "start_date": "2024-09-04",
     "start_time": "8:30 pm",
     "end_date": "2024-09-04",
     "end_time": "10:00 pm",
     "link": "https://www.eventbrite.com/e/ai-vs-human-roast-battle-tickets-995473156007",
-    "address": "The Pit (Chelsea)",
-    "cost": "$12.51 with promo code ‘skintdiscount’ (reg. $23.18)"
+    "address": "The Pit, Chelsea",
+    "cost": "$12.51 with promo code 'skintdiscount' (reg. $23.18)"
   },
   {
     "title": "Soul Summit",
-    "description": "A house music party celebrating Labor Day at Knockdown Center.",
+    "description": "A house music party for Labor Day at Knockdown Center.",
     "start_date": "2024-09-04",
     "start_time": "3:00 pm",
     "end_date": "2024-09-04",
     "end_time": "10:00 pm",
     "link": "https://knockdown.center/event/soul-summit-2/",
-    "address": "Knockdown Center (Maspeth)",
+    "address": "Knockdown Center, Maspeth",
     "cost": "Free"
   },
   {
@@ -84,7 +106,7 @@
     "end_date": "2024-09-04",
     "end_time": "9:00 pm",
     "link": "https://www.instagram.com/biologyontap/",
-    "address": "Pete's Candy Store (Williamsburg)",
+    "address": "Pete's Candy Store, Williamsburg",
     "cost": "Free ($5 suggested donation)"
   },
   {
@@ -95,7 +117,7 @@
     "end_date": "2024-09-04",
     "end_time": "9:00 pm",
     "link": "https://www.frigid.nyc/event/6897:556/",
-    "address": "Kraine Theater (East Village)",
+    "address": "Kraine Theater, East Village",
     "cost": "Sliding scale admission"
   },
   {
@@ -106,7 +128,7 @@
     "end_date": "2024-09-04",
     "end_time": "10:30 pm",
     "link": "https://www.eventbrite.com/e/no-monopoly-allowed-tickets-917311743117",
-    "address": "Pinebox Rockshop (Bushwick)",
+    "address": "Pinebox Rockshop, Bushwick",
     "cost": "Free"
   },
   {
@@ -117,30 +139,162 @@
     "end_date": "2024-09-03",
     "end_time": "5:00 pm",
     "link": "https://grandbazaarnyc.org/events/end-of-summer-sales-bazaar-2/",
-    "address": "100 W 77th St at Columbus Ave (UWS)",
+    "address": "100 W 77th St at Columbus Ave, UWS",
     "cost": "Free"
   },
   {
-    "title": "Barefoot Shakespeare Company: Unrehearsed Twelfth Night",
-    "description": "An outdoor production of Twelfth Night with a twist, featuring unrehearsed performances.",
+    "title": "Rooftop Cinema Club",
+    "description": "Outdoor movie screenings with provided wireless headphones at Embassy Suites Hotel.",
     "start_date": "2024-09-03",
-    "start_time": "4:00 pm",
-    "end_date": "2024-09-03",
-    "end_time": "6:00 pm",
-    "link": "https://barefootshakespeare.org/2024/08/08/unrehearsed-2024/",
-    "address": "Summit Rock at Central Park (UWS)",
-    "cost": "Free (tips encouraged)"
+    "start_time": "Various times",
+    "end_date": "2024-09-30",
+    "end_time": "Various times",
+    "link": "https://rooftopcinemaclub.com/new-york/venue/midtown/",
+    "address": "Embassy Suites Hotel, Midtown",
+    "cost": "$23+"
   },
   {
-    "title": "Gems Zine Exhibition and Launch",
-    "description": "An exhibition celebrating the launch of a new zine by a collective of women and non-binary artists.",
+    "title": "Spielberg Film Series",
+    "description": "A screening series of 20 blockbusters by Stephen Spielberg at Film Forum.",
     "start_date": "2024-09-03",
-    "start_time": "5:00 pm",
+    "start_time": "Various times",
+    "end_date": "2024-09-12",
+    "end_time": "Various times",
+    "link": "https://filmforum.org/series/spielberg",
+    "address": "Film Forum, South Village",
+    "cost": "$17"
+  },
+  {
+    "title": "11th Brooklyn Wildlife Summer Festival",
+    "description": "A festival featuring over 50 musical artists across 12 Brooklyn venues.",
+    "start_date": "2024-09-03",
+    "start_time": "Various times",
+    "end_date": "2024-09-08",
+    "end_time": "Various times",
+    "link": "https://www.bksummerfest.com/",
+    "address": "Various venues in Brooklyn",
+    "cost": "$10"
+  },
+  {
+    "title": "The Metropolitan Opera Summer HD Festival",
+    "description": "Outdoor screenings of opera productions at Lincoln Center's Josie Robertson Plaza.",
+    "start_date": "2024-09-03",
+    "start_time": "7:30 pm",
+    "end_date": "2024-09-04",
+    "end_time": "8:00 pm",
+    "link": "https://www.metopera.org/season/summer-events/summer-hd-festival/",
+    "address": "Lincoln Center, Josie Robertson Plaza",
+    "cost": "Free"
+  },
+  {
+    "title": "15th Annual NYC Unicycle Festival",
+    "description": "A weekend of unicycle performances and activities for all skill levels.",
+    "start_date": "2024-09-03",
+    "start_time": "Various times",
+    "end_date": "2024-09-04",
+    "end_time": "Various times",
+    "link": "http://nycunifest.com",
+    "address": "Various locations in NYC",
+    "cost": "Free"
+  },
+  {
+    "title": "Back to Hogwarts",
+    "description": "A pop-up event celebrating Harry Potter with performances and interactive experiences.",
+    "start_date": "2024-09-03",
+    "start_time": "Various times",
+    "end_date": "2024-09-04",
+    "end_time": "Various times",
+    "link": "https://www.backtohogwartsnyc.com",
+    "address": "Grand Central Terminal, Vanderbilt Hall",
+    "cost": "Free (timed tickets RSVP required)"
+  },
+  {
+    "title": "Bryant Park Picnic Performances: New York City Opera",
+    "description": "Free outdoor theater, dance, and music performances at Bryant Park.",
+    "start_date": "2024-09-03",
+    "start_time": "7:00 pm",
+    "end_date": "2024-09-04",
+    "end_time": "9:00 pm",
+    "link": "https://bryantpark.org/activities/picnic-performances",
+    "address": "Bryant Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies",
+    "description": "Outdoor movie screenings at various parks, weather permitting.",
+    "start_date": "2024-09-03",
+    "start_time": "Various times",
+    "end_date": "2024-09-04",
+    "end_time": "Various times",
+    "link": "http://www.cinemalic.com/movies",
+    "address": "Various parks in NYC",
+    "cost": "Free"
+  },
+  {
+    "title": "Shoes Off! Mouth Off! Storytelling Show",
+    "description": "A storytelling show featuring AAPI performers discussing various topics.",
+    "start_date": "2024-09-03",
+    "start_time": "7:00 pm",
     "end_date": "2024-09-03",
     "end_time": "9:00 pm",
-    "link": "https://partiful.com/e/gXFUnGMN9PR5j7XCZDXq",
-    "address": "Finback Brewery (Gowanus)",
-    "cost": "Free"
+    "link": "https://www.caveat.nyc/events/shoes-off-mouth-off-8-30-2024",
+    "address": "Caveat, LES",
+    "cost": "$18.76 with promo code 'somoskint' (reg. $24.41 adv, $25 door)"
+  },
+  {
+    "title": "Seventh Annual MX. Nobody Pageant",
+    "description": "An all-gender drag competition in Brooklyn.",
+    "start_date": "2024-09-03",
+    "start_time": "7:00 pm",
+    "end_date": "2024-09-03",
+    "end_time": "9:00 pm",
+    "link": "https://dice.fm/event/xevaya-mx-nobody-vii-week-3-30th-aug-purgatory-new-york-tickets",
+    "address": "Purgatory, Bushwick",
+    "cost": "$19.27"
+  },
+  {
+    "title": "Dreamland Roller Disco",
+    "description": "Themed skate parties at Prospect Park's LeFrak Center.",
+    "start_date": "2024-09-03",
+    "start_time": "7:00 pm",
+    "end_date": "2024-09-03",
+    "end_time": "10:00 pm",
+    "link": "https://dreamlandrollerrink.com",
+    "address": "Prospect Park, LeFrak Center",
+    "cost": "$25 admission includes skate rental"
+  },
+  {
+    "title": "Yacht Rock Skate",
+    "description": "A skate event with smooth sounds spun by DJ Rich Medina.",
+    "start_date": "2024-09-03",
+    "start_time": "8:00 pm",
+    "end_date": "2024-09-03",
+    "end_time": "10:00 pm",
+    "link": "https://dice.fm/event/6dday3-yacht-rock-skate-ft-rich-medina-30th-aug-xanadu-new-york-city-tickets",
+    "address": "Xanadu, Bushwick",
+    "cost": "$17.91 (skate rental is extra, or BYO)"
+  },
+  {
+    "title": "Bitches Brew Comedy Show",
+    "description": "A women-produced and hosted comedy show featuring various stand-up comedians.",
+    "start_date": "2024-09-03",
+    "start_time": "8:30 pm",
+    "end_date": "2024-09-03",
+    "end_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Halyards, Gowanus",
+    "cost": "Free (tip jar will be passed around)"
+  },
+  {
+    "title": "F*cked-Up Play Fest",
+    "description": "A short play festival combined with a drinking game.",
+    "start_date": "2024-09-03",
+    "start_time": "9:30 pm",
+    "end_date": "2024-09-03",
+    "end_time": "11:00 pm",
+    "link": "https://caveat.nyc/events/fucked-up-play-fest-8-30-2024",
+    "address": "Caveat, LES",
+    "cost": "$18 adv, $20 door"
   },
   {
     "title": "Fourth Annual Japan Village Summer Festival",
@@ -150,161 +304,7 @@
     "end_date": "2024-09-02",
     "end_time": "6:00 pm",
     "link": "https://www.instagram.com/p/C-5PHnLuaz6/?hl=en",
-    "address": "Japan Village Courtyard (Industry City)",
+    "address": "Japan Village Courtyard, Industry City",
     "cost": "Free"
-  },
-  {
-    "title": "Rooftop Cinema Club",
-    "description": "Outdoor movie screenings with provided wireless headphones at Embassy Suites Hotel.",
-    "start_date": "2024-09-02",
-    "start_time": "Various",
-    "end_date": "2024-09-30",
-    "end_time": "Various",
-    "link": "https://rooftopcinemaclub.com/new-york/venue/midtown/",
-    "address": "Embassy Suites Hotel in Midtown",
-    "cost": "$23+"
-  },
-  {
-    "title": "Spielberg Film Series",
-    "description": "A screening series of 20 blockbusters by Stephen Spielberg at Film Forum.",
-    "start_date": "2024-09-02",
-    "start_time": "Various",
-    "end_date": "2024-09-12",
-    "end_time": "Various",
-    "link": "https://filmforum.org/series/spielberg",
-    "address": "Film Forum (South Village)",
-    "cost": "$17"
-  },
-  {
-    "title": "11th Brooklyn Wildlife Summer Festival",
-    "description": "A festival featuring over 50 musical artists across 12 venues in Brooklyn.",
-    "start_date": "2024-09-02",
-    "start_time": "Various",
-    "end_date": "2024-09-08",
-    "end_time": "Various",
-    "link": "https://www.bksummerfest.com/",
-    "address": "Various venues in Brooklyn",
-    "cost": "$10"
-  },
-  {
-    "title": "The Metropolitan Opera Summer HD Festival",
-    "description": "Outdoor screenings of the Met's live opera series at Lincoln Center.",
-    "start_date": "2024-09-02",
-    "start_time": "7:30 pm",
-    "end_date": "2024-09-04",
-    "end_time": "8:00 pm",
-    "link": "https://www.metopera.org/season/summer-events/summer-hd-festival/",
-    "address": "Lincoln Center's Josie Robertson Plaza",
-    "cost": "Free"
-  },
-  {
-    "title": "15th Annual NYC Unicycle Festival",
-    "description": "A weekend of unicycle performances and activities for all skill levels.",
-    "start_date": "2024-09-02",
-    "start_time": "Various",
-    "end_date": "2024-09-04",
-    "end_time": "Various",
-    "link": "http://nycunifest.com",
-    "address": "Various locations in NYC",
-    "cost": "Free"
-  },
-  {
-    "title": "Back to Hogwarts",
-    "description": "A pop-up event celebrating Harry Potter with performances and interactive experiences.",
-    "start_date": "2024-09-02",
-    "start_time": "Various",
-    "end_date": "2024-09-04",
-    "end_time": "Various",
-    "link": "https://www.backtohogwartsnyc.com",
-    "address": "Grand Central Terminal's Vanderbilt Hall",
-    "cost": "Free (timed tickets RSVP required)"
-  },
-  {
-    "title": "Bryant Park Picnic Performances: New York City Opera",
-    "description": "Free outdoor theater, dance, and music performances at Bryant Park.",
-    "start_date": "2024-09-02",
-    "start_time": "7:00 pm",
-    "end_date": "2024-09-03",
-    "end_time": "9:00 pm",
-    "link": "https://bryantpark.org/activities/picnic-performances",
-    "address": "Bryant Park",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies",
-    "description": "Outdoor movie screenings at various parks in NYC, weather permitting.",
-    "start_date": "2024-09-02",
-    "start_time": "Various",
-    "end_date": "2024-09-02",
-    "end_time": "Various",
-    "link": "http://www.cinemalic.com/movies",
-    "address": "Various parks in NYC",
-    "cost": "Free"
-  },
-  {
-    "title": "Shoes Off! Mouth Off! Storytelling Show",
-    "description": "A storytelling show featuring AAPI performers discussing various topics.",
-    "start_date": "2024-09-02",
-    "start_time": "7:00 pm",
-    "end_date": "2024-09-02",
-    "end_time": "9:00 pm",
-    "link": "https://www.caveat.nyc/events/shoes-off-mouth-off-8-30-2024",
-    "address": "Caveat (LES)",
-    "cost": "$18.76 with promo code 'somoskint' (reg. $24.41 adv, $25 door)"
-  },
-  {
-    "title": "Seventh Annual MX. Nobody Pageant",
-    "description": "An all-gender drag competition in Brooklyn, featuring various performances.",
-    "start_date": "2024-09-02",
-    "start_time": "7:00 pm",
-    "end_date": "2024-09-02",
-    "end_time": "9:00 pm",
-    "link": "https://dice.fm/event/xevaya-mx-nobody-vii-week-3-30th-aug-purgatory-new-york-tickets",
-    "address": "Purgatory (Bushwick)",
-    "cost": "$19.27"
-  },
-  {
-    "title": "Dreamland Roller Disco",
-    "description": "Themed skate parties at Prospect Park's LeFrak Center.",
-    "start_date": "2024-09-02",
-    "start_time": "7:00 pm",
-    "end_date": "2024-09-02",
-    "end_time": "10:00 pm",
-    "link": "https://dreamlandrollerrink.com",
-    "address": "Prospect Park's LeFrak Center",
-    "cost": "$25 admission includes skate rental"
-  },
-  {
-    "title": "Yacht Rock Skate",
-    "description": "A themed skate event with DJ music at Xanadu.",
-    "start_date": "2024-09-02",
-    "start_time": "8:00 pm",
-    "end_date": "2024-09-02",
-    "end_time": "10:00 pm",
-    "link": "https://dice.fm/event/6dday3-yacht-rock-skate-ft-rich-medina-30th-aug-xanadu-new-york-city-tickets",
-    "address": "Xanadu (Bushwick)",
-    "cost": "$17.91 (skate rental is extra, or BYO)"
-  },
-  {
-    "title": "Bitches Brew Comedy Show",
-    "description": "A women-produced and hosted comedy show featuring various stand-up acts.",
-    "start_date": "2024-09-02",
-    "start_time": "8:30 pm",
-    "end_date": "2024-09-02",
-    "end_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "address": "Halyards (Gowanus)",
-    "cost": "Free (tip jar will be passed around)"
-  },
-  {
-    "title": "F*cked-Up Play Fest",
-    "description": "A short play festival combined with a drinking game experience.",
-    "start_date": "2024-09-02",
-    "start_time": "9:30 pm",
-    "end_date": "2024-09-02",
-    "end_time": "11:00 pm",
-    "link": "https://caveat.nyc/events/fucked-up-play-fest-8-30-2024",
-    "address": "Caveat (LES)",
-    "cost": "$18 adv, $20 door"
   }
 ]

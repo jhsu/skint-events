@@ -1,159 +1,5 @@
 [
   {
-    "title": "Textile Arts Center Exhibition: Towards the Path of Totality",
-    "description": "Fiber exhibition featuring works by eight artists in residence, with an opening reception on 9/5.",
-    "start_date": "2024-09-05",
-    "start_time": "6:30 pm",
-    "end_date": "2024-09-19",
-    "end_time": "undefined",
-    "link": "https://textileartscenter.com/feature/tac-air-15-final-exhibition-towards-the-path-of-totality/",
-    "address": "Textile Arts Center, Gowanus",
-    "cost": "undefined"
-  },
-  {
-    "title": "Look Into My Eyes",
-    "description": "Film screening of Lana Wilson’s NYC psychic documentary with Q&A at select times.",
-    "start_date": "2024-09-05",
-    "start_time": "undefined",
-    "end_date": "2024-09-11",
-    "end_time": "undefined",
-    "link": "https://filmforum.org/film/look-into-my-eyes",
-    "address": "Film Forum, South Village",
-    "cost": "$17"
-  },
-  {
-    "title": "98th Hoboken Italian Festival: Feast of the Madonna dei Martiri",
-    "description": "Large Italian festival featuring food, music, rides, and a fireworks display.",
-    "start_date": "2024-09-05",
-    "start_time": "undefined",
-    "end_date": "2024-09-08",
-    "end_time": "undefined",
-    "link": "https://www.hobokenitalianfestival.com",
-    "address": "Sinatra Promenade, Hoboken",
-    "cost": "Free"
-  },
-  {
-    "title": "11th Annual Women’s Surf Film Festival",
-    "description": "Annual women’s surf film festival with surf films and a themed photography art show.",
-    "start_date": "2024-09-05",
-    "start_time": "undefined",
-    "end_date": "2024-09-07",
-    "end_time": "undefined",
-    "link": "https://www.womenssurffilmfestival.com",
-    "address": "Rockaway Beach Surf Club and The Rockaway Hotel",
-    "cost": "Free"
-  },
-  {
-    "title": "Bryant Park Picnic Performances",
-    "description": "Free outdoor theater, dance, and music performances at Bryant Park.",
-    "start_date": "2024-09-05",
-    "start_time": "7:00 pm",
-    "end_date": "2024-09-06",
-    "end_time": "undefined",
-    "link": "https://bryantpark.org/activities/picnic-performances",
-    "address": "Bryant Park",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Family Camp",
-    "description": "Free outdoor movie screening of 'Family Camp' at Bennett Park (Washington Heights).",
-    "start_date": "2024-09-05",
-    "start_time": "various times",
-    "end_date": "2024-09-05",
-    "end_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2024/09/05/movies-under-the-stars-family-camp",
-    "address": "Bennett Park, Washington Heights",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Mean Girls 2024",
-    "description": "Free outdoor movie screening of 'Mean Girls 2024' at Bay Ridge.",
-    "start_date": "2024-09-05",
-    "start_time": "various times",
-    "end_date": "2024-09-05",
-    "end_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2024/09/05/movie-under-the-stars-mean-girls",
-    "address": "Bay Ridge",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Teenage Mutant Ninja Turtles: Mutant Mayhem",
-    "description": "Free outdoor movie screening of 'Teenage Mutant Ninja Turtles: Mutant Mayhem' at Fort Greene Park (Brooklyn).",
-    "start_date": "2024-09-05",
-    "start_time": "various times",
-    "end_date": "2024-09-05",
-    "end_time": "various times",
-    "link": "https://www.bkmag.com/movies/",
-    "address": "Fort Greene Park, Brooklyn",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Admission to the US Open Grounds",
-    "description": "Free admission to the US Open grounds for a day of tennis including junior singles and doubles quarterfinals.",
-    "start_date": "2024-09-05",
-    "start_time": "11:00 am",
-    "end_date": "2024-09-05",
-    "end_time": "6:00 pm",
-    "link": "https://www.usopen.org/en_US/content/thursday_grounds_admission.html",
-    "address": "Flushing Meadows – Corona Park, Queens",
-    "cost": "Free"
-  },
-  {
-    "title": "The Queens Jazz Trail Concert Series",
-    "description": "Free jazz concert featuring George Gee Swing Orchestra in Astoria Park.",
-    "start_date": "2024-09-05",
-    "start_time": "6:00 pm",
-    "end_date": "2024-09-05",
-    "end_time": "undefined",
-    "link": "https://kupferbergcenter.org/qjt/",
-    "address": "Astoria Park, Queens",
-    "cost": "Free"
-  },
-  {
-    "title": "DapperQ LGBTQIA+ Fashion Show",
-    "description": "Annual LGBTQIA+ fashion show hosted by DapperQ at Brooklyn Museum.",
-    "start_date": "2024-09-05",
-    "start_time": "6:00 pm",
-    "end_date": "2024-09-05",
-    "end_time": "11:00 pm",
-    "link": "https://www.brooklynmuseum.org/calendar/event/dapperq-nine-september-2024",
-    "address": "Brooklyn Museum",
-    "cost": "$20"
-  },
-  {
-    "title": "GayC/DC",
-    "description": "All-gay tribute to AC/DC at TV Eye (Ridgewood).",
-    "start_date": "2024-09-05",
-    "start_time": "7:00 pm",
-    "end_date": "2024-09-05",
-    "end_time": "undefined",
-    "link": "https://gaycdcofficial.com",
-    "address": "TV Eye, Ridgewood",
-    "cost": "$12 adv, $15 day-of"
-  },
-  {
-    "title": "Horror for Weenies Book Launch",
-    "description": "Book launch event for 'Horror for Weenies' at Greenlight Bookstore with authors discussing iconic horror films.",
-    "start_date": "2024-09-05",
-    "start_time": "7:30 pm",
-    "end_date": "2024-09-05",
-    "end_time": "undefined",
-    "link": "https://www.greenlightbookstore.com/event/emily-c-hughes-clay-mcleod-chapman-erin-e-adams",
-    "address": "Greenlight Bookstore, Fort Greene",
-    "cost": "Free"
-  },
-  {
-    "title": "Tip Top Tits Comedy Show",
-    "description": "Stand-up comedy show featuring various comedians at Tip-Top Bar + Grill.",
-    "start_date": "2024-09-05",
-    "start_time": "8:00 pm",
-    "end_date": "2024-09-05",
-    "end_time": "undefined",
-    "link": "https://www.eventbrite.com/e/tip-top-tits-a-stand-up-comedy-show-tickets-972092684387",
-    "address": "Tip-Top Bar + Grill, Bed-Stuy",
-    "cost": "Free"
-  },
-  {
     "title": "Free Outdoor Movies: Ride Above (Tempête)",
     "description": "Free outdoor movie screening of 'Ride Above (Tempête)' at Riverside Park's 116th Street overlook (Morningside Heights).",
     "start_date": "2024-09-04",
@@ -187,19 +33,19 @@
     "cost": "Free"
   },
   {
-    "title": "Morningside Lights Lantern-Building Workshops Registration",
+    "title": "Morningside Lights Lantern-Building Workshops",
     "description": "Registration opens for Morningside Lights lantern-building workshops to help make unique giant lanterns for the 13th annual Morningside Lights procession.",
     "start_date": "2024-09-04",
     "start_time": "time tba",
     "end_date": "2024-09-04",
     "end_time": "time tba",
     "link": "https://www.morningside-lights.com",
-    "address": "Morningside Heights",
+    "address": "Miller Theatre, Morningside Heights",
     "cost": "Free (RSVP required)"
   },
   {
     "title": "Gather Round: Street and Club Dance Battles",
-    "description": "Street and club dance battles at Manhattan West Plaza featuring four breakdancing teams, DJ KS360, and DJ DP One, emceed by Rokafella.",
+    "description": "Street and club dance battles at Manhattan West Plaza featuring four breakdancing teams, DJ KS360, and DJ DP One. Free admission.",
     "start_date": "2024-09-04",
     "start_time": "4:30 pm",
     "end_date": "2024-09-04",
@@ -221,14 +67,14 @@
   },
   {
     "title": "Awkward Teenage Years",
-    "description": "Storytelling event where storytellers share their joys and traumas, hosted by Will Clegg, featuring various storytellers.",
+    "description": "Storytelling event featuring storytellers reliving their joys and traumas, hosted by Will Clegg. Sliding scale admission.",
     "start_date": "2024-09-04",
     "start_time": "7:30 pm",
     "end_date": "2024-09-04",
-    "end_time": "undefined",
+    "end_time": "9:00 pm",
     "link": "https://www.frigid.nyc/event/6897:26/",
     "address": "Under St. Marks, East Village",
-    "cost": "$1-15 sliding scale admission"
+    "cost": "$1-15 sliding scale"
   },
   {
     "title": "That Jenny C'est Quoi",
@@ -236,18 +82,18 @@
     "start_date": "2024-09-04",
     "start_time": "8:00 pm",
     "end_date": "2024-09-04",
-    "end_time": "undefined",
+    "end_time": "9:00 pm",
     "link": "https://dice.fm/partner/dice/event/pyy9o8-that-jenny-cest-quoi-4th-sep-cmon-everybody-new-york-tickets",
     "address": "C’mon Everybody, Bed-Stuy",
     "cost": "$12.36"
   },
   {
     "title": "Doctors Without Boundaries",
-    "description": "Comedy show hosted by ER doctors discussing weird diagnoses and answering audience questions.",
+    "description": "Comedy show featuring real-life ER doctors and standups sharing stories about their weirdest diagnoses.",
     "start_date": "2024-09-04",
     "start_time": "9:30 pm",
     "end_date": "2024-09-04",
-    "end_time": "undefined",
+    "end_time": "11:00 pm",
     "link": "https://caveat.nyc/events/doctors-without-boundaries-9-4-2024",
     "address": "Caveat, LES",
     "cost": "$16.70 with promo code ‘resident’ (reg. $20+)"

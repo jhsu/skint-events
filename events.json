@@ -1,101 +1,139 @@
 [
   {
-    "title": "Free Outdoor Movies: Ride Above (Tempête)",
-    "description": "Free outdoor movie screening of 'Ride Above (Tempête)' at Riverside Park's 116th Street overlook (Morningside Heights).",
-    "start_date": "2024-09-04",
-    "start_time": "various times",
-    "end_date": "2024-09-04",
-    "end_time": "various times",
-    "link": "https://villa-albertine.org/events/ride-above/",
-    "address": "Riverside Park's 116th Street overlook, Morningside Heights",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Selena",
-    "description": "Free outdoor movie screening of 'Selena' at Sunset Park (Brooklyn).",
-    "start_date": "2024-09-04",
-    "start_time": "various times",
-    "end_date": "2024-09-04",
-    "end_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2024/09/04/movie-under-the-stars-selena",
-    "address": "Sunset Park, Brooklyn",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: The Great Gatsby (1974)",
-    "description": "Free outdoor movie screening of 'The Great Gatsby (1974)' at Madison Square Park (Flatiron).",
-    "start_date": "2024-09-04",
-    "start_time": "various times",
-    "end_date": "2024-09-04",
-    "end_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2024/09/04/movies-under-the-stars-the-great-gatsby-1974",
-    "address": "Madison Square Park, Flatiron",
-    "cost": "Free"
-  },
-  {
-    "title": "Morningside Lights Lantern-Building Workshops",
-    "description": "Registration opens for Morningside Lights lantern-building workshops to help make unique giant lanterns for the 13th annual Morningside Lights procession.",
-    "start_date": "2024-09-04",
-    "start_time": "time tba",
-    "end_date": "2024-09-04",
-    "end_time": "time tba",
-    "link": "https://www.morningside-lights.com",
-    "address": "Miller Theatre, Morningside Heights",
-    "cost": "Free (RSVP required)"
-  },
-  {
-    "title": "Gather Round: Street and Club Dance Battles",
-    "description": "Street and club dance battles at Manhattan West Plaza featuring four breakdancing teams, DJ KS360, and DJ DP One. Free admission.",
-    "start_date": "2024-09-04",
-    "start_time": "4:30 pm",
-    "end_date": "2024-09-04",
-    "end_time": "6:30 pm",
-    "link": "https://manhattanwestnyc.com/event/works-process-gather-round/2024-09-04/",
-    "address": "Manhattan West Plaza, 385 9th Avenue, Midtown",
-    "cost": "Free"
-  },
-  {
-    "title": "Domino Park Presents: Salsa by the Water",
-    "description": "Free salsa dancing event at Domino Park with an intro salsa class at 6:15 pm, DJs, and a live band.",
-    "start_date": "2024-09-04",
-    "start_time": "6:00 pm",
-    "end_date": "2024-09-04",
+    "title": "Taste of Times Square",
+    "description": "‘Tastes’ from 30 restaurants for under $10 each (most are $3-6). Duffy Square and the Broadway Plazas between 45th + 48th Streets.",
+    "start_date": "2024-09-09",
+    "start_time": "5:00 pm",
     "end_time": "9:00 pm",
-    "link": "https://www.instagram.com/p/C_OPym2x-0w/",
-    "address": "Domino Park, Williamsburg Waterfront",
+    "link": "https://www.timessquarenyc.org/taste-of-times-square",
+    "address": "Duffy Square and the Broadway Plazas between 45th + 48th Streets",
+    "cost": "$10"
+  },
+  {
+    "title": "New York Transit Museum’s Annual Bus Festival",
+    "description": "Emily Warren Roebling Plaza in Brooklyn Bridge Park.",
+    "start_date": "2024-09-08",
+    "start_time": "10:00 am",
+    "end_time": "3:30 pm",
+    "link": "https://www.nytransitmuseum.org/program/busfest2024/",
+    "address": "Emily Warren Roebling Plaza in Brooklyn Bridge Park",
     "cost": "Free"
   },
   {
-    "title": "Awkward Teenage Years",
-    "description": "Storytelling event featuring storytellers reliving their joys and traumas, hosted by Will Clegg. Sliding scale admission.",
-    "start_date": "2024-09-04",
-    "start_time": "7:30 pm",
-    "end_date": "2024-09-04",
-    "end_time": "9:00 pm",
-    "link": "https://www.frigid.nyc/event/6897:26/",
-    "address": "Under St. Marks, East Village",
-    "cost": "$1-15 sliding scale"
+    "title": "NYC Handmade Bazaar at Grand Bazaar NYC",
+    "description": "Indoors and outdoors at 100 W 77th St at Columbus Ave (UWS).",
+    "start_date": "2024-09-08",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/nyc-handmade-bazaar-6/",
+    "address": "100 W 77th St at Columbus Ave (UWS)",
+    "cost": "Free"
   },
   {
-    "title": "That Jenny C'est Quoi",
-    "description": "Stand-up comedy show by Jenny Gorelick, hosted by drag queen Virgo Rising.",
-    "start_date": "2024-09-04",
-    "start_time": "8:00 pm",
-    "end_date": "2024-09-04",
-    "end_time": "9:00 pm",
-    "link": "https://dice.fm/partner/dice/event/pyy9o8-that-jenny-cest-quoi-4th-sep-cmon-everybody-new-york-tickets",
-    "address": "C’mon Everybody, Bed-Stuy",
-    "cost": "$12.36"
+    "title": "27th Annual Ferragosto Festival",
+    "description": "Arthur Avenue between East 187th St + Crescent Ave (Bronx).",
+    "start_date": "2024-09-08",
+    "start_time": "12:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://ferragosto.com",
+    "address": "Arthur Avenue between East 187th St + Crescent Ave (Bronx)",
+    "cost": "Free"
   },
   {
-    "title": "Doctors Without Boundaries",
-    "description": "Comedy show featuring real-life ER doctors and standups sharing stories about their weirdest diagnoses.",
-    "start_date": "2024-09-04",
-    "start_time": "9:30 pm",
-    "end_date": "2024-09-04",
-    "end_time": "11:00 pm",
-    "link": "https://caveat.nyc/events/doctors-without-boundaries-9-4-2024",
-    "address": "Caveat, LES",
-    "cost": "$16.70 with promo code ‘resident’ (reg. $20+)"
+    "title": "West Side County Fair",
+    "description": "Pier I in Riverside Park South (UWS).",
+    "start_date": "2024-09-08",
+    "start_time": "1:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://www.nycgovparks.org/events/2024/09/08/summer-on-the-hudson-west-side-county-fair",
+    "address": "Pier I in Riverside Park South (UWS)",
+    "cost": "Free"
+  },
+  {
+    "title": "Korea Fest",
+    "description": "Culture Lab LIC.",
+    "start_date": "2024-09-08",
+    "start_time": "2:00 pm",
+    "end_time": "9:00 pm",
+    "link": "https://www.culturelablic.org/calendar",
+    "address": "Culture Lab LIC",
+    "cost": "Free"
+  },
+  {
+    "title": "NYC Labor Day Parade",
+    "description": "Fifth Avenue from 44th to 64th Street.",
+    "start_date": "2024-09-07",
+    "start_time": "10:00 am",
+    "link": "https://www.nycclc.org/event/2024-new-york-city-labor-day-parade-sep-07-2024",
+    "address": "Fifth Avenue from 44th to 64th Street",
+    "cost": "Free"
+  },
+  {
+    "title": "Friends of Adams Street Library Book Sale",
+    "description": "Adams Street Library (DUMBO).",
+    "start_date": "2024-09-07",
+    "start_time": "11:00 am",
+    "end_time": "4:00 pm",
+    "link": "https://www.bklynlibrary.org/calendar/friends-adams-street-book-adams-street-library-20240907-1100am",
+    "address": "Adams Street Library (DUMBO)",
+    "cost": "Free"
+  },
+  {
+    "title": "Spike’s Joint Pop-Up Stoop Sale",
+    "description": "At filmmaker Spike Lee’s Forty Acres and a Mule HQ (Fort Greene). Bonus: Lee will do in-person signings for select items.",
+    "start_date": "2024-09-07",
+    "start_time": "12:00 pm",
+    "end_time": "7:00 pm",
+    "link": "https://www.instagram.com/p/C_WnDQXSxl_/",
+    "address": "Fort Greene",
+    "cost": "Free"
+  },
+  {
+    "title": "Vans Block Party",
+    "description": "Vans Skate Space 198 (Bushwick).",
+    "start_date": "2024-09-07",
+    "start_time": "3:00 pm",
+    "end_time": "1:00 am",
+    "link": "https://www.eventbrite.com/e/vans-block-party-tickets-993789670657",
+    "address": "Vans Skate Space 198 (Bushwick)",
+    "cost": "Free"
+  },
+  {
+    "title": "Bronx Night Market",
+    "description": "1 Fordham Plaza.",
+    "start_date": "2024-09-07",
+    "start_time": "4:00 pm",
+    "end_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/night-markets-nyc-fordham-plaza-tickets-807916980437",
+    "address": "1 Fordham Plaza",
+    "cost": "Free"
+  },
+  {
+    "title": "50th Gracie Square Art Show",
+    "description": "Carl Schurz Park (Yorkville).",
+    "start_date": "2024-09-07",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://www.graciesquareartshow.com",
+    "address": "Carl Schurz Park (Yorkville)",
+    "cost": "Free"
+  },
+  {
+    "title": "98th Hoboken Italian Festival",
+    "description": "Hoboken's Sinatra Promenade from 2nd Street to Sinatra Drive.",
+    "start_date": "2024-09-06",
+    "end_date": "2024-09-08",
+    "link": "https://www.hobokenitalianfestival.com",
+    "address": "Hoboken's Sinatra Promenade from 2nd Street to Sinatra Drive",
+    "cost": "Free"
+  },
+  {
+    "title": "ICP Photobook Fest",
+    "description": "International Center of Photography (LES), $25 VIP preview Friday, $5 Saturday + Sunday.",
+    "start_date": "2024-09-06",
+    "end_date": "2024-09-08",
+    "link": "https://pbf.icp.org",
+    "address": "International Center of Photography (LES)",
+    "cost": "$25 VIP preview Friday, $5 Saturday + Sunday"
   }
 ]

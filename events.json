@@ -1,35 +1,96 @@
 [
   {
-    "title": "Beginner Violin Workshop",
-    "description": "A 2-hour workshop for adults to learn violin, with instruments provided for use during the class.",
-    "start_date": "2024-10-20",
-    "start_time": "1:00 pm",
-    "end_date": "2024-10-20",
-    "end_time": "3:00 pm",
-    "link": "https://www.bantam-studios.com/",
-    "address": "Class Space 243 Smith Street Brooklyn, NY 11231",
-    "cost": "$200"
+    "title": "University Open Air",
+    "description": "Immigrant teachers, professors, and academics who were trained outside of the U.S. share their knowledge with the public at a series of outdoor free classes held on the grounds around the Prospect Park Boathouse.",
+    "start_date": "2024-09-19",
+    "link": "https://www.bklynlibrary.org/university-open-air",
+    "cost": "Free admission"
   },
   {
-    "title": "Beginner Guitar Workshop",
-    "description": "A 2-hour workshop for adults to learn guitar, with instruments provided for use during the class.",
-    "start_date": "2024-10-13",
-    "start_time": "1:00 pm",
-    "end_date": "2024-10-13",
-    "end_time": "3:00 pm",
-    "link": "https://www.bantam-studios.com/",
-    "address": "Class Space 243 Smith Street Brooklyn, NY 11231",
-    "cost": "$200"
+    "title": "Imagine This Women’s Film Festival",
+    "description": "The ninth annual Imagine This Women’s Film Festival celebrates the work of women, BIPOC, LGBTQIA+, and underrepresented filmmakers from around the world, with over 90 films and screenplays from 20+ countries.",
+    "start_date": "2024-09-19",
+    "link": "https://www.imaginethiswomensfilmfestival.org",
+    "address": "Look Cinemas (Hell’s Kitchen) and Maysles Documentary Center (Harlem)",
+    "cost": "Free-$15.50"
   },
   {
-    "title": "Beginner Ukulele Workshop",
-    "description": "A 2-hour workshop designed for adults to learn how to play the ukulele, including a ukulele to take home, a songbook, and a drink.",
+    "title": "Fall for Dance Festival",
+    "description": "Returning to City Center for its 21st season, this year’s festival features five genre-spanning programs, including A.I.M by Kyle Abraham, Complexions Contemporary Ballet, Dutch National Ballet, and more.",
     "start_date": "2024-09-18",
-    "start_time": "7:30 pm",
-    "end_date": "2024-09-18",
-    "end_time": "9:30 pm",
-    "link": "https://www.bantam-studios.com/",
-    "address": "Brooklyn Artery, 1004 Cortelyou Rd, Brooklyn, NY 11218",
-    "cost": "$200*"
+    "link": "https://www.nycitycenter.org/pdps/FallforDance?utm_source=theskint&utm_medium=email&utm_campaign=FY25FallforDance&utm_content=PostOnSale",
+    "cost": "$30 ($23 if you buy at the box office)"
+  },
+  {
+    "title": "Free Outdoor Movies: The Breakfast Club",
+    "description": "Enjoy a free outdoor screening of 'The Breakfast Club' at McGolrick Park (Greenpoint).",
+    "start_date": "2024-09-18",
+    "link": "https://www.nycgovparks.org/events/2024/09/18/movie-under-the-stars-the-breakfast-club",
+    "address": "McGolrick Park, Greenpoint",
+    "cost": "Free admission"
+  },
+  {
+    "title": "I'll Have... The Bisque! Comedy Variety Show for Charity",
+    "description": "Improv troupe The Bisque and stand-up guests Pratima Mani and Maria Decotis team up for a comedy show to raise money for the Brigid Alliance, a nonprofit organization that supports people who must travel long distances for abortion care.",
+    "start_date": "2024-09-18",
+    "start_time": "7:00 pm",
+    "link": "https://www.caveat.nyc/events/ill-have-the-bisque-9-18-2024",
+    "address": "Caveat, LES",
+    "cost": "$15 adv, $20 door"
+  },
+  {
+    "title": "Punderdome: Comedy Pun Slam",
+    "description": "Pun-masters have a war of the words at the beloved pun-slinging competition. Tonight's installment includes an all-star tournament of pun champions.",
+    "start_date": "2024-09-18",
+    "start_time": "8:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=976206508947",
+    "address": "Littlefield, Gowanus",
+    "cost": "$12 adv, $15 day-of"
+  },
+  {
+    "title": "The Babadook 10th Anniversary Screenings with Jennifer Kent",
+    "description": "Celebrate Jennifer Kent's 2014 psychological horror film 'The Babadook' with Kent in-person for Q&A following select screenings at various locations: Museum of the Moving Image, Rooftop Films, and IFC Center.",
+    "start_date": "2024-09-17",
+    "start_time": "various times",
+    "end_date": "2024-09-19",
+    "link": "https://movingimage.org/event/the-babadook-10th/",
+    "address": "Museum of the Moving Image, Rooftop Films, IFC Center",
+    "cost": "various prices"
+  },
+  {
+    "title": "Astronomy on Tap: Watching the Skies",
+    "description": "An evening where astronomy enthusiasts come together in a bar to hear talks from professional scientists and play themed games. Tonight’s naked-eye astronomy edition includes guest speakers Shirin Gul Zaidi and Shawn Ray.",
+    "start_date": "2024-09-17",
+    "start_time": "7:00 pm",
+    "link": "https://astronomyontap.org/event/astronomy-on-tap-nyc-145-watching-the-skies/",
+    "address": "Pete’s Candy Store, Williamsburg",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Brooklyn Books + Booze",
+    "description": "Hear established and up-and-coming authors of different genres read from their current works every third Tuesday of the month. Tonight's edition features Rob Cameron, A.C. Wise, Ed Zuckerman, and Carlos Hernandez.",
+    "start_date": "2024-09-17",
+    "start_time": "7:00 pm",
+    "link": "https://randeedawn.com/bonus/brooklyn-books-booze/",
+    "address": "Barrow's Intense Tasting Room, Industry City",
+    "cost": "Free admission"
+  },
+  {
+    "title": "The Broad Squad",
+    "description": "Kendra Cunningham curates this monthly throwback variety show filled with stand-up, storytelling, music, and tarot readings. Tonight features comedy by Mel Ferraro, Erin Anderson, Vicky Kuperman, Max Cohen, and Mindy Raf, storytelling by Sandi Marx, and music by Shawn Hollenbach.",
+    "start_date": "2024-09-17",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/the-broad-squad-tickets-1012523594327",
+    "address": "Young Ethel’s, Park Slope",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "Animation Nights New York",
+    "description": "Watch animated short films and virtual reality animation experiences from around the world at this monthly curated screening event.",
+    "start_date": "2024-09-17",
+    "start_time": "8:00 pm",
+    "link": "https://www.animationnights.com",
+    "address": "The Gutter Spare Room, Williamsburg",
+    "cost": "Free admission (donations welcome)"
   }
 ]

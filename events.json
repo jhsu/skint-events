@@ -1,299 +1,94 @@
 [
   {
-    "title": "Broadway Flea Market + Grand Auction",
-    "description": "W. 44th + 45 Sts., Shubert Alley, and the Times Square pedestrian plaza between 45th + 46th Sts.",
-    "start_date": "2024-09-22",
-    "start_time": "10:00 am",
-    "end_date": "2024-09-22",
-    "end_time": "7:00 pm",
-    "link": "https://broadwaycares.org/pre-event/broadway-flea-market-and-grand-auction-2024/",
-    "cost": "Free"
-  },
-  {
-    "title": "Eighth Annual House of Yes Block Party + After Party",
-    "description": "House of Yes (Bushwick).",
-    "start_date": "2024-09-22",
-    "start_time": "12:00 pm",
-    "end_date": "2024-09-22",
-    "end_time": "1:00 am",
-    "link": "https://www.houseofyes.org/calendar/",
-    "cost": "Free"
-  },
-  {
-    "title": "Pasar Malam: Indonesian Food Bazaar",
-    "description": "Culture Lab (LIC).",
-    "start_date": "2024-09-22",
+    "title": "Brooklyn Whiskey & Spirits Fest",
+    "description": "Discover new flavors, meet distillers, and enjoy unlimited whiskey and spirits samples for the entire session, paired with live entertainment, interactive games, and food available to purchase.",
+    "start_date": "2024-09-28",
     "start_time": "1:00 pm",
-    "end_date": "2024-09-22",
     "end_time": "9:00 pm",
-    "link": "https://www.culturelablic.org/calendar",
+    "link": "https://www.eventbrite.com/e/brooklyn-whiskey-and-spirits-fest-tickets-953885967607?discount=THESKINT",
+    "address": "Brooklyn Navy Yard Building 77, 141 Flushing Ave, Brooklyn, NY 11205",
+    "cost": "$40 (with promo code THESKINT)"
+  },
+  {
+    "title": "16th Architecture + Design Film Festival",
+    "description": "The ADFF returns to NYC with 17 world and U.S. premieres celebrating the global impact of architecture, design, and art, with films touching on sustainability, artistic legacy, community impact, and the built environment.",
+    "start_date": "2024-09-25",
+    "end_date": "2024-09-28",
+    "link": "https://adfilmfest.com/adff-ny/",
+    "address": "Village East by Angelika",
+    "cost": "$16 general, $12 students"
+  },
+  {
+    "title": "Game of Thrones Auction Preview",
+    "description": "Before going up for auction on October 10, the public is welcome to view (in person!) a selection of authentic costumes, weapons, props, and set decorations from HBO's Game of Thrones at Heritage Auctions' New York City gallery (Midtown East). Free admission.",
+    "start_date": "2024-09-24",
+    "end_date": "2024-10-04",
+    "link": "https://www.ha.com/heritage-auctions-press-releases-and-news/heritage-auctions-and-hbo-r-deliver-the-mother-of-auctions-with-more-than-2-000-costumes-weapons-props-set-decorations-from-game-of-thrones-tm-.s?releaseId=5036",
+    "address": "Heritage Auctions' New York City gallery, Midtown East",
+    "cost": "Free"
+  },
+  {
+    "title": "After School Special: SVA’s Alumni Film and Animation Festival",
+    "description": "The School of Visual Arts presents its annual fest featuring screenings and discussions with alumni behind a selection of recent documentaries, blockbusters, and shorts including Barbie, Spider-Man: Across the Spider-Verse, Hangdog, and more.",
+    "start_date": "2024-09-24",
+    "end_date": "2024-09-29",
+    "link": "https://sva.edu/events/after-school-special-2024",
+    "address": "SVA Theatre, Chelsea",
     "cost": "Free"
   },
   {
     "title": "Free Outdoor Movies",
-    "description": "Weather permitting: A Bug's Life at Robert Moses Playground (Murray Hill), Barbie at Hudson Yards Public Square + Gardens, The Little Mermaid (2023) at Irving Square Park (Bushwick).",
-    "start_date": "2024-09-22",
-    "link": "https://www.nycgovparks.org/events/2024/09/20/movies-under-the-stars-a-bugs-life",
+    "description": "Weather permitting: Madagascar (4pm) and Moonstruck (7pm) at Domino Park (Williamsburg).",
+    "start_date": "2024-09-24",
+    "start_time": "4:00 pm",
+    "end_time": "9:00 pm",
+    "link": "https://www.eventbrite.com/e/movie-night-in-the-square-tickets-1014032477437",
+    "address": "Domino Park, Williamsburg",
     "cost": "Free"
   },
   {
-    "title": "Third Annual John Coltrane Festival",
-    "description": "A packed lineup of musicians pay tribute to jazz great John Coltrane at Richard Rodgers Amphitheater in Marcus Garvey Park (Harlem).",
-    "start_date": "2024-09-22",
-    "start_time": "3:00 pm",
-    "end_date": "2024-09-22",
-    "end_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/its-the-third-annual-free-john-coltrane-festival-in-marcus-garvey-park-tickets-1003575710967",
-    "cost": "Free"
-  },
-  {
-    "title": "Character Night",
-    "description": "Discover new, unusual, and funny characters, impressions, and bits created by a lineup of imaginative performers. Hosted by Otter Lee (Tooning Out the News). Magnet Theater (Chelsea).",
-    "start_date": "2024-09-22",
+    "title": "Opera Italiana in Central Park: Opera for Your Soul: A Serenade at Sunset",
+    "description": "Alvise Casellati conducts works by Mascagni, Mozart, Puccini, Rossini, Verdi, and others at this annual free concert at Central Park’s Naumburg Bandshell.",
+    "start_date": "2024-09-24",
     "start_time": "6:00 pm",
-    "link": "https://magnettheater.com/show/58781/",
-    "cost": "$10"
+    "link": "https://www.operaitalianaisintheair.com/home",
+    "address": "Central Park’s Naumburg Bandshell",
+    "cost": "Free"
   },
   {
-    "title": "Stand-Up Comedy at New-York Historical Society",
-    "description": "Comedian, tour guide, and NYC history nerd Tom Delgado hosts an early-bird hour of comedy with a Gotham spin at the New-York Historical Society Museum + Library (UWS).",
-    "start_date": "2024-09-22",
-    "start_time": "6:00 pm",
-    "link": "https://www.nyhistory.org/programs/new-york-hysterical-stand-up-comedy3?date=2024-09-20",
-    "cost": "Free with museum admission"
+    "title": "Maya Wiley: Remember, You Are a Wiley",
+    "description": "Civil rights activist, attorney, and professor Maya Wiley discusses her new memoir, Remember, You Are a Wiley, in a conversation with Christina Greer, Associate Professor of Political Science at Fordham University.",
+    "start_date": "2024-09-24",
+    "start_time": "6:30 pm",
+    "link": "https://www.nypl.org/events/programs/2024/09/24/remember-you-are-wiley-maya-wiley",
+    "address": "Schomburg Center for Research in Black Culture, Harlem",
+    "cost": "Free"
   },
   {
-    "title": "Nerd Nite: 19th Season Kick-Off",
-    "description": "Fun-yet-informative presentations on a wide range of subjects. Littlefield (Gowanus).",
-    "start_date": "2024-09-22",
+    "title": "Jami Attenberg: A Reason to See You Again with Mary H.K. Choi",
+    "description": "Author Jami Attenberg presents her new novel, A Reason to See You Again, in a conversation with writer and author Mary H.K. Choi (Yolk) at Books Are Magic (Brooklyn Heights).",
+    "start_date": "2024-09-24",
     "start_time": "7:00 pm",
-    "link": "https://nyc.nerdnite.com/2024/03/29/nerd-nite-nyc-in-manhattan-april-30-with-lost-subways-misophonia-and-middle-earth/",
-    "cost": "$12"
+    "link": "https://booksaremagic.net/events/40626",
+    "address": "Books Are Magic, Brooklyn Heights",
+    "cost": "$10 ticket includes a store gift card, $28 ticket includes a copy of the book."
   },
   {
-    "title": "Kweendom",
-    "description": "LGBTQ+ comedy and storytelling show, featuring performances by Tessa Skara, David Mills, Ricky Sim, Annabeth Mann, and Slim. Hosted by Bobby Hankinson. Pete’s Candy Store (Williamsburg).",
-    "start_date": "2024-09-22",
+    "title": "We Love a Theme: A Storytelling Show",
+    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at tonight’s ‘Schooled’ edition of Bailey Swilley’s monthly storytelling show.",
+    "start_date": "2024-09-24",
     "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/kweendom-tickets-1015841077007",
-    "cost": "Free"
+    "link": "https://www.petescandystore.com/calendar/",
+    "address": "Pete’s Candy Store, Williamsburg",
+    "cost": "Free ($5 suggested donation)"
   },
   {
-    "title": "Dreamland Roller Disco",
-    "description": "Lola Star’s themed skate parties continue at Prospect Park’s Lefrak Center for the fall season. Tonight’s theme: 70s shimmer disco.",
-    "start_date": "2024-09-22",
-    "start_time": "7:00 pm",
-    "link": "https://dreamlandrollerrink.com",
-    "cost": "$25 admission includes skate rental"
-  },
-  {
-    "title": "Best Night Ever: Comedy Music Party",
-    "description": "Comedy, music, and party combine at Audrey Black and Akshay Sampath’s Best Night Ever. El Santo Taqueria (East Williamsburg / Bushwick).",
-    "start_date": "2024-09-22",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/best-night-ever-comedy-show-tickets-1008654642187",
-    "cost": "$10 adv, $16 day of"
-  },
-  {
-    "title": "¡Vaya! Latin Band Dance Music Series: Orquesta Broadway",
-    "description": "Cuban charanga band Orquesta Broadway returns to Lincoln Center’s David Rubenstein Atrium (UWS).",
-    "start_date": "2024-09-22",
-    "start_time": "7:30 pm",
-    "link": "https://www.lincolncenter.org/series/lincoln-center-presents/orquesta-broadway-577",
-    "cost": "Free"
-  },
-  {
-    "title": "Bitches Brew Comedy Show",
-    "description": "Women-produced and-hosted comedy show, returning to the back room at Halyards (Gowanus).",
-    "start_date": "2024-09-22",
-    "start_time": "8:30 pm",
-    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "cost": "Free"
-  },
-  {
-    "title": "Cheap Therapy by Hoes with Feelings",
-    "description": "Stand-up comedy meets group therapy. The Living Room at Arlo Soho.",
-    "start_date": "2024-09-22",
-    "start_time": "9:00 pm",
-    "link": "https://www.eventbrite.com/e/cheap-therapy-by-hoes-with-feelings-tickets-998687740917",
-    "cost": "$15.71 with promo code ‘skint’ (reg. $23.18)"
-  },
-  {
-    "title": "The National Arts Club Community Day",
-    "description": "The National Arts Club (Gramercy).",
-    "start_date": "2024-09-21",
-    "start_time": "10:00 am",
-    "end_date": "2024-09-21",
-    "end_time": "4:00 pm",
-    "link": "https://www.eventbrite.com/e/the-national-arts-club-community-day-tickets-972443814627",
-    "cost": "Free"
-  },
-  {
-    "title": "34th Annual West 104th Street Block Association Yard Sale",
-    "description": "West 104th St bet. West End Ave + Riverside Drive.",
-    "start_date": "2024-09-21",
-    "start_time": "10:00 am",
-    "end_date": "2024-09-21",
-    "end_time": "5:00 pm",
-    "link": "https://bloomingdale.org",
-    "cost": "Free"
-  },
-  {
-    "title": "Astoria Park Alliance’s Third Annual Classic Car Show",
-    "description": "Shore Boulevard along Astoria Park.",
-    "start_date": "2024-09-21",
-    "start_time": "11:00 am",
-    "end_date": "2024-09-21",
-    "end_time": "3:00 pm",
-    "link": "http://www.astoriaparkalliance.org/events/astoriaparkclassiccarshow2024-h7l5n",
-    "cost": "Free"
-  },
-  {
-    "title": "La Feria: Print Media Fair",
-    "description": "20 Cooper Square, 3rd Floor (Noho/East Village).",
-    "start_date": "2024-09-21",
-    "start_time": "11:00 am",
-    "end_date": "2024-09-21",
-    "end_time": "5:00 pm",
-    "link": "https://www.latinxproject.nyu.edu/20242025/la-feria-print-media-fair",
-    "cost": "Free"
-  },
-  {
-    "title": "New York Queer Zine Fair",
-    "description": "The Lesbian, Gay, Bisexual + Transgender Community Center (Greenwich Village).",
-    "start_date": "2024-09-21",
-    "start_time": "11:00 am",
-    "end_date": "2024-09-21",
-    "end_time": "5:00 pm",
-    "link": "https://www.nyqzf.com",
-    "cost": "Free"
-  },
-  {
-    "title": "Annual Brooklyn Flea Record Fair",
-    "description": "Marsha P. Johnson State Park (Williamsburg), next to Smorgasburg.",
-    "start_date": "2024-09-21",
-    "start_time": "11:00 am",
-    "end_date": "2024-09-21",
-    "end_time": "6:00 pm",
-    "link": "https://www.brooklynflearecordfair.com",
-    "cost": "Free"
-  },
-  {
-    "title": "67th Annual German-American Steuben Parade",
-    "description": "Fifth Avenue from 68th Street to 86th Street.",
-    "start_date": "2024-09-21",
-    "start_time": "12:00 pm",
-    "end_date": "2024-09-21",
-    "end_time": "2:00 pm",
-    "link": "https://www.facebook.com/events/808522857695096",
-    "cost": "Free"
-  },
-  {
-    "title": "13th Annual All About Downtown Street Fair",
-    "description": "Newark Ave bet. Grove St. + Coles St. (Jersey City).",
-    "start_date": "2024-09-21",
-    "start_time": "12:00 pm",
-    "end_date": "2024-09-21",
-    "end_time": "8:00 pm",
-    "link": "https://jcdowntown.org/event/all-about-downtown/",
-    "cost": "Free"
-  },
-  {
-    "title": "Poseidon’s Parade",
-    "description": "Boardwalk at Beach 105th St. to 95th St. (Rockaway Beach).",
-    "start_date": "2024-09-21",
-    "start_time": "1:00 pm",
-    "end_date": "2024-09-21",
-    "end_time": "3:00 pm",
-    "link": "http://www.poseidonsparade.com",
-    "cost": "$5+"
-  },
-  {
-    "title": "Jersey City Night Market",
-    "description": "Journal Square-Magnolia Landing.",
-    "start_date": "2024-09-21",
-    "start_time": "2:00 pm",
-    "end_date": "2024-09-21",
-    "end_time": "8:00 pm",
-    "link": "https://www.midnightmarketevents.com/jcnightmarket",
-    "cost": "Free"
-  },
-  {
-    "title": "Art Crawl Journal Square",
-    "description": "(Jersey City).",
-    "start_date": "2024-09-21",
-    "start_time": "3:00 pm",
-    "end_date": "2024-09-21",
-    "end_time": "7:00 pm",
-    "link": "https://artfair14c.com/art-crawl/",
-    "cost": "Free"
-  },
-  {
-    "title": "13th Annual Morningside Lights Procession",
-    "description": "Morningside Heights.",
-    "start_date": "2024-09-21",
+    "title": "Live Band Karaoke at Arlene’s Grocery",
+    "description": "Choose from over 175 rock and pop songs and sing with your very own live band backing you up at Arlene’s Grocery (LES).",
+    "start_date": "2024-09-24",
     "start_time": "8:00 pm",
-    "end_date": "2024-09-21",
-    "end_time": "10:00 pm",
-    "link": "https://www.morningside-lights.com",
-    "cost": "Free"
-  },
-  {
-    "title": "West Side Community Garden’s Annual Arts and Crafts Festival",
-    "description": "89th St. bet. Columbus + Amsterdam Aves.",
-    "start_date": "2024-09-21",
-    "start_time": "10:00 am",
-    "end_date": "2024-09-22",
-    "end_time": "4:00 pm",
-    "link": "https://www.westsidecommunitygarden.org",
-    "cost": "Free"
-  },
-  {
-    "title": "11th Annual NYC Hot Sauce Expo",
-    "description": "Industry City (Sunset Park).",
-    "start_date": "2024-09-21",
-    "end_date": "2024-09-22",
-    "link": "http://www.nychotsauceexpo.com",
-    "cost": "$15 adv, $20 day of"
-  },
-  {
-    "title": "Sneaker Con",
-    "description": "Maimonides Park (Coney Island).",
-    "start_date": "2024-09-21",
-    "end_date": "2024-09-22",
-    "link": "https://sneakercon.com/event/sneaker-con-new-york-city-september-21-22-2024/",
-    "cost": "$30 admission"
-  },
-  {
-    "title": "Oktoberfest Celebrations",
-    "description": "Throughout NYC.",
-    "start_date": "2024-09-20",
-    "end_date": "2024-10-31",
-    "link": "https://www.timeout.com/newyork/things-to-do/the-best-events-for-oktoberfest-in-nyc",
-    "cost": "Free"
-  },
-  {
-    "title": "13th Annual LUNGS Harvest Arts Festival",
-    "description": "30+ Lower East Side community gardens.",
-    "start_date": "2024-09-20",
-    "end_date": "2024-09-29",
-    "link": "https://lungsnyc.org/2024/09/01/13th-annual-lungs-harvest-arts-festival/",
-    "cost": "Free"
-  },
-  {
-    "title": "18th Annual Anarchist Book Fair + Festival",
-    "description": "Various locations.",
-    "start_date": "2024-09-20",
-    "end_date": "2024-09-22",
-    "link": "https://anarchistbookfair.net",
-    "cost": "Free"
-  },
-  {
-    "title": "Brooklyn Art Book Fair 2024",
-    "description": "Recess and Marc Agger (Clinton Hill).",
-    "start_date": "2024-09-20",
-    "end_date": "2024-09-22",
-    "link": "https://www.bkabf.info",
-    "cost": "Free"
+    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
+    "address": "Arlene’s Grocery, LES",
+    "cost": "$10"
   }
 ]

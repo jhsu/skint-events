@@ -7,24 +7,142 @@
     "end_time": "9:00 pm",
     "link": "https://www.eventbrite.com/e/brooklyn-whiskey-and-spirits-fest-tickets-953885967607?discount=THESKINT",
     "address": "Brooklyn Navy Yard Building 77, 141 Flushing Ave, Brooklyn, NY 11205",
-    "cost": "$40 (with promo code THESKINT)"
+    "cost": "Varies by ticket type"
+  },
+  {
+    "title": "We Are Here: Scenes from the Streets",
+    "description": "International Center of Photography (LES) hosts an exhibition of works by 30 street photographers from around the world.",
+    "start_date": "2024-09-26",
+    "end_date": "2025-01-06",
+    "link": "https://www.icp.org/exhibitions/we-are-here-scenes-from-the-streets",
+    "address": "International Center of Photography, LES",
+    "cost": "$18 general, $14 seniors, $12 students, pay-by-donation Thursdays ($5 min)"
+  },
+  {
+    "title": "Bryant Park Square Dance",
+    "description": "For the first time since 2019, Bryant Park's annual Midtown hoedown returns with live music, mechanical bull rides, trick roping lessons, corn hole and lawn games, and more.",
+    "start_date": "2024-09-26",
+    "start_time": "5:00 pm",
+    "end_time": "9:00 pm",
+    "link": "https://bryantpark.org/calendar/event/square-dance/2024-09-26",
+    "address": "Bryant Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Investigative Journalism in the Age of Streaming",
+    "description": "Join journalists Robert Kolker and Jessica Pressler for a conversation on how podcasts and streaming services are reshaping long-form reporting.",
+    "start_date": "2024-09-26",
+    "start_time": "6:00 pm",
+    "link": "https://downtownny.com/news/lm-live-investigative-journalism/",
+    "address": "Down Town Association, Financial District",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movie: Harry Potter and the Sorcerer's Stone",
+    "description": "Weather permitting, enjoy a free outdoor movie at Fosun Plaza (Financial District).",
+    "start_date": "2024-09-26",
+    "start_time": "7:00 pm",
+    "link": "https://drafthouse.com/nyc/news/fall-movie-series-28-liberty",
+    "address": "Fosun Plaza, Financial District"
+  },
+  {
+    "title": "Risk! True Tales Boldly Told",
+    "description": "Hear guests tell true stories they never thought they’d share in public at Kevin Allison’s Risk! show.",
+    "start_date": "2024-09-26",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/events/risk-live-show-and-story-slam-in-new-york-9-26-2024",
+    "address": "Caveat, LES"
+  },
+  {
+    "title": "Golden Spiral Comedy Show",
+    "description": "Stand-up set lengths will follow the Fibonacci sequence at the Golden Spiral Comedy Show, hosted by Katie Compa and Mindy Raf.",
+    "start_date": "2024-09-26",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/golden-spiral-comedy-september-tickets-1007826986647",
+    "address": "Whiskey Cellar NYC, East Village",
+    "cost": "$7.18 with promo code ‘skintspiral’ (reg. $10.38+)"
+  },
+  {
+    "title": "Futuros, New Ideas in Composition",
+    "description": "New Latin Wave brings their Latine composers showcase to Lincoln Center’s David Rubenstein Atrium for four nights.",
+    "start_date": "2024-09-26",
+    "start_time": "7:30 pm",
+    "link": "https://www.lincolncenter.org/series/lincoln-center-presents/s/FUTUROS",
+    "address": "Lincoln Center, David Rubenstein Atrium, UWS",
+    "cost": "Free"
   },
   {
     "title": "16th Architecture + Design Film Festival",
     "description": "The ADFF returns to NYC with 17 world and U.S. premieres celebrating the global impact of architecture, design, and art, with films touching on sustainability, artistic legacy, community impact, and the built environment.",
     "start_date": "2024-09-25",
-    "end_date": "2024-09-28",
+    "end_date": "2024-09-29",
     "link": "https://adfilmfest.com/adff-ny/",
     "address": "Village East by Angelika",
     "cost": "$16 general, $12 students"
   },
   {
+    "title": "Gather Round: Street and Club Dance Battles",
+    "description": "On the heels of breakdancing’s debut at the Olympics, Works + Process brings a series of music and dance battles to Manhattan West Plaza. Today: a beatbox battle with the Beatbox House Collective.",
+    "start_date": "2024-09-25",
+    "start_time": "4:30 pm",
+    "end_time": "6:30 pm",
+    "link": "https://manhattanwestnyc.com/event/works-process-gather-round/2024-09-04/",
+    "address": "Manhattan West Plaza, 385 9th Avenue, Midtown",
+    "cost": "Free"
+  },
+  {
+    "title": "Domino Park Presents: Salsa by the Water",
+    "description": "Domino Park and Nieves Latin Dance Studio team up for a night of dancing on the Williamsburg waterfront. The evening will feature a free intro salsa class at 6:15pm, DJs, and a live band.",
+    "start_date": "2024-09-25",
+    "start_time": "6:00 pm",
+    "end_time": "9:00 pm",
+    "link": "https://www.instagram.com/p/C_OPym2x-0w/",
+    "address": "Domino Park, Williamsburg",
+    "cost": "Free"
+  },
+  {
+    "title": "Two Beers In: A Tipsy Political Roundtable",
+    "description": "A panel of opinionated NYC comedians, journalists, and politicians debate current events over a couple of beers.",
+    "start_date": "2024-09-25",
+    "start_time": "7:00 pm",
+    "link": "https://ucbcomedy.com/show/two-beers-in-a-tipsy-political-roundtable/",
+    "address": "UCB, East Village",
+    "cost": "$10 adv, $15 day of"
+  },
+  {
+    "title": "Ditmas Lit",
+    "description": "A diverse range of fiction writers, storytellers, poets, and essayists share their work at the Ditmas Lit series.",
+    "start_date": "2024-09-25",
+    "start_time": "8:00 pm",
+    "link": "http://www.ditmaslit.com/events",
+    "address": "Urbane Arts Club, Ditmas Park",
+    "cost": "Free"
+  },
+  {
+    "title": "The Moth Storyslam",
+    "description": "The popular community-based open mic storytelling competition, where anyone can share a five-minute tale based on the evening’s theme to an attentive audience.",
+    "start_date": "2024-09-25",
+    "start_time": "8:00 pm",
+    "link": "https://themoth.org/events/earth-nyc-2024",
+    "address": "The Bell House, Gowanus",
+    "cost": "$15"
+  },
+  {
+    "title": "Ambush Comedy Show",
+    "description": "Josh Johnson, Lucas Connolly, and Brittany Cardwell’s Ambush Comedy Show returns to Ebbs Brewing Co with stand-up sets by various comedians.",
+    "start_date": "2024-09-25",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/ambush-comedy-at-ebbs-brewing-co-tickets-919141937277",
+    "address": "Ebbs Brewing Co, Williamsburg",
+    "cost": "Free"
+  },
+  {
     "title": "Game of Thrones Auction Preview",
-    "description": "Before going up for auction on October 10, the public is welcome to view (in person!) a selection of authentic costumes, weapons, props, and set decorations from HBO's Game of Thrones at Heritage Auctions' New York City gallery (Midtown East). Free admission.",
+    "description": "Before going up for auction on October 10, the public is welcome to view (in person!) a selection of authentic costumes, weapons, props, and set decorations from HBO's Game of Thrones at Heritage Auctions' New York City gallery (Midtown East).",
     "start_date": "2024-09-24",
     "end_date": "2024-10-04",
     "link": "https://www.ha.com/heritage-auctions-press-releases-and-news/heritage-auctions-and-hbo-r-deliver-the-mother-of-auctions-with-more-than-2-000-costumes-weapons-props-set-decorations-from-game-of-thrones-tm-.s?releaseId=5036",
-    "address": "Heritage Auctions' New York City gallery, Midtown East",
+    "address": "Heritage Auctions, New York City Gallery, Midtown East",
     "cost": "Free"
   },
   {
@@ -43,8 +161,7 @@
     "start_time": "4:00 pm",
     "end_time": "9:00 pm",
     "link": "https://www.eventbrite.com/e/movie-night-in-the-square-tickets-1014032477437",
-    "address": "Domino Park, Williamsburg",
-    "cost": "Free"
+    "address": "Domino Park, Williamsburg"
   },
   {
     "title": "Opera Italiana in Central Park: Opera for Your Soul: A Serenade at Sunset",
@@ -52,8 +169,7 @@
     "start_date": "2024-09-24",
     "start_time": "6:00 pm",
     "link": "https://www.operaitalianaisintheair.com/home",
-    "address": "Central Park’s Naumburg Bandshell",
-    "cost": "Free"
+    "address": "Central Park, Naumburg Bandshell"
   },
   {
     "title": "Maya Wiley: Remember, You Are a Wiley",
@@ -71,11 +187,11 @@
     "start_time": "7:00 pm",
     "link": "https://booksaremagic.net/events/40626",
     "address": "Books Are Magic, Brooklyn Heights",
-    "cost": "$10 ticket includes a store gift card, $28 ticket includes a copy of the book."
+    "cost": "$10 ticket includes a store gift card, $28 ticket includes a copy of the book"
   },
   {
     "title": "We Love a Theme: A Storytelling Show",
-    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at tonight’s ‘Schooled’ edition of Bailey Swilley’s monthly storytelling show.",
+    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at tonight’s ‘schooled’ edition of Bailey Swilley’s monthly storytelling show.",
     "start_date": "2024-09-24",
     "start_time": "7:00 pm",
     "link": "https://www.petescandystore.com/calendar/",

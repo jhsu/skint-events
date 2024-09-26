@@ -7,7 +7,7 @@
     "end_time": "9:00 pm",
     "link": "https://www.eventbrite.com/e/brooklyn-whiskey-and-spirits-fest-tickets-953885967607?discount=THESKINT",
     "address": "Brooklyn Navy Yard Building 77, 141 Flushing Ave, Brooklyn, NY 11205",
-    "cost": "Varies by ticket type"
+    "cost": "Varies (21+ Only)"
   },
   {
     "title": "We Are Here: Scenes from the Streets",
@@ -20,7 +20,7 @@
   },
   {
     "title": "Bryant Park Square Dance",
-    "description": "For the first time since 2019, Bryant Park's annual Midtown hoedown returns with live music, mechanical bull rides, trick roping lessons, corn hole and lawn games, and more.",
+    "description": "For the first time since 2019, Bryant Park's annual midtown hoedown returns with live music, mechanical bull rides, trick roping lessons, corn hole and lawn games, and more.",
     "start_date": "2024-09-26",
     "start_time": "5:00 pm",
     "end_time": "9:00 pm",
@@ -38,12 +38,13 @@
     "cost": "Free"
   },
   {
-    "title": "Free Outdoor Movie: Harry Potter and the Sorcerer's Stone",
-    "description": "Weather permitting, enjoy a free outdoor movie at Fosun Plaza (Financial District).",
+    "title": "Free Outdoor Movie",
+    "description": "Weather permitting: Harry Potter and the Sorcerer's Stone at Fosun Plaza (Financial District).",
     "start_date": "2024-09-26",
     "start_time": "7:00 pm",
     "link": "https://drafthouse.com/nyc/news/fall-movie-series-28-liberty",
-    "address": "Fosun Plaza, Financial District"
+    "address": "Fosun Plaza, Financial District",
+    "cost": "Free"
   },
   {
     "title": "Risk! True Tales Boldly Told",
@@ -51,7 +52,8 @@
     "start_date": "2024-09-26",
     "start_time": "7:00 pm",
     "link": "https://caveat.nyc/events/risk-live-show-and-story-slam-in-new-york-9-26-2024",
-    "address": "Caveat, LES"
+    "address": "Caveat, LES",
+    "cost": "Varies (save 20% with promo code ‘riskfriend')"
   },
   {
     "title": "Golden Spiral Comedy Show",
@@ -61,15 +63,6 @@
     "link": "https://www.eventbrite.com/e/golden-spiral-comedy-september-tickets-1007826986647",
     "address": "Whiskey Cellar NYC, East Village",
     "cost": "$7.18 with promo code ‘skintspiral’ (reg. $10.38+)"
-  },
-  {
-    "title": "Futuros, New Ideas in Composition",
-    "description": "New Latin Wave brings their Latine composers showcase to Lincoln Center’s David Rubenstein Atrium for four nights.",
-    "start_date": "2024-09-26",
-    "start_time": "7:30 pm",
-    "link": "https://www.lincolncenter.org/series/lincoln-center-presents/s/FUTUROS",
-    "address": "Lincoln Center, David Rubenstein Atrium, UWS",
-    "cost": "Free"
   },
   {
     "title": "16th Architecture + Design Film Festival",
@@ -111,7 +104,7 @@
   },
   {
     "title": "Ditmas Lit",
-    "description": "A diverse range of fiction writers, storytellers, poets, and essayists share their work at the Ditmas Lit series.",
+    "description": "A diverse range of fiction writers, storytellers, poets, and essayists share their work at the Ditmas Lit series, which moves to the Urbane Arts Club starting today.",
     "start_date": "2024-09-25",
     "start_time": "8:00 pm",
     "link": "http://www.ditmaslit.com/events",
@@ -120,7 +113,7 @@
   },
   {
     "title": "The Moth Storyslam",
-    "description": "The popular community-based open mic storytelling competition, where anyone can share a five-minute tale based on the evening’s theme to an attentive audience.",
+    "description": "The popular community-based open mic storytelling competition, where anyone can share a five-minute tale based on the evening’s theme to an attentive audience, returns to The Bell House. Tonight's theme: ‘Earth.’",
     "start_date": "2024-09-25",
     "start_time": "8:00 pm",
     "link": "https://themoth.org/events/earth-nyc-2024",
@@ -138,7 +131,7 @@
   },
   {
     "title": "Game of Thrones Auction Preview",
-    "description": "Before going up for auction on October 10, the public is welcome to view (in person!) a selection of authentic costumes, weapons, props, and set decorations from HBO's Game of Thrones at Heritage Auctions' New York City gallery (Midtown East).",
+    "description": "Before going up for auction on October 10, the public is welcome to view (in person!) a selection of authentic costumes, weapons, props, and set decorations from HBO's Game of Thrones at Heritage Auctions' New York City gallery (Midtown East). Free admission.",
     "start_date": "2024-09-24",
     "end_date": "2024-10-04",
     "link": "https://www.ha.com/heritage-auctions-press-releases-and-news/heritage-auctions-and-hbo-r-deliver-the-mother-of-auctions-with-more-than-2-000-costumes-weapons-props-set-decorations-from-game-of-thrones-tm-.s?releaseId=5036",
@@ -161,7 +154,8 @@
     "start_time": "4:00 pm",
     "end_time": "9:00 pm",
     "link": "https://www.eventbrite.com/e/movie-night-in-the-square-tickets-1014032477437",
-    "address": "Domino Park, Williamsburg"
+    "address": "Domino Park, Williamsburg",
+    "cost": "Free"
   },
   {
     "title": "Opera Italiana in Central Park: Opera for Your Soul: A Serenade at Sunset",
@@ -169,7 +163,8 @@
     "start_date": "2024-09-24",
     "start_time": "6:00 pm",
     "link": "https://www.operaitalianaisintheair.com/home",
-    "address": "Central Park, Naumburg Bandshell"
+    "address": "Central Park, Naumburg Bandshell",
+    "cost": "Free"
   },
   {
     "title": "Maya Wiley: Remember, You Are a Wiley",
@@ -187,7 +182,7 @@
     "start_time": "7:00 pm",
     "link": "https://booksaremagic.net/events/40626",
     "address": "Books Are Magic, Brooklyn Heights",
-    "cost": "$10 ticket includes a store gift card, $28 ticket includes a copy of the book"
+    "cost": "$10 (includes a store gift card), $28 (includes a copy of the book)"
   },
   {
     "title": "We Love a Theme: A Storytelling Show",

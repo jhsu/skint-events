@@ -1,11 +1,166 @@
 [
   {
-    "title": "Bryan Carter at JALC",
-    "description": "From the timeless sophistication of Billy Strayhorn to the lively energy of Shania Twain, 2024 Grammy and Tony Award winner Bryan Carter leads the 35-piece Jazz at Pride Orchestra in a spirited tribute to Bayard Rustin. Featuring vocalists Vuyo Sotashe, J. Hoard, Shenel Johns, and Georgia Heers, the evening offers a vibrant mix of genres, culminating in the world premiere of Carter’s jazz oratorio, Rustin in Renaissance.",
-    "start_date": "2024-10-18",
-    "end_date": "2024-10-19",
-    "link": "https://www.theskint.com/access-your-special-discount-code-for-bryan-carter-at-jalc-on-oct-18-19-sponsored/",
-    "address": "Frederick P. Rose Hall, Jazz at Lincoln Center",
-    "cost": "10% off with code SKINT"
+    "title": "BQ Flea Market",
+    "description": "A flea market featuring local vendors and unique finds, held under the BQE.",
+    "start_date": "2024-10-06",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://brooklynflea.com",
+    "address": "Under the BQE along Meeker Ave between Union Ave and Lorimer St. (Williamsburg/Greenpoint)"
+  },
+  {
+    "title": "NYC Vintage Bazaar at Grand Bazaar NYC",
+    "description": "A vintage market featuring unique finds and local vendors, held indoors and outdoors.",
+    "start_date": "2024-10-06",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/nyc-vintage-bazaar-3/",
+    "address": "100 W 77th St at Columbus Ave (UWS)"
+  },
+  {
+    "title": "Saint Francis Day Fair and Pet Blessings",
+    "description": "A fair celebrating Saint Francis with pet blessings and community activities.",
+    "start_date": "2024-10-06",
+    "start_time": "11:30 am",
+    "end_time": "2:00 pm",
+    "link": "https://www.stjohndivine.org/calendar/51020/st-francis-day-fair",
+    "address": "The Cathedral of Saint John the Divine (Morningside Heights)"
+  },
+  {
+    "title": "87th Annual Pulaski Day Parade",
+    "description": "A parade celebrating Polish heritage, taking place on Fifth Avenue from 39th to 54th streets.",
+    "start_date": "2024-10-06",
+    "start_time": "12:30 pm",
+    "link": "https://pulaskiparade.com/"
+  },
+  {
+    "title": "Harlem Meet Africa Festival",
+    "description": "A festival celebrating African culture with music, food, and community activities.",
+    "start_date": "2024-10-06",
+    "start_time": "2:00 pm",
+    "end_time": "7:00 pm",
+    "link": "https://www.facebook.com/HarlemMEETAfrica",
+    "address": "Richard Rodgers Amphitheater in Marcus Garvey Park (East Harlem)"
+  },
+  {
+    "title": "Nigeria Independence Day Parade",
+    "description": "A parade celebrating Nigeria's independence, taking place on Madison Ave from 38th to 24th streets.",
+    "start_date": "2024-10-05",
+    "start_time": "10:00 am",
+    "link": "https://www.facebook.com/NIDPNYC/",
+    "address": "Madison Ave from 38th to 24th streets"
+  },
+  {
+    "title": "Muddy Paws Rescue Block Party",
+    "description": "A block party to support Muddy Paws Rescue, featuring fun activities and community engagement.",
+    "start_date": "2024-10-05",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://www.muddypawsrescue.org/block-party",
+    "address": "West 54th Street between 9th + 10th Aves (Hell’s Kitchen)"
+  },
+  {
+    "title": "Old Stone House Artisans Bazaar",
+    "description": "An artisan market featuring local crafts and goods, set in Washington Park.",
+    "start_date": "2024-10-05",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://www.brooklynpop-up.com/market-event-details/2024-10-05/r/recekT40lYZchHMZI",
+    "address": "Washington Park (Park Slope)"
+  },
+  {
+    "title": "Korean Parade + Festival",
+    "description": "A vibrant parade followed by a festival celebrating Korean culture, with food, music, and activities.",
+    "start_date": "2024-10-05",
+    "start_time": "10:00 am",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/p/C_6vtk-PePa/",
+    "address": "Parade: Sixth Ave from 38th to 27th St; Festival: Koreatown, 32nd St bet Broadway + Fifth Ave"
+  },
+  {
+    "title": "East 6th Street Community Activation",
+    "description": "A community event in front of the Ukrainian Museum, featuring local artists and activities.",
+    "start_date": "2024-10-05",
+    "start_time": "12:00 pm",
+    "end_time": "5:00 pm",
+    "link": "https://www.theukrainianmuseum.org/umevents/",
+    "address": "In front of the Ukrainian Museum (East Village)"
+  },
+  {
+    "title": "NYC Halal Fest",
+    "description": "A food festival celebrating halal cuisine, with various vendors and activities.",
+    "start_date": "2024-10-05",
+    "start_time": "12:00 pm",
+    "end_time": "8:00 pm",
+    "link": "https://www.instagram.com/nychalalfest/",
+    "address": "Culture Lab LIC",
+    "cost": "$8 priority entry, free admission after 2pm"
+  },
+  {
+    "title": "Jersey City Night Market",
+    "description": "A night market featuring local vendors, food, and entertainment.",
+    "start_date": "2024-10-05",
+    "start_time": "2:00 pm",
+    "end_time": "8:00 pm",
+    "link": "https://www.midnightmarketevents.com/jcnightmarket",
+    "address": "City Hall Ancillary Lot"
+  },
+  {
+    "title": "Bronx Night Market",
+    "description": "A vibrant night market featuring food, music, and local vendors, marking the last of the season.",
+    "start_date": "2024-10-05",
+    "start_time": "4:00 pm",
+    "end_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/night-markets-nyc-fordham-plaza-tickets-807916980437",
+    "address": "1 Fordham Plaza"
+  },
+  {
+    "title": "Maker Faire Coney Island",
+    "description": "A family-friendly event showcasing makers, artists, and innovators, with hands-on activities.",
+    "start_date": "2024-10-05",
+    "start_time": "11:00 am",
+    "end_date": "2024-10-06",
+    "end_time": "10:00 pm",
+    "link": "https://coneyisland.makerfaire.com",
+    "cost": "$30"
+  },
+  {
+    "title": "41st Annual Queens Agricultural Fair",
+    "description": "A fair celebrating agriculture with exhibits, food, and activities for all ages.",
+    "start_date": "2024-10-05",
+    "start_time": "11:00 am",
+    "end_date": "2024-10-06",
+    "end_time": "6:00 pm",
+    "link": "https://www.queensfarm.org/queens-agricultural-fair/",
+    "address": "Queens County Fair Museum (Floral Park)",
+    "cost": "$14-20"
+  },
+  {
+    "title": "Annual Brooklyn Synth + Pedal Expo",
+    "description": "An expo for music enthusiasts featuring synthesizers and pedals, with performances and workshops.",
+    "start_date": "2024-10-05",
+    "start_time": "12:00 pm",
+    "end_date": "2024-10-06",
+    "end_time": "6:00 pm",
+    "link": "https://delicious-audio.com/brooklyn-synth-pedal-expo/",
+    "address": "100 Sutton Event Space (Greenpoint)"
+  },
+  {
+    "title": "Red Hook Open Studios",
+    "description": "An event showcasing local artists and their work in Red Hook, Brooklyn.",
+    "start_date": "2024-10-05",
+    "start_time": "1:00 pm",
+    "end_date": "2024-10-06",
+    "end_time": "6:00 pm",
+    "link": "https://www.redhookopenstudios.com",
+    "address": "Red Hook, Brooklyn"
+  },
+  {
+    "title": "35th Annual Jersey City Art + Studio Tour",
+    "description": "A cultural event showcasing local artists and studios in Jersey City.",
+    "start_date": "2024-10-04",
+    "end_date": "2024-10-06",
+    "link": "https://artfair14c.com/jcast/",
+    "cost": "Free"
   }
 ]

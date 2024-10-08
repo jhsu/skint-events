@@ -1,12 +1,94 @@
 [
   {
-    "title": "HOW TO WIN AN ELECTION (SPONSORED)",
-    "description": "Stressed about the election in November? Wondering if there’s anything more you can do besides donating, phone banking, and clicking refresh on Nate Silver’s forecast? Join Andrea Jones-Rooy, a data scientist with a Ph.D. in political science, as she discusses how to get out the vote, think about polls, change minds, defeat misinformation, and handle election stress with various experts.",
-    "start_date": "2024-10-06",
-    "start_time": "2:30 pm",
-    "end_date": "2024-11-03",
-    "link": "https://www.theskint.com/how-to-win-an-election-sponsored/",
-    "address": "Caveat theater, Lower East Side",
-    "cost": "$5 with code IMGOINGTOVOTE, $10 without."
+    "title": "Nosferatu with Radiohead: A Silents Synced Film",
+    "description": "Austin’s Blue Starlite Mini Urban Drive-In owner Josh Frank brings his ‘Silents Synced’ series to NYC. Combining classic silent cinema with rock albums, tonight’s screening pairs F.W. Murnau’s Nosferatu (1922) with Radiohead’s Kid A (2000) and Amnesiac (2001).",
+    "start_date": "2024-10-08",
+    "start_time": "8:00 pm",
+    "end_date": "2024-10-08",
+    "end_time": "10:00 pm",
+    "link": "https://www.roxycinemanewyork.com/screenings/nosferatu-with-radiohead/",
+    "address": "Roxy Cinema (Tribeca)",
+    "cost": "$18"
+  },
+  {
+    "title": "Camera of the Month Club's Tenth-Year Show",
+    "description": "Camera of the Month Club celebrates its 10th year as a NYC photo collective with ‘Less is More: A Ten Year Show,’ a group exhibition featuring works by 19 photographers that spans landscape, documentary, portraiture, street photography and more. Open photo critique 10/9 6-8pm, opening reception 10/10 6-8pm.",
+    "start_date": "2024-10-08",
+    "end_date": "2024-10-14",
+    "link": "https://www.cameraofthemonthclub.com/tenyearshow",
+    "address": "Soho Photo Gallery (Tribeca)",
+    "cost": "Free"
+  },
+  {
+    "title": "22nd Annual Open House New York Weekend Festival Reservations Open",
+    "description": "On October 18-20, 270+ locations across the five boroughs, including skyscrapers, power plants, artist studios, and much more will be open to the public for talks, tours, and behind-the-scenes access. While most are free and do not require a reservation, this morning at 11am tickets will go on sale for select locations that have limited access.",
+    "start_date": "2024-10-08",
+    "start_time": "11:00 am",
+    "link": "https://ohny.org/weekend/",
+    "cost": "$6"
+  },
+  {
+    "title": "Lunch Box Food Fair",
+    "description": "The Downtown Alliance's annual lunchtime food fair returns to Fosun Plaza (28 Liberty Street) with 10 new downtown restaurants serving up ‘lunch boxes’ for just $10 each. Participating restaurants include Shikku at Tin Building by Jean-Georges, Plant Junkie, All'Antico Vinaio, and more.",
+    "start_date": "2024-10-08",
+    "start_time": "11:30 am",
+    "end_time": "2:30 pm",
+    "link": "https://downtownny.com/lunch-box/",
+    "address": "Fosun Plaza (28 Liberty Street)",
+    "cost": "$10"
+  },
+  {
+    "title": "Great Bars of New York City",
+    "description": "Photographers James and Karla Murray present their latest book, Great Bars of New York City, an homage to neighborhood watering holes from McSorley’s Old Ale House to Jimmy’s Corner to Beauty Bar. Hosted by the Greenwich Village Society for Historic Preservation at St. John's in the Village.",
+    "start_date": "2024-10-08",
+    "start_time": "6:00 pm",
+    "link": "https://www.villagepreservation.org/event/great-bars-of-new-york-city/",
+    "address": "St. John's in the Village",
+    "cost": "Free (RSVP required)"
+  },
+  {
+    "title": "Brooklyn Poetry Slam",
+    "description": "Slam poets gather for a night of words and community, hosted by Mahogany L. Browne and DJ Jive Poetic at BRIC House Ballroom (Fort Greene). The event features a slam competition and open mic that participants can sign up for in-person.",
+    "start_date": "2024-10-08",
+    "start_time": "6:00 pm",
+    "link": "https://bricartsmedia.org/event/brooklyn-poetry-slam-oct-8-2024/",
+    "address": "BRIC House Ballroom (Fort Greene)",
+    "cost": "Free"
+  },
+  {
+    "title": "Richard Powers with Marlon James: Playground",
+    "description": "Pulitzer Prize-winning author Richard Powers discusses his latest novel, Playground, in a conversation with fellow novelist Marlon James at NYPL Stephen A. Schwarzman Building, Celeste Bartos Forum (Midtown).",
+    "start_date": "2024-10-08",
+    "start_time": "7:00 pm",
+    "link": "https://www.nypl.org/events/programs/2024/10/08/richard-powers",
+    "address": "NYPL Stephen A. Schwarzman Building, Celeste Bartos Forum (Midtown)",
+    "cost": "Free, $29.99 ticket includes a copy of the book."
+  },
+  {
+    "title": "Frontiers Lecture: Parker Solar Probe’s Closest Approach",
+    "description": "Journey to the American Museum of Natural History’s latest Frontiers Lecture, where Parker mission systems engineer John Wirzburger and John Hopkins University Applied Physics Laboratory’s Manolis Georgoulis will take attendees through the NASA Parker Solar Probe’s voyage over the past six years, as well as its upcoming Venus flyby.",
+    "start_date": "2024-10-08",
+    "start_time": "7:00 pm",
+    "link": "https://www.amnh.org/calendar/parker-solar-probe",
+    "address": "Hayden Planetarium Space Theater (UWS)",
+    "cost": "$20"
+  },
+  {
+    "title": "Drag Me to the Movies: Little Shop of Horrors",
+    "description": "MST3K meets Rocky Horror as Megami hosts an all-drag shadowcast of Little Shop of Horrors at C’mon Everybody (Bed-Stuy).",
+    "start_date": "2024-10-08",
+    "start_time": "8:00 pm",
+    "link": "https://dice.fm/event/k6w888-drag-me-to-the-movies-little-shop-of-horrors-8th-oct-cmon-everybody-new-york-tickets",
+    "address": "C’mon Everybody (Bed-Stuy)",
+    "cost": "$18.54"
+  },
+  {
+    "title": "I Made You a Playlist: Three-Year Anniversary",
+    "description": "Stand-up meets afterparty at this weekly comedy show and party, hosted by Kelly Bachman and Jaffer Khan. Tonight’s three-year anniversary show features Blake Wexler, Rylan Sylvester, Julianna Dudley, Kari Burt, and Zahid Dewji.",
+    "start_date": "2024-10-08",
+    "start_time": "9:00 pm",
+    "link": "https://www.eventbrite.com/e/i-made-you-a-playlist-free-comedy-show-and-party-tickets-847294008187",
+    "address": "The Three Diamond Door (Bushwick)",
+    "cost": "Free"
   }
 ]

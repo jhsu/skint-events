@@ -1,11 +1,211 @@
 [
   {
-    "title": "SAVE ON JAZZ AT LINCOLN CENTER MATINEES (SPONSORED)",
-    "description": "Step back from the weekday hustle with Jazz at Lincoln Center’s Saturday matinees. Indulge in the sounds of world-class jazz, set against the magnificent views of the New York City skyline and Central Park, and save 25% on any seat in the house for Saturday 2 PM performances in the famed Appel Room, using promo code SKINT25.",
+    "title": "80th Annual Columbus Day Parade",
+    "description": "A parade celebrating Columbus Day, taking place along Fifth Ave from 47th Street to 72nd Street.",
+    "start_date": "2024-10-14",
+    "start_time": "11:30 am",
+    "end_date": "2024-10-14",
+    "end_time": "3:30 pm",
+    "link": "https://www.prweb.com/releases/columbus-citizens-foundation-announces-2024-columbus-day-parade-line-up-and-performers-for-worlds-largest-celebration-of-italian-american-culture-302268741.html",
+    "address": "Fifth Ave from 47th Street to 72nd Street",
+    "cost": "Undefined"
+  },
+  {
+    "title": "BQ Flea Market",
+    "description": "A flea market held under the BQE along Meeker Ave between Union Ave and Lorimer St, featuring various vendors and goods.",
+    "start_date": "2024-10-13",
+    "start_time": "10:00 am",
+    "end_date": "2024-10-27",
+    "end_time": "5:00 pm",
+    "link": "https://brooklynflea.com",
+    "address": "Under the BQE along Meeker Ave between Union Ave and Lorimer St, Williamsburg/Greenpoint",
+    "cost": "Free"
+  },
+  {
+    "title": "NYC Makers Bazaar at Grand Bazaar NYC",
+    "description": "An indoor and outdoor market featuring local makers and artisans, taking place at Grand Bazaar NYC.",
+    "start_date": "2024-10-13",
+    "start_time": "10:00 am",
+    "end_date": "2024-10-13",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/nyc-makers-bazaar-2/",
+    "address": "100 W 77th St at Columbus Ave, UWS",
+    "cost": "Free"
+  },
+  {
+    "title": "Spooky Makers Market",
+    "description": "A market featuring spooky-themed goods and activities, held at Footlight Underground at the Windjammer.",
+    "start_date": "2024-10-13",
+    "start_time": "12:00 pm",
+    "end_date": "2024-10-13",
+    "end_time": "6:30 pm",
+    "link": "https://withfriends.co/event/20810465/spooky_makers_market",
+    "address": "Footlight Underground at the Windjammer, Ridgewood",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Brooklyn Hearts Club’s Sinister Sinner’s Market",
+    "description": "A market featuring local vendors and spooky-themed goods, held at Crystal Lake Brooklyn.",
+    "start_date": "2024-10-13",
+    "start_time": "1:00 pm",
+    "end_date": "2024-10-13",
+    "end_time": "5:00 pm",
+    "link": "https://www.instagram.com/brooklynheartsclub/",
+    "address": "Crystal Lake Brooklyn, Williamsburg",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Yes Halloween Market",
+    "description": "A Halloween-themed market featuring local vendors and activities, held at House of Yes.",
+    "start_date": "2024-10-13",
+    "start_time": "1:00 pm",
+    "end_date": "2024-10-13",
+    "end_time": "7:00 pm",
+    "link": "https://shotgun.live/en/events/halloween-market",
+    "address": "House of Yes, Bushwick",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Clothing Swap",
+    "description": "A clothing swap event where attendees can exchange clothes, held at Otto’s Shrunken Head Bar.",
+    "start_date": "2024-10-13",
+    "start_time": "4:30 pm",
+    "end_date": "2024-10-13",
+    "end_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/adverse-abstraction-presents-a-clothing-swap-tickets-978913626007",
+    "address": "Otto’s Shrunken Head Bar, East Village",
+    "cost": "$7.18"
+  },
+  {
+    "title": "10th Annual Indigenous Peoples Day",
+    "description": "A celebration of Indigenous Peoples Day with various activities, held at Randall’s Island.",
+    "start_date": "2024-10-13",
+    "start_time": "10:00 am",
+    "end_date": "2024-10-14",
+    "end_time": "2:00 pm",
+    "link": "https://www.facebook.com/ipdnyc",
+    "address": "Randall’s Island",
+    "cost": "Undefined"
+  },
+  {
+    "title": "How to Win an Election: Make Sense of Polls",
+    "description": "A presentation and discussion about understanding polls, hosted by Andrea Jones-Rooy, Ph.D., with expert guests.",
+    "start_date": "2024-10-13",
+    "start_time": "2:30 pm",
+    "end_date": "2024-10-13",
+    "end_time": "Undefined",
+    "link": "https://caveat.nyc/events/how-to-win-an-election-polls-10-13-2024",
+    "address": "Caveat Theatre, 21A Clinton St. NY, NY 10002",
+    "cost": "$5 with promo code IMGOINGTOVOTE"
+  },
+  {
+    "title": "Kings County Fiber Festival",
+    "description": "A festival featuring fiber arts, taking place at Washington Park and the Old Stone House in Park Slope, Brooklyn.",
     "start_date": "2024-10-12",
-    "start_time": "2:00 PM",
-    "link": "https://www.theskint.com/save-on-jazz-at-lincoln-center-matinees-sponsored/",
-    "address": "Jazz at Lincoln Center, Appel Room, New York City",
-    "cost": "25% off with promo code SKINT25"
+    "start_time": "10:00 am",
+    "end_date": "2024-10-12",
+    "end_time": "5:00 pm",
+    "link": "https://www.kingscountyfiberfestival.org",
+    "address": "Washington Park and the Old Stone House, Park Slope, Brooklyn",
+    "cost": "Free"
+  },
+  {
+    "title": "The Cruise with Bennett Miller",
+    "description": "A remastered screening of the film 'The Cruise' with a Q&A session following the screening, featuring Bennett Miller.",
+    "start_date": "2024-10-12",
+    "start_time": "7:00 pm",
+    "end_date": "2024-10-17",
+    "end_time": "Undefined",
+    "link": "https://www.ifccenter.com/films/the-cruise/",
+    "address": "IFC Center, Greenwich Village",
+    "cost": "$18 general, $15 seniors"
+  },
+  {
+    "title": "New York Shorts International Film Festival 2024",
+    "description": "An international film festival showcasing short films, held at Cinema Village.",
+    "start_date": "2024-10-11",
+    "start_time": "Undefined",
+    "end_date": "2024-10-17",
+    "end_time": "Undefined",
+    "link": "https://www.nyshorts.net",
+    "address": "Cinema Village, Union Square",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Free Outdoor Movie: Beetlejuice",
+    "description": "A free outdoor screening of the movie 'Beetlejuice', weather permitting, at Pier 57.",
+    "start_date": "2024-10-11",
+    "start_time": "6:00 pm",
+    "end_date": "2024-10-11",
+    "end_time": "Undefined",
+    "link": "https://rooftopfilms.com/event/beetlejuice-2/",
+    "address": "Pier 57, Chelsea",
+    "cost": "Free"
+  },
+  {
+    "title": "Drunk Planet Earth",
+    "description": "A participatory show combining nature documentaries and drinking games, held at Easy Lover.",
+    "start_date": "2024-10-11",
+    "start_time": "7:00 pm",
+    "end_date": "2024-10-11",
+    "end_time": "Undefined",
+    "link": "https://events.humanitix.com/drunk-planet-earth-4ebxrgjh",
+    "address": "Easy Lover, Williamsburg",
+    "cost": "Free"
+  },
+  {
+    "title": "Vocabaret: ‘Conspiracy’ Edition",
+    "description": "A monthly variety show for language lovers, featuring five wordsmiths presenting entertainment inspired by a theme, held at Caveat.",
+    "start_date": "2024-10-11",
+    "start_time": "7:00 pm",
+    "end_date": "2024-10-11",
+    "end_time": "Undefined",
+    "link": "https://caveat.nyc/events/vocabaret-10-11-2024",
+    "address": "Caveat, LES",
+    "cost": "$15 with promo code ‘caveatorb’ (reg $20 adv, $25 door)"
+  },
+  {
+    "title": "Dreamland Roller Disco",
+    "description": "Themed skate parties at Prospect Park's Lefrak Center, continuing for the fall season.",
+    "start_date": "2024-10-11",
+    "start_time": "7:00 pm",
+    "end_date": "2024-10-25",
+    "end_time": "10:00 pm",
+    "link": "https://dreamlandrollerrink.com",
+    "address": "Prospect Park's Lefrak Center",
+    "cost": "$25 admission includes skate rental"
+  },
+  {
+    "title": "Boyz in the Woods Comedy",
+    "description": "A standup-meets-trivia show featuring various comedians, held at Friends and Lovers.",
+    "start_date": "2024-10-11",
+    "start_time": "8:00 pm",
+    "end_date": "2024-10-11",
+    "end_time": "Undefined",
+    "link": "https://www.fnlbk.com/upcoming/2021/6/3/boys-in-the-woodz-m4szt-ralr7",
+    "address": "Friends and Lovers, Crown Heights",
+    "cost": "$12 adv, $15 door"
+  },
+  {
+    "title": "Bitches Brew Comedy Show",
+    "description": "A women-produced and hosted comedy show featuring various comedians, held at Halyards.",
+    "start_date": "2024-10-11",
+    "start_time": "8:30 pm",
+    "end_date": "2024-10-11",
+    "end_time": "Undefined",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Halyards, Gowanus",
+    "cost": "Free"
+  },
+  {
+    "title": "Drop Up Video",
+    "description": "A panel of comedians roasting music videos, held at Pine Box Rock Shop.",
+    "start_date": "2024-10-11",
+    "start_time": "9:00 pm",
+    "end_date": "2024-10-11",
+    "end_time": "Undefined",
+    "link": "https://www.eventbrite.com/e/drop-up-video-comedians-music-videos-tickets-1020197567387",
+    "address": "Pine Box Rock Shop, Bushwick",
+    "cost": "$5 with promo code ‘skint’ (reg. $10)"
   }
 ]

@@ -23,7 +23,7 @@
   },
   {
     "title": "BQ Flea Market",
-    "description": "A flea market under the BQE along Meeker Ave between Union Ave and Lorimer St (Williamsburg/Greenpoint).",
+    "description": "A flea market under the BQE along Meeker Ave between Union Ave and Lorimer St.",
     "start_date": "2024-10-22",
     "start_time": "10:00 am",
     "end_date": "2024-10-22",
@@ -34,7 +34,7 @@
   },
   {
     "title": "Annual Disability Pride Parade and Festival",
-    "description": "A parade celebrating disability pride from Madison Square Park to Union Square Park, with a festival in Union Square Park.",
+    "description": "A parade from Madison Square Park to Union Square Park, followed by a festival in Union Square Park.",
     "start_date": "2024-10-22",
     "start_time": "10:45 am",
     "end_date": "2024-10-22",
@@ -42,160 +42,6 @@
     "link": "https://sites.google.com/view/disability-pride-parade-2024/information-for-participants/parade-schedule",
     "address": "Parade route: Broadway from Madison Square Park to Union Square Park",
     "cost": "Free"
-  },
-  {
-    "title": "Free Bike Helmets",
-    "description": "A bike helmet distribution program at Montague Street Open Streets event in Brooklyn Heights.",
-    "start_date": "2024-10-22",
-    "start_time": "12:00 pm",
-    "end_date": "2024-10-22",
-    "end_time": "3:00 pm",
-    "link": "https://www.nyc.gov/html/dot/html/bicyclists/bike-events.shtml",
-    "address": "Montague Street Open Streets Event (Brooklyn Heights)",
-    "cost": "Free"
-  },
-  {
-    "title": "Popography: Michael Jackson's 'Thriller'",
-    "description": "A dance fitness class inspired by Michael Jackson's 'Thriller' at Arlo Williamsburg's Mirror Bar.",
-    "start_date": "2024-10-22",
-    "start_time": "12:00 pm",
-    "end_date": "2024-10-22",
-    "end_time": "1:00 pm",
-    "link": "https://www.popographynyc.com/schedule",
-    "address": "Arlo Williamsburg's Mirror Bar",
-    "cost": "$20"
-  },
-  {
-    "title": "Vocal Minorities Comedy Show",
-    "description": "A comedy show featuring a POC lineup at Union Hall (Park Slope).",
-    "start_date": "2024-10-22",
-    "start_time": "5:00 pm",
-    "end_date": "2024-10-22",
-    "end_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/vocal-minorities-with-james-mwaura-and-rahul-pandya-tickets-1016782252087",
-    "address": "Union Hall (Park Slope)",
-    "cost": "$10 adv, $15 door"
-  },
-  {
-    "title": "Silent Book Club of Death + Death Cafe",
-    "description": "A night dedicated to reading about death and discussing it at the Morbid Anatomy Library in Industry City.",
-    "start_date": "2024-10-22",
-    "start_time": "5:00 pm",
-    "end_date": "2024-10-22",
-    "end_time": "8:00 pm",
-    "link": "https://www.morbidanatomy.org/events-tickets/silent-book-club-of-death-brooklyn-and-death-cafe",
-    "address": "Morbid Anatomy Library (Industry City)",
-    "cost": "Free (RSVP required)"
-  },
-  {
-    "title": "New Tricks",
-    "description": "A storytelling show featuring performers over 40 at Q.E.D. (Astoria).",
-    "start_date": "2024-10-22",
-    "start_time": "7:00 pm",
-    "end_date": "2024-10-22",
-    "end_time": "9:00 pm",
-    "link": "https://www.eventbrite.com/e/new-tricks-tickets-554529461547",
-    "address": "Q.E.D. (Astoria)",
-    "cost": "$12"
-  },
-  {
-    "title": "Good God Comedy Show",
-    "description": "A stand-up comedy variety show at Union Hall (Park Slope) featuring anonymous secrets shared by the audience.",
-    "start_date": "2024-10-22",
-    "start_time": "7:30 pm",
-    "end_date": "2024-10-22",
-    "end_time": "9:30 pm",
-    "link": "https://www.eventbrite.com/e/good-god-tickets-1001400183907",
-    "address": "Union Hall (Park Slope)",
-    "cost": "$10 adv, $15 door"
-  },
-  {
-    "title": "Beanie Babe Comedy",
-    "description": "A comedy show at Young Ethel's (Park Slope) where donations get you a vintage beanie baby.",
-    "start_date": "2024-10-22",
-    "start_time": "8:00 pm",
-    "end_date": "2024-10-22",
-    "end_time": "9:30 pm",
-    "link": "https://www.eventbrite.com/e/beanie-babe-comedy-at-young-ethels-tickets-714227332177",
-    "address": "Young Ethel's (Park Slope)",
-    "cost": "Free (donations optional)"
-  },
-  {
-    "title": "Disasterpiece Movie Night: Pass Thru",
-    "description": "A watch party for the bad movie 'Pass Thru' at Wonderville (Bushwick).",
-    "start_date": "2024-10-22",
-    "start_time": "8:00 pm",
-    "end_date": "2024-10-22",
-    "end_time": "10:00 pm",
-    "link": "https://www.wonderville.nyc/events/disasterpiece-october-2024",
-    "address": "Wonderville (Bushwick)",
-    "cost": "Free"
-  },
-  {
-    "title": "And Every One a Witch",
-    "description": "An evening of piano karaoke and open mic performances at Club Cumming (East Village).",
-    "start_date": "2024-10-22",
-    "start_time": "9:00 pm",
-    "end_date": "2024-10-22",
-    "end_time": "11:00 pm",
-    "link": "https://clubcummingnyc.com/schedule/andeveryoneawitch322-hrm9r-z3zew-cyek8-bdaa2-mzder-2647m-penj2-zrb7j-9aem7-jggyk-36hzn-ec63c-dj2rj-ntgnc-l6tcy-fnb35-tn6wl",
-    "address": "Club Cumming (East Village)",
-    "cost": "Free (one drink min)"
-  },
-  {
-    "title": "Breaking the Binary Theatre Festival",
-    "description": "A festival showcasing new work by transgender, non-binary, and two-spirit+ artists at various locations.",
-    "start_date": "2024-10-22",
-    "start_time": "4:00 pm",
-    "end_date": "2024-10-27",
-    "end_time": "6:00 pm",
-    "link": "https://www.btb-nyc.com",
-    "address": "Littlefield (Gowanus) and Playwright Horizon's Peter Jay Sharp Theater (Hell's Kitchen)",
-    "cost": "Free"
-  },
-  {
-    "title": "Classics in Black + White: Invasion of the Body Snatchers",
-    "description": "A screening of the classic film 'Invasion of the Body Snatchers' at Cinema 123 by Angelika.",
-    "start_date": "2024-10-22",
-    "start_time": "4:00 pm",
-    "end_date": "2024-10-22",
-    "end_time": "6:00 pm",
-    "link": "https://www.angelikafilmcenter.com/cinemas123/signature-programming/classics-in-black--white",
-    "address": "Cinema 123 by Angelika",
-    "cost": "$22"
-  },
-  {
-    "title": "Mourning and Adorning: Woven Hair Jewelry and Victorian Mourning Traditions",
-    "description": "A panel discussion on Victorian mourning customs at the Center for Brooklyn History (Brooklyn Heights).",
-    "start_date": "2024-10-22",
-    "start_time": "6:30 pm",
-    "end_date": "2024-10-22",
-    "end_time": "8:00 pm",
-    "link": "https://www.bklynlibrary.org/calendar/cbh-talk-mourning-and-center-for-brooklyn-20241021-0630pm",
-    "address": "Center for Brooklyn History (Brooklyn Heights)",
-    "cost": "Free"
-  },
-  {
-    "title": "Louise Erdrich: The Mighty Red with Emma Straub",
-    "description": "A book launch event for Louise Erdrich's latest novel at St. Ann and the Holy Trinity Church (Brooklyn Heights).",
-    "start_date": "2024-10-22",
-    "start_time": "7:00 pm",
-    "end_date": "2024-10-22",
-    "end_time": "9:00 pm",
-    "link": "https://www.eventbrite.com/e/offsite-louise-erdrich-the-mighty-red-w-emma-straub-tickets-966533506737",
-    "address": "St. Ann and the Holy Trinity Church (Brooklyn Heights)",
-    "cost": "$10 admission, $37 ticket includes a copy of the book"
-  },
-  {
-    "title": "Live Dubbed Sitcoms: Halloween Special",
-    "description": "A live dubbing of classic sitcoms at Caveat (LES).",
-    "start_date": "2024-10-22",
-    "start_time": "9:00 pm",
-    "end_date": "2024-10-22",
-    "end_time": "11:00 pm",
-    "link": "https://caveat.nyc/events/live-dubbed-sitcoms-10-21-2024",
-    "address": "Caveat (LES)",
-    "cost": "$16.70 with promo code ‘sitcom’ (reg. $22+)"
   },
   {
     "title": "34th Annual Tompkins Square Halloween Dog Parade",
@@ -243,7 +89,7 @@
   },
   {
     "title": "Diwali Times Square",
-    "description": "A celebration of Diwali in Times Square with various festivities.",
+    "description": "A celebration of Diwali in Times Square with various activities.",
     "start_date": "2024-10-21",
     "start_time": "11:00 am",
     "end_date": "2024-10-21",
@@ -298,7 +144,7 @@
   },
   {
     "title": "Fall 2024 Hunter College MFA + BFA Open Studios",
-    "description": "Open studios showcasing work from Hunter College's MFA and BFA programs at 205 Hudson Street (Tribeca).",
+    "description": "An open studio event at 205 Hudson Street in Tribeca.",
     "start_date": "2024-10-21",
     "start_time": "5:00 pm",
     "end_date": "2024-10-21",
@@ -375,7 +221,7 @@
   },
   {
     "title": "This Party is Killing You! The Robyn Party 2024: Robyn-O-Ween",
-    "description": "A Robyn-themed party at 3 Dollar Bill (East Williamsburg).",
+    "description": "A Robyn-themed party at 3 Dollar Bill in East Williamsburg.",
     "start_date": "2024-10-21",
     "start_time": "5:00 pm",
     "end_date": "2024-10-21",
@@ -386,7 +232,7 @@
   },
   {
     "title": "The Astigmatism Comedy Show",
-    "description": "A comedy show at P+T Knitwear Bookstore (LES) featuring comedians and an author.",
+    "description": "A comedy show at P+T Knitwear Bookstore in LES.",
     "start_date": "2024-10-21",
     "start_time": "6:00 pm",
     "end_date": "2024-10-21",
@@ -397,7 +243,7 @@
   },
   {
     "title": "New York Repertory Orchestra 2024-25 Season",
-    "description": "A concert featuring works by Mozart, Stravinsky, and Shaw at The Church of St. Mary the Virgin (Theater District).",
+    "description": "A concert by the New York Repertory Orchestra at The Church of St. Mary the Virgin.",
     "start_date": "2024-10-21",
     "start_time": "8:00 pm",
     "end_date": "2024-10-21",
@@ -408,7 +254,7 @@
   },
   {
     "title": "Scream II Tribute Show + Judy Jump Scare",
-    "description": "A drag double feature at C’mon Everybody (Bed-Stuy) featuring performances inspired by slasher flicks.",
+    "description": "A drag double feature at C’mon Everybody in Bed-Stuy.",
     "start_date": "2024-10-21",
     "start_time": "8:00 pm",
     "end_date": "2024-10-21",
@@ -419,7 +265,7 @@
   },
   {
     "title": "Aesop's Sound Fables Presents: The Cabinet of Dr. Caligari",
-    "description": "A live score performance to the silent film 'The Cabinet of Dr. Caligari' at Pine Box Rock Shop (Bushwick).",
+    "description": "A live score performance to the silent film at Pine Box Rock Shop in Bushwick.",
     "start_date": "2024-10-21",
     "start_time": "8:45 pm",
     "end_date": "2024-10-21",
@@ -430,7 +276,7 @@
   },
   {
     "title": "The Fantasy Tavern: The Monster Manual Mash Edition",
-    "description": "An interactive show and party at Caveat (LES) featuring pop culture and fantasy themes.",
+    "description": "An interactive show and party at Caveat (LES).",
     "start_date": "2024-10-21",
     "start_time": "9:00 pm",
     "end_date": "2024-10-21",
@@ -441,7 +287,7 @@
   },
   {
     "title": "Sandwich Comedy",
-    "description": "A comedy show at Union Hall (Park Slope) featuring comedians serving up fresh material.",
+    "description": "A comedy show at Union Hall in Park Slope.",
     "start_date": "2024-10-21",
     "start_time": "10:00 pm",
     "end_date": "2024-10-21",
@@ -451,6 +297,160 @@
     "cost": "$10 adv, $15 day-of"
   },
   {
+    "title": "Free Bike Helmets",
+    "description": "Bike helmet distribution at Montague Street Open Streets event in Brooklyn Heights.",
+    "start_date": "2024-10-21",
+    "start_time": "12:00 pm",
+    "end_date": "2024-10-21",
+    "end_time": "3:00 pm",
+    "link": "https://www.nyc.gov/html/dot/html/bicyclists/bike-events.shtml",
+    "address": "Montague Street Open Streets Event (Brooklyn Heights)",
+    "cost": "Free"
+  },
+  {
+    "title": "Popography: Michael Jackson's 'Thriller'",
+    "description": "A dance fitness class inspired by Michael Jackson's 'Thriller' at Arlo Williamsburg.",
+    "start_date": "2024-10-21",
+    "start_time": "12:00 pm",
+    "end_date": "2024-10-21",
+    "end_time": "1:00 pm",
+    "link": "https://www.popographynyc.com/schedule",
+    "address": "Arlo Williamsburg's Mirror Bar",
+    "cost": "$20"
+  },
+  {
+    "title": "Vocal Minorities Comedy Show",
+    "description": "A comedy show featuring a POC lineup at Union Hall in Park Slope.",
+    "start_date": "2024-10-21",
+    "start_time": "5:00 pm",
+    "end_date": "2024-10-21",
+    "end_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/vocal-minorities-with-james-mwaura-and-rahul-pandya-tickets-1016782252087",
+    "address": "Union Hall (Park Slope)",
+    "cost": "$10 adv, $15 door"
+  },
+  {
+    "title": "Silent Book Club of Death + Death Cafe",
+    "description": "A night dedicated to reading about death and discussing it at the Morbid Anatomy Library in Industry City.",
+    "start_date": "2024-10-21",
+    "start_time": "5:00 pm",
+    "end_date": "2024-10-21",
+    "end_time": "8:00 pm",
+    "link": "https://www.morbidanatomy.org/events-tickets/silent-book-club-of-death-brooklyn-and-death-cafe",
+    "address": "Morbid Anatomy Library (Industry City)",
+    "cost": "Free (RSVP required)"
+  },
+  {
+    "title": "New Tricks",
+    "description": "A storytelling show featuring performers over 40 at Q.E.D. in Astoria.",
+    "start_date": "2024-10-21",
+    "start_time": "7:00 pm",
+    "end_date": "2024-10-21",
+    "end_time": "9:00 pm",
+    "link": "https://www.eventbrite.com/e/new-tricks-tickets-554529461547",
+    "address": "Q.E.D. (Astoria)",
+    "cost": "$12"
+  },
+  {
+    "title": "Good God Comedy Show",
+    "description": "A stand-up comedy variety show at Union Hall in Park Slope.",
+    "start_date": "2024-10-21",
+    "start_time": "7:30 pm",
+    "end_date": "2024-10-21",
+    "end_time": "9:30 pm",
+    "link": "https://www.eventbrite.com/e/good-god-tickets-1001400183907",
+    "address": "Union Hall (Park Slope)",
+    "cost": "$10 adv, $15 door"
+  },
+  {
+    "title": "Beanie Babe Comedy",
+    "description": "A comedy show where donations get you a vintage beanie baby at Young Ethel's in Park Slope.",
+    "start_date": "2024-10-21",
+    "start_time": "8:00 pm",
+    "end_date": "2024-10-21",
+    "end_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/beanie-babe-comedy-at-young-ethels-tickets-714227332177",
+    "address": "Young Ethel's (Park Slope)",
+    "cost": "Free (donations optional)"
+  },
+  {
+    "title": "Disasterpiece Movie Night: Pass Thru",
+    "description": "A watch party for the movie 'Pass Thru' at Wonderville in Bushwick.",
+    "start_date": "2024-10-21",
+    "start_time": "8:00 pm",
+    "end_date": "2024-10-21",
+    "end_time": "10:00 pm",
+    "link": "https://www.wonderville.nyc/events/disasterpiece-october-2024",
+    "address": "Wonderville (Bushwick)",
+    "cost": "Free"
+  },
+  {
+    "title": "And Every One a Witch",
+    "description": "An evening of piano karaoke and open mic performances at Club Cumming in the East Village.",
+    "start_date": "2024-10-21",
+    "start_time": "9:00 pm",
+    "end_date": "2024-10-21",
+    "end_time": "11:00 pm",
+    "link": "https://clubcummingnyc.com/schedule/andeveryoneawitch322-hrm9r-z3zew-cyek8-bdaa2-mzder-2647m-penj2-zrb7j-9aem7-jggyk-36hzn-ec63c-dj2rj-ntgnc-l6tcy-fnb35-tn6wl",
+    "address": "Club Cumming (East Village)",
+    "cost": "Free (one drink min)"
+  },
+  {
+    "title": "Breaking the Binary Theatre Festival",
+    "description": "A festival showcasing new work by transgender, non-binary, and two-spirit+ artists at various locations.",
+    "start_date": "2024-10-21",
+    "start_time": "4:00 pm",
+    "end_date": "2024-10-27",
+    "end_time": "6:00 pm",
+    "link": "https://www.btb-nyc.com",
+    "address": "Littlefield (Gowanus) and Playwright Horizon's Peter Jay Sharp Theater (Hell's Kitchen)",
+    "cost": "Free"
+  },
+  {
+    "title": "Classics in Black + White: Invasion of the Body Snatchers",
+    "description": "A screening of the classic film at Cinema 123 by Angelika.",
+    "start_date": "2024-10-21",
+    "start_time": "4:00 pm",
+    "end_date": "2024-10-21",
+    "end_time": "6:00 pm",
+    "link": "https://www.angelikafilmcenter.com/cinemas123/signature-programming/classics-in-black--white",
+    "address": "Cinema 123 by Angelika",
+    "cost": "$22"
+  },
+  {
+    "title": "Mourning and Adorning: Woven Hair Jewelry and Victorian Mourning Traditions",
+    "description": "A panel discussion on Victorian mourning customs at the Center for Brooklyn History.",
+    "start_date": "2024-10-21",
+    "start_time": "6:30 pm",
+    "end_date": "2024-10-21",
+    "end_time": "8:00 pm",
+    "link": "https://www.bklynlibrary.org/calendar/cbh-talk-mourning-and-center-for-brooklyn-20241021-0630pm",
+    "address": "Center for Brooklyn History (Brooklyn Heights)",
+    "cost": "Free"
+  },
+  {
+    "title": "Louise Erdrich: The Mighty Red with Emma Straub",
+    "description": "A book launch event at St. Ann and the Holy Trinity Church.",
+    "start_date": "2024-10-21",
+    "start_time": "7:00 pm",
+    "end_date": "2024-10-21",
+    "end_time": "9:00 pm",
+    "link": "https://www.eventbrite.com/e/offsite-louise-erdrich-the-mighty-red-w-emma-straub-tickets-966533506737",
+    "address": "St. Ann and the Holy Trinity Church (Brooklyn Heights)",
+    "cost": "$10 admission, $37 ticket includes a copy of the book"
+  },
+  {
+    "title": "Live Dubbed Sitcoms: Halloween Special",
+    "description": "A Halloween special of the live dubbed sitcoms show at Caveat (LES).",
+    "start_date": "2024-10-21",
+    "start_time": "9:00 pm",
+    "end_date": "2024-10-21",
+    "end_time": "11:00 pm",
+    "link": "https://caveat.nyc/events/live-dubbed-sitcoms-10-21-2024",
+    "address": "Caveat (LES)",
+    "cost": "$16.70 with promo code ‘sitcom’ (reg. $22+)"
+  },
+  {
     "title": "Free Hot Dogs + Vitaminwater",
     "description": "Enjoy free hot dogs and Vitaminwater at the New York Hot Dog King stand outside the Met Museum.",
     "start_date": "2024-10-20",
@@ -458,7 +458,7 @@
     "end_date": "2024-10-22",
     "end_time": "6:30 pm",
     "link": "https://www.instagram.com/p/DBO0VNyu6kw/",
-    "address": "The New York Hot Dog King Stand outside the Met Museum at 5th Ave + 82nd St",
+    "address": "The New York Hot Dog King stand outside the Met Museum at 5th Ave + 82nd St",
     "cost": "Free"
   },
   {
@@ -485,7 +485,7 @@
   },
   {
     "title": "The Annual Art in Odd Places Festival",
-    "description": "A festival showcasing art along 14th Street from Avenue A to the Hudson River.",
+    "description": "A festival along 14th Street from Avenue A to the Hudson River.",
     "start_date": "2024-10-20",
     "start_time": "11:00 am",
     "end_date": "2024-10-22",
@@ -496,7 +496,7 @@
   },
   {
     "title": "The Annual Shock-A-Go-Go Film Fest",
-    "description": "A film festival showcasing various films at Film Noir Cinema in Greenpoint.",
+    "description": "A film festival featuring various films at Film Noir Cinema in Greenpoint.",
     "start_date": "2024-10-20",
     "start_time": "7:00 pm",
     "end_date": "2024-10-21",
@@ -518,18 +518,18 @@
   },
   {
     "title": "Hitchquadtober",
-    "description": "A film series featuring Hitchcock classics at Quad Cinema in Greenwich Village.",
+    "description": "A film series featuring Hitchcock films at Quad Cinema in Greenwich Village.",
     "start_date": "2024-10-20",
     "start_time": "11:00 am",
     "end_date": "2024-10-24",
     "end_time": "6:00 pm",
     "link": "https://quadcinema.com/program/hitchcock-series/",
     "address": "Quad Cinema (Greenwich Village)",
-    "cost": "$22"
+    "cost": "Various prices"
   },
   {
     "title": "17th Annual Science New Wave Film Festival",
-    "description": "A film festival showcasing science-related films at various locations.",
+    "description": "A film festival showcasing science films at various locations.",
     "start_date": "2024-10-20",
     "start_time": "11:00 am",
     "end_date": "2024-10-25",
@@ -540,21 +540,21 @@
   },
   {
     "title": "27th Reel Sisters of the Diaspora Film Festival + Lecture Series",
-    "description": "A film festival celebrating women of color filmmakers at various locations.",
+    "description": "A film festival and lecture series at various locations.",
     "start_date": "2024-10-20",
     "start_time": "11:00 am",
     "end_date": "2024-10-22",
     "end_time": "6:00 pm",
     "link": "https://reelsisters.org",
-    "address": "LIU, The Center for Fiction, and Maysled Documentary Center",
+    "address": "Various locations",
     "cost": "Various prices"
   },
   {
     "title": "New Highline Art: Dinosaur",
-    "description": "A new art installation featuring a giant sculpture of a pigeon at the Highline.",
+    "description": "A new art installation on the High Line featuring a giant sculpture of a pigeon.",
     "start_date": "2024-10-20",
     "start_time": "12:00 pm",
-    "end_date": "2026-03-20",
+    "end_date": "2026-03-16",
     "end_time": "6:00 pm",
     "link": "https://www.thehighline.org/art/projects/ivan-argote/",
     "address": "The High Line at the Spur on 30th Street and 10th Avenue",
@@ -562,7 +562,7 @@
   },
   {
     "title": "Ninth Annual Momenta Quartet Festival",
-    "description": "A festival celebrating chamber music at various locations.",
+    "description": "A music festival celebrating chamber music at various locations.",
     "start_date": "2024-10-20",
     "start_time": "11:00 am",
     "end_date": "2024-10-24",
@@ -573,25 +573,25 @@
   },
   {
     "title": "22nd Annual Open House New York Weekend Festival",
-    "description": "A weekend festival opening 270+ locations across the five boroughs for public access.",
+    "description": "A festival opening 270+ locations across the five boroughs for public access.",
     "start_date": "2024-10-20",
     "start_time": "11:00 am",
     "end_date": "2024-10-22",
     "end_time": "6:00 pm",
     "link": "https://ohny.org/weekend/",
-    "address": "270+ locations across the five boroughs",
+    "address": "Various locations across the five boroughs",
     "cost": "Free"
   },
   {
     "title": "The New York Tattoo Convention",
-    "description": "A tattoo convention featuring over 300 tattoo artists at Duggal Greenhouse (Brooklyn Navy Yard).",
+    "description": "A tattoo convention featuring over 300 tattoo artists at Duggal Greenhouse in Brooklyn Navy Yard.",
     "start_date": "2024-10-20",
     "start_time": "11:00 am",
     "end_date": "2024-10-22",
     "end_time": "6:00 pm",
     "link": "https://www.thenewyorktattooconvention.com",
     "address": "Duggal Greenhouse (Brooklyn Navy Yard)",
-    "cost": "$30"
+    "cost": "$30 admission"
   },
   {
     "title": "Bryan Carter: Celebrating Bayard Rustin at Jazz at Lincoln Center",
@@ -602,7 +602,7 @@
     "end_time": "9:00 pm",
     "link": "https://jazz.org/concert/bryan-carter-celebrating-bayard-rustin/?utm_source=skint&utm_medium=email&utm_campaign=rustin",
     "address": "Jazz at Lincoln Center",
-    "cost": "$10-$25"
+    "cost": "Various prices"
   },
   {
     "title": "Illuminated Sculptures of Woodlawn Walking Tour",
@@ -628,7 +628,7 @@
   },
   {
     "title": "Dreamland Roller Disco",
-    "description": "Themed skate parties at Prospect Park's LeFrak Center.",
+    "description": "A themed skate party at Prospect Park's LeFrak Center.",
     "start_date": "2024-10-20",
     "start_time": "7:00 pm",
     "end_date": "2024-10-20",
@@ -639,7 +639,7 @@
   },
   {
     "title": "Laugh It Off – A Comedy Show in a Dog Cafe",
-    "description": "A comedy show at Boris and Horton in the East Village, where audience members submit their problems for comedians to 'fix'.",
+    "description": "A comedy show at Boris and Horton in the East Village, where audience members submit problems for comedians to solve.",
     "start_date": "2024-10-20",
     "start_time": "7:30 pm",
     "end_date": "2024-10-20",
@@ -668,7 +668,7 @@
     "end_time": "9:00 pm",
     "link": "https://withfriends.co/event/20925095/Super_Secret_Discount",
     "address": "Cloud City (Williamsburg)",
-    "cost": "$15 (select number of tickets available at $15, reg. $30)"
+    "cost": "$15 (select number of tickets available at $15, regular $30)"
   },
   {
     "title": "Bitches Brew Comedy Show",

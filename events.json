@@ -1,95 +1,13 @@
 [
   {
-    "title": "New York City Wine Fest",
-    "description": "With over 100 styles of wine from around the world, New York City Wine Fest is a great place to discover new favorites and speak to sommeliers from across the country and beyond. Meet and hang out with friends, and enjoy wine samples paired with live entertainment, interactive games, and delicious food available to purchase from Angry Archies, Mozzarepas, Taste of Poland, The Little Sicilian, and more. Tickets include unlimited tastings and a souvenir tasting glass.",
-    "start_date": "2024-10-26",
-    "start_time": "1:00 pm",
-    "end_time": "4:30 pm",
-    "link": "https://www.eventbrite.com/e/new-york-city-wine-fest-tickets-991125652507?discount=THESKINT",
-    "address": "Chelsea Industrial, 535-549 West 28th Street, New York, NY 10001",
-    "cost": "Varies (21+ Only)"
-  },
-  {
-    "title": "Hidden Landmarks of New York with Tommy Silk",
-    "description": "@LandmarksofNY founder Tommy Silk presents his new book on NYC’s overlooked buildings, Hidden Landmarks of New York, in a conversation with Public Opinion host Jack Coyne at historic Grace Church (Greenwich Village). Presented by Strand Books.",
+    "title": "One-Day-Sale: Beethoven’s 9th Symphony at Carnegie Hall",
+    "description": "Experience Beethoven’s Ninth Symphony, known for the immortal “Ode to Joy”; beloved film music by John Williams; music by Valentyn Silvestrov, Ukraine’s most renowned living composer; and more in this one-night-only event at Carnegie Hall, hosted by Liev Schreiber. Anchored by members of Orchestra of St. Luke’s, this newly assembled orchestra features young musicians representing more than one dozen countries. They are joined by violin virtuoso Anne-Sophie Mutter and exceptional singers and choirs. Proceeds from this one-night-only event support Direct Relief, a humanitarian aid nonprofit organization that provides urgently needed medical supplies to relief groups and families on the ground in Ukraine.",
     "start_date": "2024-10-23",
-    "start_time": "6:30 pm",
-    "link": "https://www.strandbooks.com/events/event12324",
-    "address": "Historic Grace Church (Greenwich Village)",
-    "cost": "Free"
-  },
-  {
-    "title": "Two Beers In: A Tipsy Political Roundtable",
-    "description": "A panel of opinionated NYC comedians, journalists, and politicians debate current events over a couple of beers. Hosted by Cody Lindquist (Our Cartoon President) and Charlie Todd (Improv Everywhere), and featuring Manhattan Borough President Mark Levine, Kristen Bartlett (How to Die Alone), and Lou Gonzalez, Jr. (Black Bear).",
-    "start_date": "2024-10-23",
-    "start_time": "7:00 pm",
-    "link": "https://ucbcomedy.com/show/two-beers-in-a-tipsy-political-roundtable-2/",
-    "address": "UCB (East Village)",
-    "cost": "$10 adv, $15 day of"
-  },
-  {
-    "title": "Golden Spiral Comedy Show",
-    "description": "Stand-up set lengths will follow the Fibonacci sequence (5, 8, 13, and 21 minutes) at the Golden Spiral Comedy Show, hosted by Katie Compa and Mindy Raf. Tonight’s show at Whiskey Cellar NYC (East Village) features guests Myka Fox (Comedy Central), Torrey Huggins (Couch Potatoes), Srilatha Rajamani, and Ben Fisher. Advance ticket purchase includes a raffle ticket for a free drink.",
-    "start_date": "2024-10-23",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/golden-spiral-comedy-october-weds-the-23rd-tickets-1041259022767",
-    "address": "Whiskey Cellar NYC (East Village)",
-    "cost": "$7.18 with promo code ‘skintspiral’ (reg. $10.38+)"
-  },
-  {
-    "title": "Drawn Testimony: Jane Rosenberg on Four Decades as a Courtroom Sketch Artist",
-    "description": "Artist and Art Students League alumna Jane Rosenberg discusses her new book, Drawn Testimony, in a conversation with New Yorker cartoonist Guy Richards Smit. Drawn Testimony chronicles her career as a courtroom sketch artist documenting some of America’s most famous faces before the bench, including John Gotti, Woody Allen, Martha Stewart, and Donald Trump.",
-    "start_date": "2024-10-22",
-    "start_time": "6:00 pm",
-    "link": "https://www.artstudentsleague.org/events/drawn-testimony-jane-rosenberg-on-four-decades-as-a-courtroom-sketch-artist",
-    "address": "Phyllis Harriman Mason Gallery at the Art Students League (Midtown West)",
-    "cost": "Free (RSVP)"
-  },
-  {
-    "title": "Student Night at Artechouse",
-    "description": "Chelsea Market’s immersive digital art space Artechouse is offering a 50% off tickets deal for students tonight (reg. $19.08-21.20). Valid student ID required. Purchase tickets on-site.",
-    "start_date": "2024-10-22",
-    "start_time": "6:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://www.artechouse.com/october2024/#new-york-city",
-    "address": "Artechouse, Chelsea Market",
-    "cost": "50% off (regular $19.08-21.20)"
-  },
-  {
-    "title": "The Absinthe Forger with Evan Rail",
-    "description": "Tony Perrottet’s salon and the Green Fairy Society of NYC present a book release party for Evan Rail’s The Absinthe Forger: A True Story of Deception, Betrayal, and the World’s Most Dangerous Spirit, featuring a discussion with Rail, a Bell Époque opera recital, belly dancing, free absinthe tasting, and drink specials. Festive/decadent dress code suggested.",
-    "start_date": "2024-10-22",
-    "start_time": "7:00 pm",
-    "link": "https://redroomnyc.com/event/tony-perottets-last-taboos-saloon-release-party-for-the-absinthe-forger/",
-    "address": "The Red Room at KGB Bar (East Village)",
-    "cost": "Free"
-  },
-  {
-    "title": "We Love a Theme: A Storytelling Show",
-    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at tonight’s ‘Let’s Hear It for the Ghouls’ edition of Bailey Swilley’s monthly storytelling show. Featuring Bryan Berlin, Rhonda Hansom, Olivia Levine, and Rima Parikh.",
-    "start_date": "2024-10-22",
-    "start_time": "7:00 pm",
-    "link": "https://www.petescandystore.com/calendar/",
-    "address": "Pete’s Candy Store (Williamsburg)",
-    "cost": "Free ($5 suggested donation)"
-  },
-  {
-    "title": "2024 La Mama Puppet Festival",
-    "description": "La Mama Theatre’s annual puppet festival celebrates 20 years with more than three weeks of 11 boundary-pushing contemporary puppet theatre pieces.",
-    "start_date": "2024-10-22",
-    "end_date": "2024-11-17",
-    "link": "https://www.lamama.org/shows/puppet-series-2024",
-    "address": "La Mama (East Village)",
-    "cost": "$30 general, $25 seniors/students, $10 for the first 10 tickets"
-  },
-  {
-    "title": "Hitchcocktober",
-    "description": "Celebrate the master of suspense with Village East by Angelika’s annual October tribute to the films of Alfred Hitchcock. Tonight: Strangers on a Train (1951).",
-    "start_date": "2024-10-22",
-    "start_time": "4:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://www.angelikafilmcenter.com/villageeast/signature-programming/hitchcocktober",
-    "address": "Village East by Angelika",
-    "cost": "$18"
+    "start_time": "7:00 PM",
+    "end_date": "2024-10-23",
+    "end_time": "undefined",
+    "link": "https://www.carnegiehall.org/calendar/2024/10/23/concert-for-the-children-and-youth-of-ukraine-0700pm",
+    "address": "Carnegie Hall, 57th and Seventh, New York, NY",
+    "cost": "$45 (with promo code SKN52209)"
   }
 ]

@@ -1,13 +1,91 @@
 [
   {
-    "title": "One-Day-Sale: Beethoven’s 9th Symphony at Carnegie Hall",
-    "description": "Experience Beethoven’s Ninth Symphony, known for the immortal “Ode to Joy”; beloved film music by John Williams; music by Valentyn Silvestrov, Ukraine’s most renowned living composer; and more in this one-night-only event at Carnegie Hall, hosted by Liev Schreiber. Anchored by members of Orchestra of St. Luke’s, this newly assembled orchestra features young musicians representing more than one dozen countries. They are joined by violin virtuoso Anne-Sophie Mutter and exceptional singers and choirs. Proceeds from this one-night-only event support Direct Relief, a humanitarian aid nonprofit organization that provides urgently needed medical supplies to relief groups and families on the ground in Ukraine.",
-    "start_date": "2024-10-23",
-    "start_time": "7:00 PM",
-    "end_date": "2024-10-23",
-    "end_time": "undefined",
-    "link": "https://www.carnegiehall.org/calendar/2024/10/23/concert-for-the-children-and-youth-of-ukraine-0700pm",
-    "address": "Carnegie Hall, 57th and Seventh, New York, NY",
-    "cost": "$45 (with promo code SKN52209)"
+    "title": "Halloween Punk Market",
+    "description": "A market featuring punk-themed Halloween items and vendors.",
+    "start_date": "2024-10-27",
+    "start_time": "12:00 pm",
+    "end_time": "5:00 pm",
+    "link": "https://wl.seetickets.us/event/halloween-punk-market/623448?afflky=TVEye",
+    "address": "TV Eye, Ridgewood"
+  },
+  {
+    "title": "Chinatown Block Party",
+    "description": "A block party featuring food, music, and activities.",
+    "start_date": "2024-10-27",
+    "start_time": "2:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://www.thinkchinatown.org/happenings/2024/10/27/chinatown-block-party-",
+    "address": "Mott + Mosco Streets"
+  },
+  {
+    "title": "Second Annual Erotic Art Fair",
+    "description": "An art fair showcasing erotic art.",
+    "start_date": "2024-10-26",
+    "start_time": "12:30 pm",
+    "end_time": "7:00 pm",
+    "link": "https://wl.seetickets.us/event/erotic-art-fair/619319?afflky=TVEye",
+    "address": "TV Eye, Ridgewood"
+  },
+  {
+    "title": "Offset Art Book Fair",
+    "description": "An art book fair featuring various artists and publishers.",
+    "start_date": "2024-10-26",
+    "start_time": "1:00 pm",
+    "end_time": "4:00 pm",
+    "link": "https://parsons.github.io/offset/",
+    "address": "Parsons School of Design, Union Square",
+    "cost": "Free admission, timed ticket required"
+  },
+  {
+    "title": "New York City Wine Fest",
+    "description": "A wine festival featuring over 100 styles of wine, food, and entertainment.",
+    "start_date": "2024-10-26",
+    "start_time": "1:00 pm",
+    "end_time": "4:30 pm",
+    "link": "https://www.eventbrite.com/e/new-york-city-wine-fest-tickets-991125652507?discount=THESKINT",
+    "address": "Chelsea Industrial, 535-549 West 28th Street, New York, NY 10001",
+    "cost": "$40 (discount available with promo code)"
+  },
+  {
+    "title": "Queens Night Market",
+    "description": "A night market featuring various vendors and food options.",
+    "start_date": "2024-10-26",
+    "start_time": "4:00 pm",
+    "end_time": "11:00 pm",
+    "link": "https://queensnightmarket.com",
+    "address": "New York Hall of Science at Flushing Meadows Corona Park"
+  },
+  {
+    "title": "SKINT WEEKEND",
+    "description": "Looking to make Halloween plans? We’ve rounded up 75+ Halloween events in NYC for $40 and under happening today through the 31st (including nine pet parades and costume contests this weekend!).",
+    "start_date": "2024-10-25",
+    "end_date": "2024-10-31",
+    "link": "https://www.theskint.com/fri-mon-10-25-28-skint-weekend/",
+    "cost": "$40 and under"
+  },
+  {
+    "title": "Anime Food NYC Festival",
+    "description": "A festival featuring anime-themed food and drinks.",
+    "start_date": "2024-10-25",
+    "start_time": "1:00 pm",
+    "end_time": "8:00 pm",
+    "link": "https://www.instagram.com/animefoodnyc/",
+    "address": "26 Bridge Street, Dumbo",
+    "cost": "$20 admission includes a drink voucher"
+  },
+  {
+    "title": "Etsy Holiday Pop-Up",
+    "description": "A holiday shopping event featuring various Etsy vendors.",
+    "start_date": "2024-10-25",
+    "end_date": "2024-10-27",
+    "link": "https://www.etsy.com/featured/popup",
+    "address": "576 Hudson Street, West Village"
+  },
+  {
+    "title": "Smorgasburg Outdoor Food Markets",
+    "description": "Outdoor food markets featuring various vendors.",
+    "start_date": "2024-10-25",
+    "end_date": "2024-10-27",
+    "link": "https://www.smorgasburg.com"
   }
 ]

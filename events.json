@@ -1,16 +1,16 @@
 [
   {
-    "title": "Halloween Punk Market",
-    "description": "A market featuring punk-themed Halloween items and vendors.",
+    "title": "Spooky Bazaar (Halloween Special) at Grand Bazaar NYC",
+    "description": "A Halloween-themed bazaar featuring various vendors and activities.",
     "start_date": "2024-10-27",
-    "start_time": "12:00 pm",
+    "start_time": "10:00 am",
     "end_time": "5:00 pm",
-    "link": "https://wl.seetickets.us/event/halloween-punk-market/623448?afflky=TVEye",
-    "address": "TV Eye, Ridgewood"
+    "link": "https://grandbazaarnyc.org/events/spooky-bazaar-halloween-special-4/",
+    "address": "100 W 77th St at Columbus Ave, UWS"
   },
   {
     "title": "Chinatown Block Party",
-    "description": "A block party featuring food, music, and activities.",
+    "description": "A block party featuring food, entertainment, and community activities.",
     "start_date": "2024-10-27",
     "start_time": "2:00 pm",
     "end_time": "6:00 pm",
@@ -19,7 +19,7 @@
   },
   {
     "title": "Second Annual Erotic Art Fair",
-    "description": "An art fair showcasing erotic art.",
+    "description": "An art fair showcasing erotic art, held at TV Eye in Ridgewood.",
     "start_date": "2024-10-26",
     "start_time": "12:30 pm",
     "end_time": "7:00 pm",
@@ -28,7 +28,7 @@
   },
   {
     "title": "Offset Art Book Fair",
-    "description": "An art book fair featuring various artists and publishers.",
+    "description": "An art book fair featuring various artists and publishers, held at Parsons School of Design.",
     "start_date": "2024-10-26",
     "start_time": "1:00 pm",
     "end_time": "4:00 pm",
@@ -38,17 +38,17 @@
   },
   {
     "title": "New York City Wine Fest",
-    "description": "A wine festival featuring over 100 styles of wine, food, and entertainment.",
+    "description": "A wine festival featuring over 100 styles of wine, live entertainment, and food vendors.",
     "start_date": "2024-10-26",
     "start_time": "1:00 pm",
     "end_time": "4:30 pm",
     "link": "https://www.eventbrite.com/e/new-york-city-wine-fest-tickets-991125652507?discount=THESKINT",
     "address": "Chelsea Industrial, 535-549 West 28th Street, New York, NY 10001",
-    "cost": "$40 (discount available with promo code)"
+    "cost": "$40 (save 40% with promo code THESKINT)"
   },
   {
     "title": "Queens Night Market",
-    "description": "A night market featuring various vendors and food options.",
+    "description": "A night market featuring various vendors, food, and entertainment.",
     "start_date": "2024-10-26",
     "start_time": "4:00 pm",
     "end_time": "11:00 pm",
@@ -56,8 +56,18 @@
     "address": "New York Hall of Science at Flushing Meadows Corona Park"
   },
   {
+    "title": "FAD Market Pop-Up",
+    "description": "A pop-up market featuring various vendors and artists, held at The Invisible Dog Art Center.",
+    "start_date": "2024-10-26",
+    "start_time": "11:00 am",
+    "end_date": "2024-10-27",
+    "end_time": "6:00 pm",
+    "link": "https://fadmarket.co/fall-id",
+    "address": "The Invisible Dog Art Center, Boerum Hill"
+  },
+  {
     "title": "SKINT WEEKEND",
-    "description": "Looking to make Halloween plans? We’ve rounded up 75+ Halloween events in NYC for $40 and under happening today through the 31st (including nine pet parades and costume contests this weekend!).",
+    "description": "Looking to make Halloween plans? We’ve rounded up 75+ Halloween events in NYC for $40 and under happening today through the 31st (including nine pet parades and costume contests this weekend!). Check out the full list here.",
     "start_date": "2024-10-25",
     "end_date": "2024-10-31",
     "link": "https://www.theskint.com/fri-mon-10-25-28-skint-weekend/",
@@ -65,7 +75,7 @@
   },
   {
     "title": "Anime Food NYC Festival",
-    "description": "A festival featuring anime-themed food and drinks.",
+    "description": "A festival featuring anime-themed food and drinks, with admission including a drink voucher.",
     "start_date": "2024-10-25",
     "start_time": "1:00 pm",
     "end_time": "8:00 pm",
@@ -83,7 +93,7 @@
   },
   {
     "title": "Smorgasburg Outdoor Food Markets",
-    "description": "Outdoor food markets featuring various vendors.",
+    "description": "Outdoor food markets featuring various vendors, with locations in different boroughs.",
     "start_date": "2024-10-25",
     "end_date": "2024-10-27",
     "link": "https://www.smorgasburg.com"

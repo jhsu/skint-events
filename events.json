@@ -1,7 +1,33 @@
 [
   {
+    "title": "Brooklyn Night Market",
+    "description": "A night market featuring various vendors and food options.",
+    "start_date": "2024-10-28",
+    "start_time": "4:00 pm",
+    "end_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/night-markets-nyc-brooklyn-tickets-807404477527",
+    "address": "Industry City"
+  },
+  {
+    "title": "Movie Musical Mondays",
+    "description": "A monthly series of iconic musicals hits the big screen.",
+    "start_date": "2024-10-28",
+    "start_time": "4:30 pm",
+    "link": "https://www.angelikafilmcenter.com/villageeast/signature-programming/musical-mondays",
+    "address": "Village East by Angelika",
+    "cost": "$18"
+  },
+  {
+    "title": "And Scene",
+    "description": "A performance featuring actors and improvisors sharing the stage.",
+    "start_date": "2024-10-28",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/events/and-scene-10-28-2024",
+    "cost": "$18.76 with promo code ‘brick’ (reg. $24-25)"
+  },
+  {
     "title": "Spooky Bazaar (Halloween Special) at Grand Bazaar NYC",
-    "description": "A Halloween-themed bazaar featuring various vendors and activities.",
+    "description": "A Halloween-themed bazaar featuring various vendors.",
     "start_date": "2024-10-27",
     "start_time": "10:00 am",
     "end_time": "5:00 pm",
@@ -9,8 +35,26 @@
     "address": "100 W 77th St at Columbus Ave, UWS"
   },
   {
+    "title": "BQ Flea Market",
+    "description": "A flea market featuring various vendors.",
+    "start_date": "2024-10-27",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://brooklynflea.com",
+    "address": "Under the BQE along Meeker Ave between Union Ave and Lorimer St, Williamsburg/Greenpoint"
+  },
+  {
+    "title": "Halloween Punk Market",
+    "description": "A punk-themed market featuring various vendors.",
+    "start_date": "2024-10-27",
+    "start_time": "12:00 pm",
+    "end_time": "5:00 pm",
+    "link": "https://wl.seetickets.us/event/halloween-punk-market/623448?afflky=TVEye",
+    "address": "TV Eye, Ridgewood"
+  },
+  {
     "title": "Chinatown Block Party",
-    "description": "A block party featuring food, entertainment, and community activities.",
+    "description": "A block party featuring various activities and vendors.",
     "start_date": "2024-10-27",
     "start_time": "2:00 pm",
     "end_time": "6:00 pm",
@@ -18,8 +62,17 @@
     "address": "Mott + Mosco Streets"
   },
   {
+    "title": "Sunnyside Night Market",
+    "description": "A night market featuring various vendors and food options.",
+    "start_date": "2024-10-27",
+    "start_time": "4:00 pm",
+    "end_time": "10:00 pm",
+    "link": "https://www.facebook.com/sunnysideshines/posts/pfbid02hz5VYejn7CbtkG2LZb5bJ2TP6AHBrJPZqccPQhvWaybh4NDJXfh8RmBC3QfmRoYql",
+    "address": "40th Street-Lowery Plaza, Queens"
+  },
+  {
     "title": "Second Annual Erotic Art Fair",
-    "description": "An art fair showcasing erotic art, held at TV Eye in Ridgewood.",
+    "description": "An art fair showcasing erotic art.",
     "start_date": "2024-10-26",
     "start_time": "12:30 pm",
     "end_time": "7:00 pm",
@@ -28,7 +81,7 @@
   },
   {
     "title": "Offset Art Book Fair",
-    "description": "An art book fair featuring various artists and publishers, held at Parsons School of Design.",
+    "description": "An art book fair featuring various artists and publishers.",
     "start_date": "2024-10-26",
     "start_time": "1:00 pm",
     "end_time": "4:00 pm",
@@ -38,17 +91,17 @@
   },
   {
     "title": "New York City Wine Fest",
-    "description": "A wine festival featuring over 100 styles of wine, live entertainment, and food vendors.",
+    "description": "A wine festival featuring over 100 styles of wine, food, and entertainment.",
     "start_date": "2024-10-26",
     "start_time": "1:00 pm",
     "end_time": "4:30 pm",
     "link": "https://www.eventbrite.com/e/new-york-city-wine-fest-tickets-991125652507?discount=THESKINT",
     "address": "Chelsea Industrial, 535-549 West 28th Street, New York, NY 10001",
-    "cost": "$40 (save 40% with promo code THESKINT)"
+    "cost": "$40 (with promo code 'THESKINT')"
   },
   {
     "title": "Queens Night Market",
-    "description": "A night market featuring various vendors, food, and entertainment.",
+    "description": "A night market featuring various vendors and food options.",
     "start_date": "2024-10-26",
     "start_time": "4:00 pm",
     "end_time": "11:00 pm",
@@ -57,17 +110,16 @@
   },
   {
     "title": "FAD Market Pop-Up",
-    "description": "A pop-up market featuring various vendors and artists, held at The Invisible Dog Art Center.",
+    "description": "A pop-up market featuring various vendors.",
     "start_date": "2024-10-26",
     "start_time": "11:00 am",
-    "end_date": "2024-10-27",
     "end_time": "6:00 pm",
     "link": "https://fadmarket.co/fall-id",
     "address": "The Invisible Dog Art Center, Boerum Hill"
   },
   {
     "title": "SKINT WEEKEND",
-    "description": "Looking to make Halloween plans? We’ve rounded up 75+ Halloween events in NYC for $40 and under happening today through the 31st (including nine pet parades and costume contests this weekend!). Check out the full list here.",
+    "description": "Looking to make Halloween plans? We’ve rounded up 75+ Halloween events in NYC for $40 and under happening today through the 31st (including nine pet parades and costume contests this weekend!).",
     "start_date": "2024-10-25",
     "end_date": "2024-10-31",
     "link": "https://www.theskint.com/fri-mon-10-25-28-skint-weekend/",
@@ -75,7 +127,7 @@
   },
   {
     "title": "Anime Food NYC Festival",
-    "description": "A festival featuring anime-themed food and drinks, with admission including a drink voucher.",
+    "description": "A festival featuring anime-themed food and drinks.",
     "start_date": "2024-10-25",
     "start_time": "1:00 pm",
     "end_time": "8:00 pm",
@@ -93,9 +145,64 @@
   },
   {
     "title": "Smorgasburg Outdoor Food Markets",
-    "description": "Outdoor food markets featuring various vendors, with locations in different boroughs.",
+    "description": "Outdoor food markets featuring various vendors.",
     "start_date": "2024-10-25",
     "end_date": "2024-10-27",
     "link": "https://www.smorgasburg.com"
+  },
+  {
+    "title": "Pets and the City Exhibition",
+    "description": "An exhibition exploring the visual history of New Yorkers and their animal companions.",
+    "start_date": "2024-10-25",
+    "end_date": "2025-04-10",
+    "link": "https://www.nyhistory.org/exhibitions/pets-and-the-city",
+    "address": "New-York Historical Society Museum + Library, UWS",
+    "cost": "$24 general, $19 seniors, $13 students, pay-what-you-wish Fridays 5-8pm"
+  },
+  {
+    "title": "Bryant Park's Winter Village",
+    "description": "The holiday season kicks off with the return of Bryant Park's Winter Village featuring an ice skating rink and holiday shops.",
+    "start_date": "2024-10-25",
+    "end_date": "2025-03-22",
+    "link": "https://bryantpark.org/activities/bank-of-america-winter-village-at-bryant-park",
+    "address": "Bryant Park",
+    "cost": "Free admission, skate rental starts at $20.32"
+  },
+  {
+    "title": "Dress Up Exhibition Opening",
+    "description": "A group exhibition exploring how costumes, clothes, tattoos, and makeup act as a tool for self-exploration and acceptance in queer communities.",
+    "start_date": "2024-10-25",
+    "start_time": "6:00 pm",
+    "end_time": "8:00 pm",
+    "link": "https://www.harshcollective.com/event-details/dress-up-opening",
+    "address": "Harsh Collective, Greenpoint",
+    "cost": "Free admission"
+  },
+  {
+    "title": "The Parlor Reading Series",
+    "description": "An interdisciplinary, community-based reading series hosts its fall edition.",
+    "start_date": "2024-10-25",
+    "start_time": "7:30 pm",
+    "link": "https://www.instagram.com/theparlor_brooklyn/",
+    "address": "Brooklyn Artery, Flatbush/Ditmas Park",
+    "cost": "Free (suggested donation $10)"
+  },
+  {
+    "title": "Bitches Brew Comedy Show",
+    "description": "A women-produced and-hosted comedy show featuring various stand-up comedians.",
+    "start_date": "2024-10-25",
+    "start_time": "8:30 pm",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Halyards, Gowanus",
+    "cost": "Free admission (tip jar will be passed around)"
+  },
+  {
+    "title": "Combover Comedy in a Barbershop",
+    "description": "An evening of comedy hosted at a barbershop featuring various comedians.",
+    "start_date": "2024-10-25",
+    "start_time": "9:00 pm",
+    "link": "https://combovercomedy.standuptix.com/events/combover-comedy-2024-10-25210000",
+    "address": "Otis + Finn Barbershop, LIC",
+    "cost": "$9.60 with promo code ‘skint’ (reg. $17.70)"
   }
 ]

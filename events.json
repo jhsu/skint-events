@@ -1,199 +1,123 @@
 [
   {
-    "title": "Brooklyn Night Market",
-    "description": "A night market featuring various food vendors. Season ends today.",
-    "start_date": "2024-10-28",
-    "start_time": "4:00 pm",
-    "end_time": "10:00 pm",
-    "address": "Industry City",
-    "cost": ""
-  },
-  {
-    "title": "Movie Musical Mondays",
-    "description": "A monthly series of iconic musicals at the cinema.",
-    "start_date": "2024-10-28",
-    "start_time": "4:30 pm",
-    "end_time": "10:00 pm",
-    "address": "Village East by Angelika",
-    "cost": "$18."
-  },
-  {
-    "title": "And Scene",
-    "description": "A performance featuring actors and improvisors sharing the stage.",
-    "start_date": "2024-10-28",
-    "start_time": "7:00 pm",
-    "address": "Caveat",
-    "cost": "$18.76 with promo code ‘brick’ (reg. $24-25)."
-  },
-  {
-    "title": "Spooky Bazaar (Halloween Special) at Grand Bazaar NYC",
-    "description": "A Halloween-themed bazaar featuring various vendors.",
-    "start_date": "2024-10-27",
-    "start_time": "10:00 am",
-    "end_time": "5:00 pm",
-    "address": "100 W 77th St at Columbus Ave, UWS",
-    "cost": ""
-  },
-  {
-    "title": "BQ Flea Market",
-    "description": "A flea market featuring various vendors. Ends today.",
-    "start_date": "2024-10-27",
-    "start_time": "10:00 am",
-    "end_time": "5:00 pm",
-    "address": "Under the BQE along Meeker Ave between Union Ave and Lorimer St, Williamsburg/Greenpoint",
-    "cost": ""
-  },
-  {
-    "title": "Halloween Punk Market",
-    "description": "A punk-themed market featuring various vendors.",
-    "start_date": "2024-10-27",
-    "start_time": "12:00 pm",
-    "end_time": "5:00 pm",
-    "address": "TV Eye, Ridgewood",
-    "cost": ""
-  },
-  {
-    "title": "Chinatown Block Party",
-    "description": "A block party featuring various activities and vendors.",
-    "start_date": "2024-10-27",
-    "start_time": "2:00 pm",
-    "end_time": "6:00 pm",
-    "address": "Mott + Mosco Streets",
-    "cost": ""
-  },
-  {
-    "title": "Sunnyside Night Market",
-    "description": "A night market featuring various food vendors.",
-    "start_date": "2024-10-27",
-    "start_time": "4:00 pm",
-    "end_time": "10:00 pm",
-    "address": "40th Street-Lowery Plaza, Queens",
-    "cost": ""
-  },
-  {
-    "title": "Second Annual Erotic Art Fair",
-    "description": "An art fair showcasing erotic art.",
-    "start_date": "2024-10-26",
-    "start_time": "12:30 pm",
-    "end_time": "7:00 pm",
-    "address": "TV Eye, Ridgewood",
-    "cost": ""
-  },
-  {
-    "title": "Offset Art Book Fair",
-    "description": "An art book fair featuring various artists and publishers.",
-    "start_date": "2024-10-26",
+    "title": "The Undies Animation Screening",
+    "description": "School of Visual Arts BFA Animation presents its annual screening and awards show highlighting animated films that were created by students over the past year. SVA Theatre (Chelsea) and online, free admission.",
+    "start_date": "2024-10-31",
     "start_time": "1:00 pm",
-    "end_time": "4:00 pm",
-    "address": "Parsons School of Design, Union Square",
-    "cost": "Free admission, timed ticket required."
+    "link": "https://sva.edu/events/2024undies",
+    "cost": "Free"
   },
   {
-    "title": "New York City Wine Fest",
-    "description": "A wine festival featuring over 100 styles of wine, food vendors, and live entertainment.",
-    "start_date": "2024-10-26",
-    "start_time": "1:00 pm",
-    "end_time": "9:30 pm",
-    "address": "Chelsea Industrial, 535-549 West 28th Street, New York, NY 10001",
-    "cost": "$40 (with promo code 'THESKINT')"
+    "title": "The Corrigan Show",
+    "description": "Actor Kevin Corrigan hosts an intimate talk show with guests Michael Shannon and Brooklyn band Elysian Fields. The Owl Music Parlor (Prospect Lefferts Gardens), $25 at the door (cash only).",
+    "start_date": "2024-10-31",
+    "start_time": "7:30 pm",
+    "link": "https://theowl.nyc",
+    "cost": "$25"
   },
   {
-    "title": "Queens Night Market",
-    "description": "A night market featuring various food vendors. Season ends today.",
-    "start_date": "2024-10-26",
-    "start_time": "4:00 pm",
-    "end_time": "11:00 pm",
-    "address": "New York Hall of Science at Flushing Meadows Corona Park",
-    "cost": ""
+    "title": "How to Win an Election: Defeat Misinformation",
+    "description": "Join data scientist and comedian Andrea Jones-Rooy as she hosts a dynamic evening with NYU’s Professor Jonathan Nagler, sharp-witted writer Alison Leiby, and data journalist Walt Hickey. Dive into an engaging discussion on cutting-edge research and how we can reclaim a fact-driven world.",
+    "start_date": "2024-10-30",
+    "start_time": "9:30 pm",
+    "link": "https://caveat.nyc/events/how-to-win-an-election-misinformation-10-30-2024",
+    "address": "Caveat Theatre, 21A Clinton St. NY, NY 10002",
+    "cost": "$7 off with code IVOTED"
   },
   {
-    "title": "FAD Market Pop-Up",
-    "description": "A pop-up market featuring various vendors.",
-    "start_date": "2024-10-26",
-    "start_time": "11:00 am",
-    "end_time": "6:00 pm",
-    "address": "The Invisible Dog Art Center, Boerum Hill",
-    "cost": ""
+    "title": "Backroom Reading Series",
+    "description": "Backroom Books, a used book pop-up located in Red Hook's Strong Rope Brewery, kicks off a new reading series featuring local authors, hosted by Shelby Cook. Free admission (RSVP for $1 off beer all night).",
+    "start_date": "2024-10-30",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/backroom-books-reading-series-no1-tickets-1048094196957",
+    "cost": "Free"
   },
   {
-    "title": "SKINT WEEKEND",
-    "description": "Looking to make Halloween plans? We’ve rounded up 75+ Halloween events in NYC for $40 and under happening today through the 31st (including nine pet parades and costume contests this weekend!).",
-    "start_date": "2024-10-25",
+    "title": "We Have Fun: A Stand-Up Show",
+    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s (Park Slope), with stand-up by Hari Kondabolu, Bri Giger, Lana Siebel, and Matthew Azark. Free admission.",
+    "start_date": "2024-10-30",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
+    "cost": "Free"
+  },
+  {
+    "title": "Cried the Phoenix: An Evening of Tennessee Williams Short Plays",
+    "description": "The Eno River Players presents a series of rarely staged plays by Tennessee Williams, with a variety of acts performing between the plays. Doxsee Theater (Sunset Park), $25.",
+    "start_date": "2024-10-30",
+    "start_time": "7:30 pm",
+    "link": "https://www.enoriverplayers.org/2024-2025",
+    "cost": "$25"
+  },
+  {
+    "title": "Drenched Stand Up Comedy",
+    "description": "No poncho required at Caroline Baniewicz, Nina Barnett, and Jenny Gorelick’s comedy show, held at Arlo Nomad’s Mirror Bar. Tonight’s lineup includes Blair Dawson, Lauren Davis, Connor Janda, and Maddy Kelly. $13 (a 2-for-1 special is available for a limited time).",
+    "start_date": "2024-10-30",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/drenched-stand-up-comedy-tickets-891621272227",
+    "cost": "$13"
+  },
+  {
+    "title": "Canstruction: A Feast for the Eyes",
+    "description": "Behold large-scale sculptures made entirely out of unopened cans of food at the annual Canstruction design competition. Created by creative crews of architects, engineers, and contractors, the 23 sculptures will be on display at Brookfield Place (WTC) for two weeks before being donated to City Harvest for families in need. Free admission.",
+    "start_date": "2024-10-30",
+    "end_date": "2024-11-11",
+    "link": "https://bfplny.com/canstruction/",
+    "cost": "Free"
+  },
+  {
+    "title": "Dance Bloc NYC",
+    "description": "Dixon Place’s fourth annual fall dance festival presents new work inspired by the themes ‘effect,’ ‘emerge,’ and ‘evolve’ from 20 companies and choreographers. Dixon Place (LES), $20-22 adv, $23-25 door.",
+    "start_date": "2024-10-30",
+    "end_date": "2024-11-02",
+    "link": "http://dixonplace.org/performances/danceblocnyc-2024/",
+    "cost": "$20-22 adv, $23-25 door"
+  },
+  {
+    "title": "Halloween Events in NYC",
+    "description": "Looking to make Halloween plans? We’ve rounded up 75+ Halloween events in NYC for $40 and under happening through the 31st.",
+    "start_date": "2024-10-29",
     "end_date": "2024-10-31",
-    "link": "https://www.theskint.com/fri-mon-10-25-28-skint-weekend/",
+    "link": "https://www.theskint.com/tue-thurs-10-29-10-31-halloween-events-canstruction-and-more/",
     "cost": "$40 and under"
   },
   {
-    "title": "Anime Food NYC Festival",
-    "description": "A festival featuring anime-themed food and drinks. Admission includes a drink voucher.",
-    "start_date": "2024-10-25",
-    "start_time": "1:00 pm",
-    "end_time": "8:00 pm",
-    "address": "26 Bridge Street, Dumbo",
-    "cost": "$20"
+    "title": "The Art Show",
+    "description": "The Art Dealers Association of America's annual art fair returns to Park Avenue Armory (UES) for its 36th year with curated exhibitions of both historical and contemporary works from 75 galleries. Benefit preview Tuesday, $30 general admission Wednesday-Saturday (ticket sales benefit Henry Street Settlement's social service, arts, and health care programs).",
+    "start_date": "2024-10-29",
+    "end_date": "2024-11-02",
+    "link": "https://theartshow.org",
+    "cost": "$30"
   },
   {
-    "title": "Etsy Holiday Pop-Up",
-    "description": "A holiday shopping event featuring various Etsy vendors.",
-    "start_date": "2024-10-25",
-    "end_date": "2024-10-27",
-    "address": "576 Hudson Street, West Village",
-    "cost": ""
-  },
-  {
-    "title": "Smorgasburg Outdoor Food Markets",
-    "description": "Outdoor food markets featuring various vendors. Season ends this weekend.",
-    "start_date": "2024-10-25",
-    "end_date": "2024-10-27",
-    "cost": ""
-  },
-  {
-    "title": "Pets and the City Exhibition",
-    "description": "An exhibition exploring the visual history of New Yorkers and their pets.",
-    "start_date": "2024-10-25",
-    "end_date": "2025-04-10",
-    "address": "New-York Historical Society Museum + Library, UWS",
-    "cost": "$24 general, $19 seniors, $13 students, pay-what-you-wish Fridays 5-8pm."
-  },
-  {
-    "title": "Bryant Park's Winter Village",
-    "description": "The holiday season kicks off with an ice skating rink and holiday shops.",
-    "start_date": "2024-10-25",
-    "end_date": "2025-03-22",
-    "address": "Bryant Park",
-    "cost": "Free admission, skate rental starts at $20.32."
-  },
-  {
-    "title": "Dress Up Exhibition Opening",
-    "description": "A group exhibition exploring costumes and self-exploration in queer communities.",
-    "start_date": "2024-10-25",
+    "title": "Miller Theater’s Pop-Up Concert Series",
+    "description": "The Columbia University School of the Arts’s musical happy hour returns for a new season of hour-long concerts where the audience is permitted to sit onstage with the performers and enjoy a free drink. Tonight, Modney (violin), Kyle Armbrust (viola), and Michael Nicolas (cello) perform 'Musik für drei Streicher' (1977) by German composer Wolfgang Rihm, who passed away in July. Columbia University’s Miller Theatre (Morningside Heights), free admission.",
+    "start_date": "2024-10-29",
     "start_time": "6:00 pm",
-    "end_time": "8:00 pm",
-    "address": "Harsh Collective, Greenpoint",
-    "cost": "Free admission."
+    "link": "https://www.millertheatre.com/events/music-for-three-strings",
+    "cost": "Free"
   },
   {
-    "title": "The Parlor Reading Series",
-    "description": "A community-based reading series featuring various authors.",
-    "start_date": "2024-10-25",
-    "start_time": "7:30 pm",
-    "address": "Brooklyn Artery, Flatbush/Ditmas Park",
-    "cost": "Free (suggested donation $10)."
+    "title": "Glory Edim with Aminatou Sow: Gather Me",
+    "description": "Well-Read Black Girl founder Glory Edim discusses her memoir, 'Gather Me: A Memoir in Praise of the Books That Saved Me', in a conversation with 'Call Your Girlfriend' podcast host and 'Big Friendship' co-author Aminatou Sow at NYPL Stephen A. Schwarzman Building’s Celeste Auditorium (Midtown). Free admission.",
+    "start_date": "2024-10-29",
+    "start_time": "7:00 pm",
+    "link": "https://www.nypl.org/events/programs/2024/10/29/glory-edim",
+    "cost": "Free"
   },
   {
-    "title": "Bitches Brew Comedy Show",
-    "description": "A women-produced and-hosted comedy show featuring various comedians.",
-    "start_date": "2024-10-25",
-    "start_time": "8:30 pm",
-    "address": "Halyards, Gowanus",
-    "cost": "Free admission (tip jar will be passed around)."
+    "title": "Jonathan Lethem: Cellophane Bricks + Brooklyn Crime Novel",
+    "description": "Author Jonathan Lethem discusses his new collection of essays on art, 'Cellophane Bricks: A Life in Visual Culture', and 2023’s 'Brooklyn Crime Novel' at Brooklyn Public Library, Central Library (Prospect Heights). Writer, musician, and filmmaker Dan Fox joins. Free admission.",
+    "start_date": "2024-10-29",
+    "start_time": "7:00 pm",
+    "link": "https://www.bklynlibrary.org/calendar/jonathan-lethem-discusses-central-library-dweck-20241029-0700pm",
+    "cost": "Free"
   },
   {
-    "title": "Combover Comedy in a Barbershop",
-    "description": "A comedy show hosted in a barbershop featuring various comedians.",
-    "start_date": "2024-10-25",
-    "start_time": "9:00 pm",
-    "address": "Otis + Finn Barbershop, LIC",
-    "cost": "$9.60 with promo code ‘skint’ (reg. $17.70)."
+    "title": "We Still Like You: A Shameful Storytelling Show",
+    "description": "Comedians and storytellers share their most cringe-worthy, yet funny, personal stories at this show about celebrating and conquering shame. Hosted by Tyler Snodgrass and Dave Ross. The Gutter Spare Room (Williamsburg), $5.",
+    "start_date": "2024-10-29",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/we-still-like-you-tickets-1048124026177",
+    "cost": "$5"
   }
 ]

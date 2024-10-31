@@ -1,6 +1,6 @@
 [
   {
-    "title": "Canstruction",
+    "title": "Canstruction: A Feast for the Eyes",
     "description": "Behold large-scale sculptures made entirely out of unopened cans of food at the annual Canstruction design competition. Created by creative crews of architects, engineers, and contractors, the 23 sculptures will be on display at Brookfield Place (WTC) for two weeks before being donated to City Harvest for families in need.",
     "start_date": "2024-10-31",
     "end_date": "2024-11-11",
@@ -20,9 +20,7 @@
     "description": "School of Visual Arts BFA Animation presents its annual screening and awards show highlighting animated films that were created by students over the past year.",
     "start_date": "2024-10-31",
     "start_time": "1:00 pm",
-    "end_time": "5:00 pm",
     "link": "https://sva.edu/events/2024undies",
-    "address": "SVA Theatre (Chelsea) and online",
     "cost": "Free"
   },
   {
@@ -30,18 +28,17 @@
     "description": "Actor Kevin Corrigan hosts an intimate talk show with guests Michael Shannon and Brooklyn band Elysian Fields.",
     "start_date": "2024-10-31",
     "start_time": "7:30 pm",
-    "link": "https://theowl.nyc",
     "address": "The Owl Music Parlor (Prospect Lefferts Gardens)",
     "cost": "$25 at the door (cash only)"
   },
   {
     "title": "How to Win an Election: Defeat Misinformation",
-    "description": "Join data scientist and comedian Andrea Jones-Rooy as she hosts a dynamic evening with NYU’s Professor Jonathan Nagler, sharp-witted writer Alison Leiby, and data journalist Walt Hickey. Dive into an engaging discussion on cutting-edge research and how we can reclaim a fact-driven world.",
+    "description": "Join data scientist and comedian Andrea Jones-Rooy as she hosts a dynamic evening with NYU's Professor Jonathan Nagler, sharp-witted writer Alison Leiby, and data journalist Walt Hickey. Dive into an engaging discussion on cutting-edge research and how we can reclaim a fact-driven world.",
     "start_date": "2024-10-30",
     "start_time": "9:30 pm",
     "link": "https://caveat.nyc/events/how-to-win-an-election-misinformation-10-30-2024",
     "address": "Caveat Theatre, 21A Clinton St. NY, NY 10002",
-    "cost": "$7 off with promo code IVOTED"
+    "cost": "$7 off with code IVOTED"
   },
   {
     "title": "Backroom Reading Series",
@@ -49,7 +46,6 @@
     "start_date": "2024-10-30",
     "start_time": "7:30 pm",
     "link": "https://www.eventbrite.com/e/backroom-books-reading-series-no1-tickets-1048094196957",
-    "address": "Red Hook's Strong Rope Brewery",
     "cost": "Free"
   },
   {
@@ -58,7 +54,6 @@
     "start_date": "2024-10-30",
     "start_time": "7:30 pm",
     "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
-    "address": "Young Ethel’s (Park Slope)",
     "cost": "Free"
   },
   {
@@ -67,7 +62,6 @@
     "start_date": "2024-10-30",
     "start_time": "7:30 pm",
     "link": "https://www.enoriverplayers.org/2024-2025",
-    "address": "Doxsee Theater (Sunset Park)",
     "cost": "$25"
   },
   {
@@ -76,8 +70,7 @@
     "start_date": "2024-10-30",
     "start_time": "7:30 pm",
     "link": "https://www.eventbrite.com/e/drenched-stand-up-comedy-tickets-891621272227",
-    "address": "Arlo Nomad’s Mirror Bar",
-    "cost": "$13 (2-for-1 special available for a limited time)"
+    "cost": "$13 (2-for-1 special available)"
   },
   {
     "title": "Halloween Events in NYC",
@@ -97,30 +90,26 @@
   },
   {
     "title": "Miller Theater’s Pop-Up Concert Series",
-    "description": "The Columbia University School of the Arts’s musical happy hour returns for a new season of hour-long concerts where the audience is permitted to sit onstage with the performers and enjoy a free drink. Tonight, Modney (violin), Kyle Armbrust (viola), and Michael Nicolas (cello) perform 'Musik für drei Streicher' (1977) by German composer Wolfgang Rihm.",
+    "description": "The Columbia University School of the Arts’s musical happy hour returns for a new season of hour-long concerts where the audience is permitted to sit onstage with the performers and enjoy a free drink. Tonight, Modney (violin), Kyle Armbrust (viola), and Michael Nicolas (cello) perform 'Musik für drei Streicher' (1977) by German composer Wolfgang Rihm, who passed away in July.",
     "start_date": "2024-10-29",
     "start_time": "6:00 pm",
-    "end_time": "7:00 pm",
     "link": "https://www.millertheatre.com/events/music-for-three-strings",
-    "address": "Columbia University’s Miller Theatre (Morningside Heights)",
     "cost": "Free"
   },
   {
     "title": "Glory Edim with Aminatou Sow: Gather Me",
-    "description": "Well-Read Black Girl founder Glory Edim discusses her memoir, 'Gather Me: A Memoir in Praise of the Books That Saved Me', in a conversation with 'Call Your Girlfriend' podcast host and 'Big Friendship' co-author Aminatou Sow.",
+    "description": "Well-Read Black Girl founder Glory Edim discusses her memoir, 'Gather Me: A Memoir in Praise of the Books That Saved Me', in a conversation with 'Call Your Girlfriend' podcast host and 'Big Friendship' co-author Aminatou Sow at NYPL Stephen A. Schwarzman Building’s Celeste Auditorium (Midtown).",
     "start_date": "2024-10-29",
     "start_time": "7:00 pm",
     "link": "https://www.nypl.org/events/programs/2024/10/29/glory-edim",
-    "address": "NYPL Stephen A. Schwarzman Building’s Celeste Auditorium (Midtown)",
     "cost": "Free"
   },
   {
     "title": "Jonathan Lethem: Cellophane Bricks + Brooklyn Crime Novel",
-    "description": "Author Jonathan Lethem discusses his new collection of essays on art, 'Cellophane Bricks: A Life in Visual Culture', and 2023’s 'Brooklyn Crime Novel' at Brooklyn Public Library, Central Library (Prospect Heights). Writer, musician, and filmmaker Dan Fox joins.",
+    "description": "Author Jonathan Lethem discusses his new collection of essays on art, 'Cellophane Bricks: A Life in Visual Culture', and 2023's 'Brooklyn Crime Novel' at Brooklyn Public Library, Central Library (Prospect Heights). Writer, musician, and filmmaker Dan Fox joins.",
     "start_date": "2024-10-29",
     "start_time": "7:00 pm",
     "link": "https://www.bklynlibrary.org/calendar/jonathan-lethem-discusses-central-library-dweck-20241029-0700pm",
-    "address": "Brooklyn Public Library, Central Library (Prospect Heights)",
     "cost": "Free"
   },
   {
@@ -129,7 +118,6 @@
     "start_date": "2024-10-29",
     "start_time": "8:00 pm",
     "link": "https://www.eventbrite.com/e/we-still-like-you-tickets-1048124026177",
-    "address": "The Gutter Spare Room (Williamsburg)",
     "cost": "$5"
   }
 ]

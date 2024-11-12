@@ -1,13 +1,102 @@
 [
   {
-    "title": "SELECTED SHORTS: CELEBRATING 50 YEARS OF STEPHEN KING WITH HOST COLSON WHITEHEAD (SPONSORED)",
-    "description": "Master storyteller and bestselling author Stephen King burst onto the literary scene in 1974 with the publication of the spine-chilling novel Carrie. Come see actors and admirers pay tribute to the legendary author with readings from his sensational short fiction––and an excerpt from the book that launched an extraordinary writing career. Hosted by Colson Whitehead (Harlem Shuffle), with performances by Carrie Coon (The Gilded Age), John Benjamin Hickey (Salem’s Lot), David Morse (The Green Mile), and Heather Alicia Simms (Luke Cage).",
-    "start_date": "2024-11-09",
-    "start_time": "undefined",
-    "end_date": "undefined",
-    "end_time": "undefined",
-    "link": "https://www.symphonyspace.org/events/selected-shorts-stephen-king-colson-whitehead?utm_source=Selected+Shorts+Stephen+King+Skint&utm_medium=email&utm_campaign=Selected+Shorts+Stephen+King+Skint",
-    "address": "undefined",
-    "cost": "$15 with code: King (limited tickets at this price)"
+    "title": "Brooklyn Tequila and Spirits Fest",
+    "description": "Discover, sip, and savor tequila and mezcal at Industry City with over 100 styles available, paired with live music and delicious food.",
+    "start_date": "2024-11-16",
+    "start_time": "1:00 pm",
+    "end_time": "4:00 pm",
+    "link": "https://www.eventbrite.com/e/brooklyn-tequila-fest-tickets-1021700853757?discount=THESKINT",
+    "address": "Industry City, 33 35th Street, Suite 52A, Brooklyn, NY 11232",
+    "cost": "Varies, special offer available"
+  },
+  {
+    "title": "Prospect Park Ice Skating",
+    "description": "Skating season returns to Prospect Park's lakeside’s rink. $10.60-15.25 admission, $10.35 skate rental (or byo), $5.45-14.15 locker rental/bag check.",
+    "start_date": "2024-11-12",
+    "end_date": "2024-11-17",
+    "link": "https://www.prospectpark.org/visit-the-park/places-to-go/lefrak-center-lakeside/",
+    "address": "Prospect Park, Brooklyn, NY",
+    "cost": "$10.60-15.25 admission, $10.35 skate rental, $5.45-14.15 locker rental"
+  },
+  {
+    "title": "New York Comedy Festival",
+    "description": "More than 200 comedians perform in more than 100 shows at venues throughout the five boroughs. Some skint-priced options this week include various shows.",
+    "start_date": "2024-11-12",
+    "end_date": "2024-11-17",
+    "link": "https://nycomedyfestival.com",
+    "address": "Various venues throughout NYC",
+    "cost": "Varies"
+  },
+  {
+    "title": "Ice Theatre of New York: 2024-25 City Skate Pop-Up Performances",
+    "description": "Professional ice dance company Ice Theatre of New York brings a series of short, free performances to public outdoor rinks through the season. This year’s season kicks off at Bryant Park.",
+    "start_date": "2024-11-12",
+    "start_time": "12:30 pm",
+    "link": "https://icetheatre.org/2024-25-city-skate-concerts.html",
+    "address": "Bryant Park, New York, NY",
+    "cost": "Free"
+  },
+  {
+    "title": "Heartbreak is the National Anthem: How Taylor Swift Reinvented Pop Music with Rob Sheffield",
+    "description": "Author and Rolling Stone journalist Rob Sheffield shares his new book on the life, music, and cultural impact of Taylor Swift in a conversation with Rolling Stone writer Brittany Spanos at Brooklyn Brewery.",
+    "start_date": "2024-11-12",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/word-presents-heartbreak-is-the-national-anthem-with-rob-sheffield-tickets-972673411357",
+    "address": "Brooklyn Brewery, Williamsburg, NY",
+    "cost": "$10 admission, $36 ticket includes a copy of the book"
+  },
+  {
+    "title": "Live Band Karaoke at Arlene’s Grocery",
+    "description": "Choose from over 175 rock and pop songs and sing with your very own live band backing you up at Arlene’s Grocery.",
+    "start_date": "2024-11-12",
+    "start_time": "8:00 pm",
+    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
+    "address": "Arlene's Grocery, LES, New York, NY",
+    "cost": "$10"
+  },
+  {
+    "title": "Miss Hole World: A Hole Tribute Show",
+    "description": "Mr. E. Minx's 90's drag series pays tribute to Hole, featuring performances by Nxthing, Klondyke, Caresse Deville, and Poly Ester, with music by Miss Woman the Woman.",
+    "start_date": "2024-11-12",
+    "start_time": "9:30 pm",
+    "link": "https://dice.fm/event/q25p9y-miss-hole-world-12th-nov-cmon-everybody-new-york-tickets",
+    "address": "C’mon Everybody, Bed-Stuy, NY",
+    "cost": "$12.36 adv, $15 door"
+  },
+  {
+    "title": "28th Urbanworld Film Festival",
+    "description": "A film festival showcasing various films at Regal Union Square and Film at Lincoln Center.",
+    "start_date": "2024-11-12",
+    "end_date": "2024-11-17",
+    "link": "https://urbanworld.org/film-guide-2024/",
+    "address": "Regal Union Square and Film at Lincoln Center, New York, NY",
+    "cost": "Varies"
+  },
+  {
+    "title": "15th DOC NYC",
+    "description": "A documentary film festival taking place at various venues including IFC Center and SVA Theatre.",
+    "start_date": "2024-11-12",
+    "end_date": "2024-12-01",
+    "link": "https://www.docnyc.net",
+    "address": "IFC Center, SVA Theatre, Village East by Angelika, and online",
+    "cost": "Varies"
+  },
+  {
+    "title": "18th Annual Korean American Film Festival New York",
+    "description": "A film festival showcasing Korean American films at Hunter College and Sugar Mouse.",
+    "start_date": "2024-11-12",
+    "end_date": "2024-11-15",
+    "link": "https://kaffny.org/",
+    "address": "Hunter College and Sugar Mouse, New York, NY",
+    "cost": "Varies"
+  },
+  {
+    "title": "Kenny Scharf Exhibition",
+    "description": "A major survey of artist Kenny Scharf at The Brant Foundation, featuring over 70 works from the late 1970s to present.",
+    "start_date": "2024-11-12",
+    "end_date": "2025-02-28",
+    "link": "https://www.brantfoundation.org/exhibitions/kenny-scharf/",
+    "address": "The Brant Foundation, East Village, NY",
+    "cost": "$20 general, $18 seniors, $15 students, $10 Wednesdays 2-6pm"
   }
 ]

@@ -89,18 +89,18 @@
   },
   {
     "title": "Brooklyn Tequila and Spirits Fest",
-    "description": "Industry City - Building 5 (Sunset Park). Save 40% on advance tickets with promo code 'theskint'.",
+    "description": "Industry City – Building 5 (Sunset Park). Save 40% on advance tickets with promo code 'theskint'.",
     "start_date": "2024-11-16",
     "start_time": "1:00 pm",
     "end_date": "2024-11-16",
     "end_time": "9:00 pm",
     "link": "https://www.eventbrite.com/e/brooklyn-tequila-fest-tickets-1021700853757?discount=THESKINT",
-    "address": "Industry City - Building 5, Sunset Park",
+    "address": "Industry City, Building 5, 33 35th Street, Suite 52A, Brooklyn, NY 11232",
     "cost": "Varies"
   },
   {
     "title": "Regina Opera: Tosca",
-    "description": "Brooklyn's Regina Opera presents a fully-staged performance of Giacomo Puccini's Tosca at Our Lady of Perpetual Help Auditorium (Sunset Park). The performance, sung in Italian with English supertitles, will be presented with full orchestra.",
+    "description": "Brooklyn's Regina Opera presents a fully-staged performance of Giacomo Puccini's Tosca at Our Lady of Perpetual Help Auditorium (Sunset Park).",
     "start_date": "2024-11-16",
     "start_time": "",
     "end_date": "2024-11-24",
@@ -121,14 +121,14 @@
     "cost": "Free-$25"
   },
   {
-    "title": "MOMA PS1 Open House",
-    "description": "MOMA PS1 (LIC) celebrates the opening of two new exhibitions with free admission all day, performances, talks from artists and curators, family activities, and more.",
+    "title": "MoMA PS1 Open House",
+    "description": "MoMA PS1 (LIC) celebrates the opening of two new exhibitions with free admission all day, performances, talks from artists and curators, family activities, and more.",
     "start_date": "2024-11-16",
     "start_time": "12:00 pm",
     "end_date": "2024-11-16",
     "end_time": "8:00 pm",
     "link": "https://www.momaps1.org/en/events/509-open-house",
-    "address": "MOMA PS1, LIC",
+    "address": "MoMA PS1, LIC",
     "cost": "Free"
   },
   {
@@ -221,7 +221,7 @@
   },
   {
     "title": "New York Comedy Festival",
-    "description": "More than 200 comedians perform in more than 100 shows at venues throughout the five boroughs. Some skint-priced options include: Friday: Asscat @ UCB, PWI x POCs @ Brooklyn Comedy Collective, The Story Collider @ QED, Putería con Papirossa @ Littlefield; Saturday: ACAB: Angry, Crazy + Black with Sydney Duncan @ Brooklyn Art Haus, Christian Finnegan @ QED, Asian AF @ UCB, Bianca Parato @ Brooklyn Art Haus; Sunday: Rejected Shorts @ Caveat (save $5 with promo code 'nothanks').",
+    "description": "More than 200 comedians perform in more than 100 shows at venues throughout the five boroughs.",
     "start_date": "2024-11-15",
     "start_time": "",
     "end_date": "2024-11-17",
@@ -249,12 +249,12 @@
     "end_date": "2024-11-15",
     "end_time": "",
     "link": "https://brooklynpoets.org/events/all/fellows-111524",
-    "address": "Brooklyn Poets, Brooklyn Heights",
+    "address": "Brooklyn Heights",
     "cost": "Free"
   },
   {
     "title": "The World According to Allee Willis with Alexis Spraic",
-    "description": "Angelika New York (Soho) hosts screenings of The World According to Allee Willis, Alexis Spraic's documentary about songwriter and art director Allee Willis (1947-2019). Spraic will be in-person for Q+A sessions following the 7pm shows Thurs + Fri.",
+    "description": "Angelika New York (Soho) hosts screenings of The World According to Allee Willis, a documentary about songwriter and art director Allee Willis. Spraic will be in-person for Q+A sessions following the 7pm shows Thurs + Fri.",
     "start_date": "2024-11-15",
     "start_time": "7:00 pm",
     "end_date": "2024-11-15",
@@ -276,13 +276,13 @@
   },
   {
     "title": "Bitches Brew Comedy Show",
-    "description": "See what all the brew-ha-ha is about at this women-produced and-hosted comedy show, returning to the back room at Halyards (Gowanus) with stand-up by Brian Paris (HBO), Rojo Perez (Fallon), Claire Parker (Celebrity Memoir Club), Phil Kostelecky (BBC), Molly Brenner (Edinburgh Fringe Fest), and Jason King.",
+    "description": "See what all the brew-ha-ha is about at this women-produced and-hosted comedy show, returning to the back room at Halyards (Gowanus) with stand-up by various comedians.",
     "start_date": "2024-11-15",
     "start_time": "8:30 pm",
     "end_date": "2024-11-15",
     "end_time": "",
     "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
     "address": "Halyards, Gowanus",
-    "cost": "Free (tip jar)"
+    "cost": "Free"
   }
 ]

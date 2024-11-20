@@ -1,5 +1,104 @@
 [
   {
+    "title": "Broadway Under the Stars",
+    "description": "Live performances from Broadway shows at The Shops at Columbus Circle (UWS).",
+    "start_date": "2024-11-21",
+    "start_time": "5:00 pm",
+    "link": "https://www.theshopsatcolumbuscircle.com/events/broadway-under-the-stars/",
+    "address": "The Shops at Columbus Circle, UWS",
+    "cost": "Free admission"
+  },
+  {
+    "title": "At Wit’s End: Cartoonists of The New Yorker",
+    "description": "Book presentation at Rizzoli Bookstore (Flatiron).",
+    "start_date": "2024-11-21",
+    "start_time": "6:00 pm",
+    "link": "https://www.rizzolibookstore.com/wits-end-cartoonists-new-yorker-0",
+    "address": "Rizzoli Bookstore, Flatiron",
+    "cost": "Free admission"
+  },
+  {
+    "title": "High and Rising: A Book About De La Soul",
+    "description": "Discussion with Marcus J. Moore at Powerhouse Arena (DUMBO).",
+    "start_date": "2024-11-21",
+    "start_time": "7:00 pm",
+    "link": "https://powerhousearena.com/events/book-launch-high-and-rising-a-book-about-de-la-soul-by-marcus-j-moore/",
+    "address": "Powerhouse Arena, DUMBO",
+    "cost": "$5 admission includes a store gift certificate, $29.99 ticket includes a copy of the book."
+  },
+  {
+    "title": "Facts Machine: Science, Comedy + Trivia",
+    "description": "Trivia night at Caveat (LES).",
+    "start_date": "2024-11-21",
+    "start_time": "7:00 pm",
+    "link": "https://www.caveat.nyc/events/facts-machine-science-comedy--trivia-11-21-2024",
+    "address": "Caveat, LES",
+    "cost": "$18.76 with promo code ‘theskint’ (reg. $24.41 adv, $25 door)"
+  },
+  {
+    "title": "Golden Spiral Comedy Show",
+    "description": "Stand-up comedy show at Whiskey Cellar NYC (East Village).",
+    "start_date": "2024-11-21",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/golden-spiral-comedy-november-tickets-1073544363089",
+    "address": "Whiskey Cellar NYC, East Village",
+    "cost": "$7.18 with promo code 'skintspiral' (reg. $10.38+)"
+  },
+  {
+    "title": "His Three Daughters Screening",
+    "description": "Screening of His Three Daughters at The Paris Theater (Midtown).",
+    "start_date": "2024-11-21",
+    "start_time": "7:00 pm",
+    "link": "https://www.paristheaternyc.com/film/his-three-daughters-paris",
+    "address": "The Paris Theater, Midtown",
+    "cost": "$17 general, $15 seniors"
+  },
+  {
+    "title": "Pete’s Reading Series",
+    "description": "Literary reading series at Pete’s Candy Store (Williamsburg).",
+    "start_date": "2024-11-21",
+    "start_time": "7:30 pm",
+    "link": "https://www.instagram.com/petesreading/",
+    "address": "Pete’s Candy Store, Williamsburg",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Futuros, New Ideas in Composition",
+    "description": "Latine composers showcase at Lincoln Center’s David Rubenstein Atrium (UWS).",
+    "start_date": "2024-11-21",
+    "start_time": "7:30 pm",
+    "link": "https://www.lincolncenter.org/series/lincoln-center-presents/s/FUTUROS",
+    "address": "Lincoln Center, UWS",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Entirely From Memory: Spirited Away",
+    "description": "A chaotic recreation of Spirited Away at Littlefield (Gowanus).",
+    "start_date": "2024-11-21",
+    "start_time": "8:00 pm",
+    "link": "https://www.entirelyfrommemory.com",
+    "address": "Littlefield, Gowanus",
+    "cost": "$12 adv, $14 day of"
+  },
+  {
+    "title": "Constellation Prize: An Astrology-Based Comedy Game Show",
+    "description": "Comedy game show at Studio 45 (Bushwick).",
+    "start_date": "2024-11-21",
+    "start_time": "8:00 pm",
+    "link": "https://partiful.com/e/sX1vNg2XbkYNDxZ05dWv",
+    "address": "Studio 45, Bushwick",
+    "cost": "$20-25 admission includes wine from Sun Moon Rising Wine"
+  },
+  {
+    "title": "Gwenty: A Drag Show",
+    "description": "Drag show celebrating Gwen Stefani's career at C’mon Everybody (Bed-Stuy).",
+    "start_date": "2024-11-21",
+    "start_time": "10:30 pm",
+    "link": "https://dice.fm/event/q2oyqx-gwenty-21st-nov-cmon-everybody-new-york-tickets",
+    "address": "C’mon Everybody, Bed-Stuy",
+    "cost": "$12.36 adv, $15 door"
+  },
+  {
     "title": "Fetish Film Screening Party",
     "description": "An evening of fetish-themed films at The House (Bushwick).",
     "start_date": "2024-11-20",
@@ -12,42 +111,15 @@
     "title": "Mix NYC Queer Experimental Film Festival",
     "description": "A festival showcasing queer experimental films at Quad Cinema (Greenwich Village).",
     "start_date": "2024-11-20",
-    "end_date": "2024-11-23",
+    "end_date": "2024-11-22",
     "link": "https://www.ticketleap.events/tickets/mix-nyc/mix-nyc-queer-experimental-film-festival#",
     "address": "Quad Cinema, Greenwich Village",
     "cost": ""
   },
   {
-    "title": "Insomnia Film Series",
-    "description": "Film series featuring classics like Taxi Driver, Hour of the Wolf, The Machinist, and Fight Club at Metrograph (LES).",
-    "start_date": "2024-11-19",
-    "end_date": "2024-11-30",
-    "link": "https://metrograph.com/category/insomnia/?v=0b3b97fa6688",
-    "address": "Metrograph, LES",
-    "cost": "Various prices"
-  },
-  {
-    "title": "My Crazy Uncle (or Aunt) Film Series",
-    "description": "Film series featuring Uncle Buck, Auntie Mame, Napoleon Dynamite, Practical Magic, and more at Metrograph (LES).",
-    "start_date": "2024-11-19",
-    "end_date": "2024-12-01",
-    "link": "https://metrograph.com/category/my-crazy-uncle/?v=0b3b97fa6688",
-    "address": "Metrograph, LES",
-    "cost": "Various prices"
-  },
-  {
-    "title": "Nicholas Uncaged Film Series",
-    "description": "Film series featuring Wild at Heart, Adaptation, National Treasure, and more at Metrograph (LES).",
-    "start_date": "2024-11-19",
-    "end_date": "2024-12-15",
-    "link": "https://metrograph.com/category/nicolas-uncaged/?v=0b3b97fa6688",
-    "address": "Metrograph, LES",
-    "cost": "Various prices"
-  },
-  {
     "title": "Heartbreak is the National Anthem: How Taylor Swift Reinvented Pop Music",
     "description": "Rob Sheffield discusses his new book on Taylor Swift at Barnes & Noble 82nd + Broadway (UWS).",
-    "start_date": "2024-11-19",
+    "start_date": "2024-11-20",
     "start_time": "6:00 pm",
     "link": "https://stores.barnesandnoble.com/event/9780062172585-0",
     "address": "Barnes & Noble, 82nd + Broadway, UWS",
@@ -55,8 +127,8 @@
   },
   {
     "title": "31st Annual Harlem Holiday Lights",
-    "description": "Annual holiday lights parade featuring 20 lighted floats and vehicles along 125th Street. Grand Marshal: Misty Copeland.",
-    "start_date": "2024-11-19",
+    "description": "Annual holiday lights parade featuring 20 lighted floats and vehicles along 125th Street.",
+    "start_date": "2024-11-20",
     "start_time": "6:00 pm",
     "link": "https://harlemlightitup.org",
     "address": "125th Street and Broadway",
@@ -65,7 +137,7 @@
   {
     "title": "Collage Poetry Workshop",
     "description": "Create heartfelt poems at this workshop with all materials provided at Otto’s Shrunken Head Bar (East Village).",
-    "start_date": "2024-11-19",
+    "start_date": "2024-11-20",
     "start_time": "6:30 pm",
     "link": "https://www.eventbrite.com/e/adverse-abstraction-presents-collage-poetry-workshop-with-laura-salvatore-tickets-1036865932917",
     "address": "Otto’s Shrunken Head Bar, East Village",
@@ -74,7 +146,7 @@
   {
     "title": "2024 National Book Awards Finalists Reading",
     "description": "Readings by the 2024 National Book Award finalists at NYU Skirball (Greenwich Village).",
-    "start_date": "2024-11-19",
+    "start_date": "2024-11-20",
     "start_time": "7:00 pm",
     "link": "https://nyuskirball.org/events/2024-national-book-awards-finalist-reading/",
     "address": "NYU Skirball, Greenwich Village",
@@ -83,7 +155,7 @@
   {
     "title": "Letters + Sodas: LIC Reading Series",
     "description": "Local comedians and writers read from their original works at The Greats of Craft (Long Island City).",
-    "start_date": "2024-11-19",
+    "start_date": "2024-11-20",
     "start_time": "7:00 pm",
     "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1079609333579",
     "address": "The Greats of Craft, Long Island City",
@@ -92,7 +164,7 @@
   {
     "title": "Brooklyn Books + Booze",
     "description": "Monthly reading series featuring established and up-and-coming authors at Barrow's Intense Tasting Room (Industry City).",
-    "start_date": "2024-11-19",
+    "start_date": "2024-11-20",
     "start_time": "7:00 pm",
     "link": "https://randeedawn.com/bonus/brooklyn-books-booze/",
     "address": "Barrow's Intense Tasting Room, Industry City",
@@ -101,7 +173,7 @@
   {
     "title": "Astronomy on Tap: X-Ray Astronomy",
     "description": "An evening of astronomy talks and themed games at Pete’s Candy Store (Williamsburg).",
-    "start_date": "2024-11-19",
+    "start_date": "2024-11-20",
     "start_time": "7:00 pm",
     "link": "https://astronomyontap.org/event/astronomy-on-tap-nyc-147-chandra-25-x-ray-astronomy/",
     "address": "Pete’s Candy Store, Williamsburg",
@@ -110,7 +182,7 @@
   {
     "title": "The Broad Squad",
     "description": "Monthly variety show featuring stand-up, storytelling, music, and tarot readings at Young Ethel’s (Park Slope).",
-    "start_date": "2024-11-19",
+    "start_date": "2024-11-20",
     "start_time": "7:00 pm",
     "link": "https://www.eventbrite.com/e/the-broad-squad-tickets-1063884700779",
     "address": "Young Ethel’s, Park Slope",
@@ -119,7 +191,7 @@
   {
     "title": "Animation Nights New York",
     "description": "Monthly screening of animated short films and VR experiences at The Gutter Spare Room (Williamsburg).",
-    "start_date": "2024-11-19",
+    "start_date": "2024-11-20",
     "start_time": "8:00 pm",
     "link": "https://www.animationnights.com/screening100/",
     "address": "The Gutter Spare Room, Williamsburg",
@@ -128,10 +200,109 @@
   {
     "title": "Sweet Comedy Show: Sweets-Giving",
     "description": "Live comedy show featuring guests at Chelsea Music Hall.",
-    "start_date": "2024-11-19",
+    "start_date": "2024-11-20",
     "start_time": "9:00 pm",
     "link": "https://www.chelseamusichall.com/event/seth-herzog-presents-sweets-giving-4/",
     "address": "Chelsea Music Hall",
     "cost": "Save 50% with promo code ‘gives’"
+  },
+  {
+    "title": "México Now Festival",
+    "description": "Spotlighting contemporary Mexican art and culture at Chelsea Factory.",
+    "start_date": "2024-11-20",
+    "end_date": "2024-11-24",
+    "link": "https://mexiconowfestival.org",
+    "address": "Chelsea Factory",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Transgender Day of Remembrance: Transforming Our Pain into Power",
+    "description": "An evening of reflection and solidarity at the Lesbian, Gay, Bisexual + Transgender Community Center (Greenwich Village).",
+    "start_date": "2024-11-20",
+    "start_time": "6:00 pm",
+    "link": "https://gaycenter.org/tdor/",
+    "address": "Lesbian, Gay, Bisexual + Transgender Community Center, Greenwich Village",
+    "cost": "Free"
+  },
+  {
+    "title": "Ask a F*ckboy Comedy Show",
+    "description": "Comedy show with a panel of f*ckboys answering questions at Sugar Mouse (East Village).",
+    "start_date": "2024-11-20",
+    "start_time": "6:30 pm",
+    "link": "https://posh.vip/e/ask-a-fuckboy-3",
+    "address": "Sugar Mouse, East Village",
+    "cost": "$15"
+  },
+  {
+    "title": "Astronomy Live: 330 Hours in Space",
+    "description": "Talk by Commander John Herrington about his experience in space at Hayden Planetarium Space Theater (UWS).",
+    "start_date": "2024-11-20",
+    "start_time": "7:00 pm",
+    "link": "https://www.amnh.org/calendar/herrington-space-mission",
+    "address": "Hayden Planetarium Space Theater, UWS",
+    "cost": "$20"
+  },
+  {
+    "title": "Adam Wade: Live in New York",
+    "description": "Storytelling show featuring Adam Wade at Under St. Marks Theater (East Village).",
+    "start_date": "2024-11-20",
+    "start_time": "7:00 pm",
+    "link": "https://www.frigid.nyc/event/6897:476/",
+    "address": "Under St. Marks Theater, East Village",
+    "cost": "Sliding scale admission"
+  },
+  {
+    "title": "The Fifth Element Screening",
+    "description": "Screening of the cult classic film at select theaters.",
+    "start_date": "2024-11-20",
+    "start_time": "7:00 pm",
+    "link": "https://www.fathomevents.com/events/the-fifth-element-2024/",
+    "address": "",
+    "cost": "Various prices"
+  },
+  {
+    "title": "Ditmas Lit Series",
+    "description": "Writers share their work at the Urbane Arts Club (Ditmas Park).",
+    "start_date": "2024-11-20",
+    "start_time": "8:00 pm",
+    "link": "http://www.ditmaslit.com/events",
+    "address": "Urbane Arts Club, Ditmas Park",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Discounted Preview Weekend at Artechouse's Tingle Bells",
+    "description": "Immersive digital art installation at Chelsea Market's Artechouse.",
+    "start_date": "2024-11-20",
+    "end_date": "2024-11-24",
+    "link": "https://www.artechouse.com/program/nyc-tingle-bells/",
+    "address": "Chelsea Market",
+    "cost": "50% off with code 'preview50'"
+  },
+  {
+    "title": "Insomnia Film Series",
+    "description": "Film series featuring Taxi Driver, Hour of the Wolf, The Machinist, Fight Club at Metrograph (LES).",
+    "start_date": "2024-11-19",
+    "end_date": "2024-11-30",
+    "link": "https://metrograph.com/category/insomnia/?v=0b3b97fa6688",
+    "address": "Metrograph, LES",
+    "cost": "Various prices"
+  },
+  {
+    "title": "My Crazy Uncle (or Aunt) Film Series",
+    "description": "Film series featuring Uncle Buck, Auntie Mame, Napoleon Dynamite, Practical Magic at Metrograph (LES).",
+    "start_date": "2024-11-19",
+    "end_date": "2024-12-01",
+    "link": "https://metrograph.com/category/my-crazy-uncle/?v=0b3b97fa6688",
+    "address": "Metrograph, LES",
+    "cost": "Various prices"
+  },
+  {
+    "title": "Nicholas Uncaged Film Series",
+    "description": "Film series featuring Wild at Heart, Adaptation, National Treasure at Metrograph (LES).",
+    "start_date": "2024-11-19",
+    "end_date": "2024-12-15",
+    "link": "https://metrograph.com/category/nicolas-uncaged/?v=0b3b97fa6688",
+    "address": "Metrograph, LES",
+    "cost": "Various prices"
   }
 ]

@@ -1,35 +1,11 @@
 [
   {
-    "title": "Jersey City Wine Fest",
-    "description": "A wine festival featuring various wines and tastings.",
-    "start_date": "2024-11-23",
-    "start_time": "6:00 pm",
-    "end_date": "2024-11-23",
-    "end_time": "9:30 pm",
-    "link": "https://www.eventbrite.com/e/jersey-city-wine-fest-tickets-1021670513007?discount=THESKINT",
-    "address": "Harborside Atrium",
-    "cost": "$40 (with promo code ‘theskint’)"
-  },
-  {
-    "title": "Julemarked/Norwegian Christmas Fair",
-    "description": "A Norwegian Christmas fair featuring various cultural festivities.",
-    "start_date": "2024-11-22",
-    "start_time": "12:00 pm",
-    "end_date": "2024-11-24",
-    "end_time": "6:00 pm",
-    "link": "https://www.facebook.com/events/1264659218227920",
-    "address": "Norwegian Seamen’s Church, Midtown East",
-    "cost": "Free"
-  },
-  {
-    "title": "Christmas Shop at the Church of Sweden",
-    "description": "A Christmas shop offering various items, open from Wednesday to Sunday.",
-    "start_date": "2024-11-22",
-    "start_time": "12:00 pm",
-    "end_date": "2024-11-24",
-    "end_time": "6:00 pm",
-    "link": "https://www.facebook.com/svenskakyrkannewyork/posts/pfbid02k8NdyHNj8qZPK1yR5b9dFf6E6JiBQ4qQWvgtLfeYsdAzwRia9Vts2eyEvcw5usCJl",
-    "address": "Church of Sweden, Diamond District",
-    "cost": "Free"
+    "title": "SQUIRREL NUT ZIPPERS CHRISTMAS CARAVAN",
+    "description": "Inspired by 1920s jazz, klezmer, and old-time music, this joyous show celebrates the season with heartwarming ballads, boisterous dance tunes, alternative holiday classics, and so much more. An unforgettable night of music from this Platinum-selling band!",
+    "start_date": "2024-12-06",
+    "start_time": "8:00 pm",
+    "link": "https://www.theskint.com/squirrel-nut-zippers-christmas-caravan-sponsored/",
+    "address": "Symphony Space, 2537 Broadway & 95th Street, NY, NY 10025",
+    "cost": "Use code SKINT10 for $10 off full-price tickets"
   }
 ]

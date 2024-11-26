@@ -1,11 +1,132 @@
 [
   {
-    "title": "SQUIRREL NUT ZIPPERS CHRISTMAS CARAVAN",
-    "description": "Inspired by 1920s jazz, klezmer, and old-time music, this joyous show celebrates the season with heartwarming ballads, boisterous dance tunes, alternative holiday classics, and so much more. An unforgettable night of music from this Platinum-selling band!",
-    "start_date": "2024-12-06",
-    "start_time": "8:00 pm",
-    "link": "https://www.theskint.com/squirrel-nut-zippers-christmas-caravan-sponsored/",
-    "address": "Symphony Space, 2537 Broadway & 95th Street, NY, NY 10025",
-    "cost": "Use code SKINT10 for $10 off full-price tickets"
+    "title": "Woodbine Holiday Market",
+    "description": "A holiday market with two locations in Ridgewood, featuring local vendors and crafts.",
+    "start_date": "2024-12-01",
+    "start_time": "12:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/p/DCuzBugyVVK/?img_index=1",
+    "address": "Woodbine and Banatul Folklore + Soccer Club, Ridgewood",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Grand Holiday Bazaar at Grand Bazaar NYC",
+    "description": "A holiday market featuring local vendors, located at 100 W 77th St at Columbus Ave.",
+    "start_date": "2024-12-01",
+    "start_time": "10:00 am",
+    "end_date": "2024-12-22",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/",
+    "address": "100 W 77th St at Columbus Ave, UWS",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Brooklyn Holiday Market Pop-Up",
+    "description": "A holiday market at Industry City in Sunset Park, featuring local vendors and crafts.",
+    "start_date": "2024-12-01",
+    "start_time": "12:00 pm",
+    "end_date": "2024-12-29",
+    "end_time": "6:00 pm",
+    "link": "https://www.eventbrite.com/e/holiday-market-pop-up-industry-city-tickets-1042451800397",
+    "address": "Industry City, Sunset Park",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Metal Merchants Market",
+    "description": "A market featuring metal-themed goods, taking place at TV Eye in Ridgewood.",
+    "start_date": "2024-11-30",
+    "start_time": "12:00 pm",
+    "end_time": "5:00 pm",
+    "link": "https://www.instagram.com/p/DCcqs3fySVx/?img_index=1",
+    "address": "TV Eye, Ridgewood",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Queens Craft Brigade Market",
+    "description": "A craft market at Katch Gastropub in Astoria, featuring local artisans and crafters.",
+    "start_date": "2024-11-30",
+    "start_time": "12:00 pm",
+    "end_time": "5:00 pm",
+    "link": "https://www.instagram.com/queenscraftbrigade",
+    "address": "Katch Gastropub, Astoria",
+    "cost": "Undefined"
+  },
+  {
+    "title": "African Restaurant Week’s Holiday Pop-Up Market",
+    "description": "A holiday market featuring African cuisine and crafts, located at Bon Bonbon in Little Haiti/East Flatbush.",
+    "start_date": "2024-11-30",
+    "end_date": "2024-12-15",
+    "link": "https://www.instagram.com/p/DCmnQMIyAlK/",
+    "address": "Bon Bonbon, Little Haiti/East Flatbush",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Hester Street Fair Holiday Pop-Up",
+    "description": "A holiday market featuring local vendors, located at Essex Market in the Lower East Side.",
+    "start_date": "2024-11-30",
+    "end_date": "2024-12-22",
+    "link": "https://hesterstreetfair.com/events",
+    "address": "Essex Market, LES",
+    "cost": "Undefined"
+  },
+  {
+    "title": "The Holiday Makers Show at City Point",
+    "description": "A holiday market featuring local artisans, located at City Point's 1st floor atrium in Downtown Brooklyn.",
+    "start_date": "2024-11-30",
+    "end_date": "2024-12-22",
+    "link": "https://www.themakersshow.com/the-makers-show-holiday",
+    "address": "City Point's 1st floor atrium, Downtown Brooklyn",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Record Store Day",
+    "description": "A celebration of independent record stores with various participating locations.",
+    "start_date": "2024-11-29",
+    "link": "https://recordstoreday.com/Home",
+    "address": "Various participating locations",
+    "cost": "Undefined"
+  },
+  {
+    "title": "John Lovitch's Gingerbread Lane Village",
+    "description": "A holiday attraction featuring a village made of gingerbread, located at The Shops at Columbus Circle.",
+    "start_date": "2024-11-26",
+    "end_date": "2025-01-05",
+    "link": "https://www.theshopsatcolumbuscircle.com/events/gingerbread-lane-village-workshops/",
+    "address": "The Shops at Columbus Circle, 2nd floor",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Moongarden Light Installation",
+    "description": "A light installation at Fulton Street and Seaport Square, open from Wednesday through February 2025.",
+    "start_date": "2024-11-26",
+    "end_date": "2025-02-28",
+    "link": "https://theseaport.nyc/moongarden/",
+    "address": "Fulton Street + Seaport Square",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Dyker Heights Christmas Lights",
+    "description": "A festive display of Christmas lights in Dyker Heights, available from Thanksgiving weekend through the season.",
+    "start_date": "2024-11-26",
+    "link": "https://www.timeout.com/newyork/things-to-do/dyker-heights-christmas-lights",
+    "address": "Dyker Heights",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Domino Park's Waterfront Ice Rink",
+    "description": "An ice skating rink at Domino Park in Williamsburg, open through March 1, 2025.",
+    "start_date": "2024-11-26",
+    "end_date": "2025-03-01",
+    "link": "https://www.dominopark.com/ice-skating",
+    "address": "Domino Park, Williamsburg",
+    "cost": "$16 for NYC residents, $22 otherwise, $12 skate rental (or BYO)"
+  },
+  {
+    "title": "The Rooftop at Pier 17 Ice Rink",
+    "description": "An ice skating rink at Pier 17, open through the season.",
+    "start_date": "2024-11-26",
+    "link": "https://rooftopatpier17.com/the-dead-rabbit-presents/",
+    "address": "Pier 17",
+    "cost": "$13-40"
   }
 ]

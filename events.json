@@ -1,11 +1,100 @@
 [
   {
-    "title": "LOVING THE ALIEN: A BOWIE TRIBUTE DANCE PARTY",
-    "description": "The Fifth Annual Loving The Alien: A Bowie Tribute Dance Party Calling all Heroes and Space Oddities! It’s been eight years since David Bowie left us and returned to his home planet, and we’ve been feeling Under Pressure ever since. On Friday, January 10, Let’s Dance through these Changes as DJ Steve Reynolds (Party Like It’s 1999) keeps the Stardust alive with a night of Bowie’s biggest hits and deep cuts from his 50-year career.",
-    "start_date": "2025-01-10",
-    "start_time": "10:30 pm",
-    "link": "https://www.theskint.com/loving-the-alien-a-bowie-tribute-dance-party-3/",
-    "address": "littlefield, 635 Sackett Street, Brooklyn 11217",
-    "cost": "$7 in advance, $12 at the door"
+    "title": "Holiday Lighting in Central Park",
+    "description": "A flotilla of trees on the Harlem Meer, caroling, seasonal activities, and hot cocoa.",
+    "start_date": "2024-12-05",
+    "start_time": "5:30 pm",
+    "link": "https://www.centralparknyc.org/activities/events/holiday-lighting-2024",
+    "address": "Central Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Holiday Lights Celebration at Nelson A. Rockefeller Park",
+    "description": "Performances, carols, beverages and treats, and more.",
+    "start_date": "2024-12-05",
+    "start_time": "6:00 pm",
+    "end_time": "7:30 pm",
+    "link": "https://bpca.ny.gov/event/holiday-lights-celebration-3/",
+    "address": "Nelson A. Rockefeller Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Lobster Trap Christmas Tree Lighting",
+    "description": "A lobster trap Christmas tree, complimentary drinks and bites.",
+    "start_date": "2024-12-05",
+    "start_time": "6:00 pm",
+    "end_time": "8:00 pm",
+    "link": "https://www.redhooklobster.com/event/lobster-trap-christmas-tree-lighting/",
+    "address": "Red Hook Lobster Pound",
+    "cost": "Free"
+  },
+  {
+    "title": "Rockefeller Center Tree Lighting",
+    "description": "Performances by the Radio City Rockettes, Kelly Clarkson, Backstreet Boys, Jennifer Hudson, Dan + Shay, Megan Hilty, Thalia, and more.",
+    "start_date": "2024-12-04",
+    "start_time": "8:00 pm",
+    "link": "https://www.today.com/life/holidays/how-to-watch-rockefeller-christmas-tree-lighting-2024-rcna182283",
+    "address": "Rockefeller Center",
+    "cost": "Free"
+  },
+  {
+    "title": "Island of Warmth at Manhattan West",
+    "description": "A winter-themed event with various activities.",
+    "start_date": "2024-12-04",
+    "end_date": "2025-01-08",
+    "link": "https://manhattanwestnyc.com/event/island-of-warmth/2024-12-04/",
+    "address": "Manhattan West",
+    "cost": "Free"
+  },
+  {
+    "title": "Holiday Tree Lightings at The Seaport",
+    "description": "Performances, a pop-up market, photo opps, activities for kids, and more.",
+    "start_date": "2024-12-03",
+    "start_time": "3:00 pm",
+    "end_date": "2024-12-03",
+    "end_time": "7:00 pm",
+    "link": "https://theseaport.nyc/events/holiday-tree-lighting/",
+    "address": "The Seaport",
+    "cost": "Free"
+  },
+  {
+    "title": "Holiday Tree Lighting at Madison Square Park",
+    "description": "Live music, photo ops, baked-goods, and more.",
+    "start_date": "2024-12-03",
+    "start_time": "4:30 pm",
+    "end_date": "2024-12-03",
+    "end_time": "5:45 pm",
+    "link": "https://madisonsquarepark.org/community/calendar/event/2024-holiday-tree-lighting/",
+    "address": "Madison Square Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Holiday Tree Lighting at Bryant Park",
+    "description": "Performances from Tony-award winner Lea Salonga and world-class ice skaters, fireworks, and more.",
+    "start_date": "2024-12-03",
+    "start_time": "6:00 pm",
+    "end_date": "2024-12-03",
+    "end_time": "7:00 pm",
+    "link": "https://bryantpark.org/calendar/event/tree-lighting/2024-12-03",
+    "address": "Bryant Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Lincoln Square's Magical Lights",
+    "description": "Magical lights display.",
+    "start_date": "2024-12-03",
+    "start_time": "4:30 pm",
+    "link": "https://www.magicallights.nyc/",
+    "address": "Lincoln Square",
+    "cost": "Free"
+  },
+  {
+    "title": "Columbus Circle Outdoor Holiday Market",
+    "description": "Holiday market with various vendors.",
+    "start_date": "2024-12-03",
+    "end_date": "2024-12-31",
+    "link": "https://www.urbanspacemarkets.com/columbus-circle-holiday-market-1",
+    "address": "Columbus Circle",
+    "cost": "Free"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "title": "Holiday Lighting in Central Park",
+    "title": "Holiday Lighting at Central Park",
     "description": "A flotilla of trees on the Harlem Meer, caroling, seasonal activities, and hot cocoa.",
     "start_date": "2024-12-05",
     "start_time": "5:30 pm",
@@ -9,7 +9,7 @@
     "cost": "Free"
   },
   {
-    "title": "Holiday Lights Celebration at Nelson A. Rockefeller Park",
+    "title": "Holiday Celebration at Nelson A. Rockefeller Park",
     "description": "Performances, carols, beverages and treats, and more.",
     "start_date": "2024-12-05",
     "start_time": "6:00 pm",
@@ -29,6 +29,96 @@
     "cost": "Free"
   },
   {
+    "title": "New York City Horror Film Festival",
+    "description": "Film festival featuring horror films.",
+    "start_date": "2024-12-05",
+    "end_date": "2024-12-08",
+    "link": "https://nychorrorfest.com",
+    "address": "Look Dine-In Cinemas (Hell’s Kitchen)",
+    "cost": "Various prices"
+  },
+  {
+    "title": "Serials Short Play Series",
+    "description": "Five teams of actors perform original, 10-minute episodic plays.",
+    "start_date": "2024-12-05",
+    "end_date": "2024-12-07",
+    "link": "https://thetanknyc.org/calendar-1/2024/12/5/serials",
+    "address": "The Tank (Garment District)",
+    "cost": "$20+"
+  },
+  {
+    "title": "Broadway Under the Stars",
+    "description": "Live performances from Broadway shows.",
+    "start_date": "2024-12-05",
+    "start_time": "5:00 pm",
+    "link": "https://www.theshopsatcolumbuscircle.com/events/broadway-under-the-stars/",
+    "address": "The Shops at Columbus Circle (UWS)",
+    "cost": "Free"
+  },
+  {
+    "title": "Dumbo First Thursday Gallery Walk",
+    "description": "Art galleries stay open late for special events and talks.",
+    "start_date": "2024-12-05",
+    "start_time": "6:00 pm",
+    "link": "https://artindumbo.com/first-thursdays/",
+    "address": "Dumbo",
+    "cost": "Free"
+  },
+  {
+    "title": "New School Studio Orchestra: The Nutcracker Suite and Peter + The Wolf",
+    "description": "Holiday performances by the New School Studio Orchestra.",
+    "start_date": "2024-12-05",
+    "start_time": "6:30 pm",
+    "link": "https://event.newschool.edu/nssoellingtonsnutcracker",
+    "address": "The New School’s John L. Tishman Auditorium (Greenwich Village/Union Square)",
+    "cost": "Free"
+  },
+  {
+    "title": "Limousine Reading Series",
+    "description": "New readings from writers at the Limousine Reading Series.",
+    "start_date": "2024-12-05",
+    "start_time": "7:00 pm",
+    "link": "https://partiful.com/e/uCR65PqUE548S4YBe4NN",
+    "address": "Berry Park (Williamsburg)",
+    "cost": "Free"
+  },
+  {
+    "title": "The Rally Reading Series: ‘The Heart of a March in the Body of a Reading Series’",
+    "description": "Readings from various authors at the Rally Reading Series.",
+    "start_date": "2024-12-05",
+    "start_time": "7:00 pm",
+    "link": "https://www.rallyreadingseries.com/schedule",
+    "address": "Pete’s Candy Store (Williamsburg)",
+    "cost": "Free"
+  },
+  {
+    "title": "Sh*t Arcade",
+    "description": "Comedians and the audience play and make fun of bad video games.",
+    "start_date": "2024-12-05",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/events/shit-arcade-12-5-2024",
+    "address": "Caveat (LES)",
+    "cost": "$15 adv, $20 door"
+  },
+  {
+    "title": "Tip Top Tits Comedy Show",
+    "description": "Stand-up comedy show featuring various comedians.",
+    "start_date": "2024-12-05",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/tip-top-tits-a-stand-up-comedy-show-tickets-1095465900999",
+    "address": "Tip-Top Bar + Grill (Bed-Stuy)",
+    "cost": "Free"
+  },
+  {
+    "title": "Spoons Toons + Booze ‘Xmas After Dark’ Edition",
+    "description": "Holiday screening party with trivia and cereal-infused cocktails.",
+    "start_date": "2024-12-05",
+    "start_time": "9:15 pm",
+    "link": "https://secretformulany.com/events/spoons-toons-booze-xmas-after-dark-dec-2024",
+    "address": "Nitehawk Cinema (Prospect Park)",
+    "cost": "$20 admission includes an all-you-can-eat cereal bar"
+  },
+  {
     "title": "Rockefeller Center Tree Lighting",
     "description": "Performances by the Radio City Rockettes, Kelly Clarkson, Backstreet Boys, Jennifer Hudson, Dan + Shay, Megan Hilty, Thalia, and more.",
     "start_date": "2024-12-04",
@@ -45,6 +135,106 @@
     "link": "https://manhattanwestnyc.com/event/island-of-warmth/2024-12-04/",
     "address": "Manhattan West",
     "cost": "Free"
+  },
+  {
+    "title": "Rizzoli Bookstore Holiday Fair",
+    "description": "Holiday fair at Rizzoli Bookstore.",
+    "start_date": "2024-12-04",
+    "start_time": "6:00 pm",
+    "end_time": "8:00 pm",
+    "link": "https://www.rizzolibookstore.com/rizzoli-bookstore-holiday-fair",
+    "address": "Flatiron",
+    "cost": "Free"
+  },
+  {
+    "title": "New York No Limits Film Summit",
+    "description": "Film summit featuring various films.",
+    "start_date": "2024-12-04",
+    "end_date": "2024-12-06",
+    "link": "https://www.newyorknolimits.com",
+    "address": "The Wild Project (East Village)",
+    "cost": "Free"
+  },
+  {
+    "title": "Three Weeks of Christmas at Village East by Angelika",
+    "description": "Film series featuring Christmas classics.",
+    "start_date": "2024-12-04",
+    "end_date": "2024-12-18",
+    "link": "https://www.angelikafilmcenter.com/villageeast/signature-programming/3-weeks-of-christmas",
+    "address": "Village East by Angelika",
+    "cost": "Free"
+  },
+  {
+    "title": "Carnegie Hall Citywide: Prague Philharmonic Choir",
+    "description": "Free concert featuring the Prague Philharmonic Choir.",
+    "start_date": "2024-12-04",
+    "start_time": "2:00 pm",
+    "link": "https://www.carnegiehall.org/calendar/2024/12/04/carnegie-hall-citywide-prague-philharmonic-choir-0200pm",
+    "address": "Red TKTS Steps at Times Square",
+    "cost": "Free"
+  },
+  {
+    "title": "The Artistic Crime of the Century: A Conversation with Philippe Petit",
+    "description": "Philippe Petit reflects on his iconic performance between the Twin Towers.",
+    "start_date": "2024-12-04",
+    "start_time": "6:00 pm",
+    "link": "https://www.911memorial.org/events/artistic-crime-century-conversation-philippe-petit",
+    "address": "9/11 Memorial + Museum (FIDI)",
+    "cost": "Free"
+  },
+  {
+    "title": "Selected Shorts at Symphony Space: Anything But Politics with Host Tony Hale",
+    "description": "An evening of hilarious stories about anything that isn’t related to electoral colleges.",
+    "start_date": "2024-12-04",
+    "start_time": "7:00 pm",
+    "link": "https://www.symphonyspace.org/events/selected-shorts-tony-hale-anything-but-politics?utm_source=Skint&utm_medium=email&utm_campaign=Shorts%3A+Anything+But+Politics+Social+Skint+Ad&utm_id=Shorts%3A+Anything+But+Politics+Social+Skint+Ad",
+    "address": "Symphony Space",
+    "cost": "$19 with promo code 'hale' (service charge applies)"
+  },
+  {
+    "title": "Backroom Reading Series",
+    "description": "Reading series featuring local authors.",
+    "start_date": "2024-12-04",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/backroom-books-reading-series-no2-tickets-1090293389879",
+    "address": "Backroom Books, Strong Rope Brewery (Red Hook)",
+    "cost": "Free"
+  },
+  {
+    "title": "Scicafe: Digital Divides",
+    "description": "Evening conversation series exploring digital platforms and division.",
+    "start_date": "2024-12-04",
+    "start_time": "7:00 pm",
+    "link": "https://www.amnh.org/calendar/digital-divides",
+    "address": "Cullman Hall of the Universe at the American Museum of Natural History (UWS)",
+    "cost": "Free"
+  },
+  {
+    "title": "We Have Fun: A Stand-Up Show",
+    "description": "Stand-up show featuring various comedians.",
+    "start_date": "2024-12-04",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
+    "address": "Young Ethel’s (Park Slope)",
+    "cost": "Free"
+  },
+  {
+    "title": "Mortified",
+    "description": "Storytelling show featuring embarrassing childhood artifacts.",
+    "start_date": "2024-12-04",
+    "start_time": "8:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1050711134287",
+    "address": "Littlefield (Gowanus)",
+    "cost": "$12 adv, $15 day of"
+  },
+  {
+    "title": "Pick Me: A Solo Show About Dying to Be Chosen",
+    "description": "Comedian Glennis Laroe shares her personal story.",
+    "start_date": "2024-12-04",
+    "start_time": "8:00 pm",
+    "link": "https://dice.fm/event/6debx3-pick-me-4th-dec-cmon-everybody-new-york-tickets",
+    "address": "C’mon Everybody (Bed-Stuy)",
+    "cost": "$10 adv, $15 door"
   },
   {
     "title": "Holiday Tree Lightings at The Seaport",
@@ -96,5 +286,14 @@
     "link": "https://www.urbanspacemarkets.com/columbus-circle-holiday-market-1",
     "address": "Columbus Circle",
     "cost": "Free"
+  },
+  {
+    "title": "Skipped a Beat: Emilia Pérez I and Musicals on the Edge",
+    "description": "Film series featuring various musicals.",
+    "start_date": "2024-12-03",
+    "end_date": "2025-01-26",
+    "link": "https://www.paristheaternyc.com/series/skipped-a-beat-paris",
+    "address": "Paris Theater (Midtown)",
+    "cost": "Various prices"
   }
 ]

@@ -1,11 +1,77 @@
 [
   {
-    "title": "JAMES MCBRIDE IN RESIDENCE: THE HEAVEN & EARTH GOSPEL",
-    "description": "James McBride is joined by a collective of musicians and singers for a captivating evening of gospel, bringing to glorious musical life the characters and key moments from his critically acclaimed novel, The Heaven & Earth Grocery Store.",
-    "start_date": "2024-12-13",
+    "title": "New York City Tequila and Mezcal Fest",
+    "description": "Discover, sip, and savor tequila and mezcal at the New York City Tequila and Mezcal Fest with over 100 styles, live music, and delicious food available to purchase.",
+    "start_date": "2024-12-14",
+    "start_time": "1:00 pm",
+    "end_time": "9:00 pm",
+    "link": "https://www.eventbrite.com/e/new-york-city-tequila-mezcal-fest-tickets-1022605850627?discount=THESKINT",
+    "address": "Chelsea Industrial, 535-549 West 28th Street, New York, NY 10001",
+    "cost": "Tickets include unlimited tastings and a souvenir tasting glass."
+  },
+  {
+    "title": "Annual Dumbo Holiday Lighting",
+    "description": "Join the annual Dumbo holiday lighting event at Dumbo Archway + Plaza.",
+    "start_date": "2024-12-11",
+    "start_time": "4:00 pm",
+    "end_time": "7:00 pm",
+    "link": "https://dumbo.nyc/dumbo-tree-lighting/",
+    "address": "Dumbo Archway + Plaza",
+    "cost": "Free"
+  },
+  {
+    "title": "100th Annual Washington Square Park Tree Lighting",
+    "description": "Celebrate the 100th annual tree lighting at Washington Square Park.",
+    "start_date": "2024-12-11",
+    "start_time": "5:00 pm",
+    "end_time": "7:00 pm",
+    "link": "http://www.washingtonsquarenyc.org/events/2019/12/4/tree-lighting-ceremony-ww4ya-38gjh-6e67k-har8h-jsce8-eywyg",
+    "address": "Washington Square Park (Greenwich Village)",
+    "cost": "Free"
+  },
+  {
+    "title": "Taiyaki NYC Christmas Tree Cones",
+    "description": "Taiyaki's Christmas tree ice cream cones (matcha ice cream, crushed peppermint sprinkles, and a fondant star with a choice of waffle or filled custard or red bean cone) are back for the holiday season.",
+    "start_date": "2024-12-10",
+    "end_date": "2024-01-13",
+    "link": "https://www.instagram.com/p/DDSyEeOTt67/",
+    "address": "Chinatown and Williamsburg locations",
+    "cost": "$8-12"
+  },
+  {
+    "title": "21st Annual Brevitas Festival of the Short Poem",
+    "description": "50+ poets will say more with less (14 lines max each) at the 21st annual Brevitas Festival of the Short Poem, a celebration of the publication of the 2024 Brevitas anthology. A short poem open mic will follow.",
+    "start_date": "2024-12-10",
+    "start_time": "6:00 pm",
+    "link": "https://www.facebook.com/events/2663693933815089",
+    "address": "Bowery Poetry Club (East Village)",
+    "cost": "$10 admission includes a copy of the anthology"
+  },
+  {
+    "title": "The Elements of Marie Curie: How the Glow of Radium Lit a Path for Women in Science",
+    "description": "Science writer Dava Sobel discusses her new biography on pioneering scientist Marie Curie and the untold story of the many young women who worked in her lab. In conversation with science journalist and author Angela Saini.",
+    "start_date": "2024-12-10",
+    "start_time": "7:00 pm",
+    "link": "https://www.nypl.org/events/programs/2024/12/10/dava-sobel",
+    "address": "NYPL Stephen A. Schwarzman Building’s Celeste Auditorium (Midtown)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Phantom of the Paradise 50th Anniversary with Paul Williams",
+    "description": "BAM Rose Cinemas hosts an anniversary screening of Brian De Palma's 1974 comedy-horror rock cult classic, Phantom of the Paradise, which will be followed by Q&A with singer, songwriter, composer, and actor Paul Williams.",
+    "start_date": "2024-12-10",
+    "start_time": "7:00 pm",
+    "link": "https://www.bam.org/film/2024/phantom-of-the-paradise",
+    "address": "BAM Rose Cinemas (Fort Greene)",
+    "cost": "$18"
+  },
+  {
+    "title": "Young Hot Sluts: A Matchmaking Show",
+    "description": "Comedian Carly Ann Filbin makes love connections while making you laugh at this IRL matchmaking show.",
+    "start_date": "2024-12-10",
     "start_time": "8:00 pm",
-    "link": "https://www.symphonyspace.org/events/james-mcbride-in-residence-the-heaven-and-earth-gospel?utm_source=skint&utm_medium=email&utm_campaign=skint_James_McBride",
-    "address": "Symphony Space, 2537 Broadway & 95th Street, NY, NY 10025",
-    "cost": "$10 off full price tickets with code SKINT10"
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1053599016019",
+    "address": "Littlefield (Gowanus)",
+    "cost": "$15 adv, $20 door"
   }
 ]

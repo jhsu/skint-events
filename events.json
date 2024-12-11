@@ -7,7 +7,87 @@
     "end_time": "9:00 pm",
     "link": "https://www.eventbrite.com/e/new-york-city-tequila-mezcal-fest-tickets-1022605850627?discount=THESKINT",
     "address": "Chelsea Industrial, 535-549 West 28th Street, New York, NY 10001",
-    "cost": "Tickets include unlimited tastings and a souvenir tasting glass."
+    "cost": "Varies"
+  },
+  {
+    "title": "Krispy Kreme Day of Dozens",
+    "description": "Double your donuts during Krispy Kreme's Day of Dozens promotion. Get a free dozen glazed doughnuts with the purchase of any dozen at participating locations.",
+    "start_date": "2024-12-12",
+    "link": "https://www.krispykreme.com/offers/dayofdozens",
+    "address": "Participating locations",
+    "cost": "Varies"
+  },
+  {
+    "title": "Broadway Under the Stars",
+    "description": "Live performances from Broadway shows at the Shops at Columbus Circle.",
+    "start_date": "2024-12-12",
+    "start_time": "5:00 pm",
+    "link": "https://www.theshopsatcolumbuscircle.com/events/broadway-under-the-stars/",
+    "address": "The Shops at Columbus Circle, UWS",
+    "cost": "Free"
+  },
+  {
+    "title": "Salsa Party in a Museum",
+    "description": "An evening of salsa, beginning with a class led by professional dancers followed by live music, social dancing, and performances.",
+    "start_date": "2024-12-12",
+    "start_time": "6:00 pm",
+    "link": "https://www.brooklynmuseum.org/calendar/event/salsa-party-2024-2025",
+    "address": "Brooklyn Museum’s Rubin Lobby, Prospect Heights",
+    "cost": "Free"
+  },
+  {
+    "title": "Uptown Showdown: Swifties vs. The Beyhive",
+    "description": "A comedy debate series where Taylor Swift battles Beyoncé.",
+    "start_date": "2024-12-12",
+    "start_time": "7:00 pm",
+    "link": "https://www.symphonyspace.org/events/uptown-showdown-beyhive-vs-swifties?utm_source=Newsletter&utm_medium=email&utm_campaign=skint+Uptown+Showdown+Dec+2024&utm_id=skint+Uptown+Showdown+Dec+2024",
+    "address": "Leonard Nimoy Thalia Theater at Symphony Space, UWS",
+    "cost": "$15"
+  },
+  {
+    "title": "John and Scott: Two Person Improv",
+    "description": "Improv show featuring former 30 Rock cast members Scott Adsit and John Lutz.",
+    "start_date": "2024-12-12",
+    "start_time": "7:00 pm",
+    "link": "https://ucbcomedy.com/show/john-and-scott-two-person-improv-3/",
+    "address": "UCB Theatre, East Village",
+    "cost": "$10 adv, $15 day-of"
+  },
+  {
+    "title": "The Mari Lwyd Pub Crawl: A Theatrical Pub Crawl",
+    "description": "A group of actors lead you through Industry City’s watering holes, performing short play scenes along the way.",
+    "start_date": "2024-12-12",
+    "start_time": "7:00 pm",
+    "link": "https://brooklynoneproductions.thundertix.com/events/238793",
+    "address": "Industry City",
+    "cost": "$10 admission (drinks extra)"
+  },
+  {
+    "title": "Futuros, New Ideas in Composition",
+    "description": "New Latin Wave brings their Latine composers showcase to Lincoln Center’s David Rubenstein Atrium for four nights.",
+    "start_date": "2024-12-12",
+    "start_time": "7:30 pm",
+    "link": "https://www.lincolncenter.org/series/lincoln-center-presents/s/FUTUROS",
+    "address": "Lincoln Center’s David Rubenstein Atrium, UWS",
+    "cost": "Free"
+  },
+  {
+    "title": "Comedy Ugly: A Comedy Strip Show",
+    "description": "Standup show where performers remove an article of clothing between jokes.",
+    "start_date": "2024-12-12",
+    "start_time": "8:30 pm",
+    "link": "https://www.eventbrite.com/e/comedy-ugly-a-comedy-strip-show-tickets-935833411927",
+    "address": "Easy Lover, East Williamsburg",
+    "cost": "Free"
+  },
+  {
+    "title": "Planet Yes: Ugly Sweater Disco",
+    "description": "Turn your ugly holiday sweater into art on the dance floor at House of Yes’s ugly sweater disco party.",
+    "start_date": "2024-12-12",
+    "start_time": "10:00 pm",
+    "link": "https://shotgun.live/en/events/planet-yes-ugly-sweaters",
+    "address": "House of Yes, Bushwick",
+    "cost": "Free before midnight with RSVP, $10 otherwise"
   },
   {
     "title": "Annual Dumbo Holiday Lighting",
@@ -26,12 +106,75 @@
     "start_time": "5:00 pm",
     "end_time": "7:00 pm",
     "link": "http://www.washingtonsquarenyc.org/events/2019/12/4/tree-lighting-ceremony-ww4ya-38gjh-6e67k-har8h-jsce8-eywyg",
-    "address": "Washington Square Park (Greenwich Village)",
+    "address": "Washington Square Park, Greenwich Village",
     "cost": "Free"
   },
   {
+    "title": "Fantastic Fiction",
+    "description": "The speculative-fiction reading series at KGB Bar welcomes authors Sarah Pinsker and Yume Kitasei.",
+    "start_date": "2024-12-11",
+    "start_time": "7:00 pm",
+    "link": "https://www.kgbfantasticfiction.org",
+    "address": "KGB Bar, East Village",
+    "cost": "Free"
+  },
+  {
+    "title": "Metropolitan with Whit Stillman and Chris Eigeman",
+    "description": "Screening of Whit Stillman's Metropolitan (1990), followed by Q+A with Stillman and actor Chris Eigeman.",
+    "start_date": "2024-12-11",
+    "start_time": "7:00 pm",
+    "link": "https://www.paristheaternyc.com/film/metropolitan-filmmaker-magazine",
+    "address": "The Paris Theater, Midtown",
+    "cost": "$17 general, $15 seniors/students"
+  },
+  {
+    "title": "Night Flight Music Video Film Festival",
+    "description": "Streaming channel Night Flight's music video film festival presents the 10 winners of its second annual music video competition, followed by Q+A with Stuart Shapiro and director Rich Murray.",
+    "start_date": "2024-12-11",
+    "start_time": "7:00 pm",
+    "link": "https://nitehawkcinema.com/prospectpark/movies/night-flight-music-video-and-film-festival-2024/",
+    "address": "Nitehawk Cinema, Prospect Park",
+    "cost": "$18"
+  },
+  {
+    "title": "Meat Puppet Presents: Cult Classics: The Thing",
+    "description": "Warm up with a screening of John Carpenter’s The Thing (1982) that includes trivia and movie-related drag performances before the show and during intermission.",
+    "start_date": "2024-12-11",
+    "start_time": "7:00 pm",
+    "link": "https://dice.fm/event/6d7aeb-cult-classics-the-thing-11th-dec-purgatory-new-york-tickets",
+    "address": "Purgatory, Bushwick",
+    "cost": "$13.66+"
+  },
+  {
+    "title": "We Have Fun: A Stand-Up Show",
+    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s with stand-up by Isabel Hagen, Lance Weiss, Ritch Duncan, and Will Purpura.",
+    "start_date": "2024-12-11",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
+    "address": "Young Ethel’s, Park Slope",
+    "cost": "Free"
+  },
+  {
+    "title": "McSweeney’s Issue 75 Release Party",
+    "description": "Release party for McSweeney’s Issue 75, featuring brief readings from contributors.",
+    "start_date": "2024-12-11",
+    "start_time": "8:00 pm",
+    "link": "https://www.franciskiteclub.com/calendar#/events/121416",
+    "address": "The Francis Kite Club, Alphabet City",
+    "cost": "Free"
+  },
+  {
+    "title": "Punderdome: Comedy Pun Slam",
+    "description": "Pun-masters have a war of the words at the beloved pun-slinging competition.",
+    "start_date": "2024-12-11",
+    "start_time": "8:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1059759953549",
+    "address": "Littlefield, Gowanus",
+    "cost": "$12 adv, $15 day-of"
+  },
+  {
     "title": "Taiyaki NYC Christmas Tree Cones",
-    "description": "Taiyaki's Christmas tree ice cream cones (matcha ice cream, crushed peppermint sprinkles, and a fondant star with a choice of waffle or filled custard or red bean cone) are back for the holiday season.",
+    "description": "Taiyaki's Christmas tree ice cream cones (matcha ice cream, crushed peppermint sprinkles, and a fondant star with a choice of waffle or filled custard or red bean cone) are back for the holiday season. 2 for $8-12. Chinatown and Williamsburg locations.",
     "start_date": "2024-12-10",
     "end_date": "2024-01-13",
     "link": "https://www.instagram.com/p/DDSyEeOTt67/",
@@ -44,8 +187,8 @@
     "start_date": "2024-12-10",
     "start_time": "6:00 pm",
     "link": "https://www.facebook.com/events/2663693933815089",
-    "address": "Bowery Poetry Club (East Village)",
-    "cost": "$10 admission includes a copy of the anthology"
+    "address": "Bowery Poetry Club, East Village",
+    "cost": "$10"
   },
   {
     "title": "The Elements of Marie Curie: How the Glow of Radium Lit a Path for Women in Science",
@@ -53,16 +196,16 @@
     "start_date": "2024-12-10",
     "start_time": "7:00 pm",
     "link": "https://www.nypl.org/events/programs/2024/12/10/dava-sobel",
-    "address": "NYPL Stephen A. Schwarzman Building’s Celeste Auditorium (Midtown)",
-    "cost": "Free admission"
+    "address": "NYPL Stephen A. Schwarzman Building’s Celeste Auditorium, Midtown",
+    "cost": "Free"
   },
   {
     "title": "Phantom of the Paradise 50th Anniversary with Paul Williams",
-    "description": "BAM Rose Cinemas hosts an anniversary screening of Brian De Palma's 1974 comedy-horror rock cult classic, Phantom of the Paradise, which will be followed by Q&A with singer, songwriter, composer, and actor Paul Williams.",
+    "description": "BAM Rose Cinemas hosts an anniversary screening of Brian De Palma's 1974 comedy-horror rock cult classic, Phantom of the Paradise, which will be followed by Q+A with singer, songwriter, composer, and actor Paul Williams.",
     "start_date": "2024-12-10",
     "start_time": "7:00 pm",
     "link": "https://www.bam.org/film/2024/phantom-of-the-paradise",
-    "address": "BAM Rose Cinemas (Fort Greene)",
+    "address": "BAM Rose Cinemas, Fort Greene",
     "cost": "$18"
   },
   {
@@ -71,7 +214,7 @@
     "start_date": "2024-12-10",
     "start_time": "8:00 pm",
     "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1053599016019",
-    "address": "Littlefield (Gowanus)",
+    "address": "Littlefield, Gowanus",
     "cost": "$15 adv, $20 door"
   }
 ]

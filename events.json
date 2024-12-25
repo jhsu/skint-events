@@ -1,13 +1,51 @@
 [
   {
-    "title": "New York String Orchestra",
-    "description": "Experience the special 7 PM annual concert by the youthful New York String Orchestra. Enjoy the timeless majesty of an all-Mozart program, performed without intermission, conducted by Jaime Laredo and featuring clarinetist extraordinaire Ricardo Morales as soloist.",
-    "start_date": "2024-12-24",
-    "start_time": "7:00 PM",
-    "end_date": "2024-12-24",
-    "end_time": "8:30 PM",
-    "link": "https://www.carnegiehall.org/Calendar/2024/12/24/New-York-String-Orchestra-0700PM",
-    "address": "Stern Auditorium / Perelman Stage, Carnegie Hall, 57th and Seventh, New York, NY",
-    "cost": "$24 (with promo code SKN50662)"
+    "title": "The Fifth Annual Loving The Alien: A Bowie Tribute Dance Party",
+    "description": "Join DJ Steve Reynolds for a night of Bowie’s biggest hits and deep cuts from his 50-year career.",
+    "start_date": "2024-01-10",
+    "start_time": "10:30 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1087159436139",
+    "address": "Littlefield, 635 Sackett Street, Brooklyn 11217",
+    "cost": "$7 in advance, $12 at the door"
+  },
+  {
+    "title": "Best Year Ever! Comedy Show",
+    "description": "Host Jenny Gorelick and a lineup of 25 comedians present their best bits of the year one last time at Union Hall (Park Slope) before heading into 2025. Attendees are welcome to stay for the venue's NYE party on both floors following the show at no additional charge.",
+    "start_date": "2023-12-31",
+    "start_time": "7:30 pm",
+    "end_time": "9:00 pm",
+    "link": "https://unionhallny.com/",
+    "address": "Union Hall, Park Slope",
+    "cost": "$15 adv, $20 door"
+  },
+  {
+    "title": "New Year’s Eve Contra",
+    "description": "Promenade and sashay into the new year at Brooklyn Contra’s eighth annual New Year’s social dance. Led by caller Will Mentor and featuring live music by New England-based trio Stomp Rocket, the evening includes a beginner lesson at 8pm, snacks, and a champagne toast at midnight.",
+    "start_date": "2023-12-31",
+    "start_time": "8:00 pm",
+    "end_time": "12:45 am",
+    "link": "https://www.brooklyncontra.org/dance-schedule/2024/nye",
+    "address": "Camp Friendship, Park Slope",
+    "cost": "$30"
+  },
+  {
+    "title": "New Year’s Eve Celebration in Prospect Park",
+    "description": "Gather at Brooklyn’s Grand Army Plaza for live music and a festive light show display. Note: the light show is weather dependent and as of press time was pending FCC approvals.",
+    "start_date": "2023-12-31",
+    "start_time": "10:00 pm",
+    "end_time": "12:00 am",
+    "link": "https://www.prospectpark.org/event/new-years-eve-celebration/",
+    "address": "Grand Army Plaza, Brooklyn",
+    "cost": "Free"
+  },
+  {
+    "title": "When Harry Met Sally Screenings",
+    "description": "Relive the NYE party reunion of Meg Ryan and Billy Crystal at screenings of Nora Ephron and Rob Reiner’s 1989 romantic comedy at Village East by Angelika (12/30 7pm, 8pm, 9:30pm), Cinema 123 by Angelika (12/30 7pm), and Syndicated (12/31 5:20pm + 10:25pm).",
+    "start_date": "2023-12-30",
+    "start_time": "7:00 pm",
+    "end_date": "2024-01-01",
+    "link": "https://www.theskint.com/20-new-years-eve-events-in-nyc-for-40-and-under-2/",
+    "address": "Village East by Angelika, Cinema 123 by Angelika, Syndicated",
+    "cost": "Various prices"
   }
 ]

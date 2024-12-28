@@ -1,42 +1,13 @@
 [
   {
-    "title": "The Fifth Annual Loving The Alien: A Bowie Tribute Dance Party",
-    "description": "Join DJ Steve Reynolds for a night of Bowie’s biggest hits and deep cuts from his 50-year career.",
-    "start_date": "2024-01-10",
-    "start_time": "10:30 pm",
-    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1087159436139",
-    "address": "Littlefield, 635 Sackett Street, Brooklyn 11217",
-    "cost": "$7 in advance, $12 at the door"
-  },
-  {
-    "title": "Best Year Ever! Comedy Show",
-    "description": "Host Jenny Gorelick and a lineup of 25 comedians present their best bits of the year one last time at Union Hall (Park Slope) before heading into 2025. Attendees are welcome to stay for the venue's NYE party on both floors following the show at no additional charge.",
+    "title": "Take a Chance on Me on NYE: A Post-Midnight NYE Disco Dance Party",
+    "description": "Keep the good times going until the last dance at Littlefield’s post-midnight party, where DJ Dandelion will be spinning hits from the ’70s and beyond.",
     "start_date": "2023-12-31",
-    "start_time": "7:30 pm",
-    "end_time": "9:00 pm",
-    "link": "https://unionhallny.com/",
-    "address": "Union Hall, Park Slope",
-    "cost": "$15 adv, $20 door"
-  },
-  {
-    "title": "New Year’s Eve Contra",
-    "description": "Promenade and sashay into the new year at Brooklyn Contra’s eighth annual New Year’s social dance. Led by caller Will Mentor and featuring live music by New England-based trio Stomp Rocket, the evening includes a beginner lesson at 8pm, snacks, and a champagne toast at midnight.",
-    "start_date": "2023-12-31",
-    "start_time": "8:00 pm",
-    "end_time": "12:45 am",
-    "link": "https://www.brooklyncontra.org/dance-schedule/2024/nye",
-    "address": "Camp Friendship, Park Slope",
-    "cost": "$30"
-  },
-  {
-    "title": "New Year’s Eve Celebration in Prospect Park",
-    "description": "Gather at Brooklyn’s Grand Army Plaza for live music and a festive light show display. Note: the light show is weather dependent and as of press time was pending FCC approvals.",
-    "start_date": "2023-12-31",
-    "start_time": "10:00 pm",
-    "end_time": "12:00 am",
-    "link": "https://www.prospectpark.org/event/new-years-eve-celebration/",
-    "address": "Grand Army Plaza, Brooklyn",
-    "cost": "Free admission"
+    "start_time": "12:30 am",
+    "end_time": "3:30 am",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1087134020119",
+    "address": "Littlefield (Gowanus)",
+    "cost": "$8 (free admission for ticket holders of the 9pm Abba Lang Syne New Year’s Celebration)"
   },
   {
     "title": "When Harry Met Sally Screenings",
@@ -47,5 +18,201 @@
     "link": "https://www.theskint.com/20-new-years-eve-events-in-nyc-for-40-and-under-2/",
     "address": "Village East by Angelika, Cinema 123 by Angelika, Syndicated",
     "cost": "Various prices"
+  },
+  {
+    "title": "Breweries and Taprooms",
+    "description": "Champagne not your thing? Have a hoppy brew year at one of NYC's many breweries and taprooms. Free admission unless noted.",
+    "start_date": "2023-12-30",
+    "link": "https://www.quietevents.com/event/new-year-eve-beergarden-1/",
+    "address": "Bohemian Hall and Beer Garden (Astoria)",
+    "cost": "$25-40"
+  },
+  {
+    "title": "NYE at Barcade",
+    "description": "Race into the new year at Barcade. The arcade bar is tapping rare and obscure beers (available for purchase) and offering a free champagne toast at midnight. Free admission, game prices vary.",
+    "start_date": "2023-12-30",
+    "link": "https://www.instagram.com/p/DDzmnJKxx5T/",
+    "cost": "Free"
+  },
+  {
+    "title": "Times Square Ball Drop",
+    "description": "Concerts! Confetti! Crowds! Test your stamina at the annual Times Square New Year’s Eve ball drop event. Free admission.",
+    "start_date": "2023-12-30",
+    "start_time": "6:00 pm",
+    "end_time": "12:15 am",
+    "link": "https://www.timessquarenyc.org/nye/nye-landing",
+    "cost": "Free"
+  },
+  {
+    "title": "Best Year Ever! Comedy Show",
+    "description": "Host Jenny Gorelick and a lineup of 25 comedians present their best bits of the year one last time at Union Hall (Park Slope) before heading into 2025. $15 adv, $20 door.",
+    "start_date": "2023-12-30",
+    "start_time": "7:30 pm",
+    "end_time": "9:00 pm",
+    "link": "https://unionhallny.com/",
+    "address": "Union Hall (Park Slope)",
+    "cost": "$15 adv, $20 door"
+  },
+  {
+    "title": "Q.E.D. New Year’s Eve Spectacular Comedy Showcases",
+    "description": "Laugh 'Happy New Year' one last time before Q.E.D. changes ownership in March. Tonight's lineups include Christian Finnegan, Keenan Steiner, Kenice Mobley, Anthony Devito, Calvin Cato, Kitty Reynolds, Kristal Adams, and others. $15-40.",
+    "start_date": "2023-12-30",
+    "start_time": "6:00 pm",
+    "link": "https://qedastoria.com/apps/events/calendar",
+    "address": "Q.E.D. (Astoria)",
+    "cost": "$15-40"
+  },
+  {
+    "title": "New Year’s Eve Contra",
+    "description": "Promenade and sashay into the new year at Brooklyn Contra’s eighth annual New Year’s social dance. Led by caller Will Mentor and featuring live music by New England-based trio Stomp Rocket, the evening includes a beginner lesson at 8pm, snacks, and a champagne toast at midnight.",
+    "start_date": "2023-12-30",
+    "start_time": "8:00 pm",
+    "end_time": "12:45 am",
+    "link": "https://www.brooklyncontra.org/dance-schedule/2024/nye",
+    "address": "Camp Friendship (Park Slope)",
+    "cost": "$30"
+  },
+  {
+    "title": "New Year’s Eve Country-Oke Bonanza",
+    "description": "Take the stage with a four-piece band backing you up at honky tonk bar Skinny Dennis’s country music karaoke night. Admission includes a mystery shot at midnight.",
+    "start_date": "2023-12-30",
+    "start_time": "8:00 pm",
+    "end_time": "1:00 am",
+    "link": "https://dice.fm/event/yo3l3a-nyes-eve-country-oke-bonanza-31st-dec-skinny-dennis-brooklyn-new-york-city-tickets",
+    "address": "Skinny Dennis (Williamsburg)",
+    "cost": "$29.87"
+  },
+  {
+    "title": "Royal Palms Shuffleboard’s Flamingo Formal",
+    "description": "Start 2025 off with a tang (cue stick) at Royal Palms Shuffleboard’s annual Flamingo Formal. Free admission. Optional court times are available for purchase on site. A $125 package includes a five-hour unlimited drink wristband and a sandwich.",
+    "start_date": "2023-12-30",
+    "start_time": "8:00 pm",
+    "end_time": "2:00 am",
+    "link": "https://www.royalpalmsbrooklyn.com/nye",
+    "address": "Royal Palms Shuffleboard",
+    "cost": "Free admission, $125 package available"
+  },
+  {
+    "title": "Rubulad Presents: The Fancy Pants Ball",
+    "description": "Don your most dazzling duds and get ready to dance your pants off at underground art party thrower Rubulad’s NYE party. Featuring live music, DJs, go-go, visuals, and more. Themed dress encouraged. Admission includes a champagne toast at midnight.",
+    "start_date": "2023-12-30",
+    "start_time": "8:00 pm",
+    "end_time": "late",
+    "link": "https://withfriends.co/event/22420920/nye_the_fancy_pants_ball",
+    "address": "Rubulad (Bushwick)",
+    "cost": "$30-40"
+  },
+  {
+    "title": "New York Night Train’s 16th Annual New Year’s Ball",
+    "description": "Jonathan Toubin’s New York Night Train party returns to TV Eye (Bushwick/Ridgewood), featuring six bands and 14 DJs filling three rooms with 12-hours of non-stop music. Admission includes a champagne toast at midnight.",
+    "start_date": "2023-12-30",
+    "start_time": "8:00 pm",
+    "end_time": "3:00 am",
+    "link": "https://wl.seetickets.us/event/ny-night-train-16th-annual-new-years-ball/629817?afflky=TVEye",
+    "address": "TV Eye (Bushwick/Ridgewood)",
+    "cost": "$25 adv, $40 day of, $10 after 1am"
+  },
+  {
+    "title": "Citysoul Drum + Bass New Year’s Eve",
+    "description": "Indie arcade Wonderville hosts a night of gaming and bouncing breaks. Admission includes a champagne toast at midnight.",
+    "start_date": "2023-12-30",
+    "start_time": "8:00 pm",
+    "end_time": "3:00 am",
+    "link": "https://www.wonderville.nyc/events/nye-drum-bass",
+    "address": "Wonderville (Bushwick)",
+    "cost": "$20-25"
+  },
+  {
+    "title": "Barn Burner NYE Country Dance Party",
+    "description": "Olivia Ellen Lloyd and band burn it all down with three hours of honky tonk, dancing, and carrying on at Jalopy Theater. Admission includes a champagne toast at midnight.",
+    "start_date": "2023-12-30",
+    "start_time": "8:30 pm",
+    "link": "https://www.viewcy.com/e/barn_burner_nye_count",
+    "address": "Jalopy Theater (Columbia Street Waterfront District)",
+    "cost": "$35 admission, $60 for two"
+  },
+  {
+    "title": "Abba Lang Syne New Year’s Celebration",
+    "description": "NYC’s spot-on Abba tribute band returns to Littlefield for a NYE disco party. $30 adv, $40 day of (ticket includes admission to the Take a Chance on Me on after party listed at 12:30am below).",
+    "start_date": "2023-12-30",
+    "start_time": "9:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1087092154899",
+    "address": "Littlefield (Gowanus)",
+    "cost": "$30 adv, $40 day of"
+  },
+  {
+    "title": "End Times III: Doomsday Disco",
+    "description": "It’s apocalypse now at Purgatory’s third annual party for the end of the world, featuring musical performances, DJs, drag, and a pre-party happy hour with flash tats and a photo booth. Admission includes a champagne toast at midnight. Dress code: apocalypse chic.",
+    "start_date": "2023-12-30",
+    "start_time": "9:00 pm",
+    "link": "https://dice.fm/event/rygomr-end-times-iii-doomsday-disco-31st-dec-purgatory-new-york-tickets",
+    "address": "Purgatory (Bushwick)",
+    "cost": "$22.66+"
+  },
+  {
+    "title": "The Uncommons New Year’s Eve",
+    "description": "Roll with it at The Uncommons board game cafe’s annual after-hours party, featuring a wide library of games to play and snacks and drinks available for purchase. Admission includes a sparkling wine toast at midnight.",
+    "start_date": "2023-12-30",
+    "start_time": "9:00 pm",
+    "end_time": "1:00 am",
+    "link": "https://uncommonsnyc.com/parties-and-events/",
+    "address": "The Uncommons (Greenwich Village)",
+    "cost": "$25"
+  },
+  {
+    "title": "NYE Silent Disco Beer Garden Bash",
+    "description": "Take your pick from three DJs spinning different genres into your wireless headphones at Astoria’s Bohemian Hall and Beer Garden. Admission includes a champagne toast at midnight.",
+    "start_date": "2023-12-30",
+    "start_time": "9:00 pm",
+    "end_time": "1:00 am",
+    "link": "https://www.quietevents.com/event/new-year-eve-beergarden-1/",
+    "address": "Bohemian Hall and Beer Garden (Astoria)",
+    "cost": "$25-40"
+  },
+  {
+    "title": "New Year’s Eve Dance Party at Parklife",
+    "description": "Dance into 2025 with DJs Marc Bars, Trauma, and Mikey Palms as they play the best of 80’s and 90’s pop and hip hop, with a mix of hits through the decades, at Parklife, a modern taqueria inspired by Persian, Mexican, and Texan flavors.",
+    "start_date": "2023-12-30",
+    "start_time": "9:00 pm",
+    "end_time": "2:00 am",
+    "link": "https://parklifebk.com/event/new-years-eve-dance-party-with-djs-marc-bars-trauma/",
+    "address": "Parklife (Gowanus)",
+    "cost": "$20 adv, $25 door"
+  },
+  {
+    "title": "Hot Rabbit’s Resolutions LGBTQ+ New Year’s Eve Party",
+    "description": "Hot Rabbit's big queer NYE party takes over Brooklyn Monarch with DJs, drag, burlesque, and live vocal and dance performances. Food will be available for purchase. Admission includes a champagne toast at midnight.",
+    "start_date": "2023-12-30",
+    "start_time": "9:00 pm",
+    "end_time": "4:00 am",
+    "link": "https://www.hotrabbit.com/new-events/hot-rabbit-nye-2025",
+    "address": "Brooklyn Monarch (East Williamsburg)",
+    "cost": "$30 adv, $40 door"
+  },
+  {
+    "title": "Time’s Up! Annual New Year’s Eve Bike Ride and After Party",
+    "description": "Celebrate a future positive New Year’s Eve by joining in a group bike/skate to Central Park’s Belvedere Castle. NYC direct action environmental organization Time’s Up’s annual ride has three meet-up locations and culminates in an outdoor dance party.",
+    "start_date": "2023-12-30",
+    "start_time": "9:45 pm",
+    "link": "https://times-up.org/calendar/new-years-eve-bike-ride-and-after-party/",
+    "cost": "Free"
+  },
+  {
+    "title": "New Year’s Eve Celebration in Prospect Park",
+    "description": "Gather at Brooklyn’s Grand Army Plaza for live music and a festive light show display. Note: The light show is weather dependent and as of press time was pending FCC approvals.",
+    "start_date": "2023-12-30",
+    "start_time": "10:00 pm",
+    "end_time": "12:00 am",
+    "link": "https://www.prospectpark.org/event/new-years-eve-celebration/",
+    "cost": "Free"
+  },
+  {
+    "title": "A Concert to Usher in the New Year",
+    "description": "Surround yourself in the majestic sounds of a 12,000-pipe Aeolian-Skinner organ at this annual NYE concert, performed by Paolo Bordignon at St. Bartholomew Church. Admission includes a champagne reception at midnight.",
+    "start_date": "2023-12-30",
+    "start_time": "11:00 pm",
+    "link": "https://www.mmpaf.org/2024-2025/usher",
+    "address": "St. Bartholomew Church (Midtown East)",
+    "cost": "$20 suggested donation"
   }
 ]

@@ -1,62 +1,134 @@
 [
   {
-    "title": "Best Year Ever! Comedy Show",
-    "description": "Host Jenny Gorelick and a lineup of 25 comedians present their best bits of the year one last time at Union Hall (Park Slope) before heading into 2025. Attendees are welcome to stay for the venue's NYE party on both floors following the show at no additional charge.",
-    "start_date": "2024-12-31",
-    "start_time": "7:30 pm",
-    "end_time": "9:00 pm",
-    "link": "https://unionhallny.com/",
-    "address": "Union Hall, Park Slope",
-    "cost": "$15 adv, $20 door"
-  },
-  {
-    "title": "New Year’s Eve Contra",
-    "description": "Promenade and sashay into the new year at Brooklyn Contra’s eighth annual New Year’s social dance. Led by caller Will Mentor and featuring live music by New England-based trio Stomp Rocket, the evening includes a beginner lesson at 8pm, snacks, and a champagne toast at midnight.",
-    "start_date": "2024-12-31",
-    "start_time": "8:00 pm",
-    "end_time": "12:45 am",
-    "link": "https://www.brooklyncontra.org/dance-schedule/2024/nye",
-    "address": "Camp Friendship, Park Slope",
-    "cost": "$30"
-  },
-  {
-    "title": "New Year’s Eve Celebration in Prospect Park",
-    "description": "Gather at Brooklyn’s Grand Army Plaza for live music and a festive light show display. Note: the light show is weather dependent and as of press time was pending FCC approvals.",
-    "start_date": "2024-12-31",
-    "start_time": "10:00 pm",
-    "end_time": "12:00 am",
-    "link": "https://www.prospectpark.org/event/new-years-eve-celebration/",
-    "address": "Grand Army Plaza, Brooklyn",
-    "cost": "Free"
-  },
-  {
-    "title": "A Concert to Usher in the New Year",
-    "description": "Surround yourself in the majestic sounds of a 12,000-pipe Aeolian-Skinner organ at this annual NYE concert, performed by Paolo Bordignon at St. Bartholomew Church (Midtown East). Admission includes a champagne reception at midnight.",
-    "start_date": "2024-12-31",
-    "start_time": "11:00 pm",
-    "end_time": "12:00 am",
-    "link": "https://www.mmpaf.org/2024-2025/usher",
-    "address": "St. Bartholomew Church, Midtown East",
-    "cost": "$20 suggested donation"
-  },
-  {
-    "title": "When Harry Met Sally Screenings",
-    "description": "Relive the NYE party reunion of Meg Ryan and Billy Crystal at screenings of Nora Ephron and Rob Reiner’s 1989 romantic comedy at Village East by Angelika (12/30 7pm, 8pm, 9:30pm), Cinema 123 by Angelika (12/30 7pm), and Syndicated (12/31 5:20pm + 10:25pm).",
-    "start_date": "2024-12-30",
-    "start_time": "7:00 pm",
-    "end_date": "2024-12-31",
-    "end_time": "10:25 pm",
-    "link": "https://www.theskint.com/20-new-years-eve-events-in-nyc-for-40-and-under-2/",
-    "address": "Village East by Angelika, Cinema 123 by Angelika, Syndicated",
-    "cost": "Various prices"
-  },
-  {
     "title": "The Fifth Annual Loving The Alien: A Bowie Tribute Dance Party",
     "description": "Join DJ Steve Reynolds for a night of Bowie’s biggest hits and deep cuts from his 50-year career.",
     "start_date": "2024-01-10",
     "start_time": "10:30 pm",
+    "end_date": "undefined",
+    "end_time": "undefined",
     "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1087159436139",
     "address": "Littlefield, 635 Sackett Street, Brooklyn 11217",
     "cost": "$7 in advance, $12 at the door"
+  },
+  {
+    "title": "AI from Metropolis to Ex Machina... or How the Movies Have Been Warning Us for Nearly 100 Years",
+    "description": "Film Forum presents a three-week festival of 30+ movies that helped introduce the world to the concept of ‘artificial intelligence,’ most of which offer a dystopian view.",
+    "start_date": "2024-01-05",
+    "start_time": "undefined",
+    "end_date": "2024-01-23",
+    "end_time": "undefined",
+    "link": "https://filmforum.org/series/a.i-from-metropolis-to-ex-machina",
+    "address": "Film Forum, South Village, NYC",
+    "cost": "$17"
+  },
+  {
+    "title": "10th Annual New Ear Festival",
+    "description": "Fridman Gallery hosts three evenings of musical performances, physical movement, video, and sound installations by Henry Threadgill, Brian Chase, Kyp Malone, Shara Lunon, Marleigh Belsley, and more.",
+    "start_date": "2024-01-05",
+    "start_time": "undefined",
+    "end_date": "2024-01-07",
+    "end_time": "undefined",
+    "link": "https://new-ear.org",
+    "address": "Fridman Gallery, LES, NYC",
+    "cost": "$20-30"
+  },
+  {
+    "title": "House of Yes Nine Year Anniversary",
+    "description": "Bushwick performance-fueled nightclub House of Yes celebrates its ninth birthday with a weekend of over-the-top extravagant joy-filled performance and dance.",
+    "start_date": "2024-01-05",
+    "start_time": "10:00 pm",
+    "end_date": "2024-01-06",
+    "end_time": "undefined",
+    "link": "https://www.houseofyes.org/calendar",
+    "address": "House of Yes, Bushwick, NYC",
+    "cost": "Free admission before 11pm, $9-25 otherwise"
+  },
+  {
+    "title": "Swamp in the City Presents: T’Monde",
+    "description": "T’Monde, a three-piece band hailing from Lafayette, Louisiana, brings their harmonies and blend of country, creole ballads, and contemporary cajun sounds to Jalopy Theater. The evening starts with a cajun dance lesson.",
+    "start_date": "2024-01-04",
+    "start_time": "7:30 pm",
+    "end_date": "undefined",
+    "end_time": "undefined",
+    "link": "https://www.viewcy.com/e/tmonde",
+    "address": "Jalopy Theater, Columbia Street Waterfront District, NYC",
+    "cost": "$20 adv, $25 door"
+  },
+  {
+    "title": "New Year’s Day Hikes",
+    "description": "Start the year on the right foot with a hike through one of NYC's public parks, led by urban park rangers. Scenic strolls are offered in each borough.",
+    "start_date": "2024-01-01",
+    "start_time": "undefined",
+    "end_date": "undefined",
+    "end_time": "undefined",
+    "link": "https://www.nycgovparks.org/events/urban-park-rangers-hiking-programs",
+    "address": "Various locations in NYC",
+    "cost": "Free"
+  },
+  {
+    "title": "Coney Island Polar Bear Club’s Annual New Year’s Day Plunge",
+    "description": "Join a wave of winter warriors for Coney Island's largest off-season event. This annual tradition invites New Yorkers to take a communal dip on the first day of the year.",
+    "start_date": "2024-01-01",
+    "start_time": "11:00 am",
+    "end_date": "undefined",
+    "end_time": "undefined",
+    "link": "https://coneyislandpolarbearclub.com/annual-new-years-day-plunge/",
+    "address": "Coney Island, NY",
+    "cost": "Free to watch or participate ($25+ suggested donation for participants)"
+  },
+  {
+    "title": "The Poetry Project’s 51st Annual New Year’s Day Marathon",
+    "description": "The Poetry Project’s biggest fundraiser of the year returns to St. Mark’s Church in the East Village with over 130 poets, musicians, dancers, writers, and performers. The 10-hour event is divided into 2 segments, 1-6pm and 7pm-midnight, which are ticketed separately.",
+    "start_date": "2024-01-01",
+    "start_time": "11:00 am",
+    "end_date": "2024-01-01",
+    "end_time": "12:00 am",
+    "link": "https://www.poetryproject.org/events/the-51st-annual-new-year-s-day-marathon",
+    "address": "St. Mark’s Church, East Village, NYC",
+    "cost": "$30 adv, $35 door, $20 for 9pm entry, pay-what-you-can livestream"
+  },
+  {
+    "title": "New Year’s Day Sideshow",
+    "description": "Turn your polar bear plunge chills into thrills at Coney Island USA’s annual New Year’s Day circus sideshow, featuring performers Alaska the Lost Boy, Cyclone Jack Sullivan, Obsidian Absurd, and Niki B.",
+    "start_date": "2024-01-01",
+    "start_time": "1:00 pm",
+    "end_date": "undefined",
+    "end_time": "undefined",
+    "link": "https://www.coneyisland.com/event/new-years-day-2025",
+    "address": "Coney Island USA, NY",
+    "cost": "$15"
+  },
+  {
+    "title": "A Sparkling Dry January Kickoff Party",
+    "description": "Explore the world of non-alcoholic drinks with like-minded folks at this dry January social mixer. All drinks served will be non-alcoholic, and the folks from Third Place Bar and Bar Nun will be hosting icebreakers to help get the conversation started.",
+    "start_date": "2024-01-01",
+    "start_time": "6:00 pm",
+    "end_date": "undefined",
+    "end_time": "9:00 pm",
+    "link": "https://lu.ma/iajtvp1y",
+    "address": "Hekate Café + Elixir Lounge, Alphabet City/East Village, NYC",
+    "cost": "Free"
+  },
+  {
+    "title": "718 Sessions New Year’s Day Party",
+    "description": "Shake off 2024 at Danny Krivit’s annual New Year’s house and disco party.",
+    "start_date": "2024-01-01",
+    "start_time": "6:00 pm",
+    "end_date": "undefined",
+    "end_time": "2:00 am",
+    "link": "https://dannykrivit.net/danny-krivit-news/112025-wednesday-danny-krivit-718-sessions-new-years-day-party-good-room-brooklyn-ny-usa",
+    "address": "Good Room, Greenpoint, Brooklyn",
+    "cost": "$5 for the first 100 folks before 7pm, $25-30 otherwise"
+  },
+  {
+    "title": "21st Annual New Year’s Hank-O-Rama",
+    "description": "‘Vintage twangabilly’ band The Lonesome Prairie Dogs hosts a musical tribute to country singer Hank Williams on the 72nd anniversary of his death, featuring performances by The Lonesome Horns, Tammy Faye Starlite, Lenny Kaye, and many others.",
+    "start_date": "2024-01-01",
+    "start_time": "7:00 pm",
+    "end_date": "undefined",
+    "end_time": "undefined",
+    "link": "https://www.ticketweb.com/event/21st-annual-new-years-hank-the-bowery-electric-tickets/14022863",
+    "address": "The Bowery Electric, East Village, NYC",
+    "cost": "$20"
   }
 ]

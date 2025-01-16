@@ -1,11 +1,13 @@
 [
   {
     "title": "Henry IV",
-    "description": "Theatre for a New Audience presents HENRY IV by William Shakespeare, adapted by Dakin Matthews and directed by Eric Tucker. Get a New Deal ticket for just $20 if you are 30 years old or under or a full-time student. Join us for New Deal Night on February 16 with a post-show talkback and party.",
+    "description": "Theatre for a New Audience Presents HENRY IV By William Shakespeare Adapted by Dakin Matthews Directed by Eric Tucker. Get a New Deal ticket for just $20 if you are 30 years old or under or a full-time student. Join us for New Deal Night on February 16 with a post-show talkback and party.",
     "start_date": "2025-02-16",
     "start_time": "1:00 PM",
+    "end_date": "2025-02-16",
+    "end_time": "undefined",
     "link": "https://tfana.org/events/henry-iv",
-    "address": "Polonsky Shakespeare Center, 262 Ashland Place, Brooklyn, NY 11217",
-    "cost": "$20 for eligible attendees, $65 for others"
+    "address": "Polonsky Shakespeare Center: 262 Ashland Place, Brooklyn, NY 11217",
+    "cost": "$20 for eligible attendees, $65 for others with code SKINT65."
   }
 ]

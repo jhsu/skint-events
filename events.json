@@ -1,13 +1,228 @@
 [
   {
-    "title": "Henry IV",
-    "description": "Theatre for a New Audience Presents HENRY IV By William Shakespeare Adapted by Dakin Matthews Directed by Eric Tucker. Get a New Deal ticket for just $20 if you are 30 years old or under or a full-time student. Join us for New Deal Night on February 16 with a post-show talkback and party.",
-    "start_date": "2025-02-16",
-    "start_time": "1:00 PM",
-    "end_date": "2025-02-16",
-    "end_time": "undefined",
-    "link": "https://tfana.org/events/henry-iv",
-    "address": "Polonsky Shakespeare Center: 262 Ashland Place, Brooklyn, NY 11217",
-    "cost": "$20 for eligible attendees, $65 for others with code SKINT65."
+    "title": "Anne Frank: The Exhibition",
+    "description": "A full-scale recreation of the rooms where Anne Frank and others spent two years hiding to evade Nazi capture.",
+    "start_date": "2025-01-29",
+    "end_date": "2025-04-30",
+    "link": "https://www.annefrankexhibit.org",
+    "address": "Center for Jewish History, Flatiron",
+    "cost": "$21-27"
+  },
+  {
+    "title": "Neko Case and Samantha Bee in Conversation",
+    "description": "Beloved musician Neko Case launches her memoir in conversation with Samantha Bee.",
+    "start_date": "2025-01-29",
+    "start_time": "7:00 pm",
+    "link": "https://theskint.com/neco-case-and-samantha-bee-in-conversation-special-price/",
+    "address": "Undefined",
+    "cost": "$20 with code ‘neko’"
+  },
+  {
+    "title": "Lady Journey Comedy",
+    "description": "Hosts Katie Hannigan and Sarah Tollemache bring some of their favorite comics to Grove 34 for a night of standup.",
+    "start_date": "2025-01-29",
+    "start_time": "7:00 pm",
+    "link": "https://www.grove34.com/event-details/lady-journey-comedy-5",
+    "address": "Grove 34, Astoria",
+    "cost": "$15"
+  },
+  {
+    "title": "Movie Musical Mondays: Grease",
+    "description": "A monthly series of iconic musicals hits the big screen at Village East by Angelika, continuing with Grease (1978).",
+    "start_date": "2025-01-29",
+    "start_time": "7:00 pm",
+    "link": "https://www.angelikafilmcenter.com/villageeast/signature-programming/musical-mondays",
+    "address": "Village East by Angelika",
+    "cost": "$19"
+  },
+  {
+    "title": "Dirty Little Secrets Improv Show",
+    "description": "Your anonymously-submitted confessions serve as inspiration for improv performers at the Dirty Little Secrets show.",
+    "start_date": "2025-01-29",
+    "start_time": "7:30 pm",
+    "link": "https://www.dirtylittlesecretsimprov.com",
+    "address": "Wara Theatre, East Village",
+    "cost": "$5 with promo code ‘skintsecrets'"
+  },
+  {
+    "title": "New York Road Runners Fred Lebow Half-Marathon",
+    "description": "The annual 13.1-mile run winds its way around Central Park's Ted Corbitt loop, honoring the legacy of late NYRR president Fred Lebow.",
+    "start_date": "2025-01-28",
+    "start_time": "8:00 am",
+    "link": "https://www.nyrr.org/races/nyrrfredlebowhalfmarathon",
+    "address": "Central Park",
+    "cost": "$35-45 to run, free to watch"
+  },
+  {
+    "title": "International Holocaust Remembrance Day Concert",
+    "description": "Chamber music concert featuring a string sextet from the Manhattan Chamber Players at the Museum of Jewish Heritage.",
+    "start_date": "2025-01-28",
+    "start_time": "2:00 pm",
+    "link": "https://mjhnyc.org/events/intl-holocaust-remembrance-concert/",
+    "address": "Museum of Jewish Heritage, Battery Park",
+    "cost": "Free admission (donations welcome)"
+  },
+  {
+    "title": "Washington Heights Chamber Orchestra: ‘Echos’",
+    "description": "Washington Heights Chamber Orchestra continues the season with a program including works by composers past and present.",
+    "start_date": "2025-01-28",
+    "start_time": "3:00 pm",
+    "link": "https://www.washingtonheightsorchestra.org",
+    "address": "Fort Washington Collegiate Church, Washington Heights",
+    "cost": "$20 general, $10 seniors/students"
+  },
+  {
+    "title": "Comics Reading Comics",
+    "description": "Live show that combines stand-up comedy and superhero storytelling, focusing on Marvel's disco-themed hero, Dazzler.",
+    "start_date": "2025-01-28",
+    "start_time": "5:00 pm",
+    "link": "https://caveat.nyc/events/comics-reading-comics-1-26-2025",
+    "address": "Caveat, LES",
+    "cost": "$10 adv, $15 door"
+  },
+  {
+    "title": "World’s Greatest Gamer",
+    "description": "E-sports competition where every round is a different game, hosted by Noah Waterman.",
+    "start_date": "2025-01-28",
+    "start_time": "6:00 pm",
+    "link": "https://withfriends.co/event/22442001/footlight_game_night",
+    "address": "Footlight Underground at the Windjammer, Ridgewood",
+    "cost": "Free (donations welcome)"
+  },
+  {
+    "title": "Meet the Breeds",
+    "description": "Encounter pups from affenpinschers to yorkshire terriers and everything in between at the American Kennel Club’s annual Meet the Breeds event, featuring over 130 different dog breeds to meet, play with, and learn about.",
+    "start_date": "2025-01-27",
+    "end_date": "2025-01-28",
+    "link": "https://www.akc.org/sports/akc-meet-the-breeds/",
+    "address": "Jacob K. Javits Convention Center, Hell’s Kitchen",
+    "cost": "$30 general with promo code ‘bellyrubs’ (reg. $35), $20 seniors/students, $10 kiddos"
+  },
+  {
+    "title": "New York Travel + Adventure Show",
+    "description": "Explore the world under one roof at the annual New York Travel + Adventure Show, where exhibitors showcase destinations, tour operators, cruise lines, hotels, and more.",
+    "start_date": "2025-01-27",
+    "end_date": "2025-01-28",
+    "link": "https://travelshows.com/shows/new-york/",
+    "address": "Jacob K. Javits Center, Hell’s Kitchen",
+    "cost": "$18-20"
+  },
+  {
+    "title": "To Live and Rebuild in LA: A Bake Sale",
+    "description": "Cookies (and more) for a cause. Archestratus Books + Foods is hosting a pair of bake sales to benefit Los Angeles fire relief organizations.",
+    "start_date": "2025-01-27",
+    "start_time": "10:00 am",
+    "link": "https://archestrat.us/collections/events",
+    "address": "Archestratus Books + Foods, Greenpoint",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Graffiti Black Book/Scrapbook: 1978 + Beyond with Zephyr",
+    "description": "Graffiti artist and author Zephyr presents his latest book, a visual collection of life in New York City from the late 70s to the early 80s as experienced by a graffiti pioneer.",
+    "start_date": "2025-01-27",
+    "start_time": "1:00 pm",
+    "link": "https://www.mcny.org/event/graffiti-black-bookscrapbook-1978-beyond",
+    "address": "Museum of the City of New York, East Harlem",
+    "cost": "$15 admission (books will be available for purchase)"
+  },
+  {
+    "title": "Pataphysics Audiovisual Concert Series",
+    "description": "Multi-sensory scene at the latest installment of Delight Factory’s bi-monthly concert series, pairing experimental music and visuals.",
+    "start_date": "2025-01-27",
+    "start_time": "7:30 pm",
+    "link": "https://www.delightfactorynyc.com/events/pataphysics010-p32dt",
+    "address": "Delight Factory, Ocean Hill",
+    "cost": "$20"
+  },
+  {
+    "title": "The Fantasy Tavern: Heroes + Villains Edition",
+    "description": "An interactive show and party featuring a cast of colorful characters performing drinking songs celebrating all things nerd culture.",
+    "start_date": "2025-01-27",
+    "start_time": "9:00 pm",
+    "link": "https://thefantasytavern.com",
+    "address": "Caveat, LES",
+    "cost": "$20.70 with promo code ‘skint’ (reg. $25.87)"
+  },
+  {
+    "title": "Improvised Dungeons and Dragons",
+    "description": "An improvised D&D comedy adventure where the audience creates the heroes, casts the spells, and rolls the die.",
+    "start_date": "2025-01-27",
+    "start_time": "10:00 pm",
+    "link": "https://improvised-dnd.com",
+    "address": "Under St. Marks Theater, East Village",
+    "cost": "Sliding scale admission ($5 recommended)"
+  },
+  {
+    "title": "Eli Yudin Comedy Special Taping",
+    "description": "Comedian Eli Yudin tapes a stand-up special at The Gutter in Greenpoint.",
+    "start_date": "2025-01-26",
+    "start_time": "7:30 pm",
+    "end_time": "9:30 pm",
+    "link": "https://www.eventbrite.com/e/humble-offering-eli-yudin-comedy-special-recording-tickets-1080819122089",
+    "address": "The Gutter, Greenpoint",
+    "cost": "$5-10 (all proceeds will be donated to LA wildfire relief)"
+  },
+  {
+    "title": "Bitches Brew Comedy Show",
+    "description": "A women-produced and-hosted comedy show featuring stand-up by Vannessa Jackson, Carson Olshanksky, Brey Raybould, Igor Martinez, and Michael Schirtzer.",
+    "start_date": "2025-01-26",
+    "start_time": "8:30 pm",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Halyards, Gowanus",
+    "cost": "Free admission (a tip jar will be passed around at the end of the show)"
+  },
+  {
+    "title": "The Drunk Texts: The Merry Busters of Ghosts",
+    "description": "Catch a Shakespearean adaptation of a movie classic paired with drinking games and audience participation at Random Access Theatre’s ‘The Drunk Texts’ series.",
+    "start_date": "2025-01-26",
+    "start_time": "9:00 pm",
+    "link": "https://randomaccesstheatre.weebly.com/drunk-texts.html",
+    "address": "The Rat NYC, Dumbo",
+    "cost": "$12 admission"
+  },
+  {
+    "title": "Drunk Planet Earth",
+    "description": "Participatory show where the audience watches Animal Planet III, drinks, and tries to stump the hosts with animal trivia.",
+    "start_date": "2025-01-26",
+    "start_time": "9:30 pm",
+    "link": "https://caveat.nyc/events/drunk-planet-earth-1-24-2025",
+    "address": "Caveat, LES",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Corpse Flower at Brooklyn Botanic Garden",
+    "description": "A giant corpse flower (amorphophallus titanum) is poised to bloom any day now, releasing an aroma that’s been likened to rotting flesh. The phenomenon normally lasts only about 24-36 hours, so check the venue’s social media for updates.",
+    "start_date": "2025-01-24",
+    "end_date": "2025-01-27",
+    "link": "https://www.theskint.com/fri-mon-1-24-27-skint-weekend/",
+    "address": "Brooklyn Botanic Garden",
+    "cost": "Pay-what-you-wish winter weekdays, $22 general/$16 seniors + students weekends"
+  },
+  {
+    "title": "The 71st Winter Show",
+    "description": "Discover a dazzling array of paintings, fine furniture, works on paper, ceramics, glass, jewelry, and rare books from 70 exhibitors at the winter show, an annual art, antiques, and design fair. Your ticket includes access to panel discussions, and proceeds from admission will benefit East Side House Settlement.",
+    "start_date": "2025-01-24",
+    "end_date": "2025-02-02",
+    "link": "https://www.thewintershow.org",
+    "address": "Park Avenue Armory (UES)",
+    "cost": "$40 general, $25 students"
+  },
+  {
+    "title": "David Lynch Screenings",
+    "description": "IFC Center, Look Cinemas, and Village East by Angelika pay tribute to filmmaker David Lynch with screenings through next week.",
+    "start_date": "2025-01-24",
+    "end_date": "2025-01-31",
+    "link": "https://www.ifccenter.com/series/remembering-david-lynch/",
+    "address": "IFC Center, Look Cinemas, Village East by Angelika",
+    "cost": "Various prices"
+  },
+  {
+    "title": "27th Annual Postcards from the Edge",
+    "description": "Visual Aids’s signature benefit event returns to Berry Campbell Gallery in Tribeca with over 1,500 postcard-sized artworks created anonymously by both established and emerging artists. Each piece is priced at $100, and the identity of each artwork’s creator will be revealed only after purchase.",
+    "start_date": "2025-01-24",
+    "end_date": "2025-01-27",
+    "link": "https://www.postcards.visualaids.org",
+    "address": "Berry Campbell Gallery, Tribeca",
+    "cost": "$100 admission for preview party, free admission for exhibition"
   }
 ]

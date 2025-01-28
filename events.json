@@ -1,228 +1,163 @@
 [
   {
-    "title": "Anne Frank: The Exhibition",
-    "description": "A full-scale recreation of the rooms where Anne Frank and others spent two years hiding to evade Nazi capture.",
-    "start_date": "2025-01-29",
-    "end_date": "2025-04-30",
-    "link": "https://www.annefrankexhibit.org",
-    "address": "Center for Jewish History, Flatiron",
-    "cost": "$21-27"
+    "title": "serials short play series",
+    "description": "Five teams of actors perform five original, 10-minute episodic plays, each with only six hours of rehearsal time. Then it’s up to you, the audience, to vote for your favorites, which will return for a new installment of the same storyline the following week.",
+    "start_date": "2025-01-30",
+    "start_time": "undefined",
+    "end_date": "2025-02-15",
+    "end_time": "undefined",
+    "link": "https://thetanknyc.org/calendar-1/2025/1/30/serials",
+    "address": "the tank (garment district)",
+    "cost": "$23+"
   },
   {
-    "title": "Neko Case and Samantha Bee in Conversation",
-    "description": "Beloved musician Neko Case launches her memoir, sharing intimate tales of resilience in a conversation with Samantha Bee.",
-    "start_date": "2025-01-29",
-    "start_time": "7:00 pm",
-    "link": "https://theskint.com/neco-case-and-samantha-bee-in-conversation-special-price/",
-    "address": "Undefined",
-    "cost": "$20 using code ‘neko’"
+    "title": "love positive women 2025",
+    "description": "Visual Aids, the Fire Island Artist Residency, Positive Women’s Network, The Well Project, and Dieu Donné present their annual exhibition of handmade paper valentines created by artists, activists, and HIV-positive women.",
+    "start_date": "2025-01-30",
+    "start_time": "undefined",
+    "end_date": "2025-02-12",
+    "end_time": "undefined",
+    "link": "https://visualaids.org/events/detail/love-positive-women-2025-at-moma-ps1",
+    "address": "first floor hallway of moma ps1 (lic)",
+    "cost": "Free admission for New York state residents ($5-10 otherwise)"
   },
   {
-    "title": "Lady Journey Comedy",
-    "description": "Hosts Katie Hannigan and Sarah Tollemache bring some of their favorite comics to Grove 34 for a night of standup.",
-    "start_date": "2025-01-29",
-    "start_time": "7:00 pm",
-    "link": "https://www.grove34.com/event-details/lady-journey-comedy-5",
-    "address": "Grove 34, Astoria",
-    "cost": "$15"
-  },
-  {
-    "title": "Movie Musical Mondays",
-    "description": "A monthly series of iconic musicals hits the big screen at Village East by Angelika, continuing with Grease (1978).",
-    "start_date": "2025-01-29",
-    "start_time": "7:00 pm",
-    "link": "https://www.angelikafilmcenter.com/villageeast/signature-programming/musical-mondays",
-    "address": "Village East by Angelika",
-    "cost": "$19"
-  },
-  {
-    "title": "Dirty Little Secrets Improv Show",
-    "description": "Your anonymously-submitted confessions serve as inspiration for improv performers.",
-    "start_date": "2025-01-29",
-    "start_time": "7:30 pm",
-    "link": "https://www.dirtylittlesecretsimprov.com",
-    "address": "Wara Theatre, East Village",
-    "cost": "$5 with promo code ‘skintsecrets’"
-  },
-  {
-    "title": "New York Road Runners Fred Lebow Half-Marathon",
-    "description": "The annual 13.1-mile run winds its way around Central Park's Ted Corbitt loop.",
-    "start_date": "2025-01-28",
-    "start_time": "8:00 am",
-    "link": "https://www.nyrr.org/races/nyrrfredlebowhalfmarathon",
-    "address": "Central Park",
-    "cost": "$35-45 to run, free to watch"
-  },
-  {
-    "title": "International Holocaust Remembrance Day Concert",
-    "description": "Commemorates International Holocaust Remembrance Day with a chamber music concert featuring a string sextet from the Manhattan Chamber Players.",
-    "start_date": "2025-01-28",
-    "start_time": "2:00 pm",
-    "link": "https://mjhnyc.org/events/intl-holocaust-remembrance-concert/",
-    "address": "Museum of Jewish Heritage – A Living Memorial to the Holocaust, Battery Park",
-    "cost": "Free admission (donations welcome)"
-  },
-  {
-    "title": "Washington Heights Chamber Orchestra: ‘Echos’",
-    "description": "Washington Heights Chamber Orchestra continues the season with a program including works by composers past and present.",
-    "start_date": "2025-01-28",
-    "start_time": "3:00 pm",
-    "link": "https://www.washingtonheightsorchestra.org",
-    "address": "Fort Washington Collegiate Church, Washington Heights",
-    "cost": "$20 general, $10 seniors/students"
-  },
-  {
-    "title": "Comics Reading Comics",
-    "description": "Live show that combines stand-up comedy and superhero storytelling, focusing on Marvel's disco-themed hero, Dazzler.",
-    "start_date": "2025-01-28",
-    "start_time": "5:00 pm",
-    "link": "https://caveat.nyc/events/comics-reading-comics-1-26-2025",
-    "address": "Caveat, LES",
-    "cost": "$10 adv, $15 door"
-  },
-  {
-    "title": "World’s Greatest Gamer",
-    "description": "E-sports competition where every round is a different game, hosted by Noah Waterman.",
-    "start_date": "2025-01-28",
+    "title": "circles of abstraction opening",
+    "description": "The Bust Gallery presents an evening of art, performance, and music for its latest pop-up. Featuring art by Sasha Bianca, Miriam Portilla Espino, Callen Schaub, Iutian Tsai, and Annika Rhea, Circles of Abstraction includes DJs and live performance painting by Rhea.",
+    "start_date": "2025-01-30",
     "start_time": "6:00 pm",
-    "link": "https://withfriends.co/event/22442001/footlight_game_night",
-    "address": "Footlight Underground at the Windjammer, Ridgewood",
-    "cost": "Free (donations welcome)"
-  },
-  {
-    "title": "27th Annual Postcards from the Edge",
-    "description": "Visual Aids’s signature benefit event returns to Berry Campbell Gallery in Tribeca with over 1,500 postcard-sized artworks created anonymously by both established and emerging artists. Each piece is priced at $100, and the identity of each artwork’s creator will be revealed only after purchase. Sales open online Saturday at 10am. Preview party Friday ($100 admission), exhibition Saturday + Sunday 12-5pm (free admission).",
-    "start_date": "2025-01-27",
-    "end_date": "2025-01-28",
-    "link": "https://www.postcards.visualaids.org",
-    "address": "Berry Campbell Gallery, Tribeca",
-    "cost": "$100 admission for preview party, free admission for exhibition"
-  },
-  {
-    "title": "Eli Yudin Comedy Special Taping",
-    "description": "Comedian Eli Yudin tapes a stand-up special at The Gutter in Greenpoint.",
-    "start_date": "2025-01-27",
-    "start_time": "7:30 pm",
-    "end_time": "9:30 pm",
-    "link": "https://www.eventbrite.com/e/humble-offering-eli-yudin-comedy-special-recording-tickets-1080819122089",
-    "address": "The Gutter, Greenpoint",
-    "cost": "$5-10 (all proceeds will be donated to LA wildfire relief)"
-  },
-  {
-    "title": "Bitches Brew Comedy Show",
-    "description": "A women-produced and-hosted comedy show featuring stand-up by Vannessa Jackson, Carson Olshanksky, Brey Raybould, Igor Martinez, and Michael Schirtzer.",
-    "start_date": "2025-01-27",
-    "start_time": "8:30 pm",
-    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "address": "Halyards, Gowanus",
-    "cost": "Free admission (a tip jar will be passed around at the end of the show)"
-  },
-  {
-    "title": "The Drunk Texts: The Merry Busters of Ghosts",
-    "description": "Catch a Shakespearean adaptation of a movie classic paired with drinking games and audience participation at Random Access Theatre’s ‘The Drunk Texts’ series.",
-    "start_date": "2025-01-27",
-    "start_time": "9:00 pm",
-    "link": "https://randomaccesstheatre.weebly.com/drunk-texts.html",
-    "address": "The Rat NYC, Dumbo",
-    "cost": "$12 admission"
-  },
-  {
-    "title": "Drunk Planet Earth",
-    "description": "Participatory show where the audience watches Animal Planet III, drinks, and tries to stump the hosts with animal trivia.",
-    "start_date": "2025-01-27",
-    "start_time": "9:30 pm",
-    "link": "https://caveat.nyc/events/drunk-planet-earth-1-24-2025",
-    "address": "Caveat, LES",
+    "link": "https://www.eventbrite.com/e/second-gallery-evening-the-bust-gallery-circles-of-abstraction-tickets-1145216907599",
+    "address": "the bust gallery (chelsea)",
     "cost": "Free admission"
   },
   {
-    "title": "Meet the Breeds",
-    "description": "Encounter pups from affenpinschers to yorkshire terriers and everything in between at the American Kennel Club’s annual Meet the Breeds event, featuring over 130 different dog breeds to meet, play with, and learn about.",
-    "start_date": "2025-01-27",
-    "end_date": "2025-01-28",
-    "link": "https://www.akc.org/sports/akc-meet-the-breeds/",
-    "address": "Jacob K. Javits Convention Center, Hell’s Kitchen",
-    "cost": "$30 general with promo code ‘bellyrubs’ (reg. $35), $20 seniors/students, $10 kiddos"
+    "title": "syme’s letter writer: letter writing workshop with rachel syme",
+    "description": "Rachel Syme, writer and creator of Penpalooza, launches her new book—a guide to the lost art of letter writing—with a reading and letter-writing workshop at Strand Bookstore’s rare book room.",
+    "start_date": "2025-01-30",
+    "start_time": "7:00 pm",
+    "link": "https://www.strandbooks.com/events/event13025",
+    "address": "strand bookstore’s rare book room",
+    "cost": "$13.61+"
   },
   {
-    "title": "New York Travel + Adventure Show",
-    "description": "Explore the world under one roof at the annual New York Travel + Adventure Show, where exhibitors showcase destinations, tour operators, cruise lines, hotels, and more.",
-    "start_date": "2025-01-27",
-    "end_date": "2025-01-28",
-    "link": "https://travelshows.com/shows/new-york/",
-    "address": "Jacob K. Javits Center, Hell’s Kitchen",
-    "cost": "$18-20"
+    "title": "landline comedy at wild east brewing co.",
+    "description": "Get hoppy at the barrel cellar at Wild East Brewing Co., which is hosting a stand-up comedy show featuring sets by Gastor Almonte, Isabel Hagen, Sara Hennessey, Carrie Ross, Dan Treadway, and Ted Jones.",
+    "start_date": "2025-01-30",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/landline-comedy-at-wild-east-brewing-tickets-1130013273119",
+    "address": "wild east brewing co. (gowanus)",
+    "cost": "Free admission"
   },
   {
-    "title": "To Live and Rebuild in LA: A Bake Sale",
-    "description": "Cookies (and more) for a cause. Archestratus Books + Foods is hosting a pair of bake sales to benefit Los Angeles fire relief organizations.",
-    "start_date": "2025-01-27",
+    "title": "top shelf stories",
+    "description": "Julia Whitehouse serves up an evening of storytelling at UCB, with guests Robin Gelfenbien, Rob Penty, Britt Genelin, and Mark Pagán, plus one open mic slot reserved for an audience member.",
+    "start_date": "2025-01-30",
+    "start_time": "8:30 pm",
+    "link": "https://ucbcomedy.com/show/top-shelf-stories-5/",
+    "address": "ucb (east village)",
+    "cost": "$10 adv, $15 day of"
+  },
+  {
+    "title": "golden spiral comedy show",
+    "description": "At Mindy Raf and Katie Compa’s Golden Spiral Comedy Show, stand-up set lengths follow the Fibonacci sequence. Tonight’s show includes guests Talib Babb, Steven Rogers, Hari Kondabolu, and Luz Michelle.",
+    "start_date": "2025-01-30",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/golden-spiral-comedy-january-30th-tickets-1123722236459",
+    "address": "whiskey cellar nyc (east village)",
+    "cost": "$7.18 with promo code ‘skintspiral’ (reg. $10.38+)"
+  },
+  {
+    "title": "13 ways to celebrate lunar new year in nyc",
+    "description": "Welcome the new year at celebrations across the city: a firecracker ceremony, lion dance performances, parties, family-friendly activities, and more.",
+    "start_date": "2025-01-28",
+    "start_time": "undefined",
+    "end_date": "2025-02-23",
+    "end_time": "undefined",
+    "link": "https://gothamist.com/arts-entertainment/13-ideas-to-celebrate-lunar-new-year-in-new-york-city",
+    "address": "undefined",
+    "cost": "undefined"
+  },
+  {
+    "title": "the cashmere sale",
+    "description": "Cozy up to cool deals at clothingline’s annual cashmere sale. Snag sweaters, pants, wraps, hats, gloves, scarves, and more at prices starting at $30.",
+    "start_date": "2025-01-28",
     "start_time": "10:00 am",
-    "link": "https://archestrat.us/collections/events",
-    "address": "Archestratus Books + Foods, Greenpoint",
-    "cost": "Undefined"
+    "end_date": "2025-01-30",
+    "end_time": "6:00 pm",
+    "link": "https://www.facebook.com/clothingline/posts/pfbid02PsCgmYF2WktGJc3FNfe9avVbneMeA911w8pHUXEGvkxEGyzv5Ai6zRAe6mvqR329l",
+    "address": "clothingline (garment district)",
+    "cost": "Free admission"
   },
   {
-    "title": "Graffiti Black Book/Scrapbook: 1978 + Beyond with Zephyr",
-    "description": "Graffiti artist and author Zephyr presents his latest book, a visual collection of life in New York City from the late 70s to the early 80s as experienced by a graffiti pioneer.",
-    "start_date": "2025-01-27",
-    "start_time": "1:00 pm",
-    "link": "https://www.mcny.org/event/graffiti-black-bookscrapbook-1978-beyond",
-    "address": "Museum of the City of New York, East Harlem",
-    "cost": "$15 admission (books will be available for purchase)"
+    "title": "get lit! richard price and lakecia benjamin",
+    "description": "Novelist and screenwriter Richard Price joins WNYC’s All of It host Alison Stewart for a discussion about his new novel, Lazarus Man. The conversation will be followed by a musical performance from Grammy-nominated saxophonist Lakecia Benjamin.",
+    "start_date": "2025-01-28",
+    "start_time": "6:00 pm",
+    "link": "https://www.nypl.org/events/programs/2025/01/28/get-lit-january-book-club-richard-price",
+    "address": "nypl’s stavros niarchos foundation library (midtown)",
+    "cost": "Free admission"
   },
   {
-    "title": "Pataphysics Audiovisual Concert Series",
-    "description": "Multi-sensory scene at the latest installment of Delight Factory’s bi-monthly Pataphysics Audiovisual Concert Series, pairing experimental music and visuals.",
-    "start_date": "2025-01-27",
+    "title": "miller theater’s pop-up concert series",
+    "description": "The Columbia University School of the Arts’s musical happy hour returns for a new season of hour-long concerts where the audience is permitted to sit onstage with the performers and enjoy a free drink. Tonight, saxophonist and composer Ole Mathisen performs his latest project Vector Series with collaborators Craig Taborn, François Moutin, and Dan Weiss.",
+    "start_date": "2025-01-28",
+    "start_time": "6:00 pm",
+    "link": "https://www.millertheatre.com/events/ole-mathisen-vector-series",
+    "address": "columbia university’s miller theatre (morningside heights)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "we love a theme: a storytelling show",
+    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at tonight’s ‘starting over’ edition of Bailey Swilley’s monthly storytelling show. Featuring Ian Goldstein, Ali Levin, Vernon Payne, and Seaton Smith.",
+    "start_date": "2025-01-28",
+    "start_time": "7:00 pm",
+    "link": "https://www.petescandystore.com/calendar/",
+    "address": "pete’s candy store (williamsburg)",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "the lavender scare",
+    "description": "Gabe González presents an irreverent LGBTQ+ comedy variety show featuring stand-up and interactive trivia games about LGBTQ+ history. Tonight's guest performers: Dylan Adler, Ái Vy Luu, and Jacke Cornell.",
+    "start_date": "2025-01-28",
+    "start_time": "8:00 pm",
+    "link": "https://dice.fm/event/dkr2gv-the-lavender-scare-28th-jan-cmon-everybody-new-york-tickets",
+    "address": "c’mon everybody (bed-stuy)",
+    "cost": "$12 adv, $15 door"
+  },
+  {
+    "title": "live band karaoke at arlene’s grocery",
+    "description": "Choose from a wide assortment of rock and pop songs and sing with your very own live band backing you up at Arlene’s Grocery (LES). Led by Leslie Goshko, and featuring Lucas Shine, Matthew Lindsey, and Alan Camlet.",
+    "start_date": "2025-01-28",
+    "start_time": "8:00 pm",
+    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
+    "address": "arlene’s grocery (les)",
+    "cost": "$10"
+  },
+  {
+    "title": "tickets go on sale for christo and jeanne-claude: the gates and unrealized projects for new york city",
+    "description": "The Shed presents an immersive exhibition marking the 20th anniversary of Christo and Jeanne-Claude’s landmark Central Park public art project, The Gates. Running 2/12-3/23, the exhibition will include original drawings, scale models, and elements from The Gates and unrealized projects, presented alongside immersive imagery and multimedia.",
+    "start_date": "2025-01-28",
+    "start_time": "undefined",
+    "link": "https://www.theshed.org/program/441-christo-and-jeanne-claude-the-gates-and-unrealized-projects-for-new-york-city",
+    "address": "the shed (chelsea/midtown west)",
+    "cost": "$10 suggested"
+  },
+  {
+    "title": "we have fun: a stand-up show",
+    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s, with stand-up by guests Rob Cantrell, Lizzy Cassidy, Patrick Hastie, and Joe Pontillo.",
+    "start_date": "2025-01-28",
     "start_time": "7:30 pm",
-    "link": "https://www.delightfactorynyc.com/events/pataphysics010-p32dt",
-    "address": "Delight Factory, Ocean Hill",
-    "cost": "$20"
+    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
+    "address": "young ethel’s (park slope)",
+    "cost": "Free admission"
   },
   {
-    "title": "The Fantasy Tavern: Heroes + Villains Edition",
-    "description": "An interactive show and party featuring a cast of colorful characters performing drinking songs celebrating all things nerd culture.",
-    "start_date": "2025-01-27",
-    "start_time": "9:00 pm",
-    "link": "https://thefantasytavern.com",
-    "address": "Caveat, LES",
-    "cost": "$20.70 with promo code ‘skint’ (reg. $25.87)"
-  },
-  {
-    "title": "Improvised Dungeons and Dragons",
-    "description": "An improvised D&D comedy adventure where the audience creates the heroes, casts the spells, and rolls the die.",
-    "start_date": "2025-01-27",
+    "title": "that show with chris gethard",
+    "description": "Comedian and writer Chris Gethard launches a new variety show at UCB, featuring a live band and experimental sets from both seasoned comedy vets and up-and-coming performers.",
+    "start_date": "2025-01-28",
     "start_time": "10:00 pm",
-    "link": "https://improvised-dnd.com",
-    "address": "Under St. Marks Theater, East Village",
-    "cost": "Sliding scale admission ($5 recommended)"
-  },
-  {
-    "title": "Corpse Flower at Brooklyn Botanic Garden",
-    "description": "A giant corpse flower (amorphophallus titanum) is poised to bloom any day now, releasing an aroma that’s been likened to rotting flesh. The phenomenon normally lasts only about 24-36 hours, so check the venue’s social media for updates.",
-    "start_date": "2025-01-24",
-    "end_date": "2025-01-27",
-    "link": "https://www.theskint.com/fri-mon-1-24-27-skint-weekend/",
-    "address": "Brooklyn Botanic Garden",
-    "cost": "Included with regular admission (pay-what-you-wish winter weekdays, $22 general/$16 seniors + students weekends)"
-  },
-  {
-    "title": "The 71st Winter Show",
-    "description": "Discover a dazzling array of paintings, fine furniture, works on paper, ceramics, glass, jewelry, and rare books from 70 exhibitors at the winter show, an annual art, antiques, and design fair. Your ticket includes access to panel discussions, and proceeds from admission will benefit East Side House Settlement.",
-    "start_date": "2025-01-24",
-    "end_date": "2025-02-02",
-    "link": "https://www.thewintershow.org",
-    "address": "Park Avenue Armory (UES)",
-    "cost": "$40 general, $25 students"
-  },
-  {
-    "title": "David Lynch Screenings",
-    "description": "IFC Center, Look Cinemas, and Village East by Angelika pay tribute to filmmaker David Lynch with screenings through next week.",
-    "start_date": "2025-01-24",
-    "end_date": "2025-01-31",
-    "link": "https://www.ifccenter.com/series/remembering-david-lynch/",
-    "address": "IFC Center, Look Cinemas, Village East by Angelika",
-    "cost": "Various prices"
+    "link": "https://ucbcomedy.com/show/that-show-hosted-by-chris-gethard/",
+    "address": "ucb (east village)",
+    "cost": "$10 adv, $15 day of"
   }
 ]

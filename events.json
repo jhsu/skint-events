@@ -1,13 +1,211 @@
 [
   {
-    "title": "Comedy Debate Series: Uptown Showdown",
-    "description": "Don’t miss this riotous romp through the seasons as two teams of comedians, including Gastor Almonte, Janeane Garofalo, Dave Hill, Pratima Mani, Jaye McBride, and Natalie Rotter-Laitman, battle it out over everything from pumpkin spice lattes to blooming flowers, flannel shirts to pastel outfits. Will it be the cozy charm of autumn or the fresh vibrancy of spring? Grab your hot cider or iced tea and join us for a night of seasonal shenanigans. This installment will be hosted by Ophira Eisenberg.",
-    "start_date": "2025-02-03",
-    "start_time": "undefined",
-    "end_date": "undefined",
+    "title": "Not My Slutty Valentine’s Day Dance Party",
+    "description": "Celebrate love in all its forms with a dance party featuring a kissing photo booth, flash tattoos, floral estrangements, and more.",
+    "start_date": "2025-02-14",
+    "start_time": "10:00 pm",
+    "end_date": "2025-02-14",
+    "end_time": "2:00 am",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1146156879079",
+    "address": "Littlefield, 635 Sackett Street (between 3rd and 4th Avenues), Brooklyn",
+    "cost": "$6.86 with promo code “notmy5” (reg. $12-15)"
+  },
+  {
+    "title": "The Inquisitive Eater Launch with Ligaya Mishan",
+    "description": "The Inquisitive Eater, a literary magazine produced by MFA students in The New School's creative writing program, celebrates its latest issue with a conversation between staff editors and Ligaya Mishan, food columnist for The New York Times Magazine and writer-at-large for T Magazine.",
+    "start_date": "2025-02-05",
+    "start_time": "5:30 pm",
+    "end_date": "2025-02-05",
     "end_time": "undefined",
-    "link": "https://www.symphonyspace.org/events/uptown-showdown-fall-vs-spring?utm_source=Skint&utm_medium=email&utm_campaign=Uptown+Showdown+Fall+Spring+Skint+Ad&utm_id=Uptown+Showdown+Fall+Spring+Skint+Ad",
+    "link": "https://event.newschool.edu/inquisitiveeaterlaunchwithligayamishan",
+    "address": "The New School's Lang Café (Greenwich Village)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "SciCafe: Invasive Insects and Their Impact on Agriculture",
+    "description": "At tonight's edition of ‘SciCafe,’ the American Museum of Natural History’s evening conversation series, Anne Nielsen discusses the complex impact of invasive insects on food systems, and the strategies scientists are developing to combat them.",
+    "start_date": "2025-02-05",
+    "start_time": "7:00 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://www.amnh.org/calendar/invasive-insects",
+    "address": "Cullman Hall of the Universe at the American Museum of Natural History (UWS)",
+    "cost": "Free (RSVP)"
+  },
+  {
+    "title": "Not In My Backyard! A Political Comedy Roundtable",
+    "description": "A panel of opinionated NYC comedians, journalists, and politicians debate the local issues causing drama in your neighborhood’s Facebook group. Each show will include a ‘public comment period’ where audience members are encouraged to give their own hot takes.",
+    "start_date": "2025-02-05",
+    "start_time": "7:00 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://ucbcomedy.com/show/not-in-my-backyard-2/",
+    "address": "UCB (East Village)",
+    "cost": "$10 adv, $15 day of"
+  },
+  {
+    "title": "Next Slide Please: A PowerPoint Comedy Show",
+    "description": "Expect anything when a lineup of comedians deliver side-splitting PowerPoint presentations on whatever topic they choose. Hosted by Reed Kavner.",
+    "start_date": "2025-02-05",
+    "start_time": "7:00 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://www.caveat.nyc/events/next-slide-please-2-5-2025",
+    "address": "Caveat (LES)",
+    "cost": "$18.76 with promo code ‘projector’ (reg. $24-25)"
+  },
+  {
+    "title": "Nightshades",
+    "description": "Step into the creative worlds of eight NYC-based artists at a screening of Ellen Callaghan's short doc series, Nightshades, followed by a Q&A with Callaghan and some of the featured artists.",
+    "start_date": "2025-02-05",
+    "start_time": "7:00 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://nitehawkcinema.com/williamsburg/showtimes/nightshades-2-5-25-700-pm/",
+    "address": "Nitehawk Cinema (Williamsburg)",
+    "cost": "$18"
+  },
+  {
+    "title": "We Have Fun: A Stand-Up Show",
+    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s, with stand-up by guests Nat Towsen, James Hamilton, Ali O'Neil, Annick Adelle, and Justice Singleton.",
+    "start_date": "2025-02-05",
+    "start_time": "7:30 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
+    "address": "Young Ethel’s (Park Slope)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Paperclip",
+    "description": "Douglas Widick presents his one-man musical about Clippy, Microsoft’s failed virtual assistant, who time-travels to save the world from artificial intelligence.",
+    "start_date": "2025-02-05",
+    "start_time": "7:30 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://www.theratnyc.com/event-details/paperclip-feb-05",
+    "address": "The Rat NYC (Dumbo)",
+    "cost": "$15"
+  },
+  {
+    "title": "Doctors Without Boundaries",
+    "description": "Real-life ER doctor Aaron Bola hosts a comedy show where standups tell stories about their weirdest diagnoses, and the docs give a detailed breakdown of the history of each condition.",
+    "start_date": "2025-02-05",
+    "start_time": "9:30 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://www.caveat.nyc/events/doctors-without-boundaries-2-12-2025",
+    "address": "Caveat (LES)",
+    "cost": "$16.70 with promo code ‘resident’ (reg. $24-25)"
+  },
+  {
+    "title": "Chain Winter One-Act Festival",
+    "description": "The Chain Theatre's winter festival presents new one-act plays from both emerging and established playwrights, with 25 programs of fresh storytelling throughout the month.",
+    "start_date": "2025-02-05",
+    "start_time": "undefined",
+    "end_date": "2025-03-02",
+    "end_time": "undefined",
+    "link": "https://www.chaintheatre.org/winter-one-act-festival-2025",
+    "address": "Chain Theatre (Hell's Kitchen)",
+    "cost": "$23 adv, $26 door"
+  },
+  {
+    "title": "Dumbo First Thursday Gallery Walk",
+    "description": "Explore Dumbo's waterfront arts scene at the first Thursday gallery walk, where 16 galleries will stay open late for a night of opening receptions, special events, and artist talks.",
+    "start_date": "2025-02-05",
+    "start_time": "6:00 pm",
+    "end_date": "2025-02-05",
+    "end_time": "8:00 pm",
+    "link": "https://artindumbo.com/first-thursdays/",
+    "address": "Dumbo",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Ice Theatre of New York: 2024-25 City Skate Pop-Up Performances",
+    "description": "Professional ice dance company Ice Theatre of New York brings a series of short, free performances to public outdoor rinks through the season.",
+    "start_date": "2025-02-05",
+    "start_time": "6:15 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://icetheatre.org/2024-25-city-skate-concerts.html",
+    "address": "Wollman Rink in Central Park",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Tommy Siegel: The Secret Lives of Candy Hearts",
+    "description": "New Yorker cartoonist Tommy Siegel presents the second installment of his Candy Hearts book series, featuring bite-sized observations on everything from commitment and pets to wedding planning.",
+    "start_date": "2025-02-05",
+    "start_time": "6:30 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://ptknitwear.com/events/44096",
+    "address": "P+T Knitwear Bookstore (LES)",
+    "cost": "$5 admission, $16.93 ticket includes a copy of the book"
+  },
+  {
+    "title": "The Rally Reading Series: ‘The Heart of a March in the Body of a Reading Series’",
+    "description": "The Rally Reading Series returns for an evening of readings and discussion with Shayne Terry, Emily J. Smith, and Jen Lue.",
+    "start_date": "2025-02-05",
+    "start_time": "7:00 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://www.rallyreadingseries.com/schedule",
+    "address": "Pete’s Candy Store (Williamsburg)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Tip Top Tits Comedy Show",
+    "description": "It’s comedy or bust at Janet Hyde and Mary Cella’s stand-up show, featuring Ryan Beck, Alexis Bradby, Kate Strobel, and Jason King.",
+    "start_date": "2025-02-05",
+    "start_time": "8:00 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://www.eventbrite.com/e/tip-top-tits-a-stand-up-comedy-show-tickets-1215666002739",
+    "address": "Tip-Top Bar + Grill (Bed-Stuy)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Spoons Toons + Booze ‘Valentines After Dark’ Edition",
+    "description": "Indulge in sugary cereals, sip on cereal-infused cocktails, and test your trivia knowledge while binge-watching valentines day-themed cartoons.",
+    "start_date": "2025-02-05",
+    "start_time": "9:15 pm",
+    "end_date": "2025-02-05",
+    "end_time": "undefined",
+    "link": "https://secretformulany.com/events/spoons-toons-booze-valentines-feb-2025",
+    "address": "Nitehawk Cinema (Prospect Park)",
+    "cost": "$20 admission includes an all-you-can-eat cereal bar"
+  },
+  {
+    "title": "2-for-1 Off-Broadway Week Tickets",
+    "description": "More drama for less money! 2-for-1 tickets to off-broadway shows scheduled from 2/17-3/9 go on sale today. 29 productions are participating, including Kowalski, Liberation, Mindplay, Still, The Play That Goes Wrong, and The Jonathan Larson Project.",
+    "start_date": "2025-02-04",
+    "start_time": "undefined",
+    "end_date": "2025-03-09",
+    "end_time": "undefined",
+    "link": "https://www.nyctourism.com/off-broadway-week/",
     "address": "undefined",
-    "cost": "$17 with code: FallSpring"
+    "cost": "undefined"
+  },
+  {
+    "title": "In Dreams – A Drag Tribute to David Lynch",
+    "description": "Miss Malace presents a drag tribute to the vision of David Lynch, with performances by C’etait Bontemps, Divina Gransparkle, God Complex, K.James, Linda Felcher, Maxx Love, Maxxx Pleasure, Xana Whoria, Veronica Viper, and Zenobia.",
+    "start_date": "2025-02-04",
+    "start_time": "8:00 pm",
+    "end_date": "2025-02-04",
+    "end_time": "undefined",
+    "link": "https://dice.fm/event/dkwv9v-in-dreams-a-drag-tribute-to-david-lynch-4th-feb-cmon-everybody-new-york-tickets",
+    "address": "C’mon Everybody (Bed-Stuy)",
+    "cost": "$20.60"
+  },
+  {
+    "title": "Chasing Nosferatu: Roger Eggers Presents",
+    "description": "Film at Lincoln Center (UWS) hosts a selection of films handpicked by Roger Eggers that served as inspiration for his newest film, Nosferatu, including Archie Mayo’s Svengali (1931), Jean Cocteau’s Beauty and the Beast (1946), Ordje Kadijević’s The She-Butterfly (1973), and others.",
+    "start_date": "2025-02-04",
+    "start_time": "undefined",
+    "end_date": "2025-02-08",
+    "end_time": "undefined",
+    "link": "https://www.filmlinc.org/series/conjuring-nosferatu-robert-eggers-presents/",
+    "address": "Film at Lincoln Center (UWS)",
+    "cost": "$17 general, $14 seniors/students/persons with disabilities"
   }
 ]

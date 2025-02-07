@@ -1,20 +1,181 @@
 [
   {
-    "title": "Theatre of Voices",
-    "description": "Embodying 'undivided devotion to the musical material,' the Grammy Award–winning vocal ensemble Theatre of Voices is a go-to collaborator for many of today’s top composers. In this performance—in the intimate, in-the-round Zankel Hall Center Stage configuration—they sing a world premiere by the category-defying Julia Wolfe, a US premiere by John Luther Adams, and a recent work by Michael Gordon.",
-    "start_date": "2025-02-11",
-    "start_time": "7:30 PM",
-    "link": "https://www.carnegiehall.org/calendar/2025/02/11/theatre-of-voices-0730pm",
-    "address": "Zankel Hall Center Stage, Carnegie Hall",
-    "cost": "$24"
+    "title": "Valentine’s Vintage Matchmaker Bazaar",
+    "description": "A vintage bazaar at Grand Bazaar NYC, featuring various vendors and activities.",
+    "start_date": "2025-02-09",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/valentines-matchmaker-bazaar/",
+    "address": "100 W 77th St at Columbus Ave, Upper West Side",
+    "cost": "Free admission"
   },
   {
-    "title": "Ensemble Connect",
-    "description": "Experience the versatility of Carnegie Hall’s Ensemble Connect in this intimate Weill Recital Hall performance. The program features Schubert’s “Quartettsatz,” two New York premieres by Katherine Balch, Berio’s Ricorrenze, and Beethoven’s Septet in E-flat Major. Enjoy an evening of remarkable music and contemporary compositions. Join us for a free drink at a post-concert reception in Weill Recital Hall’s Jacobs Room.",
-    "start_date": "2025-02-10",
-    "start_time": "7:30 PM",
-    "link": "https://www.carnegiehall.org/calendar/2025/02/10/ensemble-connect-0730pm",
-    "address": "Weill Recital Hall, Carnegie Hall",
-    "cost": "$24"
+    "title": "Echoes of the Heart: A Valentine’s Market",
+    "description": "A market featuring local vendors at TV Eye in Ridgewood.",
+    "start_date": "2025-02-09",
+    "start_time": "1:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://wl.seetickets.us/event/echoes-of-the-heart-a-valentines-market/635418?afflky=TVEye",
+    "address": "TV Eye, Ridgewood",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Film for Good Presents: Moonstruck with H. Pruz",
+    "description": "A screening of the film 'Moonstruck' at Purgatory in Bushwick.",
+    "start_date": "2025-02-09",
+    "start_time": "8:00 pm",
+    "link": "https://dice.fm/partner/purgatory-events-llc/event/xebvok-moonstruck-w-h-pruz-9th-feb-purgatory-new-york-tickets",
+    "address": "Purgatory, Bushwick",
+    "cost": "$15.87+"
+  },
+  {
+    "title": "Cupid’s Undie Run Fundraiser",
+    "description": "A fun run fundraiser at The DL in the Lower East Side, with the run starting at 1:30 pm.",
+    "start_date": "2025-02-08",
+    "start_time": "11:30 am",
+    "end_time": "3:30 pm",
+    "link": "https://my.cupids.org/event/2025-cupids-undie-run-new-york-city/e555450",
+    "address": "The DL, Lower East Side",
+    "cost": "$45 to participate"
+  },
+  {
+    "title": "Saturday Afternoon Cartoons: Lots of Love",
+    "description": "A special screening of cartoons at Metrograph in the Lower East Side.",
+    "start_date": "2025-02-08",
+    "start_time": "12:00 pm",
+    "link": "https://metrograph.com/film/?vista_film_id=9999004159&v=0b3b97fa6688",
+    "address": "Metrograph, Lower East Side",
+    "cost": "$17"
+  },
+  {
+    "title": "Dark Sexy Valentine’s Pop-Up Market",
+    "description": "A pop-up market featuring various vendors at Caffeine Underground in Bushwick.",
+    "start_date": "2025-02-08",
+    "start_time": "12:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/p/DFVGKHUxZAO/",
+    "address": "Caffeine Underground, Bushwick",
+    "cost": "Free admission"
+  },
+  {
+    "title": "8 Ball Community’s Third Annual Valentine’s Day Zine Fair",
+    "description": "A zine fair at the Sixth Street Community Center in the East Village.",
+    "start_date": "2025-02-08",
+    "start_time": "12:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/p/DFIgerIPQic/",
+    "address": "Sixth Street Community Center, East Village",
+    "cost": "Free admission"
+  },
+  {
+    "title": "The Black Parade: Bloody Valentine Emo Ball",
+    "description": "An emo-themed dance party at The Brooklyn Monarch in East Williamsburg.",
+    "start_date": "2025-02-08",
+    "start_time": "11:00 pm",
+    "link": "https://dice.fm/event/3o2bb8-the-black-parade-bloody-valentine-emo-ball-8th-feb-the-brooklyn-monarch-new-york-tickets",
+    "address": "The Brooklyn Monarch, East Williamsburg",
+    "cost": "$11.33+"
+  },
+  {
+    "title": "Bad Romance: A Gaga Valentines",
+    "description": "A Valentine's-themed event featuring music by Lady Gaga at 9 Bob Nonte, hosted at 3 Dollar Bill in East Williamsburg.",
+    "start_date": "2025-02-07",
+    "start_time": "10:00 pm",
+    "link": "https://www.3dollarbillbk.com/rsvp/2025/2/7/bad-romance-a-gaga-valentines",
+    "address": "3 Dollar Bill, East Williamsburg",
+    "cost": "$20+"
+  },
+  {
+    "title": "The Year of Flaco Exhibition",
+    "description": "An exhibition at the New York Historical Society paying tribute to Flaco, the Eurasian eagle-owl.",
+    "start_date": "2025-02-07",
+    "end_date": "2025-07-06",
+    "link": "https://www.nyhistory.org/exhibitions/the-year-of-flaco",
+    "address": "New York Historical Society, Upper West Side",
+    "cost": "$24 general, $19 seniors, $13 students, pay-as-you-wish Fridays 5-8pm"
+  },
+  {
+    "title": "Wild at Heart: Willem Dafoe Retrospective",
+    "description": "A retrospective of Willem Dafoe's films at Anthology Film Archives in the East Village.",
+    "start_date": "2025-02-07",
+    "end_date": "2025-02-26",
+    "link": "https://www.anthologyfilmarchives.org/film_screenings/series/58744",
+    "address": "Anthology Film Archives, East Village",
+    "cost": "$14 general, $10 seniors/students"
+  },
+  {
+    "title": "Fifth Annual Winter Madness at Our Wicked Lady",
+    "description": "A music competition featuring 16 bands at Our Wicked Lady in Bushwick.",
+    "start_date": "2025-02-07",
+    "end_date": "2025-02-15",
+    "link": "https://www.ourwickedlady.com",
+    "address": "Our Wicked Lady, Bushwick",
+    "cost": "$17.51"
+  },
+  {
+    "title": "Stranger Things: The First Shadow Box Office Opening Event",
+    "description": "A box office opening event for the Broadway-bound play 'Stranger Things' at the Marriott Marquis Theatre.",
+    "start_date": "2025-02-07",
+    "start_time": "10:00 am",
+    "end_time": "12:00 pm",
+    "link": "https://www.instagram.com/p/DFscs2nOwMU/",
+    "address": "Marriott Marquis Theatre",
+    "cost": "$19.59 (while supplies last)"
+  },
+  {
+    "title": "First Friday at Poster House",
+    "description": "Enjoy free admission and special programming at Poster House in Flatiron.",
+    "start_date": "2025-02-07",
+    "start_time": "10:00 am",
+    "end_time": "9:00 pm",
+    "link": "https://posterhouse.org/event/first-friday-22/",
+    "address": "Poster House, Flatiron",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Immigrant Jam Comedy",
+    "description": "A stand-up comedy show featuring immigrant and first-generation comedians at Caveat in the Lower East Side.",
+    "start_date": "2025-02-07",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/series/immigrant-jam/",
+    "address": "Caveat, Lower East Side",
+    "cost": "$18.76 with promo code ‘jamily’ (reg. $24-25)"
+  },
+  {
+    "title": "Buster Keaton x R.E.M.: A Silents Synced Film",
+    "description": "A screening of Buster Keaton's 'Sherlock Jr.' paired with R.E.M.'s albums at Village East by Angelika and Cinema Village.",
+    "start_date": "2025-02-07",
+    "start_time": "7:00 pm",
+    "end_time": "8:00 pm",
+    "link": "https://www.angelikafilmcenter.com/villageeast/movies/details/buster-keatons-sherlock-jr-with-rem--a-silents-synced-film",
+    "address": "Village East by Angelika and Cinema Village",
+    "cost": "$12-19"
+  },
+  {
+    "title": "The Parlor Reading Series",
+    "description": "An interdisciplinary reading series at The Brooklyn Artery in Flatbush/Ditmas Park.",
+    "start_date": "2025-02-07",
+    "start_time": "7:30 pm",
+    "link": "https://www.instagram.com/theparlor_brooklyn/",
+    "address": "The Brooklyn Artery, Flatbush/Ditmas Park",
+    "cost": "Free (suggested donation $10)"
+  },
+  {
+    "title": "Bitches Brew Comedy Show",
+    "description": "A women-produced and hosted comedy show at Halyards in Gowanus.",
+    "start_date": "2025-02-07",
+    "start_time": "8:30 pm",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Halyards, Gowanus",
+    "cost": "Free admission (tip jar will be passed around)"
+  },
+  {
+    "title": "Support Women DJs One-Year Anniversary",
+    "description": "A dance party celebrating the one-year anniversary of Support Women DJs at The Sultan Room in Bushwick.",
+    "start_date": "2025-02-07",
+    "start_time": "11:00 pm",
+    "link": "https://dice.fm/event/wwvqgp-support-women-djs-1-year-anniversary-7th-feb-the-sultan-room-new-york-tickets",
+    "address": "The Sultan Room, Bushwick",
+    "cost": "$13.39"
   }
 ]

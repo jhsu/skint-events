@@ -6,7 +6,7 @@
     "start_time": "4:00 pm",
     "link": "https://caveat.nyc/events/perfume-room-presents-smells-like-love-2-15-2025",
     "address": "Caveat, LES",
-    "cost": "$20 tickets available with promo code ‘skint20’ (reg. $25 adv, $30 door)"
+    "cost": "$20 with promo code ‘skint20’ (reg. $25 adv, $30 door)"
   },
   {
     "title": "Blind Date with a Book",
@@ -58,7 +58,6 @@
     "description": "Weddings, vow renewals, surprise proposals, and more in Times Square.",
     "start_date": "2025-02-14",
     "link": "https://www.timessquarenyc.org/things-to-do/love-in-times-square",
-    "address": "Times Square",
     "cost": "Free admission"
   },
   {
@@ -89,7 +88,7 @@
   },
   {
     "title": "Doll Parts 'Heartbreak': A Dolly Parton Cover Band Experience",
-    "description": "A performance at The Sultan Room (Bushwick).",
+    "description": "A cover band experience at The Sultan Room (Bushwick).",
     "start_date": "2025-02-14",
     "start_time": "7:00 pm",
     "link": "https://dice.fm/venue/the-sultan-room-e27w",
@@ -184,7 +183,7 @@
     "start_time": "6:30 pm",
     "link": "https://ptknitwear.com/events/44645",
     "address": "P+T Knitwear Bookstore, LES",
-    "cost": "$5 admission can be applied towards a featured book or any item in the café"
+    "cost": "$5 (can be applied towards a featured book or any item in the café)"
   },
   {
     "title": "Hot + Fresh Burlesque: Valentine’s Edition",
@@ -237,8 +236,7 @@
     "start_date": "2025-02-11",
     "start_time": "8:00 pm",
     "link": "https://www.seetickets.us/event/sweet-valentine/636419",
-    "address": "Chelsea Music Hall",
-    "cost": "50% off with promo code ‘love’"
+    "address": "Chelsea Music Hall"
   },
   {
     "title": "Casablanca in 35mm",
@@ -246,7 +244,6 @@
     "start_date": "2025-02-11",
     "end_date": "2025-02-13",
     "link": "https://angelikafilmcenter.com/villageeast/movies/details/casablanca-in-35mm",
-    "address": "Village East by Angelika",
     "cost": "$21"
   }
 ]

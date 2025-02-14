@@ -1,139 +1,178 @@
 [
   {
+    "title": "Fireside Mystery Theatre: ‘Love Potions + Other Poisons’ Edition",
+    "description": "A mystery theatre event at The Slipper Room (LES). $20.",
+    "start_date": "2025-02-16",
+    "start_time": "5:00 pm",
+    "link": "https://www.firesidemysterytheatre.com",
+    "address": "The Slipper Room (LES)",
+    "cost": "$20"
+  },
+  {
+    "title": "Sad Girl Karaoke",
+    "description": "A karaoke event at Purgatory (Bushwick). Free admission.",
+    "start_date": "2025-02-16",
+    "start_time": "9:00 pm",
+    "link": "https://dice.fm/event/92oav9-downstairs-sad-girl-karaoke-16th-feb-purgatory-new-york-tickets",
+    "address": "Purgatory (Bushwick)",
+    "cost": "Free"
+  },
+  {
     "title": "Perfume Room Presents: Smells Like Love – A Dating Show Where the Nose Does the Picking",
-    "description": "A dating show at Caveat (LES).",
+    "description": "A dating show at Caveat (LES). A limited number of $20 tickets are available with promo code ‘skint20’ (reg. $25 adv, $30 door).",
     "start_date": "2025-02-15",
     "start_time": "4:00 pm",
     "link": "https://caveat.nyc/events/perfume-room-presents-smells-like-love-2-15-2025",
-    "address": "Caveat, LES",
+    "address": "Caveat (LES)",
     "cost": "$20 with promo code ‘skint20’ (reg. $25 adv, $30 door)"
   },
   {
     "title": "Blind Date with a Book",
-    "description": "An event at Yu + Me Books (Chinatown).",
+    "description": "An event at Yu + Me Books (Chinatown). Free admission.",
     "start_date": "2025-02-15",
-    "start_time": "5:00 pm",
+    "start_time": "2:00 pm - 5:00 pm",
     "link": "https://www.yuandmebooks.com/pages/events-at-yu-me-books",
-    "address": "Yu + Me Books, Chinatown",
-    "cost": "Free admission"
+    "address": "Yu + Me Books (Chinatown)",
+    "cost": "Free"
   },
   {
     "title": "26th Annual Love Hangover: Duos Singing Songs of Love in All Forms",
-    "description": "A concert at Berlin (East Village).",
+    "description": "A concert at Berlin (East Village). $17.45 adv, $20 day of.",
     "start_date": "2025-02-15",
     "start_time": "7:00 pm",
     "link": "https://www.instagram.com/thelovehangover/",
-    "address": "Berlin, East Village",
+    "address": "Berlin (East Village)",
     "cost": "$17.45 adv, $20 day of"
   },
   {
+    "title": "Love AF Booze-Free Valentine’s Party",
+    "description": "A party at Hekate Café + Elixir Lounge (Alphabet City/East Village). Free admission.",
+    "start_date": "2025-02-15",
+    "start_time": "7:00 pm - 11:00 pm",
+    "link": "https://lu.ma/ji0djbux",
+    "address": "Hekate Café + Elixir Lounge (Alphabet City/East Village)",
+    "cost": "Free"
+  },
+  {
     "title": "I Love You But: A Comedy Show About Love and Marriage",
-    "description": "A comedy show at The Gutter Spare Room (Williamsburg).",
+    "description": "A comedy show at The Gutter Spare Room (Williamsburg). $10.",
     "start_date": "2025-02-15",
     "start_time": "8:00 pm",
     "link": "https://www.eventbrite.com/e/i-love-you-but-tickets-1206535111999",
-    "address": "The Gutter Spare Room, Williamsburg",
+    "address": "The Gutter Spare Room (Williamsburg)",
     "cost": "$10"
   },
   {
     "title": "Improvised Erotic Thriller",
-    "description": "A performance at Brooklyn Comedy Collective Pig Pen (Williamsburg).",
+    "description": "An improv show at Brooklyn Comedy Collective Pig Pen (Williamsburg). $10 adv, $15 day of.",
     "start_date": "2025-02-15",
     "start_time": "8:30 pm",
     "link": "https://www.brooklyncc.com/show-schedule/hmid-2-15",
-    "address": "Brooklyn Comedy Collective Pig Pen, Williamsburg",
+    "address": "Brooklyn Comedy Collective Pig Pen (Williamsburg)",
     "cost": "$10 adv, $15 day of"
   },
   {
     "title": "Gemini + Scorpio Presents: Meet Me in Paris – A Clandestine Cabaret",
-    "description": "A cabaret at Gemini + Scorpio Loft (Gowanus).",
+    "description": "A cabaret at Gemini + Scorpio Loft (Gowanus). $25 general, $10 after 12:30am.",
     "start_date": "2025-02-15",
-    "start_time": "9:00 pm",
+    "start_time": "9:00 pm - 3:00 am",
     "link": "http://www.geminiandscorpio.com/events.html#Paris",
-    "address": "Gemini + Scorpio Loft, Gowanus",
+    "address": "Gemini + Scorpio Loft (Gowanus)",
     "cost": "$25 general, $10 after 12:30am"
   },
   {
-    "title": "Love in Times Square",
-    "description": "Weddings, vow renewals, surprise proposals, and more in Times Square.",
+    "title": "Casablanca in 35mm",
+    "description": "A screening of Casablanca in 35mm at Village East by Angelika. $21.",
     "start_date": "2025-02-14",
+    "start_time": "various times",
+    "link": "https://angelikafilmcenter.com/villageeast/movies/details/casablanca-in-35mm",
+    "address": "Village East by Angelika",
+    "cost": "$21"
+  },
+  {
+    "title": "Love in Times Square",
+    "description": "Weddings, vow renewals, surprise proposals, and more. Free admission.",
+    "start_date": "2025-02-14",
+    "start_time": "various times",
     "link": "https://www.timessquarenyc.org/things-to-do/love-in-times-square",
-    "cost": "Free admission"
+    "address": "Times Square",
+    "cost": "Free"
   },
   {
     "title": "A Night at the Paris: Valentine’s Day Screenings of Casablanca and Amélie",
-    "description": "Screenings at The Paris Theater (Midtown).",
+    "description": "Valentine’s Day screenings of Casablanca and Amélie at the Paris Theater (Midtown). $17 general, $15 seniors/students/people with disabilities.",
     "start_date": "2025-02-14",
+    "start_time": "various times",
     "link": "https://www.paristheaternyc.com/series/a-night-at-the-paris-valentines-day-2025",
-    "address": "The Paris Theater, Midtown",
+    "address": "Paris Theater (Midtown)",
     "cost": "$17 general, $15 seniors/students/people with disabilities"
   },
   {
-    "title": "Vocabaret Linguistic Variety Show: 'Dating Games' Edition",
-    "description": "A variety show at Caveat (LES).",
+    "title": "Vocabaret Linguistic Variety Show: ‘Dating Games’ Edition",
+    "description": "A variety show at Caveat (LES). $15 with promo code ‘caveatorb’ (reg $20 adv, $25 door).",
     "start_date": "2025-02-14",
     "start_time": "7:00 pm",
     "link": "https://caveat.nyc/events/vocabaret-2-14-2025",
-    "address": "Caveat, LES",
+    "address": "Caveat (LES)",
     "cost": "$15 with promo code ‘caveatorb’ (reg $20 adv, $25 door)"
   },
   {
     "title": "Footlight’s Annual Palentine’s Day Party: Candy, Crafts + Romcoms",
-    "description": "A party at Footlight Underground at The Windjammer (Ridgewood).",
+    "description": "A party at Footlight Underground at the Windjammer (Ridgewood). $10 suggested donation.",
     "start_date": "2025-02-14",
     "start_time": "7:00 pm",
     "link": "https://withfriends.co/event/22631818/footlight_presents_palentines_day",
-    "address": "Footlight Underground at The Windjammer, Ridgewood",
+    "address": "Footlight Underground at the Windjammer (Ridgewood)",
     "cost": "$10 suggested donation"
   },
   {
-    "title": "Doll Parts 'Heartbreak': A Dolly Parton Cover Band Experience",
-    "description": "A cover band experience at The Sultan Room (Bushwick).",
+    "title": "Doll Parts ‘Heartbreak’: A Dolly Parton Cover Band Experience",
+    "description": "A Dolly Parton cover band experience at The Sultan Room (Bushwick). $25.14.",
     "start_date": "2025-02-14",
-    "start_time": "7:00 pm",
+    "start_time": "7:00 pm + 10:00 pm",
     "link": "https://dice.fm/venue/the-sultan-room-e27w",
-    "address": "The Sultan Room, Bushwick",
+    "address": "The Sultan Room (Bushwick)",
     "cost": "$25.14"
   },
   {
     "title": "Valentine’s Day Fight Night: Drag Queen Wrestling, Burlesque, and Vendors",
-    "description": "An event at Strong Rope Brewery (Red Hook).",
+    "description": "An event at Strong Rope Brewery (Red Hook). Free admission.",
     "start_date": "2025-02-14",
-    "start_time": "7:00 pm",
+    "start_time": "7:00 pm - 10:00 pm",
     "link": "https://www.strongropebrewery.com/events-calendar/red-hook-drag-wrestling-2025-feb-14",
-    "address": "Strong Rope Brewery, Red Hook",
-    "cost": "Free admission"
+    "address": "Strong Rope Brewery (Red Hook)",
+    "cost": "Free"
   },
   {
     "title": "Young Hot Sluts: A Matchmaking Game Show",
-    "description": "A game show at Littlefield (Gowanus).",
+    "description": "A matchmaking game show with comedian Carly Ann Filbin at Littlefield (Gowanus). Save $5 with promo code ‘yhs’.",
     "start_date": "2025-02-14",
     "start_time": "8:00 pm",
     "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1145998154329",
-    "address": "Littlefield, Gowanus",
-    "cost": "Save $5 with promo code ‘yhs’"
+    "address": "Littlefield (Gowanus)",
+    "cost": "$5 off with promo code ‘yhs’"
   },
   {
     "title": "Why Are You Single? A Dating Game Show",
-    "description": "A game show at The Bell House (Gowanus).",
+    "description": "A dating game show with comedian Marie Faustin at The Bell House (Gowanus). $25.05.",
     "start_date": "2025-02-14",
     "start_time": "8:00 pm",
     "link": "https://www.thebellhouseny.com/shows",
-    "address": "The Bell House, Gowanus",
+    "address": "The Bell House (Gowanus)",
     "cost": "$25.05"
   },
   {
-    "title": "Wild at Heart: Rubulad's Valentine's Day Party",
-    "description": "A party at Rubulad (Bushwick).",
+    "title": "Wild at Heart: Rubulad’s Valentine’s Day Party",
+    "description": "A Valentine’s Day party at Rubulad (Bushwick). $18 adv, $25 door.",
     "start_date": "2025-02-14",
-    "start_time": "8:00 pm",
+    "start_time": "8:00 pm - late",
     "link": "https://withfriends.co/event/22717691/wild_at_heart_rubulads_valentines_day_party",
-    "address": "Rubulad, Bushwick",
+    "address": "Rubulad (Bushwick)",
     "cost": "$18 adv, $25 door"
   },
   {
     "title": "Cheap Therapy Comedy Show by Hoes with Feelings",
-    "description": "A comedy show at Arlo Soho.",
+    "description": "A comedy show at Arlo Soho. $12.51 2-for-1 promo (reg. $20 each).",
     "start_date": "2025-02-14",
     "start_time": "9:00 pm",
     "link": "https://www.eventbrite.com/e/cheap-therapy-comedy-show-tickets-1217976132399",
@@ -141,109 +180,48 @@
     "cost": "$12.51 2-for-1 promo (reg. $20 each)"
   },
   {
-    "title": "Weeb Adjacent's One-Year Anniversary Cosplay Rave",
-    "description": "A cosplay rave at Wonderville (Bushwick).",
+    "title": "Weeb Adjacent’s One-Year Anniversary Cosplay Rave",
+    "description": "A cosplay rave at Wonderville (Bushwick). $10.",
     "start_date": "2025-02-14",
-    "start_time": "9:00 pm",
+    "start_time": "9:00 pm - 3:00 am",
     "link": "https://www.wonderville.nyc/events/weeb-adjacent-cosplay-rave-1-year-anniversary",
-    "address": "Wonderville, Bushwick",
+    "address": "Wonderville (Bushwick)",
     "cost": "$10"
   },
   {
     "title": "Not My Slutty Valentine’s Day Dance Party",
-    "description": "A dance party at Littlefield (Gowanus).",
+    "description": "A dance party at Littlefield (Gowanus). A limited number of tickets are available for $5 off with promo code ‘notmy5’.",
     "start_date": "2025-02-14",
-    "start_time": "10:00 pm",
+    "start_time": "10:00 pm - 2:00 am",
     "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1146156879079",
-    "address": "Littlefield, Gowanus",
+    "address": "Littlefield (Gowanus)",
     "cost": "$5 off with promo code ‘notmy5’"
   },
   {
     "title": "Soul Connection Black Love Valentine’s Day Party",
-    "description": "A party at Nowadays (Bushwick).",
+    "description": "A Valentine’s Day party at Nowadays (Bushwick). $25+ general admission, $10-15 with RSVP.",
     "start_date": "2025-02-14",
-    "start_time": "10:00 pm",
+    "start_time": "10:00 pm - late",
     "link": "https://ra.co/events/2071291",
-    "address": "Nowadays, Bushwick",
+    "address": "Nowadays (Bushwick)",
     "cost": "$25+ general admission, $10-15 with RSVP"
   },
   {
-    "title": "The Devil's Eyes Presents: A Valentine's Day Cabaret",
-    "description": "A cabaret at Sleepwalk (Bushwick).",
+    "title": "The Devil’s Eyes Presents: A Valentine’s Day Cabaret",
+    "description": "A cabaret at Sleepwalk (Bushwick). $14.73 adv, $15 door.",
     "start_date": "2025-02-14",
     "start_time": "10:30 pm",
     "link": "https://dice.fm/event/7dnpp7-devils-eyes-presents-a-valentines-day-cabaret-14th-feb-sleepwalk-new-york-city-tickets",
-    "address": "Sleepwalk, Bushwick",
+    "address": "Sleepwalk (Bushwick)",
     "cost": "$14.73 adv, $15 door"
   },
   {
-    "title": "The City Reading Series: 'All Forms of Love' Edition",
-    "description": "A reading series at P+T Knitwear Bookstore (LES).",
-    "start_date": "2025-02-13",
-    "start_time": "6:30 pm",
-    "link": "https://ptknitwear.com/events/44645",
-    "address": "P+T Knitwear Bookstore, LES",
-    "cost": "$5 (can be applied towards a featured book or any item in the café)"
-  },
-  {
-    "title": "Hot + Fresh Burlesque: Valentine’s Edition",
-    "description": "A burlesque show at House of Yes (Bushwick).",
-    "start_date": "2025-02-13",
-    "start_time": "7:00 pm",
-    "link": "https://shotgun.live/en/events/hot-and-fresh-burlesque-february-13-2025",
-    "address": "House of Yes, Bushwick",
-    "cost": "$11.50"
-  },
-  {
-    "title": "Planet Yes: Kiss + Tell Sapphic Galentine's Party",
-    "description": "A party at The Onyx Room at House of Yes (Bushwick).",
-    "start_date": "2025-02-13",
-    "start_time": "10:00 pm",
-    "link": "https://shotgun.live/en/events/planet-yes-february-13-2025",
-    "address": "The Onyx Room at House of Yes, Bushwick",
-    "cost": "Free with RSVP"
-  },
-  {
-    "title": "Debbie Chou + Friends Sing Breakup Songs",
-    "description": "A performance at QED (Astoria) featuring breakup songs.",
-    "start_date": "2025-02-12",
-    "start_time": "7:30 pm",
-    "link": "https://qedastoria.com/products/debbie-chou-friends-sing-breakup-songs",
-    "address": "QED, Astoria",
-    "cost": "$10"
-  },
-  {
-    "title": "Meg Smith's Galentine’s Party",
-    "description": "A party at C’mon Everybody (Bed-Stuy) featuring Meg Smith.",
-    "start_date": "2025-02-12",
-    "start_time": "8:00 pm",
-    "link": "https://dice.fm/event/yol8oa-meg-smith-galentines-party-12th-feb-cmon-everybody-new-york-tickets",
-    "address": "C’mon Everybody, Bed-Stuy",
-    "cost": "$14.84"
-  },
-  {
-    "title": "The Science of Relationships: Hacking Your Love Life with Research",
-    "description": "A talk at QED (Astoria) exploring the science behind relationships.",
-    "start_date": "2025-02-11",
-    "start_time": "7:00 pm",
-    "link": "https://qedastoria.com/products/the-science-of-relationships-hacking-your-love-life-with-research",
-    "address": "QED, Astoria",
-    "cost": "$8"
-  },
-  {
-    "title": "Sweet Comedy Show: 'Sweet Valentine' Edition",
-    "description": "A comedy show hosted by Seth Herzog at Chelsea Music Hall.",
-    "start_date": "2025-02-11",
-    "start_time": "8:00 pm",
-    "link": "https://www.seetickets.us/event/sweet-valentine/636419",
-    "address": "Chelsea Music Hall"
-  },
-  {
-    "title": "Casablanca in 35mm",
-    "description": "Screening of Casablanca at Village East by Angelika.",
-    "start_date": "2025-02-11",
-    "end_date": "2025-02-13",
-    "link": "https://angelikafilmcenter.com/villageeast/movies/details/casablanca-in-35mm",
-    "cost": "$21"
+    "title": "Boots! Valentine’s A Go-Go",
+    "description": "A go-go event at Alphaville (Bushwick). Free admission.",
+    "start_date": "2025-02-14",
+    "start_time": "10:30 pm",
+    "link": "https://dice.fm/event/l8ympl-boots-valentines-a-go-go-14th-feb-alphaville-new-york-tickets",
+    "address": "Alphaville (Bushwick)",
+    "cost": "Free"
   }
 ]

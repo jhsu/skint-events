@@ -1,281 +1,137 @@
 [
   {
-    "title": "27th Chinatown Lunar New Year Parade and Festival",
-    "description": "A parade and festival in Chinatown.",
-    "start_date": "2025-02-18",
-    "start_time": "11:30 am - 3:30 pm (festival + booths), 1:00 pm (parade)",
-    "link": "https://away.mta.info/events/27th-chinatown-lunar-new-year-parade-and-festival-manhattan/",
-    "address": "Chinatown",
-    "cost": "Free admission"
-  },
-  {
-    "title": "New Tricks",
-    "description": "A storytelling show at Q.E.D. featuring performers over 40.",
-    "start_date": "2025-02-18",
+    "title": "Jessica Valenti on Abortion with Alexis McGill Johnson",
+    "description": "Feminist writer and activist Jessica Valenti discusses the state of abortion access and her book, 'Abortion: Our Bodies, Their Lies, and the Truths We Use to Win,' in a conversation with Alexis McGill Johnson, president and CEO of Planned Parenthood of America.",
+    "start_date": "2025-02-19",
     "start_time": "7:00 pm",
-    "link": "https://qedastoria.com/products/new-tricks-2?event=2025-02-16T19:00:00",
-    "address": "Q.E.D. (Astoria)",
-    "cost": "$12"
+    "link": "https://www.bklynlibrary.org/calendar/jessica-valenti-abortion-central-library-dweck-20250219-0700pm",
+    "address": "Brooklyn Public Library, Central Library, Prospect Heights",
+    "cost": "Free"
   },
   {
-    "title": "Dungeons + Drag Queens",
-    "description": "A live D&D game with drag queens at C’mon Everybody.",
-    "start_date": "2025-02-18",
-    "start_time": "8:00 pm",
-    "link": "https://dice.fm/event/dkv6k6-dungeons-drag-queens-16th-feb-cmon-everybody-new-york-tickets",
-    "address": "C’mon Everybody (Bed-Stuy)",
-    "cost": "$12.36"
+    "title": "Adam Wade: Live in New York",
+    "description": "20-time Moth story slam winner Adam Wade returns to Under St. Marks Theater with a storytelling show featuring three to four different stories from his extensive catalog (no two shows will be the same) and a different special guest who’ll kick things off.",
+    "start_date": "2025-02-19",
+    "start_time": "7:00 pm",
+    "link": "https://www.frigid.nyc/event/6897:476/",
+    "address": "Under St. Marks Theater, East Village",
+    "cost": "Sliding scale admission"
   },
   {
-    "title": "Say Less: A Too Truthful Comedy Show",
-    "description": "A comedy show at UCB featuring personal jokes and stories.",
-    "start_date": "2025-02-18",
-    "start_time": "8:30 pm",
-    "link": "https://ucbcomedy.com/show/say-less-4/",
-    "address": "UCB (East Village)",
+    "title": "Adsit + You",
+    "description": "Comedian and former 30 Rock cast member Scott Adsit takes the stage at UCB for a night of spontaneous, two-person scenes—featuring (possibly) you. Audience members can volunteer to improvise alongside him, or just sit back and watch everything unfold.",
+    "start_date": "2025-02-19",
+    "start_time": "7:00 pm",
+    "link": "https://ucbcomedy.com/show/adsit-you/",
+    "address": "UCB, East Village",
     "cost": "$10 adv, $15 day of"
   },
   {
-    "title": "Perfume Room Presents: Smells Like Love",
-    "description": "A dating show at Caveat with comedian Emma Vernon.",
-    "start_date": "2025-02-17",
-    "start_time": "4:00 pm",
-    "link": "https://caveat.nyc/events/perfume-room-presents-smells-like-love-2-15-2025",
-    "address": "Caveat (LES)",
-    "cost": "$20 tickets available with promo code ‘skint20’ (reg. $25 adv, $30 door)"
-  },
-  {
-    "title": "Blind Date with a Book",
-    "description": "A book event at Yu + Me Books.",
-    "start_date": "2025-02-17",
-    "start_time": "2:00 pm - 5:00 pm",
-    "link": "https://www.yuandmebooks.com/pages/events-at-yu-me-books",
-    "address": "Yu + Me Books (Chinatown)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "26th Annual Love Hangover",
-    "description": "A concert featuring duos singing songs of love at Berlin.",
-    "start_date": "2025-02-17",
-    "start_time": "7:00 pm",
-    "link": "https://www.instagram.com/thelovehangover/",
-    "address": "Berlin (East Village)",
-    "cost": "$17.45 adv, $20 day of"
-  },
-  {
-    "title": "Love AF Booze-Free Valentine’s Party",
-    "description": "A booze-free party at Hekate Café + Elixir Lounge.",
-    "start_date": "2025-02-17",
-    "start_time": "7:00 pm - 11:00 pm",
-    "link": "https://lu.ma/ji0djbux",
-    "address": "Hekate Café + Elixir Lounge (Alphabet City/East Village)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "National Boston Terrier Day Celebration",
-    "description": "A meetup for Boston Terrier lovers at Washington Square Park Dog Run.",
-    "start_date": "2025-02-17",
-    "start_time": "1:00 pm",
-    "link": "https://www.instagram.com/nyc_bostonterriers/",
-    "address": "Washington Square Park Dog Run (Greenwich Village)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Textile Arts Center 16th Open Studios",
-    "description": "An open studio event at Textile Arts Center.",
-    "start_date": "2025-02-17",
-    "start_time": "2:00 pm - 5:00 pm",
-    "link": "https://textileartscenter.com/announcement/air-16-open-studios/",
-    "address": "Textile Arts Center (Gowanus)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Phil Collins Day",
-    "description": "A celebration of Phil Collins at Berry Park.",
-    "start_date": "2025-02-17",
-    "start_time": "5:00 pm - 9:00 pm",
-    "link": "https://www.instagram.com/philcollinsdayforever/",
-    "address": "Berry Park (Greenpoint)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "The Astigmatism Comedy Show",
-    "description": "A standup comedy show at P+T Knitwear Bookstore.",
-    "start_date": "2025-02-17",
-    "start_time": "6:00 pm",
-    "link": "https://www.eventbrite.com/e/the-astigmatism-comedy-show-tickets-1123196624339",
-    "address": "P+T Knitwear Bookstore (LES)",
-    "cost": "$15 admission includes $5 towards any purchase"
-  },
-  {
-    "title": "Second Annual Johnny Cash Tribute Concert",
-    "description": "A tribute concert at The Bowery Electric.",
-    "start_date": "2025-02-17",
-    "start_time": "7:00 pm",
-    "link": "https://www.ticketweb.com/event/johnny-cash-tribute-show-the-bowery-electric-tickets/14106373",
-    "address": "The Bowery Electric (East Village)",
-    "cost": "$23.10"
-  },
-  {
-    "title": "Peoples’ Symphony Concerts Classical Music Series: Juilliard String Quartet",
-    "description": "A classical music concert at Washington Irving High School Auditorium.",
-    "start_date": "2025-02-17",
+    "title": "Motion Picture Pop Quiz",
+    "description": "Screening party meets trivia competition at Motion Picture Pop Quiz, where you'll watch short clips from movies, TV shows, and news reports while entertainers craft questions on the spot. Answers are judged on correctness or creativity, with winners chosen by a random drawing.",
+    "start_date": "2025-02-19",
     "start_time": "7:30 pm",
-    "link": "https://www.pscny.org/juilliardwi",
-    "address": "Washington Irving High School Auditorium (Gramercy)",
-    "cost": "$20-25 general, $10 students/essential workers"
+    "link": "https://motionpicturepopquiz.com",
+    "address": "Lo-Res Bar at Nitehawk Williamsburg",
+    "cost": "Free"
   },
   {
-    "title": "Fun Gutter",
-    "description": "A stand-up comedy show at Cobra Club.",
-    "start_date": "2025-02-17",
+    "title": "We Have Fun: A Stand-Up Show",
+    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s, with stand-up by guests Shalewa Sharpe, Billy Prinsell, Julie Mitchell, and Max Chavez.",
+    "start_date": "2025-02-19",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
+    "address": "Young Ethel’s, Park Slope",
+    "cost": "Free"
+  },
+  {
+    "title": "The Moth Storyslam",
+    "description": "The popular community-based open mic storytelling competition, where anyone can share a five-minute tale based on the evening’s theme to an attentive audience, returns to The Bell House. Tonight’s theme: ‘Oblivious.’",
+    "start_date": "2025-02-19",
     "start_time": "8:00 pm",
-    "link": "https://partiful.com/e/NEKu3EuEfJCmo51nvu7h",
-    "address": "Cobra Club (Bushwick)",
-    "cost": "Free admission"
+    "link": "https://themoth.org/events/oblivious-nyc-2025",
+    "address": "The Bell House, Gowanus",
+    "cost": "$19.65"
   },
   {
-    "title": "Casablanca in 35mm",
-    "description": "A screening of the classic film Casablanca at Village East by Angelika.",
-    "start_date": "2025-02-16",
-    "start_time": "various times",
-    "link": "https://angelikafilmcenter.com/villageeast/movies/details/casablanca-in-35mm",
-    "address": "Village East by Angelika",
-    "cost": "$21"
+    "title": "Friends with Caveats",
+    "description": "Expect everything from stand-up and character performances to music and even PowerPoint presentations at Caveat's new weekly comedy show, 'Friends with Caveats.' Tonight's lineup includes Jessie Lee, Jenny Gorelick, Kenice Mobley, Molly Brown, and more.",
+    "start_date": "2025-02-19",
+    "start_time": "9:30 pm",
+    "link": "https://caveat.nyc/events/friends-with-caveats-more-than-a-one-night-stand-up-show-2-19-2025",
+    "address": "Caveat, LES",
+    "cost": "$10 adv, $15 door"
   },
   {
-    "title": "Love in Times Square",
-    "description": "Weddings, vow renewals, surprise proposals, and more in Times Square.",
-    "start_date": "2025-02-16",
-    "start_time": "various times",
-    "link": "https://www.timessquarenyc.org/things-to-do/love-in-times-square",
-    "address": "Times Square",
-    "cost": "Free admission"
+    "title": "Late Bloomers",
+    "description": "Naomi Odenkirk presents Late Bloomers, an evening of unexpected solo characters at Union Hall. Featuring Sarafina Ludlow, Kate Owens, Ashley Padilla, Mary Shalaby, Jamie Linn Watson, and Jane Wickline. Hosted by Ava Bunn.",
+    "start_date": "2025-02-19",
+    "start_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/late-bloomers-a-lineup-of-unexpected-solo-characters-tickets-1236458944989",
+    "address": "Union Hall, Park Slope",
+    "cost": "$12 adv, $15 door"
   },
   {
-    "title": "A Night at the Paris: Valentine’s Day Screenings",
-    "description": "Valentine’s Day screenings of Casablanca and Amélie at the Paris Theater.",
-    "start_date": "2025-02-16",
-    "start_time": "various times",
-    "link": "https://www.paristheaternyc.com/series/a-night-at-the-paris-valentines-day-2025",
-    "address": "Paris Theater (Midtown)",
-    "cost": "$17 general, $15 seniors/students/people with disabilities"
+    "title": "Restaurant Week of the Sides",
+    "description": "38 businesses along the 7-train line in Sunnyside and Woodside, Queens, offer three-course dinner specials for $35.",
+    "start_date": "2025-02-18",
+    "end_date": "2025-03-01",
+    "link": "https://sunnysideshines.org/events/restaurantweekofthesides/",
+    "address": "Sunnyside and Woodside, Queens",
+    "cost": "$35"
   },
   {
-    "title": "Vocabaret Linguistic Variety Show: ‘Dating Games’ Edition",
-    "description": "A variety show at Caveat featuring linguistic performances.",
-    "start_date": "2025-02-16",
+    "title": "Sixth Chelsea International Photography Competition Exhibition",
+    "description": "Chelsea's Agora Gallery presents its sixth annual photography competition exhibition, showcasing winning works from hundreds of global submissions. Reception Thursday 6-8pm. Free admission.",
+    "start_date": "2025-02-18",
+    "end_date": "2025-02-25",
+    "link": "https://agora-gallery.com/ag-exhibitions/the-6th-chelsea-international-photography-competition-february-18-february-25-2025/",
+    "address": "Agora Gallery, Chelsea",
+    "cost": "Free"
+  },
+  {
+    "title": "Brooklyn Books + Booze",
+    "description": "Hear established and up-and-coming authors of different genres read from their current works every third Tuesday of the month at Barrow's Intense Tasting Room. Tonight's lineup includes Alaya Dawn Johnson, Taran Hunt, Veronica Schanoes, and John Foster. Hosted by Randee Dawn.",
+    "start_date": "2025-02-18",
     "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/events/vocabaret-2-14-2025",
-    "address": "Caveat (LES)",
-    "cost": "$15 with promo code ‘caveatorb’ (reg $20 adv, $25 door)"
+    "link": "https://randeedawn.com/bonus/brooklyn-books-booze/",
+    "address": "Barrow's Intense Tasting Room, Industry City",
+    "cost": "Free"
   },
   {
-    "title": "Footlight’s Annual Palentine’s Day Party",
-    "description": "Candy, crafts, and romcoms at Footlight Underground.",
-    "start_date": "2025-02-16",
+    "title": "Astronomy on Tap: 150",
+    "description": "A night where astronomy enthusiasts gather at a bar for talks by professional scientists and educators, plus themed games, and other cosmic fun. Tonight’s 150th event features community manager at Science Friday Santiago Flórez and Columbia University astronomy graduate student Shreyas Seethalla.",
+    "start_date": "2025-02-18",
     "start_time": "7:00 pm",
-    "link": "https://withfriends.co/event/22631818/footlight_presents_palentines_day",
-    "address": "Footlight Underground at the Windjammer (Ridgewood)",
-    "cost": "$10 suggested donation"
+    "link": "https://astronomyontap.org/event/astronomy-on-tap-nyc-150/",
+    "address": "Pete's Candy Store, Williamsburg",
+    "cost": "Free"
   },
   {
-    "title": "Doll Parts ‘Heartbreak’: A Dolly Parton Cover Band Experience",
-    "description": "A Dolly Parton cover band experience at The Sultan Room.",
-    "start_date": "2025-02-16",
-    "start_time": "7:00 pm + 10:00 pm",
-    "link": "https://dice.fm/venue/the-sultan-room-e27w",
-    "address": "The Sultan Room (Bushwick)",
-    "cost": "$25.14"
+    "title": "David Briggs at the Great Organ",
+    "description": "The Cathedral Church of Saint John the Divine celebrates the return of its restored great organ with free performances this month. Tonight, Cathedral artist in residence David Briggs premieres his organ transcription of Brahms’ passionate 2nd symphony alongside his own ‘Mannahatta Diptyque,’ a musical tour of NYC throughout history.",
+    "start_date": "2025-02-18",
+    "start_time": "7:30 pm",
+    "link": "https://www.stjohndivine.org/calendar/51026/david-briggs-at-the-great-organ",
+    "address": "Cathedral Church of Saint John the Divine, Morningside Heights",
+    "cost": "Free with RSVP"
   },
   {
-    "title": "Valentine’s Day Fight Night",
-    "description": "Drag queen wrestling, burlesque, and vendors at Strong Rope Brewery.",
-    "start_date": "2025-02-16",
-    "start_time": "7:00 pm - 10:00 pm",
-    "link": "https://www.strongropebrewery.com/events-calendar/red-hook-drag-wrestling-2025-feb-14",
-    "address": "Strong Rope Brewery (Red Hook)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Young Hot Sluts: A Matchmaking Game Show",
-    "description": "A matchmaking game show with comedian Carly Ann Filbin at Littlefield.",
-    "start_date": "2025-02-16",
+    "title": "Animation Nights New York",
+    "description": "Watch a curated program of animated short films from around the world at this monthly screening event.",
+    "start_date": "2025-02-18",
     "start_time": "8:00 pm",
-    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1145998154329",
-    "address": "Littlefield (Gowanus)",
-    "cost": "Save $5 with promo code ‘yhs’"
+    "link": "https://www.animationnights.com/upcoming-screening-events/",
+    "address": "The Gutter Spare Room, Williamsburg",
+    "cost": "Pay-what-you-wish"
   },
   {
-    "title": "Why Are You Single? A Dating Game Show",
-    "description": "A dating game show with comedian Marie Faustin at The Bell House.",
-    "start_date": "2025-02-16",
-    "start_time": "8:00 pm",
-    "link": "https://www.thebellhouseny.com/shows",
-    "address": "The Bell House (Gowanus)",
-    "cost": "$25.05"
-  },
-  {
-    "title": "Wild at Heart: Rubulad’s Valentine’s Day Party",
-    "description": "A Valentine’s Day party at Rubulad.",
-    "start_date": "2025-02-16",
-    "start_time": "8:00 pm - late",
-    "link": "https://withfriends.co/event/22717691/wild_at_heart_rubulads_valentines_day_party",
-    "address": "Rubulad (Bushwick)",
-    "cost": "$18 adv, $25 door"
-  },
-  {
-    "title": "Cheap Therapy Comedy Show by Hoes with Feelings",
-    "description": "A comedy show at Arlo Soho.",
-    "start_date": "2025-02-16",
-    "start_time": "9:00 pm",
-    "link": "https://www.eventbrite.com/e/cheap-therapy-comedy-show-tickets-1217976132399",
-    "address": "Arlo Soho",
-    "cost": "$12.51 2-for-1 promo (reg. $20 each)"
-  },
-  {
-    "title": "Weeb Adjacent’s One-Year Anniversary Cosplay Rave",
-    "description": "A cosplay rave at Wonderville.",
-    "start_date": "2025-02-16",
-    "start_time": "9:00 pm - 3:00 am",
-    "link": "https://www.wonderville.nyc/events/weeb-adjacent-cosplay-rave-1-year-anniversary",
-    "address": "Wonderville (Bushwick)",
-    "cost": "$10"
-  },
-  {
-    "title": "Not My Slutty Valentine’s Day Dance Party",
-    "description": "A dance party at Littlefield.",
-    "start_date": "2025-02-16",
-    "start_time": "10:00 pm - 2:00 am",
-    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1146156879079",
-    "address": "Littlefield (Gowanus)",
-    "cost": "A limited number of tickets are available for $5 off with promo code ‘notmy5’"
-  },
-  {
-    "title": "Soul Connection Black Love Valentine’s Day Party",
-    "description": "A Valentine’s Day party at Nowadays.",
-    "start_date": "2025-02-16",
-    "start_time": "10:00 pm - late",
-    "link": "https://ra.co/events/2071291",
-    "address": "Nowadays (Bushwick)",
-    "cost": "$25+ general admission, $10-15 with RSVP"
-  },
-  {
-    "title": "The Devil’s Eyes Presents: A Valentine’s Day Cabaret",
-    "description": "A cabaret show at Sleepwalk.",
-    "start_date": "2025-02-16",
-    "start_time": "10:30 pm",
-    "link": "https://dice.fm/event/7dnpp7-devils-eyes-presents-a-valentines-day-cabaret-14th-feb-sleepwalk-new-york-city-tickets",
-    "address": "Sleepwalk (Bushwick)",
-    "cost": "$14.73 adv, $15 door"
-  },
-  {
-    "title": "Boots! Valentine’s A Go-Go",
-    "description": "A Valentine’s party at Alphaville.",
-    "start_date": "2025-02-16",
-    "start_time": "10:30 pm",
-    "link": "https://dice.fm/event/l8ympl-boots-valentines-a-go-go-14th-feb-alphaville-new-york-tickets",
-    "address": "Alphaville (Bushwick)",
-    "cost": "Free admission"
+    "title": "13th Annual Winter Film Festival",
+    "description": "The winter film festival returns for its 13th year, showcasing over 80 films from 20 countries, including animation, documentaries, dramas, comedies, horror, music videos, and web series by emerging talent. Look cinemas (Hell’s Kitchen), $12.50 adv, $16.50 door, $5 for students.",
+    "start_date": "2025-02-18",
+    "end_date": "2025-02-22",
+    "link": "https://winterfilmawards.com/wff2025/",
+    "address": "Look Cinemas, Hell's Kitchen",
+    "cost": "$12.50 adv, $16.50 door, $5 for students"
   }
 ]

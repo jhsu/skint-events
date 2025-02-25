@@ -1,13 +1,87 @@
 [
   {
-    "title": "THE OSCARS WATCH PARTY AT LITTLEFIELD (SPONSORED)",
-    "description": "Celebrate Hollywood's Biggest Night with a live stream of the award ceremony featuring appearances from your favorite stars of the big screen, a red carpet, live performances during commercial breaks, a play-along drinking game, and your chance to win the Littlefield Oscars ballot and the \"Defying Gravity\" Riff-Off. Suggested attire: Elevated PJs. Hosted by Jenny Gorelick (Netflix is a Joke Fest) with performances by various artists.",
-    "start_date": "2025-03-02",
-    "start_time": "6:00 pm",
+    "title": "33rd Outsider Art Fair",
+    "description": "The premier fair devoted to self-taught art, art brut, and outsider art returns to Metropolitan Pavilion (Chelsea) with more than 60 exhibitors from 40 cities across nine countries.",
+    "start_date": "2025-02-27",
     "end_date": "2025-03-02",
-    "end_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/the-oscars-watch-party-at-littlefield-tickets-1215559253449",
-    "address": "Littlefield – 635 Sackett Street (between 3rd and 4th Avenues), Brooklyn",
-    "cost": "undefined"
+    "link": "https://www.outsiderartfair.com/new-york",
+    "address": "Metropolitan Pavilion (Chelsea)",
+    "cost": "$35 general admission Friday-Sunday, $25 senior + student tickets available at the door."
+  },
+  {
+    "title": "Two-Day Curated Cocktail Event at Brookfield Place",
+    "description": "Elevate your happy hour at The Palm Lounge: A Curated Cocktail Experience, a two-day event taking place under the palm trees of the Winter Garden at Brookfield Place. Enjoy bespoke beverages, light bites, and a vinyl music-listening experience by guest DJs.",
+    "start_date": "2025-02-26",
+    "start_time": "4:30 pm",
+    "end_date": "2025-02-27",
+    "end_time": "8:30 pm",
+    "link": "https://bfplny.com/event/the-palm-lounge/",
+    "address": "Brookfield Place, 230 Vesey Street, Lower Manhattan",
+    "cost": "Free entry; food and drink available for purchase."
+  },
+  {
+    "title": "BOGO Ice Skate Rentals at Bryant Park",
+    "description": "Lace up for less during Bryant Park Rink's final week of the season. Score a buy-one-get-one-free skate rental with promo code 'not2late2skate' (prices vary by day/time).",
+    "start_date": "2025-02-25",
+    "start_time": "8:00 am",
+    "end_date": "2025-03-02",
+    "end_time": "10:00 pm",
+    "link": "https://bryantpark.org/calendar/event/ice-skating-rink-at-bryant-park-late-closing/2025-02-21",
+    "address": "Bryant Park",
+    "cost": "Varies by day/time"
+  },
+  {
+    "title": "Victoria Christopher Murray + Sylvia White: Harlem Rhapsody",
+    "description": "Victoria Christopher Murray, co-author of 'The Personal Librarian', discusses her latest novel, 'Harlem Rhapsody: The Extraordinary Story of the Woman Who Ignited the Harlem Renaissance', in conversation with novelist and poet Sylvia White.",
+    "start_date": "2025-02-25",
+    "start_time": "6:00 pm",
+    "link": "https://www.nysoclib.org/events/victoria-christopher-murray-harlem-rhapsody-sylvia-white",
+    "address": "New York Society Library (UES)",
+    "cost": "Free"
+  },
+  {
+    "title": "Miller Theater’s Pop-Up Concert Series",
+    "description": "The Columbia University School of the Arts’s musical happy hour returns for a new season of hour-long concerts where the audience is permitted to sit onstage with the performers and enjoy a free drink. Tonight, pianist Wael Farouk performs selections by Bach, Rachmaninoff, Ravel, Scarlatti, and more.",
+    "start_date": "2025-02-25",
+    "start_time": "6:00 pm",
+    "link": "https://www.millertheatre.com/events/wael-farouk-piano",
+    "address": "Columbia University’s Miller Theatre (Morningside Heights)",
+    "cost": "Free"
+  },
+  {
+    "title": "We Love a Theme: A Storytelling Show",
+    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at tonight’s ‘surprise!’ edition of Bailey Swilley’s monthly storytelling show. Featuring Erin Barker, Mike Kelton, Sandi Marx, and Nonye Brown-West.",
+    "start_date": "2025-02-25",
+    "start_time": "7:00 pm",
+    "link": "https://www.petescandystore.com/calendar/",
+    "address": "Pete’s Candy Store (Williamsburg)",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "The Lavender Scare",
+    "description": "Gabe González presents an irreverent LGBTQ+ comedy show featuring stand-up, interactive trivia games about LGBTQ+ history, and a terrible mini-play authored by AI. Tonight’s guest performers: Riylan Mills, Justin Covington, Sureni Weerasekera, and Ethan Fuller.",
+    "start_date": "2025-02-25",
+    "start_time": "8:00 pm",
+    "link": "https://dice.fm/event/53dm2y-the-lavender-scare-25th-feb-cmon-everybody-new-york-tickets",
+    "address": "C’mon Everybody (Bed-Stuy)",
+    "cost": "$12 adv, $15 door"
+  },
+  {
+    "title": "Live Band Karaoke at Arlene’s Grocery",
+    "description": "Choose from a wide assortment of rock and pop songs and sing with your very own live band backing you up at Arlene’s Grocery (LES). Led by Leslie Goshko, and featuring Lucas Shine, Matthew Lindsey, and Alan Camlet.",
+    "start_date": "2025-02-25",
+    "start_time": "8:00 pm",
+    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
+    "address": "Arlene’s Grocery (LES)",
+    "cost": "$10"
+  },
+  {
+    "title": "6th Annual Black Women in Comedy Laff Fest",
+    "description": "Founded by Joanna M. Briley in response to the lack of representation in major comedy festivals, this year’s Black Women in Comedy Laff Fest returns during Black History Month and Women’s History Month with 24 shows over 5 days.",
+    "start_date": "2025-02-25",
+    "end_date": "2025-03-01",
+    "link": "https://www.bwiclafffest.com",
+    "address": "Various locations",
+    "cost": "Various prices (note: some events require a drink minimum)"
   }
 ]

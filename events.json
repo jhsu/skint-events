@@ -1,14 +1,5 @@
 [
   {
-    "title": "33rd Outsider Art Fair",
-    "description": "The premier fair devoted to self-taught art, art brut, and outsider art returns to Metropolitan Pavilion (Chelsea) with more than 60 exhibitors from 40 cities across nine countries.",
-    "start_date": "2025-02-27",
-    "end_date": "2025-03-02",
-    "link": "https://www.outsiderartfair.com/new-york",
-    "address": "Metropolitan Pavilion (Chelsea)",
-    "cost": "$35 general admission Friday-Sunday, $25 senior + student tickets available at the door."
-  },
-  {
     "title": "Two-Day Curated Cocktail Event at Brookfield Place",
     "description": "Elevate your happy hour at The Palm Lounge: A Curated Cocktail Experience, a two-day event taking place under the palm trees of the Winter Garden at Brookfield Place. Enjoy bespoke beverages, light bites, and a vinyl music-listening experience by guest DJs.",
     "start_date": "2025-02-26",
@@ -17,7 +8,87 @@
     "end_time": "8:30 pm",
     "link": "https://bfplny.com/event/the-palm-lounge/",
     "address": "Brookfield Place, 230 Vesey Street, Lower Manhattan",
-    "cost": "Free entry; food and drink available for purchase."
+    "cost": "Free entry; food and drink available for purchase"
+  },
+  {
+    "title": "6th Annual Black Women in Comedy Laff Fest",
+    "description": "Founded by Joanna M. Briley in response to the lack of representation in major comedy festivals, this year’s Black Women in Comedy Laff Fest returns during Black History Month and Women’s History Month with 24 shows over 5 days.",
+    "start_date": "2025-02-26",
+    "link": "https://www.bwiclafffest.com",
+    "address": "Various locations",
+    "cost": "Various prices (some events require a drink minimum)"
+  },
+  {
+    "title": "Black in Fashion: 100 Years of Style, Influence, and Culture",
+    "description": "Tonya Blazio-Licorish, archives editor of 'Women’s Wear Daily' and co-author of 'Black in Fashion', hosts a panel discussion on the book, a celebration of black voices in fashion.",
+    "start_date": "2025-02-26",
+    "start_time": "5:30 pm",
+    "link": "https://museumatfit.my.salesforce-sites.com/ticket/#/events/a0OVT00000CBms82AD",
+    "address": "FIT’s Katie Murphy Amphitheatre (Chelsea)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Letters + Sodas: LIC Reading Series",
+    "description": "Writer Lana Schwartz brings together comedians and writers for a night of standup, humor pieces, fiction, and essay readings.",
+    "start_date": "2025-02-26",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1247288175509",
+    "address": "The Greats of Craft (LIC)",
+    "cost": "$5"
+  },
+  {
+    "title": "Top Shelf Stories",
+    "description": "Julia Whitehouse serves up an evening of carefully crafted storytelling at UCB. Tonight's show features guests Kevin Allison, Adam Wade, David Martin, and Jeff Simmermon.",
+    "start_date": "2025-02-26",
+    "start_time": "7:00 pm",
+    "link": "https://ucbcomedy.com/show/top-shelf-stories-6/",
+    "address": "UCB (East Village)",
+    "cost": "$10 adv, $15 day of"
+  },
+  {
+    "title": "Problem Child Presents: Cult Classics – The Wiz",
+    "description": "Ease on down the road to a drag performer-hosted screening of 'The Wiz', Sydney Lumet’s 1978 retelling of 'The Wizard of Oz'.",
+    "start_date": "2025-02-26",
+    "start_time": "7:00 pm",
+    "link": "https://dice.fm/event/oeodvm-cult-classics-the-wiz-26th-feb-purgatory-new-york-tickets",
+    "address": "Purgatory (Bushwick)",
+    "cost": "$12-20 adv, $15-22 door"
+  },
+  {
+    "title": "Taste of Science: Inflation",
+    "description": "From grocery bills to the cosmos, inflation is everywhere! Feed your brain at a pair of talks on different types of inflation—rising prices and the expansion of the universe.",
+    "start_date": "2025-02-26",
+    "start_time": "7:30 pm",
+    "link": "https://tasteofscience.org/new-york-events/2025/2/26/inflation",
+    "address": "Ryan’s Daughter Pub (UES)",
+    "cost": "Free admission (donations welcome)"
+  },
+  {
+    "title": "Ditmas Lit",
+    "description": "A diverse range of fiction writers, storytellers, poets, and essayists share their work at the Ditmas Lit series.",
+    "start_date": "2025-02-26",
+    "start_time": "8:00 pm",
+    "link": "http://www.ditmaslit.com/upcoming",
+    "address": "Urbane Arts Club (Ditmas Park)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Ambush Comedy Show",
+    "description": "The Ambush Comedy Show takes over Stefano’s Tattoo Studio in Williamsburg for a night of jabs and jokes.",
+    "start_date": "2025-02-26",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/ambush-comedy-stefanos-tattoo-tickets-764291816397",
+    "address": "Stefano’s Tattoo Studio (Williamsburg)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Gaga: Portrait of a Lady + Ponyboy Presents: Slumber Party! at UCB",
+    "description": "Comedian, musician, and drag artist Eliza Kingsbury performs a solo musical sketch comedy show as Lady Gaga, featuring original songs and choreography.",
+    "start_date": "2025-02-26",
+    "start_time": "8:30 pm",
+    "link": "https://ucbcomedy.com/show/gaga-portrait-of-a-lady-ponyboy-presents-slumber-party-2/",
+    "address": "UCB (East Village)",
+    "cost": "$10 adv, $15 day of"
   },
   {
     "title": "BOGO Ice Skate Rentals at Bryant Park",
@@ -37,7 +108,7 @@
     "start_time": "6:00 pm",
     "link": "https://www.nysoclib.org/events/victoria-christopher-murray-harlem-rhapsody-sylvia-white",
     "address": "New York Society Library (UES)",
-    "cost": "Free"
+    "cost": "Free admission"
   },
   {
     "title": "Miller Theater’s Pop-Up Concert Series",
@@ -46,11 +117,11 @@
     "start_time": "6:00 pm",
     "link": "https://www.millertheatre.com/events/wael-farouk-piano",
     "address": "Columbia University’s Miller Theatre (Morningside Heights)",
-    "cost": "Free"
+    "cost": "Free admission"
   },
   {
     "title": "We Love a Theme: A Storytelling Show",
-    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at tonight’s ‘surprise!’ edition of Bailey Swilley’s monthly storytelling show. Featuring Erin Barker, Mike Kelton, Sandi Marx, and Nonye Brown-West.",
+    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at tonight’s ‘surprise!’ edition of Bailey Swilley’s monthly storytelling show.",
     "start_date": "2025-02-25",
     "start_time": "7:00 pm",
     "link": "https://www.petescandystore.com/calendar/",
@@ -68,20 +139,11 @@
   },
   {
     "title": "Live Band Karaoke at Arlene’s Grocery",
-    "description": "Choose from a wide assortment of rock and pop songs and sing with your very own live band backing you up at Arlene’s Grocery (LES). Led by Leslie Goshko, and featuring Lucas Shine, Matthew Lindsey, and Alan Camlet.",
+    "description": "Choose from a wide assortment of rock and pop songs and sing with your very own live band backing you up at Arlene’s Grocery.",
     "start_date": "2025-02-25",
     "start_time": "8:00 pm",
     "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
     "address": "Arlene’s Grocery (LES)",
     "cost": "$10"
-  },
-  {
-    "title": "6th Annual Black Women in Comedy Laff Fest",
-    "description": "Founded by Joanna M. Briley in response to the lack of representation in major comedy festivals, this year’s Black Women in Comedy Laff Fest returns during Black History Month and Women’s History Month with 24 shows over 5 days.",
-    "start_date": "2025-02-25",
-    "end_date": "2025-03-01",
-    "link": "https://www.bwiclafffest.com",
-    "address": "Various locations",
-    "cost": "Various prices (note: some events require a drink minimum)"
   }
 ]

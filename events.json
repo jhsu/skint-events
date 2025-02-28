@@ -1,149 +1,101 @@
 [
   {
-    "title": "Two-Day Curated Cocktail Event at Brookfield Place",
-    "description": "Elevate your happy hour at The Palm Lounge: A Curated Cocktail Experience, a two-day event taking place under the palm trees of the Winter Garden at Brookfield Place. Enjoy bespoke beverages, light bites, and a vinyl music-listening experience by guest DJs.",
-    "start_date": "2025-02-26",
-    "start_time": "4:30 pm",
-    "end_date": "2025-02-27",
-    "end_time": "8:30 pm",
-    "link": "https://bfplny.com/event/the-palm-lounge/",
-    "address": "Brookfield Place, 230 Vesey Street, Lower Manhattan",
-    "cost": "Free entry; food and drink available for purchase"
+    "title": "SKINT WEEKEND",
+    "description": "New film series at Metrograph (LES) featuring various films including 'Take a Walk on the Wild Side' and 'The Body Between Us'.",
+    "start_date": "2025-02-28",
+    "end_date": "2025-03-03",
+    "link": "https://www.theskint.com/fri-mon-2-28-3-3-skint-weekend/",
+    "address": "Metrograph, LES",
+    "cost": ""
+  },
+  {
+    "title": "ADIFF Black History Month Film Series",
+    "description": "The African Diaspora International Film Festival presents three days of screenings at Teachers College, Columbia University, showcasing untold black stories. $13 admission.",
+    "start_date": "2025-02-28",
+    "end_date": "2025-03-02",
+    "link": "https://nyadiff.org",
+    "address": "Teachers College, Columbia University, Morningside Heights",
+    "cost": "$13"
   },
   {
     "title": "6th Annual Black Women in Comedy Laff Fest",
-    "description": "Founded by Joanna M. Briley in response to the lack of representation in major comedy festivals, this year’s Black Women in Comedy Laff Fest returns during Black History Month and Women’s History Month with 24 shows over 5 days.",
-    "start_date": "2025-02-26",
-    "link": "https://www.bwiclafffest.com",
-    "address": "Various locations",
-    "cost": "Various prices (some events require a drink minimum)"
-  },
-  {
-    "title": "Black in Fashion: 100 Years of Style, Influence, and Culture",
-    "description": "Tonya Blazio-Licorish, archives editor of 'Women’s Wear Daily' and co-author of 'Black in Fashion', hosts a panel discussion on the book, a celebration of black voices in fashion.",
-    "start_date": "2025-02-26",
-    "start_time": "5:30 pm",
-    "link": "https://museumatfit.my.salesforce-sites.com/ticket/#/events/a0OVT00000CBms82AD",
-    "address": "FIT’s Katie Murphy Amphitheatre (Chelsea)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Letters + Sodas: LIC Reading Series",
-    "description": "Writer Lana Schwartz brings together comedians and writers for a night of standup, humor pieces, fiction, and essay readings.",
-    "start_date": "2025-02-26",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1247288175509",
-    "address": "The Greats of Craft (LIC)",
-    "cost": "$5"
-  },
-  {
-    "title": "Top Shelf Stories",
-    "description": "Julia Whitehouse serves up an evening of carefully crafted storytelling at UCB. Tonight's show features guests Kevin Allison, Adam Wade, David Martin, and Jeff Simmermon.",
-    "start_date": "2025-02-26",
-    "start_time": "7:00 pm",
-    "link": "https://ucbcomedy.com/show/top-shelf-stories-6/",
-    "address": "UCB (East Village)",
-    "cost": "$10 adv, $15 day of"
-  },
-  {
-    "title": "Problem Child Presents: Cult Classics – The Wiz",
-    "description": "Ease on down the road to a drag performer-hosted screening of 'The Wiz', Sydney Lumet’s 1978 retelling of 'The Wizard of Oz'.",
-    "start_date": "2025-02-26",
-    "start_time": "7:00 pm",
-    "link": "https://dice.fm/event/oeodvm-cult-classics-the-wiz-26th-feb-purgatory-new-york-tickets",
-    "address": "Purgatory (Bushwick)",
-    "cost": "$12-20 adv, $15-22 door"
-  },
-  {
-    "title": "Taste of Science: Inflation",
-    "description": "From grocery bills to the cosmos, inflation is everywhere! Feed your brain at a pair of talks on different types of inflation—rising prices and the expansion of the universe.",
-    "start_date": "2025-02-26",
-    "start_time": "7:30 pm",
-    "link": "https://tasteofscience.org/new-york-events/2025/2/26/inflation",
-    "address": "Ryan’s Daughter Pub (UES)",
-    "cost": "Free admission (donations welcome)"
-  },
-  {
-    "title": "Ditmas Lit",
-    "description": "A diverse range of fiction writers, storytellers, poets, and essayists share their work at the Ditmas Lit series.",
-    "start_date": "2025-02-26",
-    "start_time": "8:00 pm",
-    "link": "http://www.ditmaslit.com/upcoming",
-    "address": "Urbane Arts Club (Ditmas Park)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Ambush Comedy Show",
-    "description": "The Ambush Comedy Show takes over Stefano’s Tattoo Studio in Williamsburg for a night of jabs and jokes.",
-    "start_date": "2025-02-26",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/ambush-comedy-stefanos-tattoo-tickets-764291816397",
-    "address": "Stefano’s Tattoo Studio (Williamsburg)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Gaga: Portrait of a Lady + Ponyboy Presents: Slumber Party! at UCB",
-    "description": "Comedian, musician, and drag artist Eliza Kingsbury performs a solo musical sketch comedy show as Lady Gaga, featuring original songs and choreography.",
-    "start_date": "2025-02-26",
-    "start_time": "8:30 pm",
-    "link": "https://ucbcomedy.com/show/gaga-portrait-of-a-lady-ponyboy-presents-slumber-party-2/",
-    "address": "UCB (East Village)",
-    "cost": "$10 adv, $15 day of"
-  },
-  {
-    "title": "BOGO Ice Skate Rentals at Bryant Park",
-    "description": "Lace up for less during Bryant Park Rink's final week of the season. Score a buy-one-get-one-free skate rental with promo code 'not2late2skate' (prices vary by day/time).",
-    "start_date": "2025-02-25",
-    "start_time": "8:00 am",
+    "description": "A festival featuring 24 shows over 5 days, celebrating black women in comedy. Various locations and prices, some events require a drink minimum.",
+    "start_date": "2025-02-28",
     "end_date": "2025-03-02",
-    "end_time": "10:00 pm",
-    "link": "https://bryantpark.org/calendar/event/ice-skating-rink-at-bryant-park-late-closing/2025-02-21",
-    "address": "Bryant Park",
-    "cost": "Varies by day/time"
+    "link": "https://www.bwiclafffest.com",
+    "address": "",
+    "cost": ""
   },
   {
-    "title": "Victoria Christopher Murray + Sylvia White: Harlem Rhapsody",
-    "description": "Victoria Christopher Murray, co-author of 'The Personal Librarian', discusses her latest novel, 'Harlem Rhapsody: The Extraordinary Story of the Woman Who Ignited the Harlem Renaissance', in conversation with novelist and poet Sylvia White.",
-    "start_date": "2025-02-25",
-    "start_time": "6:00 pm",
-    "link": "https://www.nysoclib.org/events/victoria-christopher-murray-harlem-rhapsody-sylvia-white",
-    "address": "New York Society Library (UES)",
-    "cost": "Free admission"
+    "title": "33rd Outsider Art Fair",
+    "description": "The premier fair devoted to self-taught art, art brut, and outsider art returns to Metropolitan Pavilion (Chelsea) with more than 60 exhibitors from 40 cities across nine countries. $35 general admission, $25 senior + student tickets available at the door.",
+    "start_date": "2025-02-28",
+    "end_date": "2025-03-02",
+    "link": "https://www.outsiderartfair.com/new-york",
+    "address": "Metropolitan Pavilion, Chelsea",
+    "cost": "$35"
   },
   {
-    "title": "Miller Theater’s Pop-Up Concert Series",
-    "description": "The Columbia University School of the Arts’s musical happy hour returns for a new season of hour-long concerts where the audience is permitted to sit onstage with the performers and enjoy a free drink. Tonight, pianist Wael Farouk performs selections by Bach, Rachmaninoff, Ravel, Scarlatti, and more.",
-    "start_date": "2025-02-25",
-    "start_time": "6:00 pm",
-    "link": "https://www.millertheatre.com/events/wael-farouk-piano",
-    "address": "Columbia University’s Miller Theatre (Morningside Heights)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "We Love a Theme: A Storytelling Show",
-    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at tonight’s ‘surprise!’ edition of Bailey Swilley’s monthly storytelling show.",
-    "start_date": "2025-02-25",
+    "title": "Tale Storytelling Show",
+    "description": "An evening of performances by some of the city’s best storytellers, hosted by Harmon Leon. Half price with promo code ‘skintdiscount’ or mention the skint at the door (reg. $15), plus a two-drink minimum.",
+    "start_date": "2025-02-28",
     "start_time": "7:00 pm",
-    "link": "https://www.petescandystore.com/calendar/",
-    "address": "Pete’s Candy Store (Williamsburg)",
-    "cost": "Free ($5 suggested donation)"
+    "link": "https://www.eventbrite.com/e/tale-nycs-finest-comedy-storytelling-tickets-1237913244839",
+    "address": "The Red Room at KGB Bar, East Village",
+    "cost": "$15"
   },
   {
-    "title": "The Lavender Scare",
-    "description": "Gabe González presents an irreverent LGBTQ+ comedy show featuring stand-up, interactive trivia games about LGBTQ+ history, and a terrible mini-play authored by AI. Tonight’s guest performers: Riylan Mills, Justin Covington, Sureni Weerasekera, and Ethan Fuller.",
-    "start_date": "2025-02-25",
-    "start_time": "8:00 pm",
-    "link": "https://dice.fm/event/53dm2y-the-lavender-scare-25th-feb-cmon-everybody-new-york-tickets",
-    "address": "C’mon Everybody (Bed-Stuy)",
-    "cost": "$12 adv, $15 door"
+    "title": "Film on Tap: A Short Film Festival",
+    "description": "Settle in for a night of suds and cinema at Bronx Brewery. Free admission.",
+    "start_date": "2025-02-28",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.ca/e/film-on-tap-a-short-film-festival-tickets-1238297193239",
+    "address": "Bronx Brewery",
+    "cost": "Free"
   },
   {
-    "title": "Live Band Karaoke at Arlene’s Grocery",
-    "description": "Choose from a wide assortment of rock and pop songs and sing with your very own live band backing you up at Arlene’s Grocery.",
-    "start_date": "2025-02-25",
-    "start_time": "8:00 pm",
-    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
-    "address": "Arlene’s Grocery (LES)",
+    "title": "The Parlor Reading Series",
+    "description": "An interdisciplinary, community-based reading series hosts its winter 2025 edition at the Brooklyn Artery. Drinks will be available for purchase. Free (suggested donation $10).",
+    "start_date": "2025-02-28",
+    "start_time": "7:30 pm",
+    "link": "https://www.instagram.com/theparlor_brooklyn/",
+    "address": "Brooklyn Artery, Flatbush/Ditmas Park",
     "cost": "$10"
+  },
+  {
+    "title": "Laugh It Off",
+    "description": "A comedy show where audience members submit their everyday problems and comedians try to ‘fix’ them. $16 admission.",
+    "start_date": "2025-02-28",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/laugh-it-off-stand-up-comedy-in-the-east-village-tickets-1226474039869",
+    "address": "Melrose Podcasts, East Village",
+    "cost": "$16"
+  },
+  {
+    "title": "Sh*tty Mozart + Sh*tty Friends",
+    "description": "A variety show and party with guest comedians and musicians at The Rat NYC. $10 admission.",
+    "start_date": "2025-02-28",
+    "start_time": "8:00 pm",
+    "link": "https://www.theratnyc.com/event-details/shitty-mozart-shitty-friends-shitty-afterparty",
+    "address": "The Rat NYC, Williamsburg",
+    "cost": "$10"
+  },
+  {
+    "title": "Bitches Brew Comedy Show",
+    "description": "A women-produced and-hosted comedy show with stand-up performances. Free admission (a tip jar will be passed around).",
+    "start_date": "2025-02-28",
+    "start_time": "8:30 pm",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Back Room at Halyards, Gowanus",
+    "cost": ""
+  },
+  {
+    "title": "UCBlk: A Variety Show Spotlighting Black Performers",
+    "description": "A night of improv, sketch, stand-up, music, and more featuring a dynamic lineup of black performers. $10 advance, $15 day of.",
+    "start_date": "2025-02-28",
+    "start_time": "10:30 pm",
+    "link": "https://ucbcomedy.com/show/ucblk/",
+    "address": "UCB, East Village",
+    "cost": "$10 adv, $15 day of"
   }
 ]

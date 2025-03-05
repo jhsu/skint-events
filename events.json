@@ -1,246 +1,38 @@
 [
   {
-    "title": "Academy Awards Watch Parties",
-    "description": "Various locations to watch the Oscars with different admission prices and perks.",
-    "start_date": "2025-03-02",
-    "link": "https://www.eventbrite.com/e/the-oscars-watch-party-at-littlefield-tickets-1215559253449",
-    "address": "Various locations",
-    "cost": "$10-25"
+    "title": "Kids Fest – A Magical Celebration of Irish Film & Dance",
+    "description": "A magical afternoon of award-winning Irish short films and live entertainment for the whole family! The festival opens with a dynamic Irish Step Dance performance by the renowned McManus Dance Company, followed by a selection of charming, animated shorts sure to captivate audiences of all ages.",
+    "start_date": "2025-03-09",
+    "start_time": "11:30 am",
+    "link": "https://www.eventbrite.com/e/kids-fest-at-craicfest-a-magical-celebration-of-irish-film-dance-tickets-1200463491619",
+    "address": "undefined",
+    "cost": "undefined"
   },
   {
-    "title": "The 26th St. Pat's for All Parade",
-    "description": "The annual St. Pat's for All Parade returns to Sunnyside, Queens, led by grand marshals Judy Collins and Micky Murray.",
-    "start_date": "2025-03-02",
-    "start_time": "12:00 pm",
-    "link": "https://sunnysidepost.com/queens-st-pats-for-all-parade-set-for-march-2-with-grand-marshals-judy-collins-and-micky-murray",
-    "address": "Sunnyside, Queens",
-    "cost": "Free admission"
+    "title": "Best of Irish Shorts",
+    "description": "Discover the best in Irish filmmaking with an electrifying lineup of short films, headlined by Room Taken, an Oscar-shortlisted drama produced by Colin Farrell and directed by TJ O’Grady Peyton. Also featuring All That’s Carried (Rosie Barrett), I Found a Place (Zoe Gibney), The Big City (Cian O’Connor), and Trouble (Maura McDonnell). This is Irish storytelling at its finest.",
+    "start_date": "2025-03-08",
+    "start_time": "5:00 pm",
+    "link": "https://www.eventbrite.com/e/best-of-shorts-tickets-1200497142269",
+    "address": "undefined",
+    "cost": "undefined"
   },
   {
-    "title": "Gotham Writers Workshop: Memoir Writing",
-    "description": "An introductory workshop led by author Kyleigh Leddy at P+T Knitwear Bookstore (LES).",
-    "start_date": "2025-03-02",
-    "start_time": "2:00 pm",
-    "link": "https://ptknitwear.com/events/44138",
-    "address": "P+T Knitwear Bookstore, LES",
-    "cost": "Free admission"
+    "title": "Closing Night: WORDS ON CANVAS feat. David Keenan",
+    "description": "Experience an intimate portrait of singer-songwriter David Keenan in Words on Canvas, an extraordinary documentary capturing 500 days of his artistic journey. After the screening, Keenan takes the stage for a special live performance at Village East by Angelika – an unmissable finale to the festival. Afterparty at The Factory 380 from 9pm, where complimentary Powers Whiskey will be served! Each ticket includes access to the screening, Q&A and afterparty.",
+    "start_date": "2025-03-08",
+    "start_time": "9:00 pm",
+    "link": "https://www.eventbrite.com/e/closing-night-words-on-canvas-feat-david-keenan-tickets-1147456446119",
+    "address": "The Factory 380",
+    "cost": "undefined"
   },
   {
-    "title": "Bandai Namco Cross Store Opening",
-    "description": "Level up your collection with Pac-Man, Tamagotchi, One Piece card game, and more as Japan's Bandai Namco opens its first U.S. store in Industry City's Japan Village.",
-    "start_date": "2025-03-01",
-    "link": "https://www.instagram.com/bncrossstore_us/",
-    "address": "Industry City, Japan Village",
-    "cost": "Undefined"
-  },
-  {
-    "title": "ADIFF Black History Month Film Series",
-    "description": "The African Diaspora International Film Festival presents three days of screenings at Teachers College, Columbia University (Morningside Heights), showcasing untold black stories.",
-    "start_date": "2025-03-01",
-    "end_date": "2025-03-02",
-    "link": "https://nyadiff.org",
-    "address": "Teachers College, Columbia University, Morningside Heights",
-    "cost": "$13"
-  },
-  {
-    "title": "6th Annual Black Women in Comedy Laff Fest",
-    "description": "This year's Black Women in Comedy Laff Fest returns during Black History Month and Women's History Month with 24 shows over 5 days at various locations.",
-    "start_date": "2025-03-01",
-    "end_date": "2025-03-02",
-    "link": "https://www.bwiclafffest.com",
-    "address": "Various locations",
-    "cost": "Undefined"
-  },
-  {
-    "title": "33rd Outsider Art Fair",
-    "description": "The premier fair devoted to self-taught art, art brut, and outsider art returns to Metropolitan Pavilion (Chelsea) with more than 60 exhibitors from 40 cities across nine countries.",
-    "start_date": "2025-03-01",
-    "end_date": "2025-03-02",
-    "link": "https://www.outsiderartfair.com/new-york",
-    "address": "Metropolitan Pavilion, Chelsea",
-    "cost": "$35 general admission, $25 senior + student tickets at the door"
-  },
-  {
-    "title": "Tale Storytelling Show",
-    "description": "An evening of performances by some of the city’s best storytellers, hosted by Harmon Leon at The Red Room at KGB Bar (East Village).",
-    "start_date": "2025-03-01",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/tale-nycs-finest-comedy-storytelling-tickets-1237913244839",
-    "address": "The Red Room at KGB Bar, East Village",
-    "cost": "$15 (half price with promo code 'skintdiscount')"
-  },
-  {
-    "title": "Film on Tap: A Short Film Festival",
-    "description": "Settle in for a night of suds and cinema at Bronx Brewery.",
-    "start_date": "2025-03-01",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.ca/e/film-on-tap-a-short-film-festival-tickets-1238297193239",
-    "address": "Bronx Brewery",
-    "cost": "Free admission"
-  },
-  {
-    "title": "The Parlor Reading Series",
-    "description": "The Parlor hosts its winter 2025 edition at the Brooklyn Artery (Flatbush/Ditmas Park).",
-    "start_date": "2025-03-01",
-    "start_time": "7:30 pm",
-    "link": "https://www.instagram.com/theparlor_brooklyn/",
-    "address": "Brooklyn Artery, Flatbush/Ditmas Park",
-    "cost": "Free (suggested donation $10)"
-  },
-  {
-    "title": "Laugh It Off",
-    "description": "Bring your problems to the Laugh It Off show, where comedians try to 'fix' them.",
-    "start_date": "2025-03-01",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/laugh-it-off-stand-up-comedy-in-the-east-village-tickets-1226474039869",
-    "address": "Melrose Podcasts, East Village",
-    "cost": "$16"
-  },
-  {
-    "title": "Sh*tty Mozart + Sh*tty Friends",
-    "description": "A variety show and party with guest comedians and musicians at The Rat NYC (Williamsburg).",
-    "start_date": "2025-03-01",
-    "start_time": "8:00 pm",
-    "link": "https://www.theratnyc.com/event-details/shitty-mozart-shitty-friends-shitty-afterparty",
-    "address": "The Rat NYC, Williamsburg",
-    "cost": "$10"
-  },
-  {
-    "title": "Bitches Brew Comedy Show",
-    "description": "A women-produced and-hosted comedy show at Halyards (Gowanus).",
-    "start_date": "2025-03-01",
-    "start_time": "8:30 pm",
-    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "address": "Halyards, Gowanus",
-    "cost": "Free (tip jar will be passed around)"
-  },
-  {
-    "title": "UCBlk: A Variety Show Spotlighting Black Performers",
-    "description": "Join hosts for a night of improv, sketch, stand-up, music and more at UCB (East Village).",
-    "start_date": "2025-03-01",
-    "start_time": "10:30 pm",
-    "link": "https://ucbcomedy.com/show/ucblk/",
-    "address": "UCB, East Village",
-    "cost": "$10 adv, $15 day of"
-  },
-  {
-    "title": "Myrtle Avenue Restaurant Week",
-    "description": "15 restaurants in Fort Greene & Clinton Hill, Brooklyn, offering exclusive 3-course dining deals at price points for every budget.",
-    "start_date": "2025-03-01",
-    "end_date": "2025-03-02",
-    "link": "https://myrtleavenue.org/restaurantweek2025/",
-    "address": "Myrtle Avenue, Brooklyn",
-    "cost": "$25, $35, or $45"
-  },
-  {
-    "title": "Regina Opera: Il Pagliacci",
-    "description": "Brooklyn’s Regina Opera presents a fully-staged performance of Ruggero Leoncavallo’s Il Pagliacci at Our Lady of Perpetual Help Auditorium (Sunset Park).",
-    "start_date": "2025-03-01",
-    "end_date": "2025-03-09",
-    "link": "https://reginaopera.org/pagliacci.htm",
-    "address": "Our Lady of Perpetual Help Auditorium, Sunset Park",
-    "cost": "$25 general, $20 seniors/students"
-  },
-  {
-    "title": "Chase Away the Winter Blues Tour of Brooklyn Botanic Garden",
-    "description": "An hour-long nature walk at Brooklyn Botanic Garden, led by licensed psychotherapist Lynne Spevack.",
-    "start_date": "2025-03-01",
-    "start_time": "11:00 am",
-    "link": "https://www.bbg.org/visit/event/chase_away_the_winter_blues_tour_first_flowers_of_spring",
-    "address": "Brooklyn Botanic Garden",
-    "cost": "Free with garden admission ($22 general, $16 seniors/students, free community tickets)"
-  },
-  {
-    "title": "New York Winter Fungi Fest",
-    "description": "A celebration of all things mushrooms at Farm.One, a hydroponic farm and brewery in Prospect Heights.",
-    "start_date": "2025-03-01",
-    "start_time": "11:00 am",
-    "end_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/new-york-winter-fungi-fest-tickets-1074935905229",
-    "address": "Farm.One, Prospect Heights",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Uptown Record Fair",
-    "description": "Shop jazz, rock, hip-hop, blues, experimental, and more at the second annual Uptown Record Fair, a fundraiser for Recirculation.",
-    "start_date": "2025-03-01",
-    "start_time": "12:00 pm",
-    "end_time": "6:00 pm",
-    "link": "https://www.wordupbooks.com/event/uptown-record-fair-2025",
-    "address": "876 Riverside Drive, Washington Heights",
-    "cost": "$5-10 suggested donation"
-  },
-  {
-    "title": "Comics + Caffeine Fest",
-    "description": "Discover indie comics, zines, and art at the Comics + Caffeine Fest, where you can meet the artists and enjoy coffee, tea, and eats.",
-    "start_date": "2025-03-01",
-    "start_time": "12:00 pm",
-    "end_time": "6:00 pm",
-    "link": "https://www.instagram.com/comicsandcaffeinefest/",
-    "address": "Caffeine Underground, Bushwick",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Tom D’s Big New York Show",
-    "description": "A variety show about New York with comedian Tom Delgado, featuring guests and prizes.",
-    "start_date": "2025-03-01",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/events/tom-ds-big-new-york-show-3-1-2025",
-    "address": "Caveat",
-    "cost": "$5 with promo code 'tomdnyc'"
-  },
-  {
-    "title": "Catch Performance Series",
-    "description": "The Catch Performance Series returns to the Invisible Dog Art Center (Boerum Hill) with various artists.",
-    "start_date": "2025-03-01",
-    "start_time": "8:00 pm",
-    "link": "https://catchseries.org",
-    "address": "Invisible Dog Art Center, Boerum Hill",
-    "cost": "$20 admission (cash only)"
-  },
-  {
-    "title": "Feel the News with Marcela Onyango",
-    "description": "A variety comedy show with guests at Friends and Lovers (Crown Heights).",
-    "start_date": "2025-03-01",
-    "start_time": "7:30 pm",
-    "link": "https://www.fnlbk.com/upcoming/2021/6/11/feel-the-news-w-marcela-onyengo-jw9eb-ppd92",
-    "address": "Friends and Lovers, Crown Heights",
-    "cost": "$10"
-  },
-  {
-    "title": "Paperclip",
-    "description": "A one-man musical about Clippy, Microsoft’s failed virtual assistant, at The Rat NYC (Dumbo).",
-    "start_date": "2025-03-01",
-    "start_time": "7:30 pm",
-    "link": "https://www.theratnyc.com/event-details/paperclip-mar-01",
-    "address": "The Rat NYC, Dumbo",
-    "cost": "$12.30 with promo code 'theskint' (reg. $15.38)"
-  },
-  {
-    "title": "Peoples’ Symphony Concerts Classical Music Series: Juilliard String Quartet",
-    "description": "The 125th season continues with a solo recital featuring works by Bach, Coleridge-Taylor Perkinson, Lang, and Ysaÿe at Washington Irving High School Auditorium (Gramercy).",
-    "start_date": "2025-03-01",
-    "start_time": "7:30 pm",
-    "link": "https://www.pscny.org/augustin",
-    "address": "Washington Irving High School Auditorium, Gramercy",
-    "cost": "$20-25 general, $10 students/essential workers"
-  },
-  {
-    "title": "Party Like It’s 1999: The Destiny of Beyoncé Edition",
-    "description": "A dance party celebrating the anniversary of Destiny’s Child scoring their second number-one hit at The Bell House (Gowanus).",
-    "start_date": "2025-03-01",
-    "start_time": "10:00 pm",
-    "link": "https://www.universe.com/events/party-like-its-1999-the-destiny-of-beyonce-edition-tickets-ZSW961",
-    "address": "The Bell House, Gowanus",
-    "cost": "Free admission"
-  },
-  {
-    "title": "SKINT WEEKEND",
-    "description": "New film series at Metrograph (LES) featuring various films including 'Take a Walk on the Wild Side' and 'The Body Between Us'.",
-    "start_date": "2025-02-28",
-    "end_date": "2025-03-03",
-    "link": "https://www.theskint.com/fri-mon-2-28-3-3-skint-weekend/",
-    "address": "Metrograph, LES",
-    "cost": "Undefined"
+    "title": "Opening Night: MRS ROBINSON",
+    "description": "Kick off the festival with the NYC premiere of Mrs. Robinson, a gripping documentary chronicling Mary Robinson’s trailblazing journey as Ireland’s first female President, UN High Commissioner for Human Rights, and global climate advocate. Witness the story of a leader who reshaped a nation. Afterparty at SOLAS Bar from 9pm, where complimentary Powers Whiskey will be served! Each ticket includes access to the screening, Q&A, and afterparty.",
+    "start_date": "2025-03-06",
+    "start_time": "9:00 pm",
+    "link": "https://www.eventbrite.com/e/craicfest-opening-night-mrs-robinson-screening-qa-afterparty-tickets-1129548693549",
+    "address": "SOLAS Bar",
+    "cost": "undefined"
   }
 ]

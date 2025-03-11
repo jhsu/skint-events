@@ -1,38 +1,149 @@
 [
   {
-    "title": "Kids Fest – A Magical Celebration of Irish Film & Dance",
-    "description": "A magical afternoon of award-winning Irish short films and live entertainment for the whole family! The festival opens with a dynamic Irish Step Dance performance by the renowned McManus Dance Company, followed by a selection of charming, animated shorts sure to captivate audiences of all ages.",
-    "start_date": "2025-03-09",
-    "start_time": "11:30 am",
-    "link": "https://www.eventbrite.com/e/kids-fest-at-craicfest-a-magical-celebration-of-irish-film-dance-tickets-1200463491619",
-    "address": "undefined",
-    "cost": "undefined"
+    "title": "Cosmic Cherry Arts Festival",
+    "description": "An all-inclusive festival celebrating femininity, queerness, and gender expression.",
+    "start_date": "2025-03-13",
+    "end_date": "2025-03-15",
+    "address": "Court Square Theater (LIC)",
+    "cost": "$25 admission includes the show and afterparty (Fri + Sat shows only)"
   },
   {
-    "title": "Best of Irish Shorts",
-    "description": "Discover the best in Irish filmmaking with an electrifying lineup of short films, headlined by Room Taken, an Oscar-shortlisted drama produced by Colin Farrell and directed by TJ O’Grady Peyton. Also featuring All That’s Carried (Rosie Barrett), I Found a Place (Zoe Gibney), The Big City (Cian O’Connor), and Trouble (Maura McDonnell). This is Irish storytelling at its finest.",
-    "start_date": "2025-03-08",
-    "start_time": "5:00 pm",
-    "link": "https://www.eventbrite.com/e/best-of-shorts-tickets-1200497142269",
-    "address": "undefined",
-    "cost": "undefined"
+    "title": "14th First Look Film Festival",
+    "description": "Museum of Moving Image’s annual festival of new and innovative international cinema.",
+    "start_date": "2025-03-12",
+    "end_date": "2025-03-16",
+    "address": "Museum of Moving Image (Astoria)",
+    "cost": "$17.50+"
   },
   {
-    "title": "Closing Night: WORDS ON CANVAS feat. David Keenan",
-    "description": "Experience an intimate portrait of singer-songwriter David Keenan in Words on Canvas, an extraordinary documentary capturing 500 days of his artistic journey. After the screening, Keenan takes the stage for a special live performance at Village East by Angelika – an unmissable finale to the festival. Afterparty at The Factory 380 from 9pm, where complimentary Powers Whiskey will be served! Each ticket includes access to the screening, Q&A and afterparty.",
-    "start_date": "2025-03-08",
-    "start_time": "undefined",
-    "link": "https://www.eventbrite.com/e/closing-night-words-on-canvas-feat-david-keenan-tickets-1147456446119",
-    "address": "Village East by Angelika",
-    "cost": "undefined"
+    "title": "23rd Fusion Film Festival",
+    "description": "NYU's student-run festival dedicated to celebrating women and non-binary artists in film, TV, and new media.",
+    "start_date": "2025-03-12",
+    "end_date": "2025-03-15",
+    "address": "NYU Tisch School of the Arts (Greenwich Village)",
+    "cost": "Free admission (RSVP required)"
   },
   {
-    "title": "Opening Night: MRS ROBINSON",
-    "description": "Kick off the festival with the NYC premiere of Mrs. Robinson, a gripping documentary chronicling Mary Robinson’s trailblazing journey as Ireland’s first female President, UN High Commissioner for Human Rights, and global climate advocate. Witness the story of a leader who reshaped a nation. Afterparty at SOLAS Bar from 9pm, where complimentary Powers Whiskey will be served! Each ticket includes access to the screening, Q&A, and afterparty.",
-    "start_date": "2025-03-06",
-    "start_time": "9:00 pm",
-    "link": "https://www.eventbrite.com/e/craicfest-opening-night-mrs-robinson-screening-qa-afterparty-tickets-1129548693549",
-    "address": "SOLAS Bar",
-    "cost": "undefined"
+    "title": "Girls to the Front: Nineties to Now",
+    "description": "A showcase of trailblazing women directors from the ’90s indie film movement, alongside work from new filmmakers.",
+    "start_date": "2025-03-12",
+    "end_date": "2025-03-20",
+    "address": "Museum of Modern Art (Midtown)",
+    "cost": "$14 general, $12 seniors, $10 students"
+  },
+  {
+    "title": "Ansa Edim: Is This Normal?",
+    "description": "A one-woman storytelling show exploring a black woman’s experience navigating dating disasters and societal expectations.",
+    "start_date": "2025-03-12",
+    "start_time": "6:15 pm",
+    "link": "https://thepit-nyc.com/events/is-this-normal/",
+    "address": "The Pit (Chelsea)",
+    "cost": "$9.99 adv, $15 door"
+  },
+  {
+    "title": "Hush Hour: A Silent Book Club",
+    "description": "An hour of quiet reading followed by optional socializing with fellow book lovers.",
+    "start_date": "2025-03-12",
+    "start_time": "6:30 pm",
+    "link": "https://www.eventbrite.com/e/hush-hour-a-silent-book-club-at-lofty-pigeon-books-tickets-1144422130399",
+    "address": "Lofty Pigeon Books (Kensington)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Collecting + Care: Exploring the BLK MKT Vintage Vault",
+    "description": "Showcase stories behind items from a personal collection of black ephemera during a book launch event.",
+    "start_date": "2025-03-12",
+    "start_time": "6:30 pm",
+    "link": "https://www.bklynlibrary.org/calendar/cbh-talk-collecting-care-center-for-brooklyn-20250312-0630pm",
+    "address": "Center for Brooklyn History (Brooklyn Heights)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Selected Shorts: Dog Tales with Ana Gasteyer",
+    "description": "An evening of fiction dedicated to our beloved companions, featuring performances by stars of stage and screen.",
+    "start_date": "2025-03-12",
+    "start_time": "7:00 pm",
+    "link": "https://www.symphonyspace.org/events/selected-shorts-dog-tales-ana-gasteyer?utm_source=the+skint&utm_medium=email&utm_campaign=skint+shorts+dog+tales&utm_id=skint+shorts+dog+tales",
+    "address": "Symphony Space (UWS)",
+    "cost": "$20 with code ‘wag’"
+  },
+  {
+    "title": "Fantastic Fiction",
+    "description": "The speculative-fiction reading series featuring various authors.",
+    "start_date": "2025-03-12",
+    "start_time": "7:00 pm",
+    "link": "https://www.kgbfantasticfiction.org",
+    "address": "KGB Bar (East Village)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "America, Let Me In: A Choose-Your-Own Immigration Story with Felipe Torres Medina",
+    "description": "A launch/comedy show for a new book exploring immigration to the U.S.",
+    "start_date": "2025-03-12",
+    "start_time": "7:00 pm",
+    "link": "https://www.caveat.nyc/events/america-let-me-in-book-launch-event-with-felipe-torres-medina-3-12-2025",
+    "cost": "$15 adv, $20 door"
+  },
+  {
+    "title": "Eighth Annual One Liner Madness",
+    "description": "A fast-paced, bracket-style, one-liner joke tournament.",
+    "start_date": "2025-03-12",
+    "start_time": "8:00 pm",
+    "link": "https://www.thebellhouseny.com/shows",
+    "address": "The Bell House (Gowanus)",
+    "cost": "$20.30 with unlock code ‘olmnyc’ (reg. $25.65)"
+  },
+  {
+    "title": "My Kinda Night! A Queer Variety Show",
+    "description": "An evening filled with drag, cabaret, comedy, and more.",
+    "start_date": "2025-03-12",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/my-kinda-night-a-queer-variety-show-tickets-1271217729449",
+    "address": "Medusa Brooklyn (East Williamsburg)",
+    "cost": "Free admission (bring $ to tip the performers)"
+  },
+  {
+    "title": "Friends with Caveats",
+    "description": "A new weekly comedy show featuring various performances.",
+    "start_date": "2025-03-12",
+    "start_time": "9:30 pm",
+    "link": "https://caveat.nyc/events/friends-with-caveats-more-than-a-one-night-stand-up-show-3-12-2025",
+    "address": "Caveat (LES)",
+    "cost": "$10 adv, $15 door"
+  },
+  {
+    "title": "12th Socially Relevant Film Festival",
+    "description": "Socially relevant film content and human-interest stories that raise awareness of social problems and offer positive solutions. Various venues including The National Arts Club, Cinema Village, Tenri Cultural Institute, MRHS, and online.",
+    "start_date": "2025-03-11",
+    "end_date": "2025-03-20",
+    "link": "https://www.ratedsrfilms.org",
+    "cost": "Various prices"
+  },
+  {
+    "title": "Central Chamber Series",
+    "description": "An evening concert featuring works by Mendelssohn and Brahms, performed by the Corland String Quartet and others.",
+    "start_date": "2025-03-11",
+    "start_time": "7:30 pm",
+    "link": "https://www.centralchamberseries.com",
+    "address": "Central Presbyterian Church (UES)",
+    "cost": "$20 general, free for students with ID"
+  },
+  {
+    "title": "Pages + Pours: A Book Swap with a Twist",
+    "description": "A book exchange for women, by women, held at Anaïs Wine Bar. Includes a glass of wine.",
+    "start_date": "2025-03-11",
+    "start_time": "8:00 pm",
+    "link": "https://lu.ma/dk2v1fxs",
+    "address": "Anaïs Wine Bar (Boerum Hill)",
+    "cost": "$20 admission includes a glass of wine"
+  },
+  {
+    "title": "Sweet Comedy Show: Sweet Unknown",
+    "description": "Seth Herzog’s long-running comedy show with various guests.",
+    "start_date": "2025-03-11",
+    "start_time": "8:00 pm",
+    "link": "https://www.seetickets.us/sweetmarch",
+    "address": "Chelsea Music Hall",
+    "cost": "Save 50% with promo code ‘march’"
   }
 ]

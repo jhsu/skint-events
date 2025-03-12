@@ -8,6 +8,38 @@
     "cost": "$25 admission includes the show and afterparty (Fri + Sat shows only)"
   },
   {
+    "title": "Brooklyn Poetry Slam",
+    "description": "Slam poets gather for a night of words and community.",
+    "start_date": "2025-03-13",
+    "start_time": "7:00 pm",
+    "address": "Brooklyn Museum’s Rubin Pavilion (Prospect Heights)",
+    "cost": "Pay-what-you-wish admission ($10 suggested)"
+  },
+  {
+    "title": "Pancakes + Booze Art Show",
+    "description": "A pop-up art show with works by local artists, live body painting, music, and all-you-can-eat pancakes.",
+    "start_date": "2025-03-13",
+    "start_time": "7:00 pm",
+    "address": "Brooklyn Monarch (East Williamsburg)",
+    "cost": "$15 adv, $20 day of"
+  },
+  {
+    "title": "Comedy Ugly: A Comedy Strip Show",
+    "description": "Comedians reveal more than just punchlines at this standup show.",
+    "start_date": "2025-03-13",
+    "start_time": "8:30 pm",
+    "address": "Easy Lover (East Williamsburg)",
+    "cost": "$10"
+  },
+  {
+    "title": "Savage! Comedy Show",
+    "description": "Standup comedy show featuring various comedians.",
+    "start_date": "2025-03-13",
+    "start_time": "8:00 pm",
+    "address": "Logan’s Run (Park Slope)",
+    "cost": "Free admission (RSVP for a chance to win a free drink)"
+  },
+  {
     "title": "14th First Look Film Festival",
     "description": "Museum of Moving Image’s annual festival of new and innovative international cinema.",
     "start_date": "2025-03-12",
@@ -17,7 +49,7 @@
   },
   {
     "title": "23rd Fusion Film Festival",
-    "description": "NYU's student-run festival dedicated to celebrating women and non-binary artists in film, TV, and new media.",
+    "description": "NYU’s student-run festival dedicated to celebrating women and non-binary artists in film, TV, and new media.",
     "start_date": "2025-03-12",
     "end_date": "2025-03-15",
     "address": "NYU Tisch School of the Arts (Greenwich Village)",
@@ -36,7 +68,6 @@
     "description": "A one-woman storytelling show exploring a black woman’s experience navigating dating disasters and societal expectations.",
     "start_date": "2025-03-12",
     "start_time": "6:15 pm",
-    "link": "https://thepit-nyc.com/events/is-this-normal/",
     "address": "The Pit (Chelsea)",
     "cost": "$9.99 adv, $15 door"
   },
@@ -45,8 +76,7 @@
     "description": "An hour of quiet reading followed by optional socializing with fellow book lovers.",
     "start_date": "2025-03-12",
     "start_time": "6:30 pm",
-    "link": "https://www.eventbrite.com/e/hush-hour-a-silent-book-club-at-lofty-pigeon-books-tickets-1144422130399",
-    "address": "Lofty Pigeon Books (Kensington)",
+    "address": "Lofty Pigeon Books",
     "cost": "Free admission"
   },
   {
@@ -54,16 +84,14 @@
     "description": "Showcase stories behind items from a personal collection of black ephemera during a book launch event.",
     "start_date": "2025-03-12",
     "start_time": "6:30 pm",
-    "link": "https://www.bklynlibrary.org/calendar/cbh-talk-collecting-care-center-for-brooklyn-20250312-0630pm",
     "address": "Center for Brooklyn History (Brooklyn Heights)",
     "cost": "Free admission"
   },
   {
     "title": "Selected Shorts: Dog Tales with Ana Gasteyer",
-    "description": "An evening of fiction dedicated to our beloved companions, featuring performances by stars of stage and screen.",
+    "description": "An evening of fiction dedicated to dogs, hosted by Ana Gasteyer with performances by various stars.",
     "start_date": "2025-03-12",
     "start_time": "7:00 pm",
-    "link": "https://www.symphonyspace.org/events/selected-shorts-dog-tales-ana-gasteyer?utm_source=the+skint&utm_medium=email&utm_campaign=skint+shorts+dog+tales&utm_id=skint+shorts+dog+tales",
     "address": "Symphony Space (UWS)",
     "cost": "$20 with code ‘wag’"
   },
@@ -72,24 +100,22 @@
     "description": "The speculative-fiction reading series featuring various authors.",
     "start_date": "2025-03-12",
     "start_time": "7:00 pm",
-    "link": "https://www.kgbfantasticfiction.org",
     "address": "KGB Bar (East Village)",
     "cost": "Free admission"
   },
   {
     "title": "America, Let Me In: A Choose-Your-Own Immigration Story with Felipe Torres Medina",
-    "description": "A launch/comedy show for a new book exploring immigration to the U.S.",
+    "description": "A launch/comedy show for Felipe Torres Medina's new book.",
     "start_date": "2025-03-12",
     "start_time": "7:00 pm",
-    "link": "https://www.caveat.nyc/events/america-let-me-in-book-launch-event-with-felipe-torres-medina-3-12-2025",
+    "address": "Caveat (LES)",
     "cost": "$15 adv, $20 door"
   },
   {
     "title": "Eighth Annual One Liner Madness",
-    "description": "A fast-paced, bracket-style, one-liner joke tournament.",
+    "description": "A fast-paced, bracket-style one-liner joke tournament.",
     "start_date": "2025-03-12",
     "start_time": "8:00 pm",
-    "link": "https://www.thebellhouseny.com/shows",
     "address": "The Bell House (Gowanus)",
     "cost": "$20.30 with unlock code ‘olmnyc’ (reg. $25.65)"
   },
@@ -98,7 +124,6 @@
     "description": "An evening filled with drag, cabaret, comedy, and more.",
     "start_date": "2025-03-12",
     "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/my-kinda-night-a-queer-variety-show-tickets-1271217729449",
     "address": "Medusa Brooklyn (East Williamsburg)",
     "cost": "Free admission (bring $ to tip the performers)"
   },
@@ -107,7 +132,6 @@
     "description": "A new weekly comedy show featuring various performances.",
     "start_date": "2025-03-12",
     "start_time": "9:30 pm",
-    "link": "https://caveat.nyc/events/friends-with-caveats-more-than-a-one-night-stand-up-show-3-12-2025",
     "address": "Caveat (LES)",
     "cost": "$10 adv, $15 door"
   },
@@ -124,7 +148,6 @@
     "description": "An evening concert featuring works by Mendelssohn and Brahms, performed by the Corland String Quartet and others.",
     "start_date": "2025-03-11",
     "start_time": "7:30 pm",
-    "link": "https://www.centralchamberseries.com",
     "address": "Central Presbyterian Church (UES)",
     "cost": "$20 general, free for students with ID"
   },
@@ -133,7 +156,6 @@
     "description": "A book exchange for women, by women, held at Anaïs Wine Bar. Includes a glass of wine.",
     "start_date": "2025-03-11",
     "start_time": "8:00 pm",
-    "link": "https://lu.ma/dk2v1fxs",
     "address": "Anaïs Wine Bar (Boerum Hill)",
     "cost": "$20 admission includes a glass of wine"
   },
@@ -142,7 +164,6 @@
     "description": "Seth Herzog’s long-running comedy show with various guests.",
     "start_date": "2025-03-11",
     "start_time": "8:00 pm",
-    "link": "https://www.seetickets.us/sweetmarch",
     "address": "Chelsea Music Hall",
     "cost": "Save 50% with promo code ‘march’"
   }

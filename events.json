@@ -1,103 +1,13 @@
 [
   {
-    "title": "264th nyc st. patrick’s day parade",
-    "description": "Fifth Avenue, from 44th to 79th Street.",
-    "start_date": "2025-03-17",
-    "start_time": "11:00 am",
-    "link": "https://www.centralpark.com/events/st-patricks-day-parade/",
-    "address": "Fifth Avenue, from 44th to 79th Street",
-    "cost": "$22 general, $16 seniors/students, free community tickets may also be available"
-  },
-  {
-    "title": "saint patrick’s day af sober(curious) celebration",
-    "description": "At Hekate Café + Elixir Lounge (Alphabet City/East Village). Free admission.",
-    "start_date": "2025-03-17",
-    "start_time": "6:00 pm",
-    "link": "https://lu.ma/ylk4ky6s",
-    "address": "Hekate Café + Elixir Lounge, Alphabet City/East Village",
-    "cost": "Free"
-  },
-  {
-    "title": "what’s the craic? a st. patrick’s day comedy show",
-    "description": "At Union Hall (Park Slope).",
-    "start_date": "2025-03-17",
-    "start_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/whats-the-craic-a-st-patricks-day-comedy-show-tickets-1273003601039",
-    "address": "Union Hall, Park Slope",
-    "cost": "$10 adv, $15 door"
-  },
-  {
-    "title": "50th annual brooklyn st. patrick’s day parade",
-    "description": "Starts at Bartel-Pritchard Square (Park Slope).",
-    "start_date": "2025-03-16",
-    "start_time": "1:00 pm",
-    "link": "https://www.brooklynpaper.com/brooklyn-st-patricks-day-parade-park-slope-50-years/",
-    "address": "Bartel-Pritchard Square, Park Slope",
-    "cost": "Undefined"
-  },
-  {
-    "title": "free krispy kreme",
-    "description": "Wear green at participating Krispy Kreme locations, score a free green O’riginal doughnut.",
+    "title": "NATHAN LANE AT SYMPHONY SPACE",
+    "description": "Three time Tony Award–winning actor Nathan Lane (The Producers) sits down with Josh Horowitz (MTV, Comedy Central) for a special LIVE edition of the Happy Sad Confused podcast! Lane discusses his illustrious career and new starring role on the soon-to-be-streaming Hulu series Mid-Century Modern. Skint readers can get an $18 ticket using code: Lane",
     "start_date": "2025-03-15",
-    "start_time": "Undefined",
-    "link": "https://investors.krispykreme.com/news/news-releases/news-details/2025/KRISPY-KREME-Helps-Fans-Share-the-Taste-OLuck-with-Four-New-Festive-St.-Patricks-Day-Doughnuts-and-Chance-to-Win-Free-Doughnuts-for-a-Year/default.aspx",
-    "address": "Participating Krispy Kreme locations",
-    "cost": "Free"
-  },
-  {
-    "title": "jalopy’s eighth annual late-winter jug + string band rendezvous",
-    "description": "Get ready for a foot-stompin’ two-day deep dive into the sounds of early 20th-century North American jug and string band music. Eight bands will take the stage for two nights of concerts, plus festival also features an afternoon workshop and an open jam session. Jalopy Theatre (Carroll Gardens/Columbia Street Waterfront).",
-    "start_date": "2025-03-14",
-    "start_time": "7:00 pm",
-    "end_date": "2025-03-15",
-    "end_time": "4:00 pm",
-    "link": "https://jalopytheatre.netlify.app/performances",
-    "address": "Jalopy Theatre, Carroll Gardens/Columbia Street Waterfront",
-    "cost": "$25"
-  },
-  {
-    "title": "quacks + whacks: a cancer comedy fundraiser",
-    "description": "Join in an evening of laughs and love at a fundraiser for Quacks + Whacks, an upcoming fringe festival production by mother-daughter duo Amanda and Terry Miller that blends humor, puppetry, music, and more to spotlight the chaos of living with cancer in America. Proceeds from tonight's show will support both the production and Red Door Community (formerly Gilda’s Club). Starr Bar (Bushwick).",
-    "start_date": "2025-03-14",
-    "start_time": "6:00 pm",
-    "link": "https://www.eventbrite.com/e/quacks-whacks-a-cancer-comedy-fundraiser-registration-1250027027489",
-    "address": "Starr Bar, Bushwick",
-    "cost": "$15 adv, $20 door"
-  },
-  {
-    "title": "vocabaret: ‘unbelievable!’",
-    "description": "Wordplay takes center stage at Vocabaret, a monthly variety show for language lovers. Five of NYC's wittiest wordsmiths serve up slideshows, games, and other entertainment—all inspired by a new theme each month. Tonight’s edition features guest Gabe Henry, author of Enough is Enuf: Our Failed Attempts to Make English Easier to Spell. Hosted by Sam Corbin, Tim Donnelly, Jerzy Gwiazdowski, Ally Spier, and Nikolai Vanyo. Caveat (LES).",
-    "start_date": "2025-03-14",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/events/vocabaret-3-14-2025",
-    "address": "Caveat, LES",
-    "cost": "$15 with promo code ‘caveatorb’ (reg $20 adv, $25 door)"
-  },
-  {
-    "title": "pi day science comedy showcase",
-    "description": "Scientists turned stand-up comedians come together for a night of nerdy jokes on one of the mathiest dates of the year. Featuring Kasha Patel (NASA, TEDx), Kyle Marian (NPR), and Ben Miller (former artist-in-residence at Hawai’i Volcanoes National Park). Grove 34 (Astoria).",
-    "start_date": "2025-03-14",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/pi-day-science-comedy-showcase-live-in-nyc-tickets-1143230606519",
-    "address": "Grove 34, Astoria",
-    "cost": "Use code ‘pi’ for 31.4% off tickets"
-  },
-  {
-    "title": "boyz in the woods comedy",
-    "description": "Kenice Mobley, Tawanda Gona, Josh Stokes, and Kofi Thomas host this standup-meets-trivia show, where audience members can win free drinks by answering pop culture and hip-hop trivia questions between sets. Featuring Hoodo Hersi (Seth Meyers), Drexton Clemons (Sports Talk Game Breakers), Napoleon Emil (Don’t Tell Comedy), and Tocarrah Elise (Jon Stewart). Friends and Lovers (Crown Heights).",
-    "start_date": "2025-03-14",
-    "start_time": "8:00 pm",
-    "link": "https://www.fnlbk.com/upcoming/2021/6/3/boys-in-the-woodz-m4szt-ralr7",
-    "address": "Friends and Lovers, Crown Heights",
-    "cost": "$12 adv, $15 door"
-  },
-  {
-    "title": "bitches brew comedy show",
-    "description": "This women-produced and-hosted comedy show conjures up big laughs in the back room of Halyards (Gowanus). Tonight’s performers include Karolena Theresa (Hoes with Feelings), Pedro Salinas (HBO), Logan Guntzelman (Comedy Central), Eeland Stribling (Comedians on the Fly), Juliana Rodrigues (CBC), and Adam Gilbert. Free admission (a tip jar will be passed around at the end of the show).",
-    "start_date": "2025-03-14",
-    "start_time": "8:30 pm",
-    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "address": "Halyards, Gowanus",
-    "cost": "Free"
+    "start_time": "undefined",
+    "end_date": "undefined",
+    "end_time": "undefined",
+    "link": "https://www.theskint.com/nathan-lane-at-symphony-space-special-offer-sponsored/",
+    "address": "Symphony Space",
+    "cost": "$18"
   }
 ]

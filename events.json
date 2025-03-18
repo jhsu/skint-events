@@ -1,13 +1,47 @@
 [
   {
-    "title": "NATHAN LANE AT SYMPHONY SPACE – SPECIAL OFFER (SPONSORED)",
-    "description": "Three time Tony Award–winning actor Nathan Lane (The Producers) sits down with Josh Horowitz (MTV, Comedy Central) for a special LIVE edition of the Happy Sad Confused podcast! Lane discusses his illustrious career and new starring role on the soon-to-be-streaming Hulu series Mid-Century Modern. Skint readers can get an $18 ticket using code: Lane",
-    "start_date": "2025-03-17",
-    "start_time": "undefined",
-    "end_date": "undefined",
-    "end_time": "undefined",
-    "link": "https://www.theskint.com/nathan-lane-at-symphony-space-special-offer-sponsored/",
-    "address": "Symphony Space",
-    "cost": "$18"
+    "title": "The Broad Squad",
+    "description": "Kendra Cunningham presents a throwback variety show filled with stand up, storytelling, music, and trivia. Tonight: Mel Ferraro, George Gordon, Luz Michelle, and Meghan O’Malley. Young Ethel’s (Park Slope), free ($5 suggested donation).",
+    "start_date": "2025-03-18",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/the-broad-squad-tickets-1277219520969",
+    "address": "Young Ethel’s, Park Slope",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "Brooklyn Books + Booze",
+    "description": "Hear established and up-and-coming authors of different genres read from their current works every third Tuesday of the month at Barrow's Intense Tasting Room (Industry City). Tonight's lineup features authors from The Chaos Clock: Tales of Cosmic Aether anthology, including Marc Abbott, Teel James Glenn, Carol Gyzander, Danielle Ackley-McPhail, James Chambers, Frank Michaels, and Hildy Silverman. Hosted by Randee Dawn. Free admission.",
+    "start_date": "2025-03-18",
+    "start_time": "7:00 pm",
+    "link": "https://randeedawn.com/bonus/brooklyn-books-booze/",
+    "address": "Barrow's Intense Tasting Room, Industry City",
+    "cost": "Free"
+  },
+  {
+    "title": "Astronomy on Tap #151",
+    "description": "A night where astronomy enthusiasts gather at a bar for talks by professional scientists and educators, plus themed games, and other cosmic fun. Tonight’s edition highlights the ways that diversity and inclusion helps the STEM fields with speakers Zach Richards and Dr. Lucia A. Perez. Pete’s Candy Store (Williamsburg), free admission.",
+    "start_date": "2025-03-18",
+    "start_time": "7:00 pm",
+    "link": "https://astronomyontap.org/event/astronomy-on-tap-nyc-151-celebrating-diversity-in-stem/",
+    "address": "Pete’s Candy Store, Williamsburg",
+    "cost": "Free"
+  },
+  {
+    "title": "Animation Nights New York",
+    "description": "Watch a curated program of animated short films from around the world at this monthly screening event. The Gutter Spare Room (Williamsburg), pay-what-you-wish admission.",
+    "start_date": "2025-03-18",
+    "start_time": "8:00 pm",
+    "link": "https://www.animationnights.com/upcoming-screening-events/",
+    "address": "The Gutter Spare Room, Williamsburg",
+    "cost": "Pay-what-you-wish"
+  },
+  {
+    "title": "Psychic Reading Comedy Show",
+    "description": "Psychic and comedian Katie Blunt blends stand-up and the supernatural for a night of laughs and revelations. A female-forward lineup of comedians take the stage, with audience volunteers receiving live psychic readings between sets. Tonight's performers include Naomi Karavani, Tessa Fleming, and Alejandra Jimenez, Menuhin Hart, and Chase Durousseau. Whiskey Cellar NYC (East Village), $10 admission (+ one-drink suggested).",
+    "start_date": "2025-03-18",
+    "start_time": "9:00 pm",
+    "link": "https://partiful.com/e/kmkSYEP0mjBUmrSFYBEb",
+    "address": "Whiskey Cellar NYC, East Village",
+    "cost": "$10 admission (+ one-drink suggested)"
   }
 ]

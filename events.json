@@ -1,110 +1,20 @@
 [
   {
-    "title": "2025 Science + Literature Ceremony",
-    "description": "The National Book Foundation, Alfred P. Sloan Foundation, and the Cooper Union celebrate the three 2025 science + literature selected titles in fiction, nonfiction, and poetry with a night of readings and conversation.",
-    "start_date": "2025-03-19",
-    "start_time": "6:30 pm",
-    "link": "https://cooper.edu/events-and-exhibitions/events/2025-science-literature-ceremony",
-    "address": "Cooper Union’s Frederick P. Rose Auditorium (East Village)",
-    "cost": "Free (RSVP required)"
+    "title": "The Majesty of Magnificat",
+    "description": "Under the baton of the legendary Anton Armstrong, this evening features Taylor Scott Davis’ breathtaking Magnificat, a radiant and uplifting work that captures the essence of faith and musical artistry. The program also includes Nubia Jaime-Donjuan’s Tundra and Robert Sheldon’s energetic Metroplex: Three Postcards from Manhattan, performed by an exceptional ensemble of musicians.",
+    "start_date": "2025-04-07",
+    "start_time": "8:00 PM",
+    "link": "https://www.carnegiehall.org/Calendar/2025/04/07/Manhattan-Concert-Productions-Series-0800PM",
+    "address": "Carnegie Hall, 57th Street and Seventh Avenue, New York, NY",
+    "cost": "$9"
   },
   {
-    "title": "On America: Fear as a Political Weapon",
-    "description": "Clay Risen launches his latest book in a conversation with political analyst and author Molly Jong-Fast at Center for Fiction, revealing a familiar pattern of conspiracy and fear-mongering that resonates today.",
-    "start_date": "2025-03-19",
-    "start_time": "7:00 pm",
-    "link": "https://centerforfiction.org/event/on-america-fear-as-a-political-weapon/",
-    "address": "Center for Fiction (Fort Greene)",
-    "cost": "$10 admission"
-  },
-  {
-    "title": "Adam Wade: Live in New York",
-    "description": "20-time Moth story slam winner Adam Wade returns to Under St. Marks Theater with a storytelling show featuring three to four different stories from his extensive catalog.",
-    "start_date": "2025-03-19",
-    "start_time": "7:00 pm",
-    "link": "https://tickets.frigid.nyc/event/6897:476/",
-    "address": "Under St. Marks Theater (East Village)",
-    "cost": "Sliding scale admission"
-  },
-  {
-    "title": "I'll Have the Bisque! A Benefit Comedy Show for Abortion Access",
-    "description": "Join improv troupe The Bisque and guests for a comedy show to raise money for abortion access. Ticket proceeds will support the Brigid Alliance, a nonprofit that provides logistical support to people who must travel long distances for abortion care.",
-    "start_date": "2025-03-19",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/events/ill-have-the-bisque-3-19-2025",
-    "address": "Caveat (LES)",
-    "cost": "$18 adv, $20 door"
-  },
-  {
-    "title": "We Have Fun: A Stand-Up Show",
-    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s with stand-up by Alison Leiby, Lance Weiss, Orli Matlow, and Christian Conti.",
-    "start_date": "2025-03-19",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
-    "address": "Young Ethel’s (Park Slope)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Friends with Caveats",
-    "description": "Expect everything from stand-up and character performances to music and even PowerPoint presentations at Caveat's new weekly comedy show.",
-    "start_date": "2025-03-19",
-    "start_time": "9:30 pm",
-    "link": "https://caveat.nyc/events/friends-with-caveats-more-than-a-one-night-stand-up-show-3-19-2025",
-    "address": "Caveat (LES)",
-    "cost": "$10 adv, $15 door"
-  },
-  {
-    "title": "Hari Kondabolu: New Material Night",
-    "description": "Comedian and writer Hari Kondabolu works out an hour of new standup at Union Hall.",
-    "start_date": "2025-03-19",
-    "start_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/hari-kondabolu-new-material-night-tickets-1252402653049",
-    "address": "Union Hall (Park Slope)",
-    "cost": "$10 adv, $15 door"
-  },
-  {
-    "title": "The Broad Squad",
-    "description": "Kendra Cunningham presents a throwback variety show filled with stand up, storytelling, music, and trivia. Tonight: Mel Ferraro, George Gordon, Luz Michelle, and Meghan O’Malley.",
-    "start_date": "2025-03-18",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/the-broad-squad-tickets-1277219520969",
-    "address": "Young Ethel’s (Park Slope)",
-    "cost": "Free ($5 suggested donation)"
-  },
-  {
-    "title": "Brooklyn Books + Booze",
-    "description": "Hear established and up-and-coming authors of different genres read from their current works every third Tuesday of the month at Barrow's Intense Tasting Room. Tonight's lineup features authors from 'The Chaos Clock: Tales of Cosmic Aether' anthology.",
-    "start_date": "2025-03-18",
-    "start_time": "7:00 pm",
-    "link": "https://randeedawn.com/bonus/brooklyn-books-booze/",
-    "address": "Barrow's Intense Tasting Room (Industry City)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Astronomy on Tap #151",
-    "description": "A night where astronomy enthusiasts gather at a bar for talks by professional scientists and educators, plus themed games, and other cosmic fun. Tonight’s edition highlights the ways that diversity and inclusion helps the STEM fields.",
-    "start_date": "2025-03-18",
-    "start_time": "7:00 pm",
-    "link": "https://astronomyontap.org/event/astronomy-on-tap-nyc-151-celebrating-diversity-in-stem/",
-    "address": "Pete’s Candy Store (Williamsburg)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Animation Nights New York",
-    "description": "Watch a curated program of animated short films from around the world at this monthly screening event.",
-    "start_date": "2025-03-18",
-    "start_time": "8:00 pm",
-    "link": "https://www.animationnights.com/upcoming-screening-events/",
-    "address": "The Gutter Spare Room (Williamsburg)",
-    "cost": "Pay-what-you-wish admission"
-  },
-  {
-    "title": "Psychic Reading Comedy Show",
-    "description": "Psychic and comedian Katie Blunt blends stand-up and the supernatural for a night of laughs and revelations. A female-forward lineup of comedians take the stage, with audience volunteers receiving live psychic readings between sets.",
-    "start_date": "2025-03-18",
-    "start_time": "9:00 pm",
-    "link": "https://partiful.com/e/kmkSYEP0mjBUmrSFYBEb",
-    "address": "Whiskey Cellar NYC (East Village)",
-    "cost": "$10 admission (+ one-drink suggested)"
+    "title": "A Tapestry of Sound and Spirit",
+    "description": "This electrifying program spans centuries and genres, weaving together classical masterworks, gospel traditions, and symphonic brilliance. Featuring Vivaldi’s Gloria and Robert Ray’s Gospel Mass, alongside powerful selections performed by the Florida Gulf Coast University Wind Orchestra and the Octavo Series Chorus, this evening will uplift and inspire.",
+    "start_date": "2025-03-24",
+    "start_time": "8:00 PM",
+    "link": "https://www.carnegiehall.org/Calendar/2025/03/24/Manhattan-Concert-Productions-Series-0800PM",
+    "address": "Carnegie Hall, 57th Street and Seventh Avenue, New York, NY",
+    "cost": "$9"
   }
 ]

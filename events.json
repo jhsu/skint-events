@@ -1,20 +1,110 @@
 [
   {
-    "title": "The Majesty of Magnificat",
-    "description": "Under the baton of the legendary Anton Armstrong, this evening features Taylor Scott Davis’ breathtaking Magnificat, a radiant and uplifting work that captures the essence of faith and musical artistry. The program also includes Nubia Jaime-Donjuan’s Tundra and Robert Sheldon’s energetic Metroplex: Three Postcards from Manhattan, performed by an exceptional ensemble of musicians.",
-    "start_date": "2025-04-07",
-    "start_time": "8:00 PM",
-    "link": "https://www.carnegiehall.org/Calendar/2025/04/07/Manhattan-Concert-Productions-Series-0800PM",
-    "address": "Carnegie Hall, 57th Street and Seventh Avenue, New York, NY",
-    "cost": "$9"
+    "title": "Manhattan Concert Productions at Carnegie Hall",
+    "description": "This electrifying program spans centuries and genres, weaving together classical masterworks, gospel traditions, and symphonic brilliance. Featuring Vivaldi’s Gloria and Robert Ray’s Gospel Mass, alongside powerful selections performed by the Florida Gulf Coast University Wind Orchestra and the Octavo Series Chorus.",
+    "start_date": "2025-03-24",
+    "start_time": "8:00 pm",
+    "link": "https://www.carnegiehall.org/Calendar/2025/03/24/Manhattan-Concert-Productions-Series-0800PM",
+    "address": "Carnegie Hall",
+    "cost": "$13 (up to a $110 value)"
   },
   {
-    "title": "A Tapestry of Sound and Spirit",
-    "description": "This electrifying program spans centuries and genres, weaving together classical masterworks, gospel traditions, and symphonic brilliance. Featuring Vivaldi’s Gloria and Robert Ray’s Gospel Mass, alongside powerful selections performed by the Florida Gulf Coast University Wind Orchestra and the Octavo Series Chorus, this evening will uplift and inspire.",
-    "start_date": "2025-03-24",
-    "start_time": "8:00 PM",
-    "link": "https://www.carnegiehall.org/Calendar/2025/03/24/Manhattan-Concert-Productions-Series-0800PM",
-    "address": "Carnegie Hall, 57th Street and Seventh Avenue, New York, NY",
-    "cost": "$9"
+    "title": "Salon du Chocolat",
+    "description": "Get your chocolate fix at this three-day celebration of all things cocoa, featuring 70+ exhibitors from 16 countries. Mingle with chocolatiers, pastry chefs, and artisans, while indulging in tastings, watching chef demos, and checking out chocolate sculptures and fashions. You can also shop to your sweet tooth’s content.",
+    "start_date": "2025-03-21",
+    "end_date": "2025-03-24",
+    "link": "https://www.salonduchocolatny.com",
+    "address": "Jacob K. Javits Convention (Hell’s Kitchen)",
+    "cost": "$24.60-30.19 general, $15.64-20.11 children ages 6-12"
+  },
+  {
+    "title": "American Songbook: Singer Outsiders",
+    "description": "Lincoln Center's latest American Songbook season highlights women and nonbinary musicians who have shaped the modern landscape of music and performance, driving conversations on gender, identity, and empowerment. This weekend: Shaina Taub, Joan as Police Woman, and Meshell Ndegeocello.",
+    "start_date": "2025-03-21",
+    "end_date": "2025-03-24",
+    "link": "https://www.lincolncenter.org/series/american-songbook",
+    "address": "The Appel Room, Jazz at Lincoln Center (Midtown West)",
+    "cost": "Choose-what-you-pay admission"
+  },
+  {
+    "title": "The City Reading Series",
+    "description": "Emerging writers from the MFA and MA programs at the City College of New York welcome spring with an evening of poetry and prose.",
+    "start_date": "2025-03-21",
+    "start_time": "6:30 pm",
+    "link": "https://ptknitwear.com/events/45337",
+    "address": "P+T Knitwear Bookstore (LES)",
+    "cost": "$5 admission can be applied towards any book or item in the café"
+  },
+  {
+    "title": "Kweendom",
+    "description": "Come out for the Kweendom LGBTQ+ comedy and storytelling show, featuring performances by Calvin Cato, Flora Manon, Kendall Allison, Yaitza Rivera, and Ethan Filler.",
+    "start_date": "2025-03-21",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/kweendom-lgbtq-comedy-tickets-1284811990249",
+    "address": "Pete’s Candy Store (Williamsburg)",
+    "cost": "Free admission (donations are welcome and will benefit the Here to Pee tour)"
+  },
+  {
+    "title": "Mothership NYC Artist Salon",
+    "description": "Mothership NYC, an international, interdisciplinary artists’ collective and residency platform in Greenpoint, presents an evening of physical theater, performance art, sculpture, music, and ‘singing mushrooms.’",
+    "start_date": "2025-03-21",
+    "start_time": "7:00 pm",
+    "link": "https://mailchi.mp/0eb0a8b2d204/march-salon-2025",
+    "address": "Last Frontier NYC (Greenpoint)",
+    "cost": "Free admission (tips are appreciated)"
+  },
+  {
+    "title": "Clay's Feast TV Premiere and Live Comedy Show",
+    "description": "Comedian and writer Clay Horowitz serves up a sneak peek of Clay's Feast, his upcoming web series where he and fellow comics discover the city’s best hidden food spots. Plus, a lineup of comedians from the show will take the stage with stand-up sets during the premiere.",
+    "start_date": "2025-03-21",
+    "start_time": "7:30 pm",
+    "link": "https://qedastoria.com/products/clays-feast-premiere",
+    "address": "Q.E.D. (Astoria)",
+    "cost": "$11"
+  },
+  {
+    "title": "Best Night Ever Comedy Show",
+    "description": "Audrey Black and Akshay Sampath (Cracked) host a night of stand-up at El Santo Taqueria. Tonight: Usama Siddiquee (Comedy Central), Kenice Mobley (Don’t Tell Comedy), Ali Sultan (Colbert), Michael Abber, Jenna Sheriton, and Micah Eames.",
+    "start_date": "2025-03-21",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/best-night-ever-comedy-show-tickets-1276616316769",
+    "address": "El Santo Taqueria (East Williamsburg / Bushwick)",
+    "cost": "$12 adv, $16 day of"
+  },
+  {
+    "title": "Bitches Brew Comedy Show",
+    "description": "This women-produced and-hosted comedy show conjures up big laughs in the back room of Halyards. Tonight's performers include Dan Perlman, Maddy Kelly, Laura Sogar, Shatha Yas, Arjun Banerjee, and Yoshee So.",
+    "start_date": "2025-03-21",
+    "start_time": "8:30 pm",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Halyards (Gowanus)",
+    "cost": "Free admission (a tip jar will be passed around at the end of the show)"
+  },
+  {
+    "title": "Group Chat Approved: A Live Dating Show",
+    "description": "Watch as three contestants compete in a series of flirty games to win a date with an eligible single. The twist? Their friends have the final say on who gets the match.",
+    "start_date": "2025-03-21",
+    "start_time": "9:00 pm",
+    "link": "https://partiful.com/e/UkdxnuEvcgSBnPM5mJqG",
+    "address": "The Back Room at Radegast Hall + Biergarten (Williamsburg)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "You Are Not Alone: An Uplifting Show About Depression",
+    "description": "Improvisers and artists that battle depression and mental illness in their day-to-day lives create scenes inspired by personal experiences, showing how laughter can be the best medicine.",
+    "start_date": "2025-03-21",
+    "start_time": "10:30 pm",
+    "link": "https://magnettheater.com/show/58294",
+    "address": "Magnet Theater (Chelsea)",
+    "cost": "$10"
+  },
+  {
+    "title": "Catherine: A Drag Show",
+    "description": "Evangeline and Mauve take drag to wuthering heights in this Kate Bush-themed show.",
+    "start_date": "2025-03-21",
+    "start_time": "11:00 pm",
+    "link": "https://dice.fm/event/avl87q-catherine-a-drag-show-21st-mar-purgatory-new-york-tickets",
+    "address": "Purgatory (Bushwick)",
+    "cost": "$19.27"
   }
 ]

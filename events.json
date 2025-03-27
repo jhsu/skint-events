@@ -1,79 +1,13 @@
 [
   {
-    "title": "Night of Ideas",
-    "description": "Villa Albertine, the French Institute for Culture and Education, kicks off Night of Ideas in New York City. This annual event — an engaging marathon of debates, performances, readings, and more — brings together influential thinkers, civil society leaders, artists, decision makers, and the public for late-night discussions on pivotal global issues centered this year’s theme, ‘Common Ground.’",
-    "start_date": "2025-03-27",
-    "start_time": "7:00 pm",
-    "end_date": "undefined",
-    "end_time": "undefined",
-    "link": "https://nightofideas.org",
-    "address": "Villa Albertine (UES)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "The Friend Opening with Naomi Watts, Scott McGhee, and David Siegel",
-    "description": "Angelika New York (Soho) hosts a series of opening week screenings of The Friend, starring Naomi Watts and Bill Murray, followed by Q+A with Watts, writers-directors Scott McGhee + David Siegel, and Bing the Great Dane following select showings.",
-    "start_date": "2025-03-25",
-    "start_time": "undefined",
-    "end_date": "2025-03-29",
-    "end_time": "undefined",
-    "link": "https://angelikafilmcenter.com/nyc/movies/details/the-friend",
-    "address": "Angelika New York (Soho)",
-    "cost": "$19 general, $17.50 seniors"
-  },
-  {
-    "title": "Miller Theater’s Pop-Up Concert Series",
-    "description": "The Columbia University School of the Arts’s musical happy hour returns for a new season of hour-long concerts where the audience is permitted to sit onstage with the performers and enjoy a free drink. Tonight, bassoonist, conductor, and member of the International Contemporary Ensemble Rebekah Heller performs a program of new music for bassoon choir by composers from the African diaspora.",
-    "start_date": "2025-03-25",
-    "start_time": "6:00 pm",
-    "end_date": "undefined",
-    "end_time": "undefined",
-    "link": "https://www.millertheatre.com/events/rebekah-heller-righteous-rage",
-    "address": "Columbia University’s Miller Theatre (Morningside Heights)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "The Penguin Lessons with Steve Coogan",
-    "description": "Star Steve Coogan will be in-person for Q+A following a screening of Peter Cattaneo’s The Penguin Lessons at Angelika New York (Soho).",
-    "start_date": "2025-03-25",
-    "start_time": "6:40 pm",
-    "end_date": "undefined",
-    "end_time": "undefined",
-    "link": "https://angelikafilmcenter.com/nyc/movies/details/the-penguin-lessons-early-access-qa-with-steve-coogan",
-    "address": "Angelika New York (Soho)",
-    "cost": "$19 general, $17.50 seniors"
-  },
-  {
-    "title": "We Love a Theme: A Storytelling Show",
-    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at tonight’s ‘Destiny’ edition of Bailey Swilley’s monthly storytelling show. Featuring Kenice Mobley, Robin Bady, Jamie Brickhouse, and Gabe Mollica.",
-    "start_date": "2025-03-25",
-    "start_time": "7:00 pm",
-    "end_date": "undefined",
-    "end_time": "undefined",
-    "link": "https://www.petescandystore.com/calendar/",
-    "address": "Pete’s Candy Store (Williamsburg)",
-    "cost": "Free ($5 suggested donation)"
-  },
-  {
-    "title": "Cellar Rat: My Life in the Restaurant Underbelly with Hannah Selinger",
-    "description": "James Beard Award-nominated lifestyle writer Hannah Selinger launches Cellar Rat, a tell-all about her rise and fall working in NYC’s fine dining scene—featuring encounters with Bobby Flay, David Chang, Christina Tosi, and more. Selinger will read from and discuss the book with sommelier André Hueston Mack, founder of Maison Noir Wines and Rye + Sons, followed by a wine reception.",
-    "start_date": "2025-03-25",
+    "title": "FIGHT NIGHT",
+    "description": "Fishamble: The New Play Company presents Rise Productions’ FIGHT NIGHT, a gripping journey charting the comeback of Dan Coyle Jr., a failed amateur boxer from a long line of accomplished fighters. Written by Gavin Kostick and directed by Bryan Burroughs, this play explores themes of redemption and family dynamics.",
+    "start_date": "2025-04-01",
     "start_time": "7:30 pm",
-    "end_date": "undefined",
-    "end_time": "undefined",
-    "link": "https://www.greenlightbookstore.com/event/hannah-selinger-and-andré-hueston-mack",
-    "address": "Greenlight Bookstore (Fort Greene)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Something Old, Something New, Something Blue",
-    "description": "Good things come in threes at the Something Old, Something New, Something Blue stand-up show, where comedians are required to include an old joke, a new joke, and a dirty joke in their sets. Hosted by Caitlin Reese (HBO), and featuring Shenuque Tissera, Eeland Stribling, Hilary Campbell, Nick Hopping, and Deanne Smith.",
-    "start_date": "2025-03-25",
-    "start_time": "7:30 pm",
-    "end_date": "undefined",
-    "end_time": "undefined",
-    "link": "https://qedastoria.com/products/something-old-something-new-something-blue",
-    "address": "Q.E.D. (Astoria)",
-    "cost": "$15"
+    "end_date": "2025-04-20",
+    "end_time": "7:30 pm",
+    "link": "https://www.59e59.org/shows/show-detail/fight-night/?utm_source=fnskint&utm_medium=skint&utm_campaign=fightnight",
+    "address": "59E59 Theaters – a quick block from SUBWAY 4/5/6 N/W/R at 59 St.",
+    "cost": "$17 (with code SKINT, regular $32)"
   }
 ]

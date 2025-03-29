@@ -1,94 +1,11 @@
 [
   {
-    "title": "NYC Greek Independence Day Parade",
-    "description": "A parade on Fifth Avenue from 64th to 79th Street, Manhattan.",
-    "start_date": "2025-03-30",
-    "start_time": "1:30 pm",
-    "end_date": "2025-03-30",
-    "end_time": "5:30 pm",
-    "link": "https://www.instagram.com/p/DHg_MjfullD/",
-    "address": "Fifth Avenue from 64th to 79th St, Manhattan",
-    "cost": ""
-  },
-  {
-    "title": "The Art Locker Art Market: GL + BL Edition",
-    "description": "An art market at House of Brooklyn Studio in Cobble Hill.",
-    "start_date": "2025-03-30",
-    "start_time": "12:00 pm",
-    "end_date": "2025-03-30",
-    "end_time": "7:00 pm",
-    "link": "https://partiful.com/e/vstjk5xeEDgpv0Lw67N6",
-    "address": "House of Brooklyn Studio, Cobble Hill",
-    "cost": "Free admission"
-  },
-  {
-    "title": "The American Dance Guild's Dance Book Fair",
-    "description": "A dance book fair at Peridance Center in the East Village.",
-    "start_date": "2025-03-30",
-    "start_time": "3:00 pm",
-    "end_date": "2025-03-30",
-    "end_time": "6:00 pm",
-    "link": "https://www.americandanceguild.org/bookfair",
-    "address": "Peridance Center, East Village",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Japan Fes Japanese Food Festival",
-    "description": "A food festival at Astor Place in the East Village.",
-    "start_date": "2025-03-29",
-    "start_time": "10:00 am",
-    "end_date": "2025-03-29",
-    "end_time": "6:00 pm",
-    "link": "https://www.instagram.com/p/DHpNJ-7PHXU/",
-    "address": "Astor Place, East Village",
-    "cost": "Free admission (pay-as-you-go)"
-  },
-  {
-    "title": "Free Snickers Eggs",
-    "description": "Free Snickers eggs at Flatiron Plaza, featuring a 10-foot Snickers chicken laying them!",
-    "start_date": "2025-03-28",
-    "start_time": "11:00 am",
-    "end_date": "2025-03-28",
-    "end_time": "7:00 pm",
-    "link": "https://www.prnewswire.com/news-releases/snickers-eggs-are-dropping-to-deliver-easter-satisfaction-for-fans-this-season-302406675.html",
-    "address": "Flatiron Plaza",
-    "cost": "Free"
-  },
-  {
-    "title": "New York City Postcard Fair",
-    "description": "A postcard fair at Church of the Village in Greenwich Village.",
-    "start_date": "2025-03-28",
-    "start_time": "12:00 pm",
-    "end_date": "2025-03-29",
-    "end_time": "5:00 pm",
-    "link": "https://metropolitanpostcardclub.com",
-    "address": "Church of the Village, Greenwich Village",
-    "cost": "$7 admission"
-  },
-  {
-    "title": "Brooklyn Fine Art Print Fair",
-    "description": "An art fair at Powerhouse Arts in Gowanus.",
-    "start_date": "2025-03-28",
-    "end_date": "2025-03-30",
-    "link": "https://www.brooklynprintfair.org",
-    "address": "Powerhouse Arts, Gowanus",
-    "cost": "$15 general, $12 for seniors with promo code 'thankyou', free for college students and faculty"
-  },
-  {
-    "title": "IFPDA Print Fair",
-    "description": "A print fair at Park Avenue Armory in the Upper East Side.",
-    "start_date": "2025-03-28",
-    "end_date": "2025-03-30",
-    "link": "https://www.fineartprintfair.org",
-    "address": "Park Avenue Armory, UES",
-    "cost": "$35+"
-  },
-  {
-    "title": "Tacocina Open for the Season",
-    "description": "Tacocina is open for the season at Williamsburg's Domino Park.",
-    "start_date": "2025-03-28",
-    "end_date": "2025-10-31",
-    "link": "https://www.heytacocina.com/",
-    "address": "Williamsburg's Domino Park"
+    "title": "SARA MEARNS | Artists at the Center",
+    "description": "Sara Mearns, 'one of the most celebrated ballerinas in the world', is the curator and performs in this year’s Artists at the Center. Mearns dances in two World Premieres, exploring the challenges faced by an artist preparing for a demanding role, and the dualities of beauty and struggle.",
+    "start_date": "2025-04-03",
+    "end_date": "2025-04-05",
+    "link": "https://www.nycitycenter.org/pdps/2024-2025/sara-mearns-artists-at-the-center/?utm_source=theskint&utm_medium=email&utm_campaign=FY25AATC",
+    "address": "New York City Center",
+    "cost": "$28 tickets with code EDUMEARNS"
   }
 ]

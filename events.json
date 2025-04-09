@@ -1,58 +1,13 @@
 [
   {
-    "title": "Cherry Blossom Update",
-    "description": "Central Park’s great lawn, sheep meadow, cherry hill, pilgrim hill, and east + west sides of the reservoir are now in bloom; Brooklyn Botanic Garden’s Japanese hill-and-pond garden is in peak bloom, while the main rows of the cherry esplanade have yet to start blooming. Central Park admission is free as always; Brooklyn Botanic Garden admission is $22 general, $16 seniors/students, free community tickets may also be available.",
-    "start_date": "2025-04-08",
-    "end_date": "2025-04-10",
-    "link": "https://www.theskint.com/tues-thurs-4-8-10-free-ice-cream-cherry-blossom-update-amy-sherald-american-sublime-and-more/",
-    "address": "Central Park, New York, NY",
-    "cost": "Free for Central Park, $22 for Brooklyn Botanic Garden"
-  },
-  {
-    "title": "?!: New Works Festival",
-    "description": "The spiritual successor to the Exponential Festival, ?!: New Works Festival brings together 32 experimental artists from a range of disciplines, presenting brand-new work across 15 unique lineups at the Brick Theater (Williamsburg).",
-    "start_date": "2025-04-08",
-    "end_date": "2025-04-26",
-    "link": "https://www.bricktheater.com",
-    "address": "Brick Theater, Williamsburg, NY",
-    "cost": "$25+"
-  },
-  {
-    "title": "Free Cone Day at Ben + Jerry’s",
-    "description": "Grab a free cone today at participating Ben + Jerry’s scoop shops.",
-    "start_date": "2025-04-08",
-    "start_time": "12:00 pm",
-    "end_time": "8:00 pm",
-    "link": "https://www.benjerry.com/scoop-shops/free-cone-day",
-    "address": "Participating Ben + Jerry’s scoop shops",
-    "cost": "Free"
-  },
-  {
-    "title": "New York Choir Project",
-    "description": "Catch a double bill of five-part harmony pop covers at New York Choir Project’s concerts. Metropop Choir hits the stage at 7pm with songs by The Killers, Robyn, Destiny's Child, and more, followed by Britpop Choir at 8:30pm covering Oasis, Republica, and other faves.",
-    "start_date": "2025-04-08",
-    "start_time": "7:00 pm",
-    "end_time": "8:30 pm",
-    "link": "https://nychoirproject.com/upcoming-events",
-    "address": "Teatro La Tea, LES, New York, NY",
-    "cost": "$12"
-  },
-  {
-    "title": "The Moth Storyslam",
-    "description": "The popular community-based open mic storytelling competition, where anyone can share a five-minute tale based on the evening’s theme to an attentive audience, returns to The Bell House (Gowanus). Tonight’s theme: ‘Bloom.’",
-    "start_date": "2025-04-08",
+    "title": "Enough is Enuf! Book Release and Spelling Bee",
+    "description": "Spelers, unite! Gabe Henry celebrates the release of his new book, Enough is Enuf: Our Failed Attempts to Make English Easier to Spell, with a reading, signing, and spelling bee.",
+    "start_date": "2025-04-16",
     "start_time": "8:00 pm",
-    "link": "https://themoth.org/events/bloom-nyc-2025",
-    "address": "The Bell House, Gowanus, NY",
-    "cost": "$19.65"
-  },
-  {
-    "title": "Open Mic + Open Tables",
-    "description": "15 comedians. 8 DJs. No cover. Isola Brooklyn (fka The Knitting Factory) hosts Open Mic + Open Tables, a new weekly series blending music and comedy with 8 DJ sets (15 minutes each) and 15 stand-up slots (5 minutes each).",
-    "start_date": "2025-04-08",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/open-mic-and-open-tables-tickets-1306983214979",
-    "address": "Isola Brooklyn, Williamsburg, NY",
-    "cost": "Free"
+    "end_date": "2025-04-16",
+    "end_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/enough-is-enuf-book-release-party-tickets-1223794615639",
+    "address": "littlefield – 635 Sackett Street (between 3rd and 4th Avenues), Brooklyn",
+    "cost": "Free with RSVP"
   }
 ]

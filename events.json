@@ -1,11 +1,120 @@
 [
   {
-    "title": "EARLY RISERS VS. NIGHT OWLS: COMEDY DEBATE AT SYMPHONY SPACE (SPONSORED)",
-    "description": "Get ready for a raucous night of comedy that proves every hour can be happy hour! Featuring Emmy Blotnick (The Late Show with Stephen Colbert), Rob Cantrell (The Colbert Report), Kerry Coddett (Flatbush Misdemeanors), Jon Fisch (Spiraling Up), Clare O&#8217;Kane (Saturday Night Live), and Shalewa Sharpe (HBO&#8217;s Two Dope Queens).",
-    "start_date": "2025-04-14",
+    "title": "The Met Fifth Ave's New Roof Garden Commission: Ensemble",
+    "description": "Sonic and visual artist Jennie C. Jones's acoustic sculptures take over the Met’s Iris and B. Gerald Cantor Roof Garden for the season.",
+    "start_date": "2025-04-15",
+    "end_date": "2025-10-19",
+    "link": "https://www.metmuseum.org/exhibitions/the-roof-garden-commission-jennie-c-jones",
+    "address": "Metropolitan Museum of Art (UES)",
+    "cost": "Free entry with museum admission (pay-what-you-wish admission for New York State residents and NY, NJ, and CT students, $30 general/$22 seniors/$22 visitors with disabilities/$17 students otherwise)"
+  },
+  {
+    "title": "NYPL's World Literature + Arts Festival",
+    "description": "Shining a spotlight on NYC’s communities, the New York Public Library’s World Literature + Arts Festival brings together writers, artists, and thinkers from diverse disciplines and backgrounds to celebrate storytelling.",
+    "start_date": "2025-04-15",
+    "end_date": "2025-04-30",
+    "link": "https://www.nypl.org/spotlight/world-literature-arts-festival",
+    "address": "Various locations",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Taste of Science Festival",
+    "description": "Feed your curiosity with this annual series of informal discussions on everything from fungus to hunger to city infrastructure.",
+    "start_date": "2025-04-15",
+    "end_date": "2025-04-26",
+    "link": "https://tasteofscience.org/new-york",
+    "address": "Pete's Candy Store (Williamsburg), Ryan's Daughter (UES), KGB (East Village), and Q.E.D. (Astoria)",
+    "cost": "Free-$8"
+  },
+  {
+    "title": "Rent the Runway Sample Sale",
+    "description": "Save up to 70% on pre-loved designer apparel, handbags, accessories, and more.",
+    "start_date": "2025-04-15",
+    "end_date": "2025-04-17",
+    "link": "https://www.facebook.com/events/1041898624663508/",
+    "address": "260 Fifth Ave (bet. 28th + 29th Sts)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Newman's Own 'Pay-What-You-Want Food Truck'",
+    "description": "Choose-what-you pay for Newman’s Own pizzas, salads, cookies, coffee dog treats, and more, with 100% of the proceeds going to Newman’s Own Foundation.",
+    "start_date": "2025-04-15",
+    "start_time": "12:00 pm",
+    "end_time": "7:00 pm",
+    "link": "https://www.prnewswire.com/news-releases/newmans-own-inc-kicks-off-pay-what-you-want-food-truck-tour-on-tax-day-302426915.html",
+    "address": "Bryant Park at 40th Street between 5th + 6th Aves",
+    "cost": "Pay-what-you-want"
+  },
+  {
+    "title": "Beyond Architecture: The New New York – A Discussion on Historic Preservation",
+    "description": "A discussion on 'Beyond Architecture: The New New York', a collection of essays marking the 60th anniversary of the New York City Landmarks Law.",
+    "start_date": "2025-04-15",
+    "start_time": "6:00 pm",
+    "link": "https://skyscraper.org/programs/beyond-architecture-the-new-new-york/",
+    "address": "The Skyscraper Museum (Battery Park)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Miller Theater’s Pop-Up Concert Series",
+    "description": "The Columbia University School of the Arts’s musical happy hour returns for a new season of hour-long concerts where the audience is permitted to sit onstage with the performers and enjoy a free drink.",
+    "start_date": "2025-04-15",
+    "start_time": "6:00 pm",
+    "link": "https://www.millertheatre.com/events/miles-okazaki-and-bill-frisell",
+    "address": "Columbia University’s Miller Theatre (Morningside Heights)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "No New Things with Ashlee Piper",
+    "description": "Sustainability expert Ashlee Piper chats about 'No New Things', her new book on ditching consumerism, regaining financial and mental wellness, and saving the planet.",
+    "start_date": "2025-04-15",
+    "start_time": "6:30 pm",
+    "link": "https://ptknitwear.com/events/45338",
+    "address": "P+T Knitwear Bookstore (LES)",
+    "cost": "$5 admission can be applied towards any book or item in the café."
+  },
+  {
+    "title": "Early Risers vs. Night Owls: Comedy Debate",
+    "description": "The popular comedy debate series returns with guests debating the merits of their preferred time of day.",
+    "start_date": "2025-04-15",
+    "start_time": "7:00 pm",
+    "link": "https://www.symphonyspace.org/events/uptown-showdown-early-risers-vs-night-owls?utm_source=skint&utm_medium=email&utm_campaign=us+april+2025+skint&utm_id=us+april+2025+skint",
+    "address": "Symphony Space (UWS)",
+    "cost": "$15 with code 'timeofday'"
+  },
+  {
+    "title": "Brooklyn Books + Booze",
+    "description": "Hear established and up-and-coming authors of different genres read from their current works every third Tuesday of the month.",
+    "start_date": "2025-04-15",
+    "start_time": "7:00 pm",
+    "link": "https://randeedawn.com/bonus/brooklyn-books-booze/",
+    "address": "Barrow's Intense Tasting Room (Industry City)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "The Broad Squad",
+    "description": "Kendra Cunningham presents a throwback variety show filled with stand up, storytelling, music, and trivia.",
+    "start_date": "2025-04-15",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/the-broad-squad-with-feelz-right-quiz-night-tickets-1322325714809",
+    "address": "Young Ethel’s (Park Slope)",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "Open Mic + Open Tables",
+    "description": "15 comedians. 8 DJs. No cover. A new weekly series blending music and comedy.",
+    "start_date": "2025-04-15",
     "start_time": "8:00 pm",
-    "link": "https://www.theskint.com/early-risers-vs-night-owls-comedy-debate-at-symphony-space-sponsored/",
-    "address": "Symphony Space",
-    "cost": "$15 with code: Timeofday"
+    "link": "https://www.eventbrite.com/e/open-mic-and-open-tables-tickets-1320821234869",
+    "address": "Isola Brooklyn (fka The Knitting Factory)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Animation Nights New York",
+    "description": "Watch a curated program of animated short films from around the world at this monthly screening event.",
+    "start_date": "2025-04-15",
+    "start_time": "8:00 pm",
+    "link": "https://www.animationnights.com/upcoming-screening-events/",
+    "address": "The Gutter Spare Room (Williamsburg)",
+    "cost": "Pay-what-you-wish admission"
   }
 ]

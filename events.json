@@ -1,120 +1,292 @@
 [
   {
-    "title": "The Met Fifth Ave's New Roof Garden Commission: Ensemble",
-    "description": "Sonic and visual artist Jennie C. Jones's acoustic sculptures take over the Met’s Iris and B. Gerald Cantor Roof Garden for the season.",
-    "start_date": "2025-04-15",
-    "end_date": "2025-10-19",
-    "link": "https://www.metmuseum.org/exhibitions/the-roof-garden-commission-jennie-c-jones",
-    "address": "Metropolitan Museum of Art (UES)",
-    "cost": "Free entry with museum admission (pay-what-you-wish admission for New York State residents and NY, NJ, and CT students, $30 general/$22 seniors/$22 visitors with disabilities/$17 students otherwise)"
+    "title": "Earth Love Fest Block Party and After Party",
+    "description": "A block party and after party at House of Yes in Bushwick. Free admission.",
+    "start_date": "2025-04-27",
+    "start_time": "12:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://www.houseofyes.org/calendar",
+    "address": "House of Yes (Bushwick)",
+    "cost": "Free"
   },
   {
-    "title": "NYPL's World Literature + Arts Festival",
-    "description": "Shining a spotlight on NYC’s communities, the New York Public Library’s World Literature + Arts Festival brings together writers, artists, and thinkers from diverse disciplines and backgrounds to celebrate storytelling.",
-    "start_date": "2025-04-15",
-    "end_date": "2025-04-30",
-    "link": "https://www.nypl.org/spotlight/world-literature-arts-festival",
-    "address": "Various locations",
-    "cost": "Free admission"
+    "title": "Open Streets: Car-Free Earth Day",
+    "description": "An event closing 54 locations across the city to vehicular traffic with activities, performances, and programming.",
+    "start_date": "2025-04-26",
+    "start_time": "10:00 am",
+    "end_time": "4:00 pm",
+    "link": "https://gothamist.com/news/dozens-of-nyc-streets-will-be-car-free-one-saturday-this-month-for-earth-day",
+    "address": "54 locations across the city",
+    "cost": "Free"
   },
   {
-    "title": "Taste of Science Festival",
-    "description": "Feed your curiosity with this annual series of informal discussions on everything from fungus to hunger to city infrastructure.",
-    "start_date": "2025-04-15",
+    "title": "Broadway Celebrates Earth Day Concert",
+    "description": "A concert in Times Square’s pedestrian plaza with free admission.",
+    "start_date": "2025-04-26",
+    "start_time": "11:00 am",
+    "end_time": "3:00 pm",
+    "link": "https://www.broadwaygreen.com/earth-day",
+    "address": "Times Square’s pedestrian plaza",
+    "cost": "Free"
+  },
+  {
+    "title": "Loisaida United Neighborhood Gardens (LUNGS) Spring Awakening Celebration",
+    "description": "A celebration at Avenue B between 7th and 9th Streets. Free admission.",
+    "start_date": "2025-04-26",
+    "start_time": "1:00 pm",
+    "end_time": "4:00 pm",
+    "link": "https://lungsnyc.org",
+    "address": "Avenue B between 7th and 9th Streets",
+    "cost": "Free"
+  },
+  {
+    "title": "Contemporary Jazz Masterpieces",
+    "description": "A concert featuring the Jazz at Lincoln Center Orchestra with Wynton Marsalis. Tickets start at $33 with promo code SKINT30.",
+    "start_date": "2025-04-25",
+    "start_time": "7:30 pm",
+    "link": "https://jazz.org/concert/contemporary-jazz-masterpieces-the-jlco-with-wynton-marsalis/?utm_source=the_skint&utm_medium=email&utm_campaign=contemporary_jazz_masterpieces",
+    "address": "Jazz at Lincoln Center, 60th Street and Broadway",
+    "cost": "$33"
+  },
+  {
+    "title": "Earth Love Eco Bazaar at Grand Bazaar NYC",
+    "description": "An eco bazaar taking place indoors and outdoors at 100 W 77th St at Columbus Ave. Free admission.",
+    "start_date": "2025-04-20",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/earth-love-eco-bazaar/",
+    "address": "100 W 77th St at Columbus Ave",
+    "cost": "Free"
+  },
+  {
+    "title": "Dragon Fest Chinese Food + Culture Street Fair",
+    "description": "A street fair taking place on Sixth Ave between 30th and 31st Streets. Free admission (pay-as-you-go).",
+    "start_date": "2025-04-20",
+    "start_time": "10:00 am",
+    "end_time": "6:00 pm",
+    "link": "https://www.dragonfests.com",
+    "address": "Sixth Ave between 30th and 31st Streets",
+    "cost": "Free"
+  },
+  {
+    "title": "Snack Attack Takedown Food Competition",
+    "description": "A food competition at Royal Palms Shuffleboard in Gowanus. Admission is $30.",
+    "start_date": "2025-04-20",
+    "start_time": "1:00 pm",
+    "end_time": "3:00 pm",
+    "link": "https://thetakedowns.com/snack-attack-takedown/",
+    "address": "Royal Palms Shuffleboard (Gowanus)",
+    "cost": "$30"
+  },
+  {
+    "title": "Buffalo Exchange’s Annual $1 Earth Day Sale",
+    "description": "An annual sale at various locations in the East Village, NoHo, Chelsea, Boerum Hill, and Williamsburg. Cash only.",
+    "start_date": "2025-04-20",
+    "link": "https://buffaloexchange.com/event/earth-day-dollar-sale/",
+    "address": "Various locations in East Village, NoHo, Chelsea, Boerum Hill, and Williamsburg",
+    "cost": "$1"
+  },
+  {
+    "title": "Governors Island Earth Day Celebration",
+    "description": "A celebration on Governors Island with free admission.",
+    "start_date": "2025-04-20",
+    "start_time": "10:00 am",
+    "end_time": "3:00 pm",
+    "link": "https://www.govisland.com/things-to-do/events/earth-day-on-governors-island",
+    "address": "Governors Island",
+    "cost": "Free"
+  },
+  {
+    "title": "Root in Peace: A Community Funeral for Our Dead Plants",
+    "description": "A community event at Chinatown Soup in the Lower East Side. Free admission.",
+    "start_date": "2025-04-20",
+    "start_time": "12:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://partiful.com/e/M2vG73cvyie1HTVbMbl6",
+    "address": "Chinatown Soup (LES)",
+    "cost": "Free"
+  },
+  {
+    "title": "Earth Day Bike Repair Class",
+    "description": "A bike repair class at La Plaza Community Garden in Alphabet City. Free admission.",
+    "start_date": "2025-04-20",
+    "start_time": "1:00 pm",
+    "link": "https://times-up.org/calendar/earth-day-2025-bike-repair-class/",
+    "address": "La Plaza Community Garden (Alphabet City)",
+    "cost": "Free"
+  },
+  {
+    "title": "Earth Day Community Garden Tour Bike Ride",
+    "description": "A bike ride tour at La Plaza Community Garden in Alphabet City. Free admission.",
+    "start_date": "2025-04-20",
+    "start_time": "2:00 pm",
+    "link": "https://times-up.org/calendar/earth-day-2025-bike-ride/",
+    "address": "La Plaza Community Garden (Alphabet City)",
+    "cost": "Free"
+  },
+  {
+    "title": "Juilliard’s Annual Earth Month Celebration",
+    "description": "An annual celebration at Juilliard with free admission.",
+    "start_date": "2025-04-20",
+    "link": "https://www.juilliard.edu/earth-month",
+    "address": "Juilliard",
+    "cost": "Free"
+  },
+  {
+    "title": "Earth Day + Arbor Day Events in Parks and Community Gardens Across NYC",
+    "description": "Various events in parks and community gardens across NYC with free admission.",
+    "start_date": "2025-04-20",
+    "link": "https://www.nycgovparks.org/events/earth_and_arbor_days",
+    "address": "Various locations across NYC",
+    "cost": "Free"
+  },
+  {
+    "title": "Doom + Bloom: Brooklyn Horror Society Spring Market",
+    "description": "A spring market hosted by the Brooklyn Horror Society at Wild East Brewing in Gowanus. Free admission.",
+    "start_date": "2025-04-19",
+    "start_time": "1:00 pm",
+    "end_time": "5:00 pm",
+    "link": "https://www.instagram.com/brooklynhorrorsociety/p/DHyh3KiMqhD/",
+    "address": "Wild East Brewing (Gowanus)",
+    "cost": "Free"
+  },
+  {
+    "title": "Queens Night Market Season Opener",
+    "description": "The season opener of the Queens Night Market at the New York Hall of Science in Flushing Meadows Corona Park. Admission is $5-8 for sneak preview days on 4/19 and 4/26, free admission starting 5/3.",
+    "start_date": "2025-04-19",
+    "start_time": "4:00 pm",
+    "end_time": "12:00 am",
+    "link": "https://queensnightmarket.com",
+    "address": "New York Hall of Science at Flushing Meadows Corona Park",
+    "cost": "$5-8"
+  },
+  {
+    "title": "Japan Fes Japanese Food Festival",
+    "description": "A food festival taking place at Broadway between 114th and 116th Streets on Saturday and Sixth Ave between 24th and 26th Streets on Sunday. Free admission (pay-as-you-go).",
+    "start_date": "2025-04-19",
+    "start_time": "10:00 am",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/japanfes",
+    "address": "Broadway between 114th and 116th Streets (Saturday); Sixth Ave between 24th and 26th Streets (Sunday)",
+    "cost": "Free"
+  },
+  {
+    "title": "Brooklyn Bookstore Crawl",
+    "description": "A crawl featuring 26 bookstores throughout Brooklyn. Running through April 26.",
+    "start_date": "2025-04-19",
     "end_date": "2025-04-26",
-    "link": "https://tasteofscience.org/new-york",
-    "address": "Pete's Candy Store (Williamsburg), Ryan's Daughter (UES), KGB (East Village), and Q.E.D. (Astoria)",
-    "cost": "Free-$8"
+    "link": "https://sites.google.com/view/bklyn-bookstore-crawl/",
+    "address": "26 bookstores throughout Brooklyn",
+    "cost": "Undefined"
   },
   {
     "title": "Rent the Runway Sample Sale",
-    "description": "Save up to 70% on pre-loved designer apparel, handbags, accessories, and more.",
-    "start_date": "2025-04-15",
-    "end_date": "2025-04-17",
+    "description": "A sample sale featuring Rent the Runway at 260 Fifth Ave (between 28th and 29th Streets). Free admission.",
+    "start_date": "2025-04-18",
+    "end_date": "2025-04-20",
     "link": "https://www.facebook.com/events/1041898624663508/",
-    "address": "260 Fifth Ave (bet. 28th + 29th Sts)",
-    "cost": "Free admission"
+    "address": "260 Fifth Ave (between 28th and 29th Streets)",
+    "cost": "Free"
   },
   {
-    "title": "Newman's Own 'Pay-What-You-Want Food Truck'",
-    "description": "Choose-what-you pay for Newman’s Own pizzas, salads, cookies, coffee dog treats, and more, with 100% of the proceeds going to Newman’s Own Foundation.",
-    "start_date": "2025-04-15",
-    "start_time": "12:00 pm",
-    "end_time": "7:00 pm",
-    "link": "https://www.prnewswire.com/news-releases/newmans-own-inc-kicks-off-pay-what-you-want-food-truck-tour-on-tax-day-302426915.html",
-    "address": "Bryant Park at 40th Street between 5th + 6th Aves",
-    "cost": "Pay-what-you-want"
+    "title": "Urbanspace’s Spring Makers Market",
+    "description": "A market featuring various vendors at Bryant Park (Midtown). Open Fridays through Sundays from 11am to 7pm until June 1. Free admission.",
+    "start_date": "2025-04-18",
+    "end_date": "2025-06-01",
+    "link": "https://www.instagram.com/urbanspacemarkets/",
+    "address": "Bryant Park (Midtown)",
+    "cost": "Free"
   },
   {
-    "title": "Beyond Architecture: The New New York – A Discussion on Historic Preservation",
-    "description": "A discussion on 'Beyond Architecture: The New New York', a collection of essays marking the 60th anniversary of the New York City Landmarks Law.",
-    "start_date": "2025-04-15",
-    "start_time": "6:00 pm",
-    "link": "https://skyscraper.org/programs/beyond-architecture-the-new-new-york/",
-    "address": "The Skyscraper Museum (Battery Park)",
-    "cost": "Free admission"
+    "title": "Picasso: Tête-à-Tête",
+    "description": "An exhibition at Gagosian Gallery featuring works by Picasso. Free admission.",
+    "start_date": "2025-04-18",
+    "end_date": "2025-07-03",
+    "link": "https://gagosian.com/exhibitions/2025/picasso-tete-a-tete/",
+    "address": "Gagosian Gallery, 980 Madison Ave (UES)",
+    "cost": "Free"
   },
   {
-    "title": "Miller Theater’s Pop-Up Concert Series",
-    "description": "The Columbia University School of the Arts’s musical happy hour returns for a new season of hour-long concerts where the audience is permitted to sit onstage with the performers and enjoy a free drink.",
-    "start_date": "2025-04-15",
-    "start_time": "6:00 pm",
-    "link": "https://www.millertheatre.com/events/miles-okazaki-and-bill-frisell",
-    "address": "Columbia University’s Miller Theatre (Morningside Heights)",
-    "cost": "Free admission"
+    "title": "Beyond Interface + Prompt: Exploring the Language of Technology in Contemporary Art",
+    "description": "A multimedia exhibition at Williamsburg Art + Historical Center. Free admission (donations welcome). Opening reception on 4/18 from 6-8pm.",
+    "start_date": "2025-04-18",
+    "end_date": "2025-05-17",
+    "link": "https://www.wahcenter.net/2025/04/beyond-interface-prompt-exploring-the-language-of-technology-in-contemporary-art/",
+    "address": "Williamsburg Art + Historical Center (Williamsburg)",
+    "cost": "Free (donations welcome)"
   },
   {
-    "title": "No New Things with Ashlee Piper",
-    "description": "Sustainability expert Ashlee Piper chats about 'No New Things', her new book on ditching consumerism, regaining financial and mental wellness, and saving the planet.",
-    "start_date": "2025-04-15",
-    "start_time": "6:30 pm",
-    "link": "https://ptknitwear.com/events/45338",
-    "address": "P+T Knitwear Bookstore (LES)",
-    "cost": "$5 admission can be applied towards any book or item in the café."
+    "title": "New York International Auto Show: 125th Anniversary",
+    "description": "An auto show at the Jacob K. Javits Center featuring new, concept, and vintage vehicles. Admission is $22 (save $2 with promo code 'ride').",
+    "start_date": "2025-04-18",
+    "end_date": "2025-04-24",
+    "link": "https://www.autoshowny.com",
+    "address": "Jacob K. Javits Center (Hell’s Kitchen)",
+    "cost": "$22"
   },
   {
-    "title": "Early Risers vs. Night Owls: Comedy Debate",
-    "description": "The popular comedy debate series returns with guests debating the merits of their preferred time of day.",
-    "start_date": "2025-04-15",
+    "title": "Killer of Sheep with Charles Burnett",
+    "description": "A film screening at Film Forum with a Q&A session. Admission is $17.",
+    "start_date": "2025-04-18",
+    "start_time": "7:50 pm",
+    "end_date": "2025-04-24",
+    "link": "https://filmforum.org/film/killer-of-sheep",
+    "address": "Film Forum (South Village)",
+    "cost": "$17"
+  },
+  {
+    "title": "Kingsland Wildflowers Green Roof Friday Evening Open Hours",
+    "description": "An open hours event at Kingsland Wildflowers in Greenpoint. Free admission (RSVP required).",
+    "start_date": "2025-04-18",
+    "start_time": "5:00 pm",
+    "end_time": "8:00 pm",
+    "link": "http://www.kingslandwildflowers.com/events",
+    "address": "Kingsland Wildflowers (Greenpoint)",
+    "cost": "Free (RSVP required)"
+  },
+  {
+    "title": "Kweendom",
+    "description": "An LGBTQ+ comedy and storytelling show at Pete’s Candy Store in Williamsburg. Free admission (donations welcome).",
+    "start_date": "2025-04-18",
     "start_time": "7:00 pm",
-    "link": "https://www.symphonyspace.org/events/uptown-showdown-early-risers-vs-night-owls?utm_source=skint&utm_medium=email&utm_campaign=us+april+2025+skint&utm_id=us+april+2025+skint",
-    "address": "Symphony Space (UWS)",
-    "cost": "$15 with code 'timeofday'"
+    "link": "https://www.eventbrite.com/e/kweendom-lgbtq-comedy-tickets-1319508668949",
+    "address": "Pete’s Candy Store (Williamsburg)",
+    "cost": "Free (donations welcome)"
   },
   {
-    "title": "Brooklyn Books + Booze",
-    "description": "Hear established and up-and-coming authors of different genres read from their current works every third Tuesday of the month.",
-    "start_date": "2025-04-15",
+    "title": "Breakdancers vs Comedians",
+    "description": "A competition at Eris Mainstage in Williamsburg. Admission is $12 in advance, $17 on the day of the event.",
+    "start_date": "2025-04-18",
     "start_time": "7:00 pm",
-    "link": "https://randeedawn.com/bonus/brooklyn-books-booze/",
-    "address": "Barrow's Intense Tasting Room (Industry City)",
-    "cost": "Free admission"
+    "link": "https://www.brooklyncc.com/show-schedule/breakdancersvscomedians-4-18",
+    "address": "Eris Mainstage (Williamsburg)",
+    "cost": "$12 adv, $17 day of"
   },
   {
-    "title": "The Broad Squad",
-    "description": "Kendra Cunningham presents a throwback variety show filled with stand up, storytelling, music, and trivia.",
-    "start_date": "2025-04-15",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/the-broad-squad-with-feelz-right-quiz-night-tickets-1322325714809",
-    "address": "Young Ethel’s (Park Slope)",
-    "cost": "Free ($5 suggested donation)"
+    "title": "Best Night Ever Comedy Show",
+    "description": "A stand-up comedy show at El Santo Taqueria in East Williamsburg/Bushwick. Admission is $12.51 in advance, $16+ on the day of the event.",
+    "start_date": "2025-04-18",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/best-night-ever-comedy-show-tickets-1310646331459",
+    "address": "El Santo Taqueria (East Williamsburg/Bushwick)",
+    "cost": "$12.51 adv, $16+ day of"
   },
   {
-    "title": "Open Mic + Open Tables",
-    "description": "15 comedians. 8 DJs. No cover. A new weekly series blending music and comedy.",
-    "start_date": "2025-04-15",
+    "title": "Laugh It Off",
+    "description": "A comedy show at Boyb. Melrose Podcasts in the East Village. Admission is $16.",
+    "start_date": "2025-04-18",
     "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/open-mic-and-open-tables-tickets-1320821234869",
-    "address": "Isola Brooklyn (fka The Knitting Factory)",
-    "cost": "Free admission"
+    "link": "https://www.eventbrite.com/e/laugh-it-off-stand-up-comedy-in-the-east-village-tickets-1226474039869",
+    "address": "Boyb. Melrose Podcasts (East Village)",
+    "cost": "$16"
   },
   {
-    "title": "Animation Nights New York",
-    "description": "Watch a curated program of animated short films from around the world at this monthly screening event.",
-    "start_date": "2025-04-15",
-    "start_time": "8:00 pm",
-    "link": "https://www.animationnights.com/upcoming-screening-events/",
-    "address": "The Gutter Spare Room (Williamsburg)",
-    "cost": "Pay-what-you-wish admission"
+    "title": "Bitches Brew Comedy Show",
+    "description": "A women-produced and hosted comedy show at Halyards in Gowanus. Free admission (tips appreciated).",
+    "start_date": "2025-04-18",
+    "start_time": "8:30 pm",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Halyards (Gowanus)",
+    "cost": "Free (tips appreciated)"
   }
 ]

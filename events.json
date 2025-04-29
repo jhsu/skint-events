@@ -1,11 +1,77 @@
 [
   {
     "title": "2025 World Voices Festival",
-    "description": "The 2025 World Voices Festival is back in NYC next week, April 30th to May 3rd. This is not your English professor’s literary festival! We will be celebrating the 20th anniversary of the World Voices Festival with 100+ writers from 35 countries, including Chimamanda Ngozi Adichie, Jennifer Egan, M. Gessen, Ali Hazelwood, Dinaw Mengestu, Guadalupe Nettel, Lynn Nottage, Gary Shteyngart, and many more. You won’t want to miss timely sessions including a film screening and discussion about writing in exile, writing about the end of democracy, writing as resistance, or writing about dystopian futures. Also on the schedule is a comedy show, sessions about poetry, romance writers, women in literature, the state of censorship in American theater, and a whole lot more. Also, don’t miss the full lineup of free events open to all, including the Indie Lit Fair, the ArtLords Public Art Mural, or the House of SpeakEasy Bookmobile as well as book readings and panel discussions. Join us to bask among the celebration of free expression and literature while we still can!",
+    "description": "Celebrating the 20th anniversary of the World Voices Festival with 100+ writers from 35 countries, including Chimamanda Ngozi Adichie, Jennifer Egan, and many more. Timely sessions including a film screening and discussion about writing in exile, writing about the end of democracy, and more.",
     "start_date": "2025-04-30",
     "end_date": "2025-05-03",
-    "link": "https://www.theskint.com/cheap-but-cultured-the-2025-world-voices-festival-april-30-may-3-sponsored/",
-    "address": "New York City, NY",
-    "cost": "Many events are free; special discount for paid events with promo code SKINTWVF25 for 50% off."
+    "link": "https://worldvoices.pen.org/?utm_source=skint&utm_medium=ads&utm_campaign=wvf25&utm_id=partner&utm_content=email"
+  },
+  {
+    "title": "Cherry Blossom Update",
+    "description": "Brooklyn Botanic Garden’s main rows of the cherry esplanade, filled with 100 trees, are in peak bloom!",
+    "start_date": "2025-04-29",
+    "link": "https://www.bbg.org/collections/cherries",
+    "cost": "$22 general, $16 seniors/students, free community tickets may also be available"
+  },
+  {
+    "title": "Rooftop Cinema Club",
+    "description": "Take your movie night to new heights at Rooftop Cinema Club, the annual open-air movie series held at the third floor skylawn rooftop of the Embassy Suites Hotel in Midtown. Catch cult favorites, classics, and newer releases all season long, with provided wireless headphones to help block out the city buzz.",
+    "start_date": "2025-04-29",
+    "link": "https://rooftopcinemaclub.com/new-york/venue/midtown/",
+    "cost": "$12-29 admission (15% off for military, 10% off for students)"
+  },
+  {
+    "title": "Tai Chi in Bryant Park",
+    "description": "Bryant Park's free outdoor tai chi classes return for the 2025 season. Held at the park's fountain terrace, the classes are open to all experience levels and take place rain or shine—unless weather is severe.",
+    "start_date": "2025-04-29",
+    "start_time": "7:30 am",
+    "link": "https://bryantpark.org/calendar/event/tai-chi/2024-04-30"
+  },
+  {
+    "title": "Clothing Swap",
+    "description": "Give your closet a refresh! Swap your under-used clothes for new-to-you finds at this clothing swap, hosted by Adverse Abstraction at Otto’s Shrunken Head (East Village). Unclaimed items will be donated to Housing Works.",
+    "start_date": "2025-04-29",
+    "start_time": "6:00 pm",
+    "link": "https://www.eventbrite.com/e/adverse-abstraction-presents-a-clothing-swap-tickets-1267678483469",
+    "cost": "$5 admission (2-for-1 tickets are available for a limited time)"
+  },
+  {
+    "title": "A Protest History of the United States",
+    "description": "Writer, professor of constitutional law, civil rights attorney, and playwright Gloria J. Browne-Marshall presents her latest book, which chronicles key dissident movements in the U.S. and the stories of the people behind them.",
+    "start_date": "2025-04-29",
+    "start_time": "6:30 pm",
+    "link": "https://ptknitwear.com/events/45372",
+    "cost": "$5 admission can be applied towards any book or item in the café"
+  },
+  {
+    "title": "David Mamet’s A Life in the Theatre",
+    "description": "Tony Award winners Santino Fontana and BD Wong take the stage for a one-night-only reading of David Mamet’s wildly entertaining play at Symphony Space (UWS).",
+    "start_date": "2025-04-29",
+    "start_time": "7:00 pm",
+    "link": "https://theskint.com/david-mamets-a-life-in-the-theatre-with-santino-fontana-bd-wong-and-kathleen-chalfant-sponsored/",
+    "cost": "$23 ticket using code ‘mamet’ (incl. $5 fee – reg. $52 – $55)"
+  },
+  {
+    "title": "Econlol: An Economics-Themed Comedy Show",
+    "description": "Bringing together comedians and sometimes real-life economists, Luke Strathmann's economics-themed comedy show won't teach you anything about the economy, but it will give you a chance to laugh at it.",
+    "start_date": "2025-04-29",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/events/econlol-an-economics-themed-comedy-show-4-29-2025"
+  },
+  {
+    "title": "Cinema Smootaphilia: Emmanuelle",
+    "description": "Ensemble Erotic performs a live, original soundtrack to 1974 French softcore classic, Emmanuelle, starring Sylvia Kristel.",
+    "start_date": "2025-04-29",
+    "start_time": "7:00 pm",
+    "link": "https://wl.seetickets.us/event/smootaphilia-ensemble-erotic-scores-emmanuelle/645912?afflky=TVEye",
+    "cost": "$15"
+  },
+  {
+    "title": "Whiskey River Revival: A Willie Nelson Birthday Celebration",
+    "description": "Brooklyn band The Loyales and a large roster of guest performers pay tribute to Willie Nelson with a night of music celebrating his legendary catalog.",
+    "start_date": "2025-04-29",
+    "start_time": "8:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1310209976309",
+    "cost": "$12 with promo code ‘whiskey5’ (reg. $18.67 adv, $24.58 day of)"
   }
 ]

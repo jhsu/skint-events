@@ -1,257 +1,191 @@
 [
   {
-    "title": "Dance Party at Bryant Park",
-    "description": "Meet at the Bryant Park fountain for the 11th annual outdoor dance party series, featuring six themed evenings of Motown, Afrofusion, Bachata and Merengue, and Brazilian Samba and Forró.",
-    "start_date": "2025-05-01",
-    "link": "https://bryantpark.org/activities/dance-party",
-    "cost": "Free"
+    "title": "5 Borough Bazaar at Grand Bazaar NYC",
+    "description": "A community bazaar featuring local vendors and artisans, held indoors and outdoors.",
+    "start_date": "2025-05-04",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/5-borough-bazaar-made-in-nyc/",
+    "address": "100 W 77th St at Columbus Ave, UWS",
+    "cost": "Undefined"
   },
   {
-    "title": "Meditation at Madison Square Park",
-    "description": "Join in a lunchtime guided meditation class in Madison Square Park (Flatiron), where you'll practice cultivating comfort and stillness in the center of our bustling city.",
-    "start_date": "2025-05-01",
+    "title": "4th Annual Gjergj Kastrioti Skenderbeu Fair",
+    "description": "A cultural fair celebrating the heritage and contributions of the Albanian community.",
+    "start_date": "2025-05-04",
     "start_time": "12:00 pm",
-    "link": "https://madisonsquarepark.org/community/calendar/event/chelsea-piers-fitness-x-madison-square-park-meditation-class-2/",
-    "cost": "Free admission (rsvp)."
+    "end_time": "6:00 pm",
+    "link": "https://bronxlittleitaly.com/events/4th-annual-gjergj-kastrioti-skenderbeu-fair/",
+    "address": "Corner of Crescent Ave + Arthur Ave, Bronx",
+    "cost": "Undefined"
   },
   {
-    "title": "Not in My Backyard! A Political Comedy Roundtable",
-    "description": "A panel of opinionated NYC comedians, journalists, and politicians debate the local issues causing drama in your neighborhood’s Facebook group.",
-    "start_date": "2025-05-01",
-    "start_time": "7:00 pm",
-    "link": "https://ucbcomedy.com/show/not-in-my-backyard-4/",
-    "cost": "$10 adv, $15 day of."
+    "title": "Xanadu Afterglow: May the Fourth Be on Wheels All-Ages Skate Party",
+    "description": "A roller skating party celebrating Star Wars Day, featuring music and fun activities.",
+    "start_date": "2025-05-04",
+    "start_time": "12:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://dice.fm/event/av9lwq-xanadu-afterglow-may-the-fourth-be-on-wheels-skate-4th-may-xanadu-new-york-city-tickets",
+    "address": "Xanadu Roller Arts, Bushwick",
+    "cost": "$20.60 + $7 skate rental (or byo)"
   },
   {
-    "title": "Free Outdoor Movie: Fall Guy",
-    "description": "Weather permitting, enjoy a free outdoor movie screening of Fall Guy (1947) at Coleman Playground (LES).",
-    "start_date": "2025-05-01",
-    "start_time": "7:30 pm",
-    "link": "https://www.nycgovparks.org/events/2025/04/30/movies-under-the-stars-fall-guy",
-    "cost": "Free."
+    "title": "May the Fourth Cantina Party",
+    "description": "A themed party celebrating Star Wars Day, featuring drinks and entertainment.",
+    "start_date": "2025-05-04",
+    "start_time": "6:00 pm",
+    "link": "https://www.eventbrite.co.uk/e/may-the-fourth-cantina-party-sponsored-by-andor-s2-tickets-1343298194059",
+    "address": "Spin New York, Times Square",
+    "cost": "Free with RSVP before 8:30pm ($10 after)"
   },
   {
-    "title": "Subway Series Comedy",
-    "description": "Next stop, a subway-themed cannabis dispensary for Priya Blunts’s subway series comedy show, featuring various comedians.",
-    "start_date": "2025-05-01",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/subway-series-free-comedy-show-tickets-1333595773859",
-    "cost": "$4.94."
-  },
-  {
-    "title": "We Have Fun: A Stand-Up Show",
-    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s (South Slope), with stand-up by various comedians.",
-    "start_date": "2025-05-01",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
-    "cost": "Free."
-  },
-  {
-    "title": "Punderdome: Comedy Pun Slam",
-    "description": "Pun-masters have a war of the words at the beloved pun-slinging competition, hosted by Fred Firestone.",
-    "start_date": "2025-05-01",
-    "start_time": "8:00 pm",
-    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1291660414069",
-    "cost": "$12 adv, $15 day-of."
-  },
-  {
-    "title": "Ambush Comedy Show",
-    "description": "The Ambush Comedy Show takes over Stefano’s Tattoo Studio in Williamsburg for a night of jabs and jokes, featuring various comedians.",
-    "start_date": "2025-05-01",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/ambush-comedy-w-josh-johnson-brittany-cardwell-lucas-connolly-tickets-1306095931089",
-    "cost": "Free."
-  },
-  {
-    "title": "What Happened with Why – Episode 5",
-    "description": "Hannibal Buress explores the failure of his 2015 comedy central show with a screening and commentary.",
-    "start_date": "2025-05-01",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/what-happened-with-why-episode-5-tickets-1333474260409",
-    "cost": "Free."
-  },
-  {
-    "title": "Giving Up Screening and Panel",
-    "description": "Kris Lefcoe presents a screening and panel discussion of her 2018 half-hour pilot, celebrating its long-overdue public premiere.",
-    "start_date": "2025-05-01",
+    "title": "Jizz! at the Cantina Disco Drag Show",
+    "description": "A drag show celebrating Star Wars themes, featuring performances by various artists.",
+    "start_date": "2025-05-04",
     "start_time": "9:00 pm",
-    "link": "https://www.roxycinemanewyork.com/screenings/giving-up-qa/",
-    "cost": "$18."
-  },
-  {
-    "title": "Friends with Caveats",
-    "description": "Expect everything from stand-up and character performances to music and even PowerPoint presentations at Caveat's weekly comedy show.",
-    "start_date": "2025-05-01",
-    "start_time": "9:30 pm",
-    "link": "https://caveat.nyc/events/friends-with-caveats-more-than-a-one-night-stand-up-show-4-30-2025",
-    "cost": "$10 adv, $15 door."
-  },
-  {
-    "title": "Summer on the Hudson",
-    "description": "Riverside Park + West Harlem Piers Park's annual arts and culture festival returns for its 23rd year with nearly 400 free events.",
-    "start_date": "2025-05-01",
-    "link": "https://linktr.ee/summeronthehudson",
-    "cost": "Free."
-  },
-  {
-    "title": "The Whitney's Decade Downtown",
-    "description": "The Whitney Museum of American Art celebrates its decade in the Meatpacking District with 10 weeks of special programs and events.",
-    "start_date": "2025-05-01",
-    "link": "https://whitney.org/decade-downtown",
-    "cost": "Various prices."
-  },
-  {
-    "title": "LES History Month",
-    "description": "Lower East Side History Month, founded in 2014, is an annual celebration of the stories and peoples of the LES.",
-    "start_date": "2025-05-01",
-    "link": "https://peoplesles.org/les-history-month/",
-    "cost": "Various prices."
-  },
-  {
-    "title": "Serials Short Play Series",
-    "description": "Five teams of actors perform five original, 10-minute episodic plays, each with only six hours of rehearsal time.",
-    "start_date": "2025-05-01",
-    "link": "https://thetanknyc.org/calendar-1/serials-may2025",
-    "cost": "$18 with promo code ‘5erials’ (reg. $23+)."
-  },
-  {
-    "title": "15th Annual Lower East Side Film Festival",
-    "description": "The annual fest celebrates indie film with five days of premiere feature films, short showcases, industry talks, and parties.",
-    "start_date": "2025-05-01",
-    "link": "https://www.lesfilmfestival.com",
-    "cost": "$18+."
-  },
-  {
-    "title": "15th Annual Westfest Dance Festival",
-    "description": "The West Fest Dance Festival presents work by 24 artists in two unique programs at Westbeth Artist Housing (West Village).",
-    "start_date": "2025-05-01",
-    "link": "https://www.westfestdance.com",
-    "cost": "$20+."
-  },
-  {
-    "title": "Dumbo First Thursday Gallery Walk",
-    "description": "Explore Dumbo's waterfront arts scene at the first Thursday gallery walk, where eight galleries will stay open late for a night of opening receptions, special events, and artist talks.",
-    "start_date": "2025-05-01",
-    "start_time": "6:00 pm",
-    "link": "https://artindumbo.com/first-thursdays/",
-    "cost": "Free."
-  },
-  {
-    "title": "The Rally Reading Series: ‘The Heart of a March in the Body of a Reading Series’",
-    "description": "The Rally Reading Series returns for an evening of readings and discussion with various authors.",
-    "start_date": "2025-05-01",
-    "start_time": "7:00 pm",
-    "link": "https://www.rallyreadingseries.com/schedule",
-    "cost": "Free."
-  },
-  {
-    "title": "John and Scott: Two Person Improv",
-    "description": "Former 30 Rock cast members Scott Adsit and John Lutz pair up for an improv show at UCB Theatre (East Village).",
-    "start_date": "2025-05-01",
-    "start_time": "7:00 pm",
-    "link": "https://ucbcomedy.com/show/john-and-scott-two-person-improv-7/",
-    "cost": "$10 adv, $15 day of."
-  },
-  {
-    "title": "Free Outdoor Movie: Ghostbusters: Frozen Empire",
-    "description": "Weather permitting, enjoy a free outdoor movie screening at De Witt Clinton Park (Hell’s Kitchen).",
-    "start_date": "2025-05-01",
-    "start_time": "7:30 pm",
-    "link": "https://www.nycgovparks.org/events/2025/05/01/movies-under-the-stars-ghostbusters-frozen-empire",
-    "cost": "Free."
-  },
-  {
-    "title": "Tip Top Tits Comedy Show",
-    "description": "It’s comedy or bust at Janet Hyde and Mary Cella’s stand-up show, featuring various comedians.",
-    "start_date": "2025-05-01",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/tip-top-tits-a-stand-up-comedy-show-9-months-pregnant-edition-tickets-1334195638069",
-    "cost": "Free."
-  },
-  {
-    "title": "In Dreams – A Drag Tribute to David Lynch",
-    "description": "Miss Malice and Mettie present a pair of drag tributes to the vision of David Lynch, with performances by various artists.",
-    "start_date": "2025-05-01",
-    "start_time": "8:00 pm",
-    "link": "https://dice.fm/event/v3r9x6-in-dreams-a-drag-tribute-to-david-lynch-1st-may-cmon-everybody-new-york-tickets",
-    "cost": "$18.54-20.60."
-  },
-  {
-    "title": "Cherry Blossom Update",
-    "description": "Brooklyn Botanic Garden’s main rows of the cherry esplanade, filled with 100 trees, are in peak bloom!",
-    "start_date": "2025-04-30",
-    "link": "https://www.bbg.org/collections/cherries",
-    "cost": "$22 general, $16 seniors/students, free community tickets may also be available"
-  },
-  {
-    "title": "Rooftop Cinema Club",
-    "description": "Take your movie night to new heights at Rooftop Cinema Club, the annual open-air movie series held at the third floor skylawn rooftop of the Embassy Suites Hotel in Midtown. Catch cult favorites, classics, and newer releases all season long, with provided wireless headphones to help block out the city buzz.",
-    "start_date": "2025-04-30",
-    "link": "https://rooftopcinemaclub.com/new-york/venue/midtown/",
-    "cost": "$12-29 admission (15% off for military, 10% off for students)"
-  },
-  {
-    "title": "Tai Chi in Bryant Park",
-    "description": "Bryant Park's free outdoor tai chi classes return for the 2025 season. Held at the park's fountain terrace, the classes are open to all experience levels and take place rain or shine—unless weather is severe.",
-    "start_date": "2025-04-30",
-    "start_time": "7:30 am",
-    "link": "https://bryantpark.org/calendar/event/tai-chi/2024-04-30",
-    "cost": "Free"
-  },
-  {
-    "title": "Clothing Swap",
-    "description": "Give your closet a refresh! Swap your under-used clothes for new-to-you finds at this clothing swap, hosted by Adverse Abstraction at Otto’s Shrunken Head (East Village). Unclaimed items will be donated to Housing Works.",
-    "start_date": "2025-04-30",
-    "start_time": "6:00 pm",
-    "link": "https://www.eventbrite.com/e/adverse-abstraction-presents-a-clothing-swap-tickets-1267678483469",
-    "cost": "$5 admission (2-for-1 tickets are available for a limited time)"
-  },
-  {
-    "title": "A Protest History of the United States",
-    "description": "Writer, professor of constitutional law, civil rights attorney, and playwright Gloria J. Browne-Marshall presents her latest book, which chronicles key dissident movements in the U.S. and the stories of the people behind them.",
-    "start_date": "2025-04-30",
-    "start_time": "6:30 pm",
-    "link": "https://ptknitwear.com/events/45372",
-    "cost": "$5 admission can be applied towards any book or item in the café."
-  },
-  {
-    "title": "David Mamet’s A Life in the Theatre",
-    "description": "Tony Award winners Santino Fontana and BD Wong take the stage for a one-night-only reading of David Mamet’s wildly entertaining play at Symphony Space (UWS).",
-    "start_date": "2025-04-30",
-    "start_time": "7:00 pm",
-    "link": "https://theskint.com/david-mamets-a-life-in-the-theatre-with-santino-fontana-bd-wong-and-kathleen-chalfant-sponsored/",
-    "cost": "$23 ticket using code ‘mamet’ (incl. $5 fee – reg. $52 – $55)"
-  },
-  {
-    "title": "Econlol: An Economics-Themed Comedy Show",
-    "description": "Bringing together comedians and sometimes real-life economists, Luke Strathmann's economics-themed comedy show won't teach you anything about the economy, but it will give you a chance to laugh at it.",
-    "start_date": "2025-04-30",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/events/econlol-an-economics-themed-comedy-show-4-29-2025",
-    "cost": "$5 with promo code ‘recession’"
-  },
-  {
-    "title": "Cinema Smootaphilia: Emmanuelle",
-    "description": "Ensemble Erotic performs a live, original soundtrack to 1974 French softcore classic, Emmanuelle, starring Sylvia Kristel.",
-    "start_date": "2025-04-30",
-    "start_time": "7:00 pm",
-    "link": "https://wl.seetickets.us/event/smootaphilia-ensemble-erotic-scores-emmanuelle/645912?afflky=TVEye",
+    "link": "https://clubcummingnyc.com/schedule/2025/5/4/jizz-at-the-cantina",
+    "address": "Club Cumming, East Village",
     "cost": "$15"
   },
   {
-    "title": "Whiskey River Revival: A Willie Nelson Birthday Celebration",
-    "description": "Brooklyn band The Loyales and a large roster of guest performers pay tribute to Willie Nelson with a night of music celebrating his legendary catalog.",
-    "start_date": "2025-04-30",
-    "start_time": "8:00 pm",
-    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1310209976309",
-    "cost": "$12 with promo code ‘whiskey5’ (reg. $18.67 adv, $24.58 day of)"
+    "title": "24th Annual Free Comic Book Day",
+    "description": "Celebration at participating local comic shops, offering free comic books to attendees.",
+    "start_date": "2025-05-03",
+    "link": "https://www.freecomicbookday.com",
+    "cost": "Free"
   },
   {
-    "title": "2025 World Voices Festival",
-    "description": "Celebrating the 20th anniversary of the World Voices Festival with 100+ writers from 35 countries, including Chimamanda Ngozi Adichie, Jennifer Egan, and many more. Timely sessions including a film screening and discussion about writing in exile, writing about the end of democracy, and more.",
-    "start_date": "2025-04-30",
-    "end_date": "2025-05-03",
-    "link": "https://worldvoices.pen.org/?utm_source=skint&utm_medium=ads&utm_campaign=wvf25&utm_id=partner&utm_content=email",
-    "cost": "Various prices, many events are free."
+    "title": "Old Stone House Artisans Bazaar",
+    "description": "Artisan market featuring local crafts and goods, taking place at Washington Park.",
+    "start_date": "2025-05-03",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://www.brooklynpop-up.com/market-details/old-stone-house-artisans-bazaar/r/recQW5LJu5luYJfSA",
+    "address": "Washington Park, Park Slope",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Black Zine Fair",
+    "description": "A gathering celebrating zines and independent publishing, featuring various vendors and activities.",
+    "start_date": "2025-05-03",
+    "start_time": "11:00 am",
+    "end_time": "6:00 pm",
+    "link": "https://blackzinefair.org",
+    "address": "Powerhouse Arts, Gowanus",
+    "cost": "Free"
+  },
+  {
+    "title": "1,000 Free Smash Burger Giveaway",
+    "description": "Free burgers at Smashy’s new location, while supplies last.",
+    "start_date": "2025-05-03",
+    "start_time": "12:00 pm",
+    "link": "https://www.instagram.com/smashyclub/",
+    "address": "42 Union Square East",
+    "cost": "Free"
+  },
+  {
+    "title": "Woofstock: Badass Animal Rescue Spring Fest Block Party",
+    "description": "A block party celebrating animals and rescue efforts, featuring activities and vendors.",
+    "start_date": "2025-05-03",
+    "start_time": "12:00 pm",
+    "end_time": "5:00 pm",
+    "link": "https://badassanimalrescue.com/woofstock-badass-street-fest",
+    "address": "President Street between 3rd Ave and Nevins, Gowanus",
+    "cost": "Free"
+  },
+  {
+    "title": "Brooklyn Film Camera Yard Sale",
+    "description": "A yard sale for film cameras and accessories, perfect for photography enthusiasts.",
+    "start_date": "2025-05-03",
+    "start_time": "3:00 pm",
+    "end_time": "7:00 pm",
+    "link": "https://brooklynfilmcamera.com/pages/calendar#?event-id=49114",
+    "address": "855 Grand St, East Williamsburg",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Queens Night Market",
+    "description": "A vibrant night market featuring food, crafts, and entertainment, with a sneak preview event.",
+    "start_date": "2025-05-03",
+    "start_time": "4:00 pm",
+    "end_time": "12:00 am",
+    "link": "https://queensnightmarket.com",
+    "address": "New York Hall of Science, Flushing Meadows Corona Park",
+    "cost": "$5-8 for 5/3, free starting 5/10"
+  },
+  {
+    "title": "Kawaii Holiday Market",
+    "description": "A market celebrating kawaii culture with vendors, activities, and more.",
+    "start_date": "2025-05-03",
+    "start_time": "12:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://www.eventbrite.com/e/kawaii-holiday-market-tickets-1313208535079",
+    "address": "Ideal Glass Studios, Greenwich Village",
+    "cost": "Free"
+  },
+  {
+    "title": "Torch + Crown Beer Garden",
+    "description": "Returns to Union Square Pavilion for the season, offering a cultural experience with food and drinks.",
+    "start_date": "2025-05-02",
+    "end_date": "2025-10-31",
+    "link": "https://www.instagram.com/p/DJCM-zUI6f7/?img_index=1",
+    "address": "Union Square Pavilion",
+    "cost": "Undefined"
+  },
+  {
+    "title": "25th Annual Coney Island Film Festival",
+    "description": "A film festival showcasing independent films at Coney Island USA.",
+    "start_date": "2025-05-02",
+    "end_date": "2025-05-04",
+    "link": "https://www.coneyisland.com/event/coney-island-film-festival-2025",
+    "cost": "$10+"
+  },
+  {
+    "title": "Annual Margaret Mead Film Festival",
+    "description": "A film festival at the American Museum of Natural History featuring documentaries and discussions.",
+    "start_date": "2025-05-02",
+    "end_date": "2025-05-04",
+    "link": "https://www.amnh.org/explore/margaret-mead-film-festival",
+    "cost": "$12-20 general, $10-15 students/seniors"
+  },
+  {
+    "title": "15th Annual Lower East Side Film Festival",
+    "description": "A film festival showcasing independent films at various venues in the Lower East Side.",
+    "start_date": "2025-05-02",
+    "end_date": "2025-05-04",
+    "link": "https://www.lesfilmfestival.com",
+    "cost": "$18+ (save 50% with promo code 'essex50')"
+  },
+  {
+    "title": "Guided by Animals",
+    "description": "A film series at Metrograph featuring animal-themed films.",
+    "start_date": "2025-05-02",
+    "end_date": "2025-05-26",
+    "link": "https://metrograph.com/category/guided-by-animals/",
+    "cost": "$17"
+  },
+  {
+    "title": "Scenes from the 'End of History'",
+    "description": "A film series at Metrograph featuring films that explore historical themes.",
+    "start_date": "2025-05-02",
+    "end_date": "2025-05-26",
+    "link": "https://metrograph.com/category/scenes-from-the-end-of-history/",
+    "cost": "$17"
+  },
+  {
+    "title": "The Time That Remains",
+    "description": "A film series at Metrograph featuring films that reflect on time and existence.",
+    "start_date": "2025-05-02",
+    "end_date": "2025-05-26",
+    "link": "https://metrograph.com/category/the-time-that-remains/",
+    "cost": "$17"
+  },
+  {
+    "title": "Drunken Shakespearean Star Wars Performances",
+    "description": "A comedic performance blending Shakespeare and Star Wars themes, taking place at The Rat.",
+    "start_date": "2025-05-02",
+    "end_date": "2025-05-04",
+    "link": "https://randomaccesstheatre.weebly.com/drunk-texts.html",
+    "cost": "$12-15"
   }
 ]

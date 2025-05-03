@@ -1,82 +1,91 @@
 [
   {
     "title": "5 Borough Bazaar at Grand Bazaar NYC",
-    "description": "A community bazaar featuring local vendors and artisans, held indoors and outdoors.",
+    "description": "Indoors and outdoors at 100 W 77th St at Columbus Ave (UWS).",
     "start_date": "2025-05-04",
     "start_time": "10:00 am",
     "end_time": "5:00 pm",
     "link": "https://grandbazaarnyc.org/events/5-borough-bazaar-made-in-nyc/",
-    "address": "100 W 77th St at Columbus Ave, UWS",
-    "cost": "Undefined"
+    "address": "100 W 77th St at Columbus Ave (UWS)",
+    "cost": "Free"
   },
   {
     "title": "4th Annual Gjergj Kastrioti Skenderbeu Fair",
-    "description": "A cultural fair celebrating the heritage and contributions of the Albanian community.",
+    "description": "At the corner of Crescent Ave + Arthur Ave (Bronx).",
     "start_date": "2025-05-04",
     "start_time": "12:00 pm",
     "end_time": "6:00 pm",
     "link": "https://bronxlittleitaly.com/events/4th-annual-gjergj-kastrioti-skenderbeu-fair/",
-    "address": "Corner of Crescent Ave + Arthur Ave, Bronx",
-    "cost": "Undefined"
+    "address": "Corner of Crescent Ave + Arthur Ave (Bronx)",
+    "cost": "Free"
   },
   {
     "title": "Xanadu Afterglow: May the Fourth Be on Wheels All-Ages Skate Party",
-    "description": "A roller skating party celebrating Star Wars Day, featuring music and fun activities.",
+    "description": "At Xanadu Roller Arts (Bushwick).",
     "start_date": "2025-05-04",
     "start_time": "12:00 pm",
     "end_time": "6:00 pm",
     "link": "https://dice.fm/event/av9lwq-xanadu-afterglow-may-the-fourth-be-on-wheels-skate-4th-may-xanadu-new-york-city-tickets",
-    "address": "Xanadu Roller Arts, Bushwick",
-    "cost": "$20.60 + $7 skate rental (or byo)"
+    "address": "Xanadu Roller Arts (Bushwick)",
+    "cost": "$20.60 + $7 skate rental (or BYO)"
   },
   {
     "title": "May the Fourth Cantina Party",
-    "description": "A themed party celebrating Star Wars Day, featuring drinks and entertainment.",
+    "description": "Sponsored by Andor Season 2 at Spin New York (Times Square).",
     "start_date": "2025-05-04",
     "start_time": "6:00 pm",
     "link": "https://www.eventbrite.co.uk/e/may-the-fourth-cantina-party-sponsored-by-andor-s2-tickets-1343298194059",
-    "address": "Spin New York, Times Square",
+    "address": "Spin New York (Times Square)",
     "cost": "Free with RSVP before 8:30pm ($10 after)"
   },
   {
     "title": "Jizz! at the Cantina Disco Drag Show",
-    "description": "A drag show celebrating Star Wars themes, featuring performances by various artists.",
+    "description": "At Club Cumming (East Village).",
     "start_date": "2025-05-04",
     "start_time": "9:00 pm",
     "link": "https://clubcummingnyc.com/schedule/2025/5/4/jizz-at-the-cantina",
-    "address": "Club Cumming, East Village",
+    "address": "Club Cumming (East Village)",
     "cost": "$15"
   },
   {
+    "title": "Torch + Crown Beer Garden",
+    "description": "Returns to Union Square Pavilion for the season.",
+    "start_date": "2025-05-03",
+    "end_date": "2025-10-31",
+    "link": "https://www.instagram.com/p/DJCM-zUI6f7/?img_index=1",
+    "address": "Union Square Pavilion",
+    "cost": "Free"
+  },
+  {
     "title": "24th Annual Free Comic Book Day",
-    "description": "Celebration at participating local comic shops, offering free comic books to attendees.",
+    "description": "At participating local comic shops.",
     "start_date": "2025-05-03",
     "link": "https://www.freecomicbookday.com",
     "cost": "Free"
   },
   {
     "title": "Old Stone House Artisans Bazaar",
-    "description": "Artisan market featuring local crafts and goods, taking place at Washington Park.",
+    "description": "Artisans market at Washington Park (Park Slope).",
     "start_date": "2025-05-03",
     "start_time": "10:00 am",
     "end_time": "5:00 pm",
     "link": "https://www.brooklynpop-up.com/market-details/old-stone-house-artisans-bazaar/r/recQW5LJu5luYJfSA",
-    "address": "Washington Park, Park Slope",
-    "cost": "Undefined"
+    "address": "Washington Park (Park Slope)",
+    "cost": "Free"
   },
   {
     "title": "Black Zine Fair",
-    "description": "A gathering celebrating zines and independent publishing, featuring various vendors and activities.",
+    "description": "At Powerhouse Arts (Gowanus), free admission.",
     "start_date": "2025-05-03",
     "start_time": "11:00 am",
     "end_time": "6:00 pm",
     "link": "https://blackzinefair.org",
-    "address": "Powerhouse Arts, Gowanus",
+    "address": "Powerhouse Arts (Gowanus)",
     "cost": "Free"
   },
   {
     "title": "1,000 Free Smash Burger Giveaway",
-    "description": "Free burgers at Smashy’s new location, while supplies last.",
+    "description": "At Smashy’s new location at 42 Union Square East.",
     "start_date": "2025-05-03",
     "start_time": "12:00 pm",
     "link": "https://www.instagram.com/smashyclub/",
@@ -85,56 +94,47 @@
   },
   {
     "title": "Woofstock: Badass Animal Rescue Spring Fest Block Party",
-    "description": "A block party celebrating animals and rescue efforts, featuring activities and vendors.",
+    "description": "Block party at President Street between 3rd Ave and Nevins (Gowanus).",
     "start_date": "2025-05-03",
     "start_time": "12:00 pm",
     "end_time": "5:00 pm",
     "link": "https://badassanimalrescue.com/woofstock-badass-street-fest",
-    "address": "President Street between 3rd Ave and Nevins, Gowanus",
+    "address": "President Street between 3rd Ave and Nevins (Gowanus)",
     "cost": "Free"
   },
   {
     "title": "Brooklyn Film Camera Yard Sale",
-    "description": "A yard sale for film cameras and accessories, perfect for photography enthusiasts.",
+    "description": "At 855 Grand St (East Williamsburg).",
     "start_date": "2025-05-03",
     "start_time": "3:00 pm",
     "end_time": "7:00 pm",
     "link": "https://brooklynfilmcamera.com/pages/calendar#?event-id=49114",
-    "address": "855 Grand St, East Williamsburg",
-    "cost": "Undefined"
+    "address": "855 Grand St (East Williamsburg)",
+    "cost": "Free"
   },
   {
     "title": "Queens Night Market",
-    "description": "A vibrant night market featuring food, crafts, and entertainment, with a sneak preview event.",
+    "description": "At New York Hall of Science at Flushing Meadows Corona Park, $5-8 admission for 5/3 sneak preview, free admission starting 5/10.",
     "start_date": "2025-05-03",
     "start_time": "4:00 pm",
     "end_time": "12:00 am",
     "link": "https://queensnightmarket.com",
-    "address": "New York Hall of Science, Flushing Meadows Corona Park",
-    "cost": "$5-8 for 5/3, free starting 5/10"
+    "address": "New York Hall of Science at Flushing Meadows Corona Park",
+    "cost": "$5-8"
   },
   {
     "title": "Kawaii Holiday Market",
-    "description": "A market celebrating kawaii culture with vendors, activities, and more.",
+    "description": "At Ideal Glass Studios (Greenwich Village), free admission.",
     "start_date": "2025-05-03",
     "start_time": "12:00 pm",
     "end_time": "6:00 pm",
     "link": "https://www.eventbrite.com/e/kawaii-holiday-market-tickets-1313208535079",
-    "address": "Ideal Glass Studios, Greenwich Village",
+    "address": "Ideal Glass Studios (Greenwich Village)",
     "cost": "Free"
   },
   {
-    "title": "Torch + Crown Beer Garden",
-    "description": "Returns to Union Square Pavilion for the season, offering a cultural experience with food and drinks.",
-    "start_date": "2025-05-02",
-    "end_date": "2025-10-31",
-    "link": "https://www.instagram.com/p/DJCM-zUI6f7/?img_index=1",
-    "address": "Union Square Pavilion",
-    "cost": "Undefined"
-  },
-  {
     "title": "25th Annual Coney Island Film Festival",
-    "description": "A film festival showcasing independent films at Coney Island USA.",
+    "description": "At Coney Island USA, $10+.",
     "start_date": "2025-05-02",
     "end_date": "2025-05-04",
     "link": "https://www.coneyisland.com/event/coney-island-film-festival-2025",
@@ -142,31 +142,31 @@
   },
   {
     "title": "Annual Margaret Mead Film Festival",
-    "description": "A film festival at the American Museum of Natural History featuring documentaries and discussions.",
+    "description": "At the American Museum of Natural History (UWS), $12-20 general, $10-15 students/seniors.",
     "start_date": "2025-05-02",
     "end_date": "2025-05-04",
     "link": "https://www.amnh.org/explore/margaret-mead-film-festival",
-    "cost": "$12-20 general, $10-15 students/seniors"
+    "cost": "$12-20"
   },
   {
     "title": "15th Annual Lower East Side Film Festival",
-    "description": "A film festival showcasing independent films at various venues in the Lower East Side.",
+    "description": "At Village East Cinema and DCTV’s Firehouse Cinema, $18+ (save 50% with promo code ‘essex50’).",
     "start_date": "2025-05-02",
     "end_date": "2025-05-04",
     "link": "https://www.lesfilmfestival.com",
-    "cost": "$18+ (save 50% with promo code 'essex50')"
+    "cost": "$18+"
   },
   {
     "title": "Guided by Animals",
-    "description": "A film series at Metrograph featuring animal-themed films.",
+    "description": "At Metrograph (LES): The Black Stallion, My Neighbor Totoro, Au Hasard Balthazar, and more. $17.",
     "start_date": "2025-05-02",
     "end_date": "2025-05-26",
     "link": "https://metrograph.com/category/guided-by-animals/",
     "cost": "$17"
   },
   {
-    "title": "Scenes from the 'End of History'",
-    "description": "A film series at Metrograph featuring films that explore historical themes.",
+    "title": "Scenes from the ‘End of History’",
+    "description": "At Metrograph (LES): Three Colors: White, Bamboozled, Werckmeister Harmonies, and more. $17.",
     "start_date": "2025-05-02",
     "end_date": "2025-05-26",
     "link": "https://metrograph.com/category/scenes-from-the-end-of-history/",
@@ -174,7 +174,7 @@
   },
   {
     "title": "The Time That Remains",
-    "description": "A film series at Metrograph featuring films that reflect on time and existence.",
+    "description": "At Metrograph (LES): Cléo from 5 to 7, My Life Without Me, Cries and Whispers, Magnolia, and more. $17.",
     "start_date": "2025-05-02",
     "end_date": "2025-05-26",
     "link": "https://metrograph.com/category/the-time-that-remains/",
@@ -182,7 +182,7 @@
   },
   {
     "title": "Drunken Shakespearean Star Wars Performances",
-    "description": "A comedic performance blending Shakespeare and Star Wars themes, taking place at The Rat.",
+    "description": "Star Wars: ‘A Hope Renew’d, ‘The Empire Doth Protest,’ and the Prequels: A Comedy of Errors at The Rat (Dumbo).",
     "start_date": "2025-05-02",
     "end_date": "2025-05-04",
     "link": "https://randomaccesstheatre.weebly.com/drunk-texts.html",

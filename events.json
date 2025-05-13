@@ -1,11 +1,58 @@
 [
   {
-    "title": "Ella Beatty and Hugh Jackman Live in NYC",
-    "description": "Don't miss Ella Beatty, Hugh Jackman, Liev Schreiber, Maggie Siff, and Justice Smith in two plays at Audible's Minetta Lane Theatre, directed in rep by Ian Rickson through June 18 only. The event features performances of 'Sexual Misconduct of the Middle Classes' and 'Creditors'.",
-    "start_date": "2025-05-12",
-    "end_date": "2025-06-18",
-    "link": "https://www.theskint.com/35-tickets-to-see-ella-beatty-and-hugh-jackman-live-in-nyc-sponsored/",
-    "address": "Audible's Minetta Lane Theatre, NYC",
-    "cost": "$35 at the box office, $86.50 advance tickets"
+    "title": "The Forest Within",
+    "description": "Step into 'The Forest Within,' a new immersive installation at Genesis House (Meatpacking District) created in collaboration with Gwyneth Paltrow, floral designer Heff Leatham, and Genesis House. Inspired by the infinite power of nature, the installation reimagines the Korean forest, offering moments of reflection along the way.",
+    "start_date": "2025-05-13",
+    "start_time": "11:00 am",
+    "end_date": "2025-06-29",
+    "end_time": "8:00 pm",
+    "link": "https://www.genesishouse.com/us/en/nyc/the-forest-within.html/",
+    "address": "Genesis House, Meatpacking District",
+    "cost": "Free"
+  },
+  {
+    "title": "FIT Graduating Student Exhibition",
+    "description": "The Fashion Institute of Technology's 2025 graduating student exhibition presents the work of more than 600 graduates in 16 areas of study from the School of Art and Design. The exhibition will be on view in several spaces on FIT’s campus on West 27th Street in Chelsea.",
+    "start_date": "2025-05-13",
+    "end_date": "2025-05-25",
+    "link": "https://www.fitnyc.edu/academics/academic-divisions/art-and-design/about/graduating-student-exhibition.php",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Dead in the Park Concert",
+    "description": "Stella Blue’s Band brings the spirit of the Grateful Dead back to Central Park’s Naumburg Bandshell—the same spot where the Dead played to a crowd of 5,000 in 1968. For the sixth annual free Dead in the Park concert, the cover band will perform two sets to raise awareness and funds for Riverkeeper’s efforts to help clean the Hudson River.",
+    "start_date": "2025-05-13",
+    "start_time": "4:30 pm",
+    "end_time": "7:45 pm",
+    "link": "https://www.freedeadinthepark.com",
+    "address": "Naumburg Bandshell, Central Park",
+    "cost": "Free (donations welcome)"
+  },
+  {
+    "title": "Booze + Build",
+    "description": "Let your inner kid run wild (with a drink in hand) at Booze + Build, a playful night of building brick fun for grown-ups where you use a set of freestyle bricks to bring your wildest ideas to life. Plus, enjoy games, challenges, and prizes along the way. Building sets are available for purchase if you would like to take your creation home.",
+    "start_date": "2025-05-13",
+    "start_time": "7:30 pm",
+    "link": "https://qedastoria.com/products/booze-build?event=2025-05-13t19:30:00",
+    "address": "Q.E.D., Astoria",
+    "cost": "$12"
+  },
+  {
+    "title": "Central Chamber Series: Dreams and Passions",
+    "description": "The Central Chamber Series at Central Presbyterian Church (UES) presents an evening concert featuring works that touch on the themes of dreams, passions, and memories. Tonight's season finale program includes Boccherini's Quintet No. 4 for guitar and strings 'Fandango' and Tchaikovsky's 'Souvenir de Florence.'",
+    "start_date": "2025-05-13",
+    "start_time": "7:30 pm",
+    "link": "https://www.centralchamberseries.com",
+    "address": "Central Presbyterian Church, UES",
+    "cost": "$20 general, free for students with ID"
+  },
+  {
+    "title": "Forbhidden People: An Elven Burlesque",
+    "description": "Let Bitsy Brûlée, Persé Fanny, and Rosie Tulips cast a spell on you at their burlesque and variety show celebrating the mystical and magical realm of Icelandic folklore.",
+    "start_date": "2025-05-13",
+    "start_time": "7:30 pm",
+    "link": "https://withfriends.co/event/23120478/forbhidden_people_an_elven_burlesque",
+    "address": "Footlight Underground, Windjammer, Ridgewood",
+    "cost": "$10-20 sliding scale admission (no one turned away for lack of funds)"
   }
 ]

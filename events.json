@@ -10,26 +10,28 @@
   },
   {
     "title": "Dance Party at Bryant Park",
-    "description": "Meet at the Bryant Park fountain for the 11th annual themed outdoor dance party series. This week’s finale: Brazilian samba and forró with Bossa Brazil Band (Weds 6-8:30pm) and a Latin festival with Sebastian Natal + the Orchestra and Flaco Navaja + The Razor Blades (Thurs 6-10pm). Both evenings include a dance lesson at 6pm.",
-    "start_date": "2025-05-14",
+    "description": "Meet at the Bryant Park fountain for the 11th annual themed outdoor dance party series. This week’s finale: Brazilian samba and forró with Bossa Brazil Band (Weds 6-8:30pm) and a Latin festival with Sebastian Natal + the Orchestra and Flaco Navaja + The Razor Blades (Thurs 6-10pm).",
+    "start_date": "2025-05-15",
     "start_time": "6:00 pm",
-    "end_time": "8:30 pm",
+    "end_time": "10:00 pm",
     "link": "https://bryantpark.org/activities/dance-party",
     "address": "Bryant Park Fountain",
     "cost": "Free"
   },
   {
-    "title": "Free Outdoor Movies: Becoming Astrid",
-    "description": "Free outdoor movie screening of 'Becoming Astrid' at Stuyvesant Square (Manhattan).",
-    "start_date": "2025-05-14",
-    "link": "https://www.nycgovparks.org/events/2025/05/14/movies-under-the-stars-becoming-astrid",
-    "address": "Stuyvesant Square, Manhattan",
+    "title": "Tai Chi on the High Line",
+    "description": "Get elevated at this monthly series of free, morning tai chi sessions on the High Line at Little West 12th Street. Advance registration is encouraged, but walk-ups are welcome.",
+    "start_date": "2025-05-15",
+    "start_time": "10:30 am",
+    "end_date": "2025-10-15",
+    "link": "https://www.thehighline.org/events/tai-chi-wellness/",
+    "address": "High Line, Little West 12th Street",
     "cost": "Free"
   },
   {
     "title": "Amy Larocca: How to Be Well",
     "description": "Journalist Amy Larocca presents her new book, 'How to Be Well,' a researched and personal exploration of the wild world of the $3.7 trillion wellness industry and its impact on women.",
-    "start_date": "2025-05-14",
+    "start_date": "2025-05-15",
     "start_time": "6:00 pm",
     "link": "https://cornerbookstorenyc.com/event/amy-larocca-launches-her-how-to-be-well/",
     "address": "The Corner Bookstore, Carnegie Hill",
@@ -38,7 +40,7 @@
   {
     "title": "Fantastic Fiction",
     "description": "The speculative-fiction reading series, hosted by editor Ellen Datlow and writer Matthew Kressel at KGB Bar (East Village), welcomes Daryl Gregory and Carol Gyzander.",
-    "start_date": "2025-05-14",
+    "start_date": "2025-05-15",
     "start_time": "7:00 pm",
     "link": "https://www.kgbfantasticfiction.org/2025/05/05/daryl-gregory-carol-gyzander/",
     "address": "KGB Bar, East Village",
@@ -47,7 +49,7 @@
   {
     "title": "We Have Fun: A Stand-Up Show",
     "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s (South Slope), with stand-up by Kath Barbadoro, Caitlin Reese, Trey Galyon, and Michael Miller.",
-    "start_date": "2025-05-14",
+    "start_date": "2025-05-15",
     "start_time": "7:30 pm",
     "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
     "address": "Young Ethel’s, South Slope",
@@ -56,20 +58,11 @@
   {
     "title": "Top Shelf Stories",
     "description": "Julia Whitehouse serves up an evening of carefully crafted storytelling at UCB (East Village). Tonight’s show features guests Jeff Hiller, Andrew McGill, Jake Cornell, and Seth Herzog, plus one open mic slot reserved for an audience member.",
-    "start_date": "2025-05-14",
+    "start_date": "2025-05-15",
     "start_time": "8:30 pm",
     "link": "https://ucbcomedy.com/show/top-shelf-stories-9/",
     "address": "UCB, East Village",
     "cost": "$10 adv, $15 day of"
-  },
-  {
-    "title": "Friends with Caveats",
-    "description": "Expect everything from stand-up and character performances to music and even PowerPoint presentations at Caveat's weekly comedy show, 'Friends with Caveats.'",
-    "start_date": "2025-05-14",
-    "start_time": "9:30 pm",
-    "link": "https://caveat.nyc/events/friends-with-caveats-5-14-2025",
-    "address": "Caveat, LES",
-    "cost": "$10 adv, $15 door"
   },
   {
     "title": "The Forest Within",
@@ -93,13 +86,13 @@
   },
   {
     "title": "Free Dead in the Park Concert",
-    "description": "Stella Blue’s Band brings the spirit of the Grateful Dead back to Central Park’s Naumburg Bandshell—the same spot where the Dead played to a crowd of 5,000 in 1968. For the sixth annual Free Dead in the Park concert, the cover band will perform two sets to raise awareness and funds for Riverkeeper’s efforts to help clean the Hudson River.",
+    "description": "Stella Blue’s Band brings the spirit of the Grateful Dead back to Central Park’s Naumburg Bandshell. For the sixth annual free Dead in the Park concert, the cover band will perform two sets to raise awareness and funds for Riverkeeper’s efforts to help clean the Hudson River.",
     "start_date": "2025-05-13",
     "start_time": "4:30 pm",
     "end_time": "7:45 pm",
     "link": "https://www.freedeadinthepark.com",
-    "address": "Naumburg Bandshell, Central Park",
-    "cost": "Free"
+    "address": "Central Park, Naumburg Bandshell",
+    "cost": "Free (donations welcome)"
   },
   {
     "title": "Booze + Build",
@@ -125,7 +118,7 @@
     "start_date": "2025-05-13",
     "start_time": "7:30 pm",
     "link": "https://withfriends.co/event/23120478/forbhidden_people_an_elven_burlesque",
-    "address": "Footlight Underground, The Windjammer, Ridgewood",
+    "address": "Footlight Underground, Windjammer, Ridgewood",
     "cost": "$10-20 sliding scale admission (no one turned away for lack of funds)"
   }
 ]

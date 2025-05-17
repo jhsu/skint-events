@@ -1,124 +1,13 @@
 [
   {
-    "title": "New York Studio School 2025 MFA Thesis Exhibition",
-    "description": "New York Studio School of Drawing, Painting and Sculpture (Greenwich Village) opens its doors for the annual MFA thesis exhibition, showcasing work from 13 graduating artists across two floors. Opening reception 5/15 5-8pm.",
-    "start_date": "2025-05-15",
-    "end_date": "2025-05-28",
-    "link": "https://nyss.org/exhibition/2025-mfa-thesis-exhibition/",
-    "address": "New York Studio School, Greenwich Village",
-    "cost": "Free"
-  },
-  {
-    "title": "Dance Party at Bryant Park",
-    "description": "Meet at the Bryant Park fountain for the 11th annual themed outdoor dance party series. This week’s finale: Brazilian samba and forró with Bossa Brazil Band (Weds 6-8:30pm) and a Latin festival with Sebastian Natal + the Orchestra and Flaco Navaja + The Razor Blades (Thurs 6-10pm).",
-    "start_date": "2025-05-15",
-    "start_time": "6:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://bryantpark.org/activities/dance-party",
-    "address": "Bryant Park Fountain",
-    "cost": "Free"
-  },
-  {
-    "title": "Tai Chi on the High Line",
-    "description": "Get elevated at this monthly series of free, morning tai chi sessions on the High Line at Little West 12th Street. Advance registration is encouraged, but walk-ups are welcome.",
-    "start_date": "2025-05-15",
-    "start_time": "10:30 am",
-    "end_date": "2025-10-15",
-    "link": "https://www.thehighline.org/events/tai-chi-wellness/",
-    "address": "High Line, Little West 12th Street",
-    "cost": "Free"
-  },
-  {
-    "title": "Amy Larocca: How to Be Well",
-    "description": "Journalist Amy Larocca presents her new book, 'How to Be Well,' a researched and personal exploration of the wild world of the $3.7 trillion wellness industry and its impact on women.",
-    "start_date": "2025-05-15",
-    "start_time": "6:00 pm",
-    "link": "https://cornerbookstorenyc.com/event/amy-larocca-launches-her-how-to-be-well/",
-    "address": "The Corner Bookstore, Carnegie Hill",
-    "cost": "Free"
-  },
-  {
-    "title": "Fantastic Fiction",
-    "description": "The speculative-fiction reading series, hosted by editor Ellen Datlow and writer Matthew Kressel at KGB Bar (East Village), welcomes Daryl Gregory and Carol Gyzander.",
-    "start_date": "2025-05-15",
-    "start_time": "7:00 pm",
-    "link": "https://www.kgbfantasticfiction.org/2025/05/05/daryl-gregory-carol-gyzander/",
-    "address": "KGB Bar, East Village",
-    "cost": "Free"
-  },
-  {
-    "title": "We Have Fun: A Stand-Up Show",
-    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s (South Slope), with stand-up by Kath Barbadoro, Caitlin Reese, Trey Galyon, and Michael Miller.",
-    "start_date": "2025-05-15",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
-    "address": "Young Ethel’s, South Slope",
-    "cost": "Free"
-  },
-  {
-    "title": "Top Shelf Stories",
-    "description": "Julia Whitehouse serves up an evening of carefully crafted storytelling at UCB (East Village). Tonight’s show features guests Jeff Hiller, Andrew McGill, Jake Cornell, and Seth Herzog, plus one open mic slot reserved for an audience member.",
-    "start_date": "2025-05-15",
-    "start_time": "8:30 pm",
-    "link": "https://ucbcomedy.com/show/top-shelf-stories-9/",
-    "address": "UCB, East Village",
-    "cost": "$10 adv, $15 day of"
-  },
-  {
-    "title": "The Forest Within",
-    "description": "Step into 'The Forest Within,' a new immersive installation at Genesis House (Meatpacking District) created in collaboration with Gwyneth Paltrow, floral designer Heff Leatham, and Genesis House. Inspired by the infinite power of nature, the installation reimagines the Korean forest, offering moments of reflection along the way.",
-    "start_date": "2025-05-13",
-    "start_time": "11:00 am",
-    "end_date": "2025-06-29",
-    "end_time": "8:00 pm",
-    "link": "https://www.genesishouse.com/us/en/nyc/the-forest-within.html/",
-    "address": "Genesis House, Meatpacking District",
-    "cost": "Free"
-  },
-  {
-    "title": "FIT Graduating Student Exhibition",
-    "description": "The Fashion Institute of Technology's 2025 graduating student exhibition presents the work of more than 600 graduates in 16 areas of study from the School of Art and Design. The exhibition will be on view in several spaces on FIT’s campus on West 27th Street in Chelsea.",
-    "start_date": "2025-05-13",
-    "end_date": "2025-05-25",
-    "link": "https://www.fitnyc.edu/academics/academic-divisions/art-and-design/about/graduating-student-exhibition.php",
-    "address": "Fashion Institute of Technology, West 27th Street, Chelsea",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Dead in the Park Concert",
-    "description": "Stella Blue’s Band brings the spirit of the Grateful Dead back to Central Park’s Naumburg Bandshell. For the sixth annual free Dead in the Park concert, the cover band will perform two sets to raise awareness and funds for Riverkeeper’s efforts to help clean the Hudson River.",
-    "start_date": "2025-05-13",
-    "start_time": "4:30 pm",
-    "end_time": "7:45 pm",
-    "link": "https://www.freedeadinthepark.com",
-    "address": "Central Park, Naumburg Bandshell",
-    "cost": "Free (donations welcome)"
-  },
-  {
-    "title": "Booze + Build",
-    "description": "Let your inner kid run wild (with a drink in hand) at Booze + Build, a playful night of building brick fun for grown-ups where you use a set of freestyle bricks to bring your wildest ideas to life. Plus, enjoy games, challenges, and prizes along the way.",
-    "start_date": "2025-05-13",
-    "start_time": "7:30 pm",
-    "link": "https://qedastoria.com/products/booze-build?event=2025-05-13t19:30:00",
-    "address": "Q.E.D., Astoria",
-    "cost": "$12"
-  },
-  {
-    "title": "Central Chamber Series: Dreams and Passions",
-    "description": "The Central Chamber Series at Central Presbyterian Church (UES) presents an evening concert featuring works that touch on the themes of dreams, passions, and memories. Tonight's season finale program includes Boccherini’s Quintet No. 4 for guitar and strings 'Fandango' and Tchaikovsky’s 'Souvenir de Florence.'",
-    "start_date": "2025-05-13",
-    "start_time": "7:30 pm",
-    "link": "https://www.centralchamberseries.com",
-    "address": "Central Presbyterian Church, UES",
-    "cost": "$20 general, free for students with ID"
-  },
-  {
-    "title": "Forbhidden People: An Elven Burlesque",
-    "description": "Let Bitsy Brûlée, Persé Fanny, and Rosie Tulips cast a spell on you at their burlesque and variety show celebrating the mystical and magical realm of Icelandic folklore.",
-    "start_date": "2025-05-13",
-    "start_time": "7:30 pm",
-    "link": "https://withfriends.co/event/23120478/forbhidden_people_an_elven_burlesque",
-    "address": "Footlight Underground, Windjammer, Ridgewood",
-    "cost": "$10-20 sliding scale admission (no one turned away for lack of funds)"
+    "title": "Shellshocked",
+    "description": "A heroic, young, and shellshocked soldier, Wesley Hepton returns home from the trenches. To help support the family, his mother submits his art portfolio to painter Mr. Lupine. Wesley attends an interview to become his apprentice. But on arrival, he encounters another kind of madness that threatens to push him to destruction as he discovers the ulterior motives behind the artist’s palette. One of The Scotsman’s “Top Five Shows to See at the Edinburgh Fringe,” Shellshocked is a thrilling study of heroism versus cowardice.",
+    "start_date": "2025-05-14",
+    "start_time": "7:15 pm",
+    "end_date": "2025-06-08",
+    "end_time": "7:15 pm",
+    "link": "https://www.59e59.org/shows/show-detail/shellshocked/?utm_source=shellshocked-skint&utm_medium=web&utm_campaign=shellshocked",
+    "address": "59E59 Theaters, a quick block from SUBWAY 4/5/6 N/W/R at 59 St.",
+    "cost": "$19 (reg. $44)"
   }
 ]

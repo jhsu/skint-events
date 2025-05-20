@@ -1,13 +1,75 @@
 [
   {
-    "title": "Shellshocked",
-    "description": "A heroic, young, and shellshocked soldier, Wesley Hepton returns home from the trenches. To help support the family, his mother submits his art portfolio to painter Mr. Lupine. Wesley attends an interview to become his apprentice. But on arrival, he encounters another kind of madness that threatens to push him to destruction as he discovers the ulterior motives behind the artist’s palette. One of The Scotsman’s “Top Five Shows to See at the Edinburgh Fringe,” Shellshocked is a thrilling study of heroism versus cowardice.",
-    "start_date": "2025-05-14",
-    "start_time": "7:15 pm",
-    "end_date": "2025-06-08",
-    "end_time": "7:15 pm",
-    "link": "https://www.59e59.org/shows/show-detail/shellshocked/?utm_source=shellshocked-skint&utm_medium=web&utm_campaign=shellshocked",
-    "address": "59E59 Theaters, a quick block from SUBWAY 4/5/6 N/W/R at 59 St.",
-    "cost": "$19 (reg. $44) with code SKINT"
+    "title": "Sunset Yoga on the Brooklyn Grange Rooftop",
+    "description": "Dip with the sun at a sunset yoga class on the Brooklyn Grange rooftop, a working farm at Brooklyn Navy Yard with skyline views. All levels welcome. BYO yoga mat and refillable water bottle. Rain or shine.",
+    "start_date": "2025-05-20",
+    "start_time": "6:30 pm",
+    "end_date": "2025-10-14",
+    "link": "https://www.brooklyngrangefarm.com/yoga",
+    "address": "Brooklyn Grange (Brooklyn Navy Yard)",
+    "cost": "$14-22 sliding scale admission"
+  },
+  {
+    "title": "Astronomy on Tap: 'Stories in the Stars'",
+    "description": "Things are looking up at Astronomy on Tap, a night where astronomy enthusiasts gather at a local bar for talks by professional scientists and educators—plus themed games and other cosmic fun. Tonight’s topics include 'stellar tarot: what does your future hold?' with Iman Behbehani (CUNY Grad Center) and 'the sky from Chinese eyes' with James Chan (CUNY and AMNH).",
+    "start_date": "2025-05-20",
+    "start_time": "7:00 pm",
+    "link": "https://astronomyontap.org/event/astronomy-on-tap-nyc-155-stories-in-the-stars/",
+    "address": "Pete’s Candy Store (Williamsburg)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Brooklyn Books + Booze",
+    "description": "Hear established and up-and-coming authors of different genres read from their current works every third Tuesday of the month at Barrow's Intense Tasting Room (Industry City). Tonight's lineup features Elizabeth Bear, Scott Lynch, and Jeffrey Ford. Hosted by Randee Dawn.",
+    "start_date": "2025-05-20",
+    "start_time": "7:00 pm",
+    "link": "https://randeedawn.com/bonus/brooklyn-books-booze/",
+    "address": "Barrow's Intense Tasting Room (Industry City)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Frontiers Lecture: Low-Mass Galaxies",
+    "description": "Journey to the American Museum of Natural History’s latest Frontiers Lecture, where Professor and theoretical astrophysicist Gurtina Besla will examine how the Milky Way’s two most prominent satellite galaxies, LMC and SMC, extend their influence far beyond what we can see.",
+    "start_date": "2025-05-20",
+    "start_time": "7:00 pm",
+    "link": "https://www.amnh.org/calendar/low-mass-galaxies",
+    "address": "Hayden Planetarium Space Theater (UWS)",
+    "cost": "$20"
+  },
+  {
+    "title": "The Broad Squad",
+    "description": "Kendra Cunningham presents a monthly comedy variety show featuring a female-heavy lineup and tarot readings. Tonight's lineup: Mel Ferraro, Katie Compa, Rachel Green, Jess Wood, and Jeffrey Emerson.",
+    "start_date": "2025-05-20",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/the-broad-squad-tickets-1366547222529",
+    "address": "Young Ethel’s (South Slope)",
+    "cost": "Free admission ($5 suggested donation)"
+  },
+  {
+    "title": "Press Start Orchestra",
+    "description": "Power up with a concert of epic video game music performed live by Press Start, a video game cover orchestra. Tonight’s program features tracks from Chicory: A Colorful Tale, Honkai: Star Rail, Lord of the Rings: Return to Moria, Pokémon, Super Mario World 2: Yoshi’s Island, and Xenoblade Chronicles—plus a surprise bonus level: Vaughan Williams’ Symphony No. 5.",
+    "start_date": "2025-05-20",
+    "start_time": "7:00 pm",
+    "link": "https://events.humanitix.com/press-start-orch-2025-05-20",
+    "address": "Rutgers Presbyterian Church (UWS)",
+    "cost": "Pay-what-you-can admission"
+  },
+  {
+    "title": "Carolyn Castiglia: Chuck",
+    "description": "Comedian Carolyn Castiglia brings her solo show, Chuck, to The Rat NYC (DUMBO). ‘Best Comedy’ winner at the United Solo Festival, Chuck is a true crime comedy about murder, suicide, sexual abuse, the Catholic Church, the military-industrial complex, woodchucks, figure skating, and weed.",
+    "start_date": "2025-05-20",
+    "start_time": "8:00 pm",
+    "link": "https://www.theratnyc.com/event-details/chuck-a-true-crime-comedy",
+    "address": "The Rat NYC (DUMBO)",
+    "cost": "$15 with promo code ‘theskint2025’ (reg. $20)"
+  },
+  {
+    "title": "Animation Nights New York",
+    "description": "Watch a curated program of animated short films from around the world at this monthly screening event.",
+    "start_date": "2025-05-20",
+    "start_time": "8:00 pm",
+    "link": "https://www.animationnights.com/upcoming-screening-events/",
+    "address": "The Gutter Spare Room (Williamsburg)",
+    "cost": "Pay-what-you-wish admission"
   }
 ]

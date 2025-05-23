@@ -1,13 +1,156 @@
 [
   {
-    "title": "EMERGE125 DANCE COMPANY",
-    "description": "EMERGE125's 2025 NYC Season at El Museo del Barrio | May 29-31 Featuring Two World Premieres by Artistic Director Tiffany Rea-Fisher. EMERGE125, a Harlem-based Black female-led dance company, hosts its 2025 season — a celebration of our company, supporters, and community! Get ready for an unforgettable evening of dance as EMERGE125 makes its exciting move to El Museo del Barrio for our NYC Season 2025.",
-    "start_date": "2025-05-29",
-    "start_time": "7:30 PM",
-    "end_date": "2025-05-31",
-    "end_time": "4:00 PM",
-    "link": "https://www.theskint.com/emerge125-dance-company-may-29-to-31-at-el-museo-del-barrio-40-off-with-skint-sponsored/",
-    "address": "El Museo del Barrio, 1230 5th Ave, New York, NY 10029",
-    "cost": "40% off with code \"skint\""
+    "title": "World of Wellness Bazaar at Grand Bazaar NYC",
+    "description": "A wellness bazaar featuring various vendors at Grand Bazaar NYC.",
+    "start_date": "2025-05-25",
+    "start_time": "10:00 am",
+    "end_date": "2025-05-25",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/world-of-wellness-bazaar/",
+    "address": "100 W 77th St at Columbus Ave, UWS",
+    "cost": ""
+  },
+  {
+    "title": "The Annual Loisaida Festival",
+    "description": "A festival celebrating the culture of Loisaida with an opening parade and various activities.",
+    "start_date": "2025-05-25",
+    "start_time": "12:00 pm",
+    "end_date": "2025-05-25",
+    "end_time": "5:00 pm",
+    "link": "https://loisaidafest.nyc",
+    "address": "Avenue C / Loisaida Avenue between E 5th + E 12th Streets",
+    "cost": ""
+  },
+  {
+    "title": "Passport to Taiwan Festival",
+    "description": "A cultural festival celebrating Taiwanese culture at Union Square North.",
+    "start_date": "2025-05-25",
+    "start_time": "12:00 pm",
+    "end_date": "2025-05-25",
+    "end_time": "5:00 pm",
+    "link": "https://p2tw.org",
+    "address": "Union Square North",
+    "cost": ""
+  },
+  {
+    "title": "Dragon Fest Chinese Food + Culture Street Fair: Panda Day Edition",
+    "description": "A street fair celebrating Chinese food and culture at Astor Place. Free admission (pay-as-you-go).",
+    "start_date": "2025-05-24",
+    "start_time": "10:00 am",
+    "end_date": "2025-05-24",
+    "end_time": "6:00 pm",
+    "link": "https://www.dragonfests.com",
+    "address": "Astor Place",
+    "cost": "Free"
+  },
+  {
+    "title": "Africa Day Celebration",
+    "description": "A celebration of African culture at The Plaza at the Africa Center in East Harlem.",
+    "start_date": "2025-05-24",
+    "start_time": "12:00 pm",
+    "end_date": "2025-05-24",
+    "end_time": "5:00 pm",
+    "link": "https://theafricacenter.org/programs/details/175/Africa-Day-Celebration-2025",
+    "address": "The Plaza at the Africa Center, East Harlem",
+    "cost": ""
+  },
+  {
+    "title": "Film Camera Swap Meet",
+    "description": "A meet for film camera enthusiasts at Brooklyn Film Camera in East Williamsburg.",
+    "start_date": "2025-05-24",
+    "start_time": "1:00 pm",
+    "end_date": "2025-05-24",
+    "end_time": "6:00 pm",
+    "link": "https://brooklynfilmcamera.com/pages/calendar",
+    "address": "Brooklyn Film Camera, East Williamsburg",
+    "cost": ""
+  },
+  {
+    "title": "DanceAfrica Bazaar",
+    "description": "A bazaar featuring various vendors and performances along Ashland Pl, Lafayette Ave, and St. Felix St surrounding the Brooklyn Academy of Music.",
+    "start_date": "2025-05-24",
+    "start_time": "12:00 pm",
+    "end_date": "2025-05-26",
+    "end_time": "8:00 pm",
+    "link": "https://www.bam.org/bazaar",
+    "address": "Along Ashland Pl, Lafayette Ave, and St. Felix St, Fort Greene",
+    "cost": ""
+  },
+  {
+    "title": "30th Annual Lower East Side Festival of the Arts",
+    "description": "A festival featuring over 200 performing arts groups, poets, puppeteers, and filmmakers at Theater for the New City.",
+    "start_date": "2025-05-23",
+    "start_time": "6:00 pm",
+    "end_date": "2025-05-25",
+    "end_time": "12:00 am",
+    "link": "https://theaterforthenewcity.net/shows/lower-east-side-festival-of-the-arts-2025/",
+    "address": "Theater for the New City",
+    "cost": "Free"
+  },
+  {
+    "title": "Fleet Week at the Intrepid Museum",
+    "description": "An annual celebration featuring a free screening of Top Gun, musical performances, and military activities.",
+    "start_date": "2025-05-23",
+    "start_time": "7:00 pm",
+    "end_date": "2025-05-25",
+    "end_time": "8:00 pm",
+    "link": "https://intrepidmuseum.org/2025-05-20/celebrate-fleet-week-intrepid-museum",
+    "address": "Intrepid Museum",
+    "cost": "Free"
+  },
+  {
+    "title": "Jazz + Gin: A Speakeasy Soirée",
+    "description": "A speakeasy soirée featuring hot jazz, dancing, and cocktails at a former 1920s Brooklyn speakeasy.",
+    "start_date": "2025-05-23",
+    "start_time": "7:00 pm",
+    "end_date": "2025-05-23",
+    "end_time": "12:00 am",
+    "link": "https://www.prohibitionproductions.com/calendar/052325",
+    "address": "The Urbane Arts Club, Ditmas Park",
+    "cost": "$20 with promo code ‘skint’ (reg. $30)"
+  },
+  {
+    "title": "¡Vaya! Latin Music Series: Son Del Monte",
+    "description": "A performance by the 12-piece Cuban charanga ensemble at Lincoln Center’s David Rubenstein Atrium.",
+    "start_date": "2025-05-23",
+    "start_time": "7:30 pm",
+    "end_date": "2025-05-23",
+    "end_time": "",
+    "link": "https://www.lincolncenter.org/series/lincoln-center-presents/son-del-monte-1-214",
+    "address": "Lincoln Center’s David Rubenstein Atrium, UWS",
+    "cost": "Free"
+  },
+  {
+    "title": "Legendary Wind Band Composers at Carnegie Hall",
+    "description": "Wind ensembles performing works by Bernstein, Copland, and others at Carnegie Hall.",
+    "start_date": "2025-05-23",
+    "start_time": "8:00 pm",
+    "end_date": "2025-05-23",
+    "end_time": "",
+    "link": "https://www.carnegiehall.org/calendar/2025/05/23/western-illinois-university-wind-ensemble-commonwealth-university-of-pa--mansf-0800pm",
+    "address": "Carnegie Hall, Midtown West",
+    "cost": "$10-17 with promo ‘apr49401’ (reg. $29-60)"
+  },
+  {
+    "title": "Bitches Brew Comedy Show",
+    "description": "A women-produced and-hosted comedy show featuring various performers at Halyards in Gowanus.",
+    "start_date": "2025-05-23",
+    "start_time": "8:30 pm",
+    "end_date": "2025-05-23",
+    "end_time": "",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Halyards, Gowanus",
+    "cost": "Free"
+  },
+  {
+    "title": "ALTTV: A ’90s Alternative Music Video Party",
+    "description": "A dance party featuring ’90s alternative music videos at Bar Freda in Ridgewood.",
+    "start_date": "2025-05-23",
+    "start_time": "10:00 pm",
+    "end_date": "2025-05-23",
+    "end_time": "",
+    "link": "https://www.eventbrite.com/e/alttv-a-90s-music-video-party-tickets-1368027720739",
+    "address": "Bar Freda, Ridgewood",
+    "cost": "Free"
   }
 ]

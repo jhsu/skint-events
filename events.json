@@ -1,13 +1,174 @@
 [
   {
-    "title": "Party Like It’s 1999: (Don’t) Steal My Sunshine Edition",
-    "description": "Join DJ Steve Reynolds for Brooklyn’s best 90s and 00s party with all of your favorite pop, R&B, rock, hip-hop, and dance tunes. Enjoy a night filled with the biggest hits that ruled the summers of the 1990s and 2000’s.",
-    "start_date": "2025-06-07",
-    "start_time": "10:30 pm",
+    "title": "Hot Gay Pride Comedy Show and Dance Party",
+    "description": "A comedy show and dance party celebrating Pride, featuring various performances.",
+    "start_date": "2025-06-05",
+    "start_time": "7:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1335473179229",
+    "address": "Littlefield (Gowanus)",
+    "cost": "$12.56 with promo code 'hotgaycelebrity' (reg. $19.48)"
+  },
+  {
+    "title": "The Existentialists Comedy Show",
+    "description": "A comedy show featuring various performers at Rabbit Hole.",
+    "start_date": "2025-06-05",
+    "start_time": "7:30 pm",
+    "link": "https://posh.vip/e/the-existentialists",
+    "address": "Rabbit Hole (Bushwick)",
+    "cost": "$15"
+  },
+  {
+    "title": "Department of Gay Ecstasy (DOGE): Pride Edition",
+    "description": "A comedy show at Brooklyn Comedy Collective celebrating Pride.",
+    "start_date": "2025-06-05",
+    "start_time": "8:00 pm",
+    "link": "https://www.brooklyncc.com/show-schedule/doge-6-5",
+    "address": "Brooklyn Comedy Collective (Williamsburg)",
+    "cost": "$12 adv, $17 day of"
+  },
+  {
+    "title": "Planet Yes: Gaga Night Dance Party",
+    "description": "A dance party at House of Yes featuring music from Lady Gaga.",
+    "start_date": "2025-06-05",
+    "start_time": "10:00 pm",
+    "link": "https://shotgun.live/en/events/planet-yes-gaga-pride",
+    "address": "House of Yes (Bushwick)",
+    "cost": "Free admission with RSVP, $10 otherwise"
+  },
+  {
+    "title": "Bryant Park Picnic Performances: Contemporary Dance",
+    "description": "An annual summer performance series featuring contemporary dance.",
+    "start_date": "2025-06-05",
+    "start_time": "7:00 pm",
+    "end_date": "2025-06-13",
+    "link": "https://bryantpark.org/activities/picnic-performances",
+    "address": "Bryant Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Diane Arbus: Constellation",
+    "description": "An immersive installation featuring over 450 prints by photographer Diane Arbus.",
+    "start_date": "2025-06-05",
+    "end_date": "2025-08-17",
+    "link": "https://www.armoryonpark.org/programs_events/detail/constellation",
+    "address": "Park Avenue Armory (UES)",
+    "cost": "$25"
+  },
+  {
+    "title": "Astoria Park Carnival",
+    "description": "An annual carnival with rides, games, and food under the Robert F. Kennedy Bridge.",
+    "start_date": "2025-06-05",
     "end_date": "2025-06-08",
-    "end_time": "3:30 am",
-    "link": "https://www.eventbrite.com/e/party-like-its-1999-dont-steal-my-sunshine-edition-tickets-1333348123129",
-    "address": "Littlefield, 635 Sackett Street, Brooklyn, NY 11217",
-    "cost": "$5 (plus $1.86 Eventbrite fee)"
+    "link": "https://dreamlandamusements.com/upcoming-events-amusement-carnival/astoria-park-carnival/",
+    "address": "Astoria Park",
+    "cost": "Free admission (pay-as-you-go)"
+  },
+  {
+    "title": "New Dance Alliance’s 39th Performance Mix Festival",
+    "description": "An annual festival featuring experimental dance and film artists.",
+    "start_date": "2025-06-05",
+    "end_date": "2025-06-08",
+    "link": "https://newdancealliance.org/performance-mix-festival/",
+    "address": "Abrons Arts Center (LES)",
+    "cost": "$16"
+  },
+  {
+    "title": "Free Outdoor Movies: Moana",
+    "description": "Outdoor screening of the movie Moana at Beach 94th Amphitheater.",
+    "start_date": "2025-06-05",
+    "start_time": "various times",
+    "link": "https://www.nycgovparks.org/events/2025/06/05/movies-under-the-stars-moana",
+    "address": "Beach 94th Amphitheater (Rockaway Beach)",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: The Outlaw Johnny Black",
+    "description": "Outdoor screening of the movie The Outlaw Johnny Black at Montefiore Park.",
+    "start_date": "2025-06-05",
+    "start_time": "various times",
+    "link": "https://www.nycgovparks.org/events/2025/06/05/movies-under-the-stars-the-outlaw-johnny-black-2023",
+    "address": "Montefiore Park (West Harlem)",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Wicked",
+    "description": "Outdoor screening of the movie Wicked at Msgr. McGolrick Park.",
+    "start_date": "2025-06-05",
+    "start_time": "various times",
+    "link": "https://www.nycgovparks.org/events/2025/06/05/movies-under-the-stars-wicked-2024",
+    "address": "Msgr. McGolrick Park (Greenpoint)",
+    "cost": "Free"
+  },
+  {
+    "title": "Dumbo First Thursday Gallery Walk",
+    "description": "Explore Dumbo's waterfront arts scene with late openings at 11 galleries.",
+    "start_date": "2025-06-05",
+    "start_time": "6:00 pm",
+    "link": "https://artindumbo.com/first-thursdays/",
+    "address": "Dumbo",
+    "cost": "Free admission"
+  },
+  {
+    "title": "The Rally Reading Series: ‘The Heart of a March in the Body of a Reading Series’",
+    "description": "An evening of readings and discussion with various authors at Pete's Candy Store.",
+    "start_date": "2025-06-05",
+    "start_time": "7:00 pm",
+    "link": "https://www.rallyreadingseries.com/schedule",
+    "address": "Pete's Candy Store (Williamsburg)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "John and Scott: Two Person Improv",
+    "description": "An improv show featuring former 30 Rock cast members at UCB Theatre.",
+    "start_date": "2025-06-05",
+    "start_time": "7:00 pm",
+    "link": "https://ucbcomedy.com/show/john-and-scott-two-person-improv-8/",
+    "address": "UCB Theatre (East Village)",
+    "cost": "$15"
+  },
+  {
+    "title": "Hack Comedy: An A.I. Comedy Show",
+    "description": "A comedy show where AI takes the stage alongside comedians at Caveat.",
+    "start_date": "2025-06-05",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/events/hack-comedy-an-ai-comedy-show-6-5-2025",
+    "address": "Caveat (LES)",
+    "cost": "$13.61 with promo code 'hack' (reg. $18.76-20)"
+  },
+  {
+    "title": "Rooftop Films: Farm-to-Screen Shorts",
+    "description": "An outdoor film screening at Brooklyn Grange Sunset Park.",
+    "start_date": "2025-06-05",
+    "start_time": "7:00 pm",
+    "link": "https://rooftopfilms.com/event/rooftop-selects-farm-to-screen-shorts/",
+    "address": "Brooklyn Grange Sunset Park",
+    "cost": "$20"
+  },
+  {
+    "title": "Love, Sex, + Magic: Comedy Variety Show",
+    "description": "A comedy variety show hosted by Jenny Gorelick at The Mirror Bar.",
+    "start_date": "2025-06-05",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/arlol-presents-love-sex-magic-comedy-variety-show-tickets-680567615057",
+    "address": "The Mirror Bar at Arlo Williamsburg",
+    "cost": "$20 2-for-1 admission"
+  },
+  {
+    "title": "Locrian Chamber Players: Music from the Past Decade",
+    "description": "A concert featuring contemporary music at Riverside Church.",
+    "start_date": "2025-06-05",
+    "start_time": "8:00 pm",
+    "link": "https://www.locrian.org",
+    "address": "Riverside Church (Morningside Heights)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Night Flight Anniversary Screening",
+    "description": "A screening celebrating the 44th anniversary of Night Flight at Roxy Cinema.",
+    "start_date": "2025-06-05",
+    "start_time": "9:30 pm",
+    "link": "https://www.roxycinemanewyork.com/screenings/night-flight-anniversary-screening-tunnel-vision-more-qa/",
+    "address": "Roxy Cinema (Tribeca)",
+    "cost": "$18"
   }
 ]

@@ -1,174 +1,131 @@
 [
   {
-    "title": "Hot Gay Pride Comedy Show and Dance Party",
-    "description": "A comedy show and dance party celebrating Pride, featuring various performances.",
-    "start_date": "2025-06-05",
-    "start_time": "7:00 pm",
-    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1335473179229",
-    "address": "Littlefield (Gowanus)",
-    "cost": "$12.56 with promo code 'hotgaycelebrity' (reg. $19.48)"
+    "title": "Brooklyn Pride",
+    "description": "A series of events celebrating Brooklyn Pride at various locations. Join the festivities throughout the week.",
+    "start_date": "2025-06-09",
+    "end_date": "2025-06-15",
+    "link": "https://brooklynpride.org/",
+    "address": "",
+    "cost": ""
   },
   {
-    "title": "The Existentialists Comedy Show",
-    "description": "A comedy show featuring various performers at Rabbit Hole.",
-    "start_date": "2025-06-05",
-    "start_time": "7:30 pm",
-    "link": "https://posh.vip/e/the-existentialists",
-    "address": "Rabbit Hole (Bushwick)",
-    "cost": "$15"
+    "title": "Gayridge Pride at Owl’s Head Park",
+    "description": "A pride celebration at Owl’s Head Park in Bay Ridge. Join the community for a day of festivities.",
+    "start_date": "2025-06-08",
+    "start_time": "12:00 pm",
+    "end_date": "2025-06-08",
+    "end_time": "5:00 pm",
+    "link": "https://www.gayridge.org/pride",
+    "address": "Owl’s Head Park, Bay Ridge",
+    "cost": ""
   },
   {
-    "title": "Department of Gay Ecstasy (DOGE): Pride Edition",
-    "description": "A comedy show at Brooklyn Comedy Collective celebrating Pride.",
-    "start_date": "2025-06-05",
-    "start_time": "8:00 pm",
-    "link": "https://www.brooklyncc.com/show-schedule/doge-6-5",
-    "address": "Brooklyn Comedy Collective (Williamsburg)",
-    "cost": "$12 adv, $17 day of"
+    "title": "Annual Pride Makers Market",
+    "description": "A market event at Footlight Underground at the Windjammer in Ridgewood celebrating pride with various vendors.",
+    "start_date": "2025-06-08",
+    "start_time": "12:00 pm",
+    "end_date": "2025-06-08",
+    "end_time": "7:00 pm",
+    "link": "https://withfriends.co/event/23404834/annual_pride_market",
+    "address": "Footlight Underground at the Windjammer, Ridgewood",
+    "cost": "Free admission"
   },
   {
-    "title": "Planet Yes: Gaga Night Dance Party",
-    "description": "A dance party at House of Yes featuring music from Lady Gaga.",
-    "start_date": "2025-06-05",
-    "start_time": "10:00 pm",
-    "link": "https://shotgun.live/en/events/planet-yes-gaga-pride",
-    "address": "House of Yes (Bushwick)",
-    "cost": "Free admission with RSVP, $10 otherwise"
-  },
-  {
-    "title": "Bryant Park Picnic Performances: Contemporary Dance",
-    "description": "An annual summer performance series featuring contemporary dance.",
-    "start_date": "2025-06-05",
-    "start_time": "7:00 pm",
-    "end_date": "2025-06-13",
-    "link": "https://bryantpark.org/activities/picnic-performances",
-    "address": "Bryant Park",
+    "title": "Woof Fest: Paws for Pride",
+    "description": "A pride-themed event at Manhattan West Plaza featuring activities for dogs and their owners. A fun day for pet lovers.",
+    "start_date": "2025-06-07",
+    "start_time": "12:00 pm",
+    "end_date": "2025-06-07",
+    "end_time": "3:00 pm",
+    "link": "https://manhattanwestnyc.com/event/woof-fest-paws-for-pride-2025/",
+    "address": "Manhattan West Plaza, Midtown",
     "cost": "Free"
   },
   {
-    "title": "Diane Arbus: Constellation",
-    "description": "An immersive installation featuring over 450 prints by photographer Diane Arbus.",
-    "start_date": "2025-06-05",
-    "end_date": "2025-08-17",
-    "link": "https://www.armoryonpark.org/programs_events/detail/constellation",
-    "address": "Park Avenue Armory (UES)",
-    "cost": "$25"
+    "title": "Pride Pop-Up Market",
+    "description": "A market event at Caffeine Underground in Bushwick celebrating pride with various vendors and activities.",
+    "start_date": "2025-06-07",
+    "start_time": "12:00 pm",
+    "end_date": "2025-06-07",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/p/DJ4aHSAgWCp/",
+    "address": "Caffeine Underground, Bushwick",
+    "cost": "Free admission"
+  },
+  {
+    "title": "The 5th Blasian Pride March",
+    "description": "A pride march at Cadman Plaza in Brooklyn Heights/Downtown Brooklyn. Join the celebration of blasian pride.",
+    "start_date": "2025-06-07",
+    "start_time": "2:00 pm",
+    "link": "https://www.instagram.com/blasianmarch/",
+    "address": "Cadman Plaza, Brooklyn Heights/Downtown Brooklyn",
+    "cost": ""
+  },
+  {
+    "title": "First Saturday at Brooklyn Museum: Star-Makers",
+    "description": "An event at the Brooklyn Museum featuring various activities and exhibitions. A great way to enjoy art and culture.",
+    "start_date": "2025-06-07",
+    "start_time": "5:00 pm",
+    "end_date": "2025-06-07",
+    "end_time": "10:00 pm",
+    "link": "https://www.brooklynmuseum.org/programs/first-saturdays-june-2025",
+    "address": "Brooklyn Museum",
+    "cost": "Free admission (RSVP required)"
+  },
+  {
+    "title": "Support Women DJs",
+    "description": "An event at the Sultan Room rooftop in Bushwick supporting women DJs. Expect a vibrant atmosphere with music and community support.",
+    "start_date": "2025-06-06",
+    "start_time": "5:00 pm",
+    "end_date": "2025-06-06",
+    "end_time": "11:00 pm",
+    "link": "https://dice.fm/event/nvqrk3-support-women-djs-6th-jun-the-sultan-room-rooftop-brooklyn-tickets",
+    "address": "Sultan Room Rooftop, Bushwick",
+    "cost": "$16.38"
+  },
+  {
+    "title": "Welcome to Dykea: Queer Comedy Show",
+    "description": "A queer comedy show at The Bush in Bushwick featuring various comedians. Expect laughter and a fun atmosphere.",
+    "start_date": "2025-06-06",
+    "start_time": "7:30 pm",
+    "link": "https://events.humanitix.com/welcome-to-dykea-a-hypedykes-comedy-pride-edition",
+    "address": "The Bush, Bushwick",
+    "cost": "$8 adv, $10 door"
+  },
+  {
+    "title": "A Lively Mind: Jane Austen at 250",
+    "description": "An exhibition at The Morgan Library + Museum dedicated to Jane Austen featuring artifacts and manuscripts.",
+    "start_date": "2025-06-06",
+    "end_date": "2025-09-14",
+    "link": "https://www.themorgan.org/exhibitions/lively-mind-jane-austen-250",
+    "address": "The Morgan Library + Museum, Murray Hill",
+    "cost": "$25 general, $17 seniors, $13 students, free Fridays 5-8pm (with RSVP)"
+  },
+  {
+    "title": "Sunlight with Nina Conti",
+    "description": "Screenings of comedian Nina Conti's feature-length debut at Quad Cinema, with Q&A sessions.",
+    "start_date": "2025-06-06",
+    "end_date": "2025-06-12",
+    "link": "https://quadcinema.com/film/sunlight/",
+    "address": "Quad Cinema, Greenwich Village",
+    "cost": "$18"
   },
   {
     "title": "Astoria Park Carnival",
-    "description": "An annual carnival with rides, games, and food under the Robert F. Kennedy Bridge.",
-    "start_date": "2025-06-05",
-    "end_date": "2025-06-08",
+    "description": "The annual Astoria Park Carnival featuring rides, games, and food under the Robert F. Kennedy Bridge. A fun event for families.",
+    "start_date": "2025-06-06",
+    "end_date": "2025-06-12",
     "link": "https://dreamlandamusements.com/upcoming-events-amusement-carnival/astoria-park-carnival/",
     "address": "Astoria Park",
     "cost": "Free admission (pay-as-you-go)"
   },
   {
-    "title": "New Dance Alliance’s 39th Performance Mix Festival",
-    "description": "An annual festival featuring experimental dance and film artists.",
-    "start_date": "2025-06-05",
+    "title": "New York Philharmonic Free Concerts in the Parks",
+    "description": "Free outdoor concerts by the New York Philharmonic at various parks, featuring fireworks and live music.",
+    "start_date": "2025-06-06",
     "end_date": "2025-06-08",
-    "link": "https://newdancealliance.org/performance-mix-festival/",
-    "address": "Abrons Arts Center (LES)",
-    "cost": "$16"
-  },
-  {
-    "title": "Free Outdoor Movies: Moana",
-    "description": "Outdoor screening of the movie Moana at Beach 94th Amphitheater.",
-    "start_date": "2025-06-05",
-    "start_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2025/06/05/movies-under-the-stars-moana",
-    "address": "Beach 94th Amphitheater (Rockaway Beach)",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: The Outlaw Johnny Black",
-    "description": "Outdoor screening of the movie The Outlaw Johnny Black at Montefiore Park.",
-    "start_date": "2025-06-05",
-    "start_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2025/06/05/movies-under-the-stars-the-outlaw-johnny-black-2023",
-    "address": "Montefiore Park (West Harlem)",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Wicked",
-    "description": "Outdoor screening of the movie Wicked at Msgr. McGolrick Park.",
-    "start_date": "2025-06-05",
-    "start_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2025/06/05/movies-under-the-stars-wicked-2024",
-    "address": "Msgr. McGolrick Park (Greenpoint)",
-    "cost": "Free"
-  },
-  {
-    "title": "Dumbo First Thursday Gallery Walk",
-    "description": "Explore Dumbo's waterfront arts scene with late openings at 11 galleries.",
-    "start_date": "2025-06-05",
-    "start_time": "6:00 pm",
-    "link": "https://artindumbo.com/first-thursdays/",
-    "address": "Dumbo",
+    "link": "https://www.nyphil.org/concerts-tickets/explore/parks/",
+    "address": "Prospect Park, Brooklyn; Cunningham Park, Queens; St. George Theatre, Staten Island",
     "cost": "Free admission"
-  },
-  {
-    "title": "The Rally Reading Series: ‘The Heart of a March in the Body of a Reading Series’",
-    "description": "An evening of readings and discussion with various authors at Pete's Candy Store.",
-    "start_date": "2025-06-05",
-    "start_time": "7:00 pm",
-    "link": "https://www.rallyreadingseries.com/schedule",
-    "address": "Pete's Candy Store (Williamsburg)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "John and Scott: Two Person Improv",
-    "description": "An improv show featuring former 30 Rock cast members at UCB Theatre.",
-    "start_date": "2025-06-05",
-    "start_time": "7:00 pm",
-    "link": "https://ucbcomedy.com/show/john-and-scott-two-person-improv-8/",
-    "address": "UCB Theatre (East Village)",
-    "cost": "$15"
-  },
-  {
-    "title": "Hack Comedy: An A.I. Comedy Show",
-    "description": "A comedy show where AI takes the stage alongside comedians at Caveat.",
-    "start_date": "2025-06-05",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/events/hack-comedy-an-ai-comedy-show-6-5-2025",
-    "address": "Caveat (LES)",
-    "cost": "$13.61 with promo code 'hack' (reg. $18.76-20)"
-  },
-  {
-    "title": "Rooftop Films: Farm-to-Screen Shorts",
-    "description": "An outdoor film screening at Brooklyn Grange Sunset Park.",
-    "start_date": "2025-06-05",
-    "start_time": "7:00 pm",
-    "link": "https://rooftopfilms.com/event/rooftop-selects-farm-to-screen-shorts/",
-    "address": "Brooklyn Grange Sunset Park",
-    "cost": "$20"
-  },
-  {
-    "title": "Love, Sex, + Magic: Comedy Variety Show",
-    "description": "A comedy variety show hosted by Jenny Gorelick at The Mirror Bar.",
-    "start_date": "2025-06-05",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/arlol-presents-love-sex-magic-comedy-variety-show-tickets-680567615057",
-    "address": "The Mirror Bar at Arlo Williamsburg",
-    "cost": "$20 2-for-1 admission"
-  },
-  {
-    "title": "Locrian Chamber Players: Music from the Past Decade",
-    "description": "A concert featuring contemporary music at Riverside Church.",
-    "start_date": "2025-06-05",
-    "start_time": "8:00 pm",
-    "link": "https://www.locrian.org",
-    "address": "Riverside Church (Morningside Heights)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Night Flight Anniversary Screening",
-    "description": "A screening celebrating the 44th anniversary of Night Flight at Roxy Cinema.",
-    "start_date": "2025-06-05",
-    "start_time": "9:30 pm",
-    "link": "https://www.roxycinemanewyork.com/screenings/night-flight-anniversary-screening-tunnel-vision-more-qa/",
-    "address": "Roxy Cinema (Tribeca)",
-    "cost": "$18"
   }
 ]

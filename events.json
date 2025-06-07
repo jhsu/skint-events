@@ -1,131 +1,13 @@
 [
   {
-    "title": "Brooklyn Pride",
-    "description": "A series of events celebrating Brooklyn Pride at various locations. Join the festivities throughout the week.",
-    "start_date": "2025-06-09",
-    "end_date": "2025-06-15",
-    "link": "https://brooklynpride.org/",
-    "address": "",
-    "cost": ""
-  },
-  {
-    "title": "Gayridge Pride at Owl’s Head Park",
-    "description": "A pride celebration at Owl’s Head Park in Bay Ridge. Join the community for a day of festivities.",
-    "start_date": "2025-06-08",
-    "start_time": "12:00 pm",
-    "end_date": "2025-06-08",
-    "end_time": "5:00 pm",
-    "link": "https://www.gayridge.org/pride",
-    "address": "Owl’s Head Park, Bay Ridge",
-    "cost": ""
-  },
-  {
-    "title": "Annual Pride Makers Market",
-    "description": "A market event at Footlight Underground at the Windjammer in Ridgewood celebrating pride with various vendors.",
-    "start_date": "2025-06-08",
-    "start_time": "12:00 pm",
-    "end_date": "2025-06-08",
-    "end_time": "7:00 pm",
-    "link": "https://withfriends.co/event/23404834/annual_pride_market",
-    "address": "Footlight Underground at the Windjammer, Ridgewood",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Woof Fest: Paws for Pride",
-    "description": "A pride-themed event at Manhattan West Plaza featuring activities for dogs and their owners. A fun day for pet lovers.",
+    "title": "SELECTED SHORTS: SIBLING REVELRY",
+    "description": "Get ready for a night of laughs and love as real-life sisters and comedic duo Lacey Lamar and Amber Ruffin take the stage! Join a lineup of talented actors as they perform short fiction about wild childhood adventures, epic sibling rivalries, and the delightful messiness of family life. With performances by actors Jayne Atkinson (Criminal Minds), Michel Gill (The Dropout), Nathan Hinton (The Equalizer), and Marin Ireland (The Umbrella Academy).",
     "start_date": "2025-06-07",
-    "start_time": "12:00 pm",
-    "end_date": "2025-06-07",
-    "end_time": "3:00 pm",
-    "link": "https://manhattanwestnyc.com/event/woof-fest-paws-for-pride-2025/",
-    "address": "Manhattan West Plaza, Midtown",
-    "cost": "Free"
-  },
-  {
-    "title": "Pride Pop-Up Market",
-    "description": "A market event at Caffeine Underground in Bushwick celebrating pride with various vendors and activities.",
-    "start_date": "2025-06-07",
-    "start_time": "12:00 pm",
-    "end_date": "2025-06-07",
-    "end_time": "6:00 pm",
-    "link": "https://www.instagram.com/p/DJ4aHSAgWCp/",
-    "address": "Caffeine Underground, Bushwick",
-    "cost": "Free admission"
-  },
-  {
-    "title": "The 5th Blasian Pride March",
-    "description": "A pride march at Cadman Plaza in Brooklyn Heights/Downtown Brooklyn. Join the celebration of blasian pride.",
-    "start_date": "2025-06-07",
-    "start_time": "2:00 pm",
-    "link": "https://www.instagram.com/blasianmarch/",
-    "address": "Cadman Plaza, Brooklyn Heights/Downtown Brooklyn",
-    "cost": ""
-  },
-  {
-    "title": "First Saturday at Brooklyn Museum: Star-Makers",
-    "description": "An event at the Brooklyn Museum featuring various activities and exhibitions. A great way to enjoy art and culture.",
-    "start_date": "2025-06-07",
-    "start_time": "5:00 pm",
-    "end_date": "2025-06-07",
-    "end_time": "10:00 pm",
-    "link": "https://www.brooklynmuseum.org/programs/first-saturdays-june-2025",
-    "address": "Brooklyn Museum",
-    "cost": "Free admission (RSVP required)"
-  },
-  {
-    "title": "Support Women DJs",
-    "description": "An event at the Sultan Room rooftop in Bushwick supporting women DJs. Expect a vibrant atmosphere with music and community support.",
-    "start_date": "2025-06-06",
-    "start_time": "5:00 pm",
-    "end_date": "2025-06-06",
-    "end_time": "11:00 pm",
-    "link": "https://dice.fm/event/nvqrk3-support-women-djs-6th-jun-the-sultan-room-rooftop-brooklyn-tickets",
-    "address": "Sultan Room Rooftop, Bushwick",
-    "cost": "$16.38"
-  },
-  {
-    "title": "Welcome to Dykea: Queer Comedy Show",
-    "description": "A queer comedy show at The Bush in Bushwick featuring various comedians. Expect laughter and a fun atmosphere.",
-    "start_date": "2025-06-06",
-    "start_time": "7:30 pm",
-    "link": "https://events.humanitix.com/welcome-to-dykea-a-hypedykes-comedy-pride-edition",
-    "address": "The Bush, Bushwick",
-    "cost": "$8 adv, $10 door"
-  },
-  {
-    "title": "A Lively Mind: Jane Austen at 250",
-    "description": "An exhibition at The Morgan Library + Museum dedicated to Jane Austen featuring artifacts and manuscripts.",
-    "start_date": "2025-06-06",
-    "end_date": "2025-09-14",
-    "link": "https://www.themorgan.org/exhibitions/lively-mind-jane-austen-250",
-    "address": "The Morgan Library + Museum, Murray Hill",
-    "cost": "$25 general, $17 seniors, $13 students, free Fridays 5-8pm (with RSVP)"
-  },
-  {
-    "title": "Sunlight with Nina Conti",
-    "description": "Screenings of comedian Nina Conti's feature-length debut at Quad Cinema, with Q&A sessions.",
-    "start_date": "2025-06-06",
-    "end_date": "2025-06-12",
-    "link": "https://quadcinema.com/film/sunlight/",
-    "address": "Quad Cinema, Greenwich Village",
-    "cost": "$18"
-  },
-  {
-    "title": "Astoria Park Carnival",
-    "description": "The annual Astoria Park Carnival featuring rides, games, and food under the Robert F. Kennedy Bridge. A fun event for families.",
-    "start_date": "2025-06-06",
-    "end_date": "2025-06-12",
-    "link": "https://dreamlandamusements.com/upcoming-events-amusement-carnival/astoria-park-carnival/",
-    "address": "Astoria Park",
-    "cost": "Free admission (pay-as-you-go)"
-  },
-  {
-    "title": "New York Philharmonic Free Concerts in the Parks",
-    "description": "Free outdoor concerts by the New York Philharmonic at various parks, featuring fireworks and live music.",
-    "start_date": "2025-06-06",
-    "end_date": "2025-06-08",
-    "link": "https://www.nyphil.org/concerts-tickets/explore/parks/",
-    "address": "Prospect Park, Brooklyn; Cunningham Park, Queens; St. George Theatre, Staten Island",
-    "cost": "Free admission"
+    "start_time": "undefined",
+    "end_date": "undefined",
+    "end_time": "undefined",
+    "link": "https://www.symphonyspace.org/events/selected-shorts-sibling-revelry-with-lacey-lamar-and-amber-ruffin?utm_source=The+Skint&utm_medium=email&utm_campaign=Shorts+Sibling+Revelry+Skint&utm_id=Shorts+Sibling+Revelry+Skint",
+    "address": "undefined",
+    "cost": "$15 with code: Sibling"
   }
 ]

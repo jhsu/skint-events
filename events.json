@@ -1,13 +1,84 @@
 [
   {
-    "title": "SELECTED SHORTS: SIBLING REVELRY",
-    "description": "Get ready for a night of laughs and love as real-life sisters and comedic duo Lacey Lamar and Amber Ruffin take the stage! Join a lineup of talented actors as they perform short fiction about wild childhood adventures, epic sibling rivalries, and the delightful messiness of family life. With performances by actors Jayne Atkinson (Criminal Minds), Michel Gill (The Dropout), Nathan Hinton (The Equalizer), and Marin Ireland (The Umbrella Academy).",
-    "start_date": "2025-06-07",
-    "start_time": "undefined",
-    "end_date": "undefined",
-    "end_time": "undefined",
-    "link": "https://www.symphonyspace.org/events/selected-shorts-sibling-revelry-with-lacey-lamar-and-amber-ruffin?utm_source=The+Skint&utm_medium=email&utm_campaign=Shorts+Sibling+Revelry+Skint&utm_id=Shorts+Sibling+Revelry+Skint",
-    "address": "undefined",
-    "cost": "$15 with code: Sibling"
+    "title": "National Queer Theater's Annual Criminal Queerness Festival",
+    "description": "An annual festival featuring queer theater performances at Here Arts Center in South Village.",
+    "start_date": "2025-06-10",
+    "end_date": "2025-06-28",
+    "link": "https://www.nationalqueertheater.org/cqf2025",
+    "address": "Here Arts Center, South Village",
+    "cost": "$25"
+  },
+  {
+    "title": "All Pride, No Prejudice! A Literary LGBTQ+ Celebration",
+    "description": "A literary celebration at The Center for Fiction in Fort Greene.",
+    "start_date": "2025-06-10",
+    "start_time": "6:00 pm",
+    "link": "https://centerforfiction.org/event/all-pride-no-prejudice-a-literary-lgbtq-celebration-2/",
+    "address": "The Center for Fiction, Fort Greene",
+    "cost": "$10"
+  },
+  {
+    "title": "Ninth Annual Queer|Art|Pride",
+    "description": "A series of events at various locations celebrating LGBTQ+ art and culture.",
+    "start_date": "2025-06-10",
+    "end_date": "2025-06-27",
+    "link": "https://www.queer-art.org/pride#tuck",
+    "address": "Various locations",
+    "cost": "Various prices"
+  },
+  {
+    "title": "Museum Mile Festival",
+    "description": "An annual event where eight museums offer free admission and stay open late, featuring live performances and art activities.",
+    "start_date": "2025-06-10",
+    "start_time": "6:00 pm",
+    "end_time": "9:00 pm",
+    "link": "https://www.centralpark.com/events/museum-mile-festival/",
+    "address": "Fifth Avenue, from 82nd to 110th Street",
+    "cost": "Free"
+  },
+  {
+    "title": "Mindy Raf: A (Very) Nervous System",
+    "description": "Comedian Mindy Raf performs her new stand-up hour at Whiskey Cellar NYC in East Village.",
+    "start_date": "2025-06-10",
+    "start_time": "6:45 pm",
+    "link": "https://www.eventbrite.com/e/a-very-nervous-system-mindy-raf-stand-up-hour-tickets-1343873294199",
+    "address": "Whiskey Cellar NYC, East Village",
+    "cost": "$7.18 with promo code 'skintmindy' (reg. $14.64)"
+  },
+  {
+    "title": "Bloom: A Sakura Series Poet Slam",
+    "description": "A poetry slam competition featuring 10 poets at Hell Phone in Bushwick.",
+    "start_date": "2025-06-10",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/bloom-a-sakura-series-poetry-slam-tickets-1363587048569",
+    "address": "Hell Phone, Bushwick",
+    "cost": "$15 general / 2-for-1 for $25 ($20 general at the door)"
+  },
+  {
+    "title": "Booze + Build",
+    "description": "A playful night of building brick fun for grown-ups at Q.E.D. in Astoria.",
+    "start_date": "2025-06-10",
+    "start_time": "7:30 pm",
+    "link": "https://qedastoria.com/products/booze-build?event=2025-05-13t19:30:00",
+    "address": "Q.E.D., Astoria",
+    "cost": "$12 admission"
+  },
+  {
+    "title": "Naumburg Orchestral Concerts: 2025 Season",
+    "description": "The Naumburg Orchestral Concerts series returns for its 120th season at Naumburg Bandshell in Central Park, featuring works by various composers.",
+    "start_date": "2025-06-10",
+    "start_time": "7:30 pm",
+    "link": "https://naumburgconcerts.org/upcoming",
+    "address": "Naumburg Bandshell, Central Park",
+    "cost": "Free admission"
+  },
+  {
+    "title": "67th Annual Washington Square Music Festival",
+    "description": "A series of free alfresco concerts in Washington Square Park featuring various music genres.",
+    "start_date": "2025-06-10",
+    "start_time": "8:00 pm",
+    "link": "https://www.ws-mf.org",
+    "address": "Washington Square Park, Greenwich Village",
+    "cost": "Free"
   }
 ]

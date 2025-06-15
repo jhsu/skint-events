@@ -1,47 +1,46 @@
 [
   {
     "title": "meat puppet presents: cult classics screening of paris is burning",
-    "description": "A screening of the cult classic 'Paris is Burning'.",
+    "description": "A cult classic screening at Purgatory in Bushwick.",
     "start_date": "2025-06-16",
     "start_time": "8:00 pm",
     "link": "https://dice.fm/event/bbd7po-cult-classics-paris-is-burning-16th-jun-purgatory-new-york-tickets",
-    "address": "Purgatory (Bushwick)",
+    "address": "Purgatory, Bushwick",
     "cost": "$12+"
   },
   {
     "title": "the lay out’s fifth annual juneteenth celebration",
-    "description": "A celebration of Juneteenth with various activities.",
+    "description": "A celebration of Juneteenth at Fort Greene Park.",
     "start_date": "2025-06-15",
     "start_time": "10:00 am",
-    "end_date": "2025-06-15",
     "end_time": "6:00 pm",
     "link": "https://www.instagram.com/thelayoutco/",
-    "address": "Fort Greene Park"
+    "address": "Fort Greene Park",
+    "cost": ""
   },
   {
     "title": "24th annual egg rolls, egg creams, and empanadas festival",
-    "description": "A festival celebrating various foods including egg rolls and empanadas.",
+    "description": "A festival celebrating various foods at Eldridge St between Division St + Canal St in the Lower East Side.",
     "start_date": "2025-06-15",
     "start_time": "12:00 pm",
-    "end_date": "2025-06-15",
     "end_time": "4:00 pm",
     "link": "https://www.eldridgestreet.org/eee-festival",
-    "address": "Eldridge St between Division St + Canal St (LES)"
+    "address": "Eldridge St between Division St + Canal St, LES",
+    "cost": ""
   },
   {
     "title": "korea fest: k-pop edition",
-    "description": "A festival celebrating K-pop culture.",
+    "description": "A K-pop themed festival at Culture Lab LIC in Queens.",
     "start_date": "2025-06-15",
     "start_time": "12:00 am",
-    "end_date": "2025-06-15",
     "end_time": "9:00 pm",
     "link": "https://www.korea-fest.com/",
-    "address": "Culture Lab LIC (Queens)",
+    "address": "Culture Lab LIC, Queens",
     "cost": "$10 10am early admission, free after 2pm"
   },
   {
     "title": "folsom street east festival: bound together",
-    "description": "A festival celebrating Folsom Street East.",
+    "description": "A festival at West 27th Street between 10th and 11th Aves.",
     "start_date": "2025-06-15",
     "start_time": "11:00 am",
     "end_time": "6:00 pm",
@@ -51,158 +50,159 @@
   },
   {
     "title": "everybooty pride party",
-    "description": "A pride party at Brooklyn Academy of Music.",
+    "description": "A pride party at Brooklyn Academy of Music in Fort Greene.",
     "start_date": "2025-06-15",
     "start_time": "5:00 pm",
     "link": "https://www.bam.org/everybooty2025",
-    "address": "Brooklyn Academy of Music (Fort Greene)",
+    "address": "Brooklyn Academy of Music, Fort Greene",
     "cost": "$25"
   },
   {
     "title": "hare krishna parade and festival",
-    "description": "A parade and festival celebrating Hare Krishna culture.",
+    "description": "A parade and festival celebrating Hare Krishna culture, taking place on Fifth Ave from 45th Street to Washington Square Park.",
     "start_date": "2025-06-14",
     "start_time": "11:00 am",
-    "end_date": "2025-06-14",
     "end_time": "7:00 pm",
     "link": "https://iskconnyc.com/event/nyc-ratha-yatra/",
-    "address": "Fifth Ave from 45th Street to Washington Square Park"
+    "address": "Fifth Ave from 45th Street to Washington Square Park",
+    "cost": ""
   },
   {
     "title": "fluffie’s hot chicken midtown grand opening",
-    "description": "Free chicken sandwiches for the first 100 customers, plus free sliders all day.",
+    "description": "Offering 100 free chicken sandwiches for the first 100 customers, plus free sliders all day (limit one per customer).",
     "start_date": "2025-06-14",
     "start_time": "12:00 pm",
-    "link": "https://www.instagram.com/p/DKpiOG_J-Q6/"
+    "link": "https://www.instagram.com/p/DKpiOG_J-Q6/",
+    "address": "",
+    "cost": ""
   },
   {
     "title": "yoga block party",
-    "description": "A yoga event featuring various classes and activities.",
+    "description": "A yoga block party taking place on Graham Ave between Scholes and Meserole in East Williamsburg.",
     "start_date": "2025-06-14",
     "start_time": "2:00 pm",
-    "end_date": "2025-06-14",
     "end_time": "7:00 pm",
     "link": "https://www.eventbrite.com/e/graham-ave-block-party-by-yoga-block-party-tickets-1360663744889",
-    "address": "Graham Ave between Scholes and Meserole (East Williamsburg)"
+    "address": "Graham Ave between Scholes and Meserole, East Williamsburg",
+    "cost": ""
   },
   {
     "title": "queens irish heritage festival",
-    "description": "A festival celebrating Irish culture in Queens.",
+    "description": "A festival celebrating Irish heritage at Culture Lab LIC in Queens.",
     "start_date": "2025-06-14",
     "start_time": "4:00 pm",
-    "end_date": "2025-06-14",
     "end_time": "9:00 pm",
     "link": "https://www.newyorkirishcenter.org/events/2025/6/14/queens-irish-heritage-festival",
-    "address": "Culture Lab LIC (Queens)"
+    "address": "Culture Lab LIC, Queens",
+    "cost": ""
   },
   {
     "title": "and just like that… hot fellas bakery pop-up",
-    "description": "A bakery pop-up event featuring various baked goods.",
+    "description": "A bakery pop-up event at Librae Bakery in the East Village.",
     "start_date": "2025-06-14",
     "start_time": "10:00 am",
-    "end_date": "2025-06-15",
     "end_time": "6:00 pm",
     "link": "https://www.timeout.com/newyork/news/a-free-hot-fellas-bakery-pop-up-from-and-just-like-that-is-coming-to-nyc-this-week-061025",
-    "address": "Librae Bakery (East Village)"
+    "address": "Librae Bakery, East Village",
+    "cost": "Free"
   },
   {
     "title": "sip shop eat night market",
-    "description": "A night market featuring various vendors and activities.",
+    "description": "A night market event at Hook Studio in Red Hook.",
     "start_date": "2025-06-14",
     "start_time": "3:00 pm",
-    "end_date": "2025-06-15",
     "end_time": "8:00 pm",
     "link": "https://www.sipshopeat.com/rsvpbrooklyn",
-    "address": "Hook Studio (Red Hook)",
+    "address": "Hook Studio, Red Hook",
     "cost": "Free+"
   },
   {
     "title": "brooklyn pride: street festival",
-    "description": "A street festival celebrating Brooklyn pride.",
+    "description": "A street festival in Park Slope.",
     "start_date": "2025-06-14",
     "start_time": "12:00 pm",
-    "end_time": "6:00 pm",
+    "end_time": "10:00 pm",
     "link": "https://brooklynpride.org/",
     "address": "Park Slope",
     "cost": "Free"
   },
   {
     "title": "big summer get down dance party: pride twirl",
-    "description": "A dance party celebrating pride.",
+    "description": "A dance party at Brooklyn Bridge Park’s Pier 6 Plaza.",
     "start_date": "2025-06-14",
     "start_time": "4:00 pm",
     "end_time": "9:00 pm",
     "link": "https://brooklynbridgepark.org/event/big-summer-pride-twirl/",
-    "address": "Brooklyn Bridge Park’s Pier 6 Plaza"
+    "address": "Brooklyn Bridge Park’s Pier 6 Plaza",
+    "cost": ""
   },
   {
     "title": "undressed: the musical",
-    "description": "A musical performance at Red Eye NY.",
+    "description": "A musical performance at Red Eye NY in Hell’s Kitchen.",
     "start_date": "2025-06-14",
     "start_time": "7:30 pm",
     "link": "https://www.redeyetickets.com/undressed-the-musical-jun-14/",
-    "address": "Red Eye NY (Hell’s Kitchen)",
+    "address": "Red Eye NY, Hell’s Kitchen",
     "cost": "$20 with promo code ‘ums10’ (reg. $30)"
   },
   {
     "title": "dyketopia comedy show",
-    "description": "A comedy show at Union Hall.",
+    "description": "A comedy show at Union Hall in Park Slope.",
     "start_date": "2025-06-14",
     "start_time": "10:00 pm",
     "link": "https://www.eventbrite.com/e/dyketopia-friends-tickets-1361190971839",
-    "address": "Union Hall (Park Slope)",
+    "address": "Union Hall, Park Slope",
     "cost": "$12 adv, $15 door"
   },
   {
     "title": "prism: a festival of new queer musicals",
-    "description": "A festival of new queer musicals.",
+    "description": "A festival at Judson Memorial Church in Greenwich Village and The Brick Theater in Williamsburg.",
     "start_date": "2025-06-14",
     "end_date": "2025-06-28",
     "link": "https://makersensemble.org/prism",
-    "address": "Judson Memorial Church (Greenwich Village) + The Brick Theater (Williamsburg)",
+    "address": "Judson Memorial Church, Greenwich Village + The Brick Theater, Williamsburg",
     "cost": "$25"
   },
   {
     "title": "thx, it’s thrifted day-to-night market",
-    "description": "A day-to-night market featuring thrifted goods.",
+    "description": "A day-to-night market featuring thrifted goods at 40 Crosby Street (Soho).",
     "start_date": "2025-06-13",
-    "end_date": "2025-06-14",
+    "end_date": "2025-06-16",
     "link": "https://www.instagram.com/thxitsthrifted.nyc/",
-    "address": "40 Crosby Street (Soho)",
-    "cost": "$10+"
+    "address": "40 Crosby Street, Soho",
+    "cost": "$10+ admission"
   },
   {
     "title": "sunnypride: rally, march, and festival",
-    "description": "A pride-themed rally and festival.",
+    "description": "A pride-themed rally, march, and festival from Sunnyside Arch to Lowery Plaza in Queens.",
     "start_date": "2025-06-13",
     "start_time": "6:00 pm",
-    "end_date": "2025-06-13",
     "end_time": "9:00 pm",
     "link": "https://www.instagram.com/p/DKfdbFVuLi6/",
-    "address": "Sunnyside Arch to Lowery Plaza (Queens)",
+    "address": "Sunnyside Arch to Lowery Plaza, Queens",
     "cost": "Free"
   },
   {
     "title": "a mother apart documentary screening",
-    "description": "A screening of the documentary 'A Mother Apart'.",
+    "description": "A documentary screening at Queens Botanical Garden in Flushing.",
     "start_date": "2025-06-13",
     "start_time": "6:30 pm",
     "link": "https://queensbotanical.org/movienights/",
-    "address": "Queens Botanical Garden (Flushing)",
+    "address": "Queens Botanical Garden, Flushing",
     "cost": "$4-6"
   },
   {
     "title": "brooklyn cyclones pride night",
-    "description": "A pride night event featuring the Brooklyn Cyclones.",
+    "description": "Pride night event at Maimonides Park in Coney Island.",
     "start_date": "2025-06-13",
     "start_time": "6:40 pm",
     "link": "https://www.milb.com/brooklyn/fans/pride",
-    "address": "Maimonides Park (Coney Island)",
+    "address": "Maimonides Park, Coney Island",
     "cost": "$18.50+"
   },
   {
     "title": "gay takeover of little italy: an lgbtq+ comedy show",
-    "description": "An LGBTQ+ comedy show in Little Italy.",
+    "description": "An LGBTQ+ comedy show at Capish?! Club Misfit Comedy Space @ Lunella Restaurant.",
     "start_date": "2025-06-13",
     "start_time": "7:30 pm",
     "link": "https://www.eventbrite.com/e/gay-takeover-of-little-italy-an-lgbtq-pride-comedy-show-tickets-1343103762509?aff=erelexpmlt",
@@ -211,11 +211,12 @@
   },
   {
     "title": "the library after hours: pride edition",
-    "description": "A special pride edition of the library after hours event.",
+    "description": "A special pride edition of the library after hours at Stephen A. Schwartzman Building.",
     "start_date": "2025-06-13",
     "start_time": "7:30 pm",
+    "end_time": "11:00 pm",
     "link": "https://www.nypl.org/events/programs/2025/06/13/library-after-hours-pride25",
-    "address": "Stephen A. Schwartzman Building (Midtown)",
+    "address": "Stephen A. Schwartzman Building, Midtown",
     "cost": "Pay-what-you-wish ($15 suggested)"
   },
   {
@@ -225,34 +226,34 @@
     "start_time": "8:00 pm",
     "end_time": "12:00 am",
     "link": "https://www.momaps1.org/en/events/604-night-at-the-museum-pride-2025",
-    "address": "MoMA PS1 (LIC)",
+    "address": "MoMA PS1, LIC",
     "cost": "$25+"
   },
   {
     "title": "Friday the 13th: a freaky friday the 13th pride party",
-    "description": "A pride party themed around Friday the 13th.",
+    "description": "A pride party at Footlight Underground at the Windjammer.",
     "start_date": "2025-06-13",
     "start_time": "8:00 pm",
-    "link": "https://withfriends.co/event/23370325/friday_the_13th_pride",
-    "address": "Footlight Underground at the Windjammer (Ridgewood)",
+    "link": "https://withfriends.co/event/23370325/friday_the-13th_pride",
+    "address": "Footlight Underground at the Windjammer, Ridgewood",
     "cost": "$10+"
   },
   {
     "title": "hot rabbit’s brooklyn pride lgbtq+ dance party",
-    "description": "A dance party celebrating LGBTQ+ pride.",
+    "description": "A dance party at 3 Dollar Bill in Bushwick.",
     "start_date": "2025-06-13",
     "start_time": "10:00 pm",
     "link": "https://www.hotrabbit.com/new-events/hot-rabbits-bk-pride-2025",
-    "address": "3 Dollar Bill (Bushwick)",
+    "address": "3 Dollar Bill, Bushwick",
     "cost": "$20+"
   },
   {
     "title": "pride on film screening series",
-    "description": "A film screening series celebrating pride.",
+    "description": "A film screening series at Quad Cinema in Greenwich Village.",
     "start_date": "2025-06-13",
     "end_date": "2025-06-18",
     "link": "https://quadcinema.com/program/pride-on-film/",
-    "address": "Quad Cinema (Greenwich Village)",
+    "address": "Quad Cinema, Greenwich Village",
     "cost": "$18"
   }
 ]

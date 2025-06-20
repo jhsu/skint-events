@@ -1,97 +1,83 @@
 [
   {
-    "title": "Fifth Annual Broadway Celebrates Juneteenth Outdoor Concert",
-    "description": "Duffy Square.",
-    "start_date": "2025-06-19",
-    "start_time": "11:00 am",
-    "link": "https://www.timessquarenyc.org/events/broadway-celebrates-juneteenth",
-    "address": "Duffy Square",
+    "title": "hudson river park x ladies of hip hop juneteenth celebration",
+    "description": "Juneteenth celebration at Pier 45 in the West Village.",
+    "start_date": "2025-06-20",
+    "start_time": "6:30 pm",
+    "link": "https://hudsonriverpark.org/visit/events/event/juneteenth-celebration-june-20-2025/",
+    "address": "Pier 45, West Village",
     "cost": "Free"
   },
   {
-    "title": "Recess Kickball League’s Fifth Annual Juneteenth Classic",
-    "description": "St. John's Park (Crown Heights).",
-    "start_date": "2025-06-19",
-    "start_time": "11:00 am",
-    "end_time": "5:00 pm",
-    "link": "https://partiful.com/e/5tZksH9Uma10xNAFVLNk",
-    "address": "St. John's Park, Crown Heights",
-    "cost": "Undefined"
+    "title": "juneteenth party with spoken black girl",
+    "description": "A Juneteenth party at Greenlight Bookstore in Fort Greene.",
+    "start_date": "2025-06-20",
+    "start_time": "7:00 pm",
+    "link": "https://greenlightbookstore.com/juneteenth2025",
+    "address": "Greenlight Bookstore, Fort Greene",
+    "cost": "Free"
   },
   {
-    "title": "Museum of Moving Image’s Celebrate Juneteenth Festivities",
-    "description": "Some programming requires museum admission.",
-    "start_date": "2025-06-19",
-    "start_time": "12:00 pm",
-    "end_time": "6:00 pm",
-    "link": "https://movingimage.org/event/celebrate-juneteenth-2025/",
-    "cost": "Undefined"
+    "title": "new york city gay men’s chorus juneteenth concert: unapologetic: our celebration of queer black love",
+    "description": "A concert celebrating queer black love at the Cathedral of St. John the Divine in Morningside Heights.",
+    "start_date": "2025-06-20",
+    "start_time": "8:00 pm",
+    "link": "https://www.stjohndivine.org/calendar/52733/unapologetic-our-celebration-of-queer-black-love",
+    "address": "Cathedral of St. John the Divine, Morningside Heights",
+    "cost": "Free"
   },
   {
-    "title": "Fourth Annual Juneteenth Food Festival",
-    "description": "Weeksville Heritage Center (Crown Heights). Free admission, pay-as-you-go.",
-    "start_date": "2025-06-19",
-    "start_time": "12:00 pm",
-    "end_time": "8:00 pm",
-    "link": "https://www.weeksvillesociety.org/event/4th-annual-juneteenth-food-festival/",
-    "address": "Weeksville Heritage Center, Crown Heights",
-    "cost": "Free admission, pay-as-you-go"
+    "title": "boba gays pride comedy show",
+    "description": "A pride-themed comedy show at Caveat in the East Village.",
+    "start_date": "2025-06-20",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/events/boba-gays-pride-comedy-show-6-20-2025",
+    "address": "Caveat, East Village",
+    "cost": "$13.61 with promo code ‘pride’ (reg. $18.76+)"
   },
   {
-    "title": "Juneteenth Celebration in Historic Seneca Village",
-    "description": "(Central Park).",
-    "start_date": "2025-06-19",
-    "start_time": "12:30 pm",
-    "end_time": "3:00 pm",
-    "link": "https://www.centralparknyc.org/activities/events/celebrate-juneteenth-in-seneca-village",
-    "address": "Central Park",
-    "cost": "Undefined"
+    "title": "swedish midsummer festival",
+    "description": "A festival celebrating Swedish midsummer at Rockefeller Park in Battery Park City.",
+    "start_date": "2025-06-20",
+    "start_time": "5:00 pm",
+    "link": "https://bpca.ny.gov/news/events/special-events/swedish-midsummer-festival/",
+    "address": "Rockefeller Park, Battery Park City",
+    "cost": "Free"
   },
   {
-    "title": "5th Annual Juneteenth Black Music and Dance Celebration",
-    "description": "Richard Rogers Amphitheater in Marcus Garvey Park (Harlem).",
-    "start_date": "2025-06-19",
-    "start_time": "4:00 pm",
-    "end_time": "7:00 pm",
-    "link": "https://jmih.org/event/5th-annual-juneteenth-black-music-and-dance-celebration/",
-    "address": "Richard Rogers Amphitheater, Marcus Garvey Park, Harlem",
-    "cost": "Undefined"
-  },
-  {
-    "title": "BRIC Celebrate Brooklyn’s 3rd Annual Juneteenth in the Park",
-    "description": "Lena Horne Bandshell (Prospect Park, Brooklyn).",
-    "start_date": "2025-06-19",
+    "title": "20th scandinavian music festival in fort tryon park",
+    "description": "Outdoor concerts performed by symphony members and guest artists at Fort Tryon Park.",
+    "start_date": "2025-06-20",
     "start_time": "6:00 pm",
-    "link": "https://bricartsmedia.org/event/bric-celebrate-brooklyns-3rd-annual-juneteenth-in-the-park/",
-    "address": "Lena Horne Bandshell, Prospect Park, Brooklyn",
-    "cost": "Undefined"
+    "link": "https://nyscandia.org/concerts/",
+    "address": "Fort Tryon Park",
+    "cost": "Free"
   },
   {
-    "title": "Oh Sankofa!: A Juneteenth Celebration with Black Theatre United",
-    "description": "Hearst Plaza and Damrosch Park (Lincoln Center).",
-    "start_date": "2025-06-19",
-    "start_time": "6:00 pm",
-    "end_time": "7:30 pm",
-    "link": "https://lincolncenter.org/series/summer-for-the-city/oh-sankofaandnbspa-juneteenth-celebration",
-    "address": "Hearst Plaza and Damrosch Park, Lincoln Center",
-    "cost": "Undefined"
-  },
-  {
-    "title": "The Tune Up: A Juneteenth Celebration",
-    "description": "David Rubenstein Atrium at Lincoln Center.",
-    "start_date": "2025-06-19",
+    "title": "awkward sex… and the city storytelling show",
+    "description": "A storytelling show about dating and sexual encounters at Friends and Lovers in Crown Heights.",
+    "start_date": "2025-06-20",
     "start_time": "7:30 pm",
-    "link": "https://lincolncenter.org/series/summer-for-the-city/the-tune-up-125",
-    "address": "David Rubenstein Atrium, Lincoln Center",
-    "cost": "Undefined"
+    "link": "https://www.fnlbk.com/upcoming/2025/6/20/awkward-sexand-the-city",
+    "address": "Friends and Lovers, Crown Heights",
+    "cost": "$10 adv, $15 door"
   },
   {
-    "title": "Juneteenth Dance Party",
-    "description": "House of Yes (Bushwick). Free with RSVP, $15 at the door (proceeds/donations benefit Beyond the Black Box).",
-    "start_date": "2025-06-18",
-    "start_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/juneteenth-dance-party-tickets-1349811766329",
-    "address": "House of Yes, Bushwick",
-    "cost": "Free with RSVP, $15 at the door"
+    "title": "best night ever comedy show",
+    "description": "A night of stand-up comedy at El Santo Taqueria in East Williamsburg/Bushwick.",
+    "start_date": "2025-06-20",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/best-night-ever-comedy-show-tickets-1391579805659",
+    "address": "El Santo Taqueria, East Williamsburg/Bushwick",
+    "cost": "$12.51 adv, $16+ day of"
+  },
+  {
+    "title": "jazz + gin: speakeasy soirée",
+    "description": "A speakeasy soirée with live music and cocktails at The Urbane Arts Club in Ditmas Park.",
+    "start_date": "2025-06-20",
+    "start_time": "7:00 pm",
+    "link": "https://www.prohibitionproductions.com/calendar/062025",
+    "address": "The Urbane Arts Club, Ditmas Park",
+    "cost": "$20 with promo code ‘skint’ (reg. $25)"
   }
 ]

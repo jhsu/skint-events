@@ -1,5 +1,95 @@
 [
   {
+    "title": "resurrection of glitter: draf show + screening of velvet goldmine",
+    "description": "A show and screening at Wonderville in Bushwick.",
+    "start_date": "2025-06-22",
+    "start_time": "2:00 pm",
+    "link": "https://www.wonderville.nyc/events/resurrection-glitter-6-22-2025",
+    "address": "Wonderville, Bushwick",
+    "cost": "Free admission (bring tips for the performers)"
+  },
+  {
+    "title": "gay shame comedy show",
+    "description": "A comedy show at Littlefield in Gowanus.",
+    "start_date": "2025-06-22",
+    "start_time": "7:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1380633133869",
+    "address": "Littlefield, Gowanus",
+    "cost": "$10"
+  },
+  {
+    "title": "juneteenth jubilee",
+    "description": "A celebration at the Brooklyn Museum, included with suggested museum admission.",
+    "start_date": "2025-06-21",
+    "start_time": "1:00 pm",
+    "link": "https://www.brooklynmuseum.org/programs/juneteenth-jubilee-june-2025/06-21-2025",
+    "address": "Brooklyn Museum, Prospect Heights",
+    "cost": "Included with suggested museum admission"
+  },
+  {
+    "title": "we outside! a brooklyn juneteenth, vol. iii",
+    "description": "A celebration at The Plaza at 300 Ashland Place in Fort Greene.",
+    "start_date": "2025-06-21",
+    "start_time": "2:00 pm",
+    "link": "https://www.eventbrite.com/e/we-outside-a-brooklyn-juneteenth-vol-iii-tickets-1363207834329",
+    "address": "The Plaza at 300 Ashland Place, Fort Greene",
+    "cost": "Free"
+  },
+  {
+    "title": "5th annual historic harlem parks juneteenth festival: good vibes in the park",
+    "description": "A festival at St. Nicholas Park in Harlem.",
+    "start_date": "2025-06-21",
+    "start_time": "2:00 pm",
+    "link": "https://www.nycgovparks.org/events/2025/06/21/5th-annual-historic-harlem-parks-juneteenth-festival-goodvibes-in-the-park",
+    "address": "St. Nicholas Park, Harlem",
+    "cost": "Free"
+  },
+  {
+    "title": "endea owens juneteenth concert",
+    "description": "A concert at the Louis Armstrong House Museum Garden in Corona.",
+    "start_date": "2025-06-21",
+    "start_time": "3:00 pm",
+    "link": "https://www.louisarmstronghouse.org/event-details/endea-owens-juneteenth-concert/",
+    "address": "Louis Armstrong House Museum Garden, Corona",
+    "cost": "Free"
+  },
+  {
+    "title": "brooklyn pride comic book fair",
+    "description": "A comic book fair at Brooklyn Community Pride Center in Crown Heights.",
+    "start_date": "2025-06-21",
+    "start_time": "12:00 pm",
+    "link": "https://www.instagram.com/anyonecomics",
+    "address": "Brooklyn Community Pride Center, Crown Heights",
+    "cost": "Free"
+  },
+  {
+    "title": "da bronx pride festival",
+    "description": "A pride festival in the Bronx.",
+    "start_date": "2025-06-21",
+    "start_time": "12:00 pm",
+    "link": "https://destinationtomorrow.org/pride-2025",
+    "address": "Grand Concourse + 161st; festival: Westchester Ave between Brooke Ave + Bergen Ave",
+    "cost": "Free"
+  },
+  {
+    "title": "lower east side pride bookstore crawl",
+    "description": "A bookstore crawl at various locations in the Lower East Side.",
+    "start_date": "2025-06-21",
+    "start_time": "12:00 pm",
+    "link": "https://bookclubbar.com/events/2894120250621",
+    "address": "Various locations",
+    "cost": "Free"
+  },
+  {
+    "title": "pridefest: new queer performances",
+    "description": "A festival at The Tank in the Garment District.",
+    "start_date": "2025-06-21",
+    "start_time": "12:00 pm",
+    "link": "https://thetanknyc.org/pridefest-2025",
+    "address": "The Tank, Garment District",
+    "cost": "Various prices"
+  },
+  {
     "title": "hudson river park x ladies of hip hop juneteenth celebration",
     "description": "Juneteenth celebration at Pier 45 in the West Village.",
     "start_date": "2025-06-20",
@@ -28,56 +118,11 @@
   },
   {
     "title": "boba gays pride comedy show",
-    "description": "A pride-themed comedy show at Caveat in the East Village.",
+    "description": "A comedy show at Caveat in the East Village.",
     "start_date": "2025-06-20",
     "start_time": "7:00 pm",
     "link": "https://caveat.nyc/events/boba-gays-pride-comedy-show-6-20-2025",
     "address": "Caveat, East Village",
     "cost": "$13.61 with promo code ‘pride’ (reg. $18.76+)"
-  },
-  {
-    "title": "swedish midsummer festival",
-    "description": "A festival celebrating Swedish midsummer at Rockefeller Park in Battery Park City.",
-    "start_date": "2025-06-20",
-    "start_time": "5:00 pm",
-    "link": "https://bpca.ny.gov/news/events/special-events/swedish-midsummer-festival/",
-    "address": "Rockefeller Park, Battery Park City",
-    "cost": "Free"
-  },
-  {
-    "title": "20th scandinavian music festival in fort tryon park",
-    "description": "Outdoor concerts performed by symphony members and guest artists at Fort Tryon Park.",
-    "start_date": "2025-06-20",
-    "start_time": "6:00 pm",
-    "link": "https://nyscandia.org/concerts/",
-    "address": "Fort Tryon Park",
-    "cost": "Free"
-  },
-  {
-    "title": "awkward sex… and the city storytelling show",
-    "description": "A storytelling show about dating and sexual encounters at Friends and Lovers in Crown Heights.",
-    "start_date": "2025-06-20",
-    "start_time": "7:30 pm",
-    "link": "https://www.fnlbk.com/upcoming/2025/6/20/awkward-sexand-the-city",
-    "address": "Friends and Lovers, Crown Heights",
-    "cost": "$10 adv, $15 door"
-  },
-  {
-    "title": "best night ever comedy show",
-    "description": "A night of stand-up comedy at El Santo Taqueria in East Williamsburg/Bushwick.",
-    "start_date": "2025-06-20",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/best-night-ever-comedy-show-tickets-1391579805659",
-    "address": "El Santo Taqueria, East Williamsburg/Bushwick",
-    "cost": "$12.51 adv, $16+ day of"
-  },
-  {
-    "title": "jazz + gin: speakeasy soirée",
-    "description": "A speakeasy soirée with live music and cocktails at The Urbane Arts Club in Ditmas Park.",
-    "start_date": "2025-06-20",
-    "start_time": "7:00 pm",
-    "link": "https://www.prohibitionproductions.com/calendar/062025",
-    "address": "The Urbane Arts Club, Ditmas Park",
-    "cost": "$20 with promo code ‘skint’ (reg. $25)"
   }
 ]

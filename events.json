@@ -1,128 +1,173 @@
 [
   {
-    "title": "resurrection of glitter: draf show + screening of velvet goldmine",
-    "description": "A show and screening at Wonderville in Bushwick.",
-    "start_date": "2025-06-22",
-    "start_time": "2:00 pm",
-    "link": "https://www.wonderville.nyc/events/resurrection-glitter-6-22-2025",
-    "address": "Wonderville, Bushwick",
-    "cost": "Free admission (bring tips for the performers)"
+    "title": "Fourth Annual Pride at the High Line: A United Front",
+    "description": "The High Line at 17th Street (Meatpacking District).",
+    "start_date": "2025-06-26",
+    "start_time": "5:00 pm",
+    "link": "https://www.thehighline.org/events/pride-2025/",
+    "address": "The High Line at 17th Street (Meatpacking District)",
+    "cost": "Free admission"
   },
   {
-    "title": "gay shame comedy show",
-    "description": "A comedy show at Littlefield in Gowanus.",
-    "start_date": "2025-06-22",
-    "start_time": "7:00 pm",
-    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1380633133869",
-    "address": "Littlefield, Gowanus",
-    "cost": "$10"
-  },
-  {
-    "title": "pridefest: new queer performances",
-    "description": "A festival at The Tank in the Garment District.",
-    "start_date": "2025-06-22",
-    "start_time": "12:00 pm",
-    "link": "https://thetanknyc.org/pridefest-2025",
-    "address": "The Tank, Garment District",
-    "cost": "Various prices"
-  },
-  {
-    "title": "juneteenth jubilee",
-    "description": "A celebration at the Brooklyn Museum, included with suggested museum admission.",
-    "start_date": "2025-06-21",
-    "start_time": "1:00 pm",
-    "link": "https://www.brooklynmuseum.org/programs/juneteenth-jubilee-june-2025/06-21-2025",
-    "address": "Brooklyn Museum, Prospect Heights",
-    "cost": "Included with suggested museum admission"
-  },
-  {
-    "title": "we outside! a brooklyn juneteenth, vol. iii",
-    "description": "A celebration at The Plaza at 300 Ashland Place in Fort Greene.",
-    "start_date": "2025-06-21",
-    "start_time": "2:00 pm",
-    "link": "https://www.eventbrite.com/e/we-outside-a-brooklyn-juneteenth-vol-iii-tickets-1363207834329",
-    "address": "The Plaza at 300 Ashland Place, Fort Greene",
-    "cost": "Free"
-  },
-  {
-    "title": "5th annual historic harlem parks juneteenth festival: good vibes in the park",
-    "description": "A festival at St. Nicholas Park in Harlem.",
-    "start_date": "2025-06-21",
-    "start_time": "2:00 pm",
-    "link": "https://www.nycgovparks.org/events/2025/06/21/5th-annual-historic-harlem-parks-juneteenth-festival-goodvibes-in-the-park",
-    "address": "St. Nicholas Park, Harlem",
-    "cost": "Free"
-  },
-  {
-    "title": "endea owens juneteenth concert",
-    "description": "A concert at the Louis Armstrong House Museum Garden in Corona.",
-    "start_date": "2025-06-21",
-    "start_time": "3:00 pm",
-    "link": "https://www.louisarmstronghouse.org/event-details/endea-owens-juneteenth-concert/",
-    "address": "Louis Armstrong House Museum Garden, Corona",
-    "cost": "Free"
-  },
-  {
-    "title": "brooklyn pride comic book fair",
-    "description": "A pride-themed comic book fair at the Brooklyn Community Pride Center in Crown Heights.",
-    "start_date": "2025-06-21",
-    "start_time": "12:00 pm",
-    "link": "https://www.instagram.com/anyonecomics",
-    "address": "Brooklyn Community Pride Center, Crown Heights",
-    "cost": "Free"
-  },
-  {
-    "title": "da bronx pride festival",
-    "description": "A pride festival in the Bronx.",
-    "start_date": "2025-06-21",
-    "start_time": "12:00 pm",
-    "link": "https://destinationtomorrow.org/pride-2025",
-    "address": "Grand Concourse + 161st, Bronx",
-    "cost": "Free"
-  },
-  {
-    "title": "lower east side pride bookstore crawl",
-    "description": "A pride-themed bookstore crawl at various locations.",
-    "start_date": "2025-06-21",
-    "start_time": "12:00 pm",
-    "link": "https://bookclubbar.com/events/2894120250621",
-    "address": "Various locations, Lower East Side",
-    "cost": "Free"
-  },
-  {
-    "title": "hudson river park x ladies of hip hop juneteenth celebration",
-    "description": "Juneteenth celebration at Pier 45 in the West Village.",
-    "start_date": "2025-06-20",
+    "title": "Pride Celebration Dance Party at Riverside Park",
+    "description": "Pier 45 (West Village).",
+    "start_date": "2025-06-26",
     "start_time": "6:30 pm",
-    "link": "https://hudsonriverpark.org/visit/events/event/juneteenth-celebration-june-20-2025/",
-    "address": "Pier 45, West Village",
-    "cost": "Free"
+    "link": "https://hudsonriverpark.org/visit/events/event/pride-celebration-june-26-2025/",
+    "address": "Pier 45 (West Village)",
+    "cost": "Free admission"
   },
   {
-    "title": "juneteenth party with spoken black girl",
-    "description": "A Juneteenth party at Greenlight Bookstore in Fort Greene.",
-    "start_date": "2025-06-20",
+    "title": "Stud Country Line Dancing and Two-Stepping Party",
+    "description": "Lincoln Center's Josie Robertson Plaza (UWS).",
+    "start_date": "2025-06-26",
+    "start_time": "6:30 pm",
+    "link": "https://www.lincolncenter.org/series/summer-for-the-city/stud-country-581",
+    "address": "Lincoln Center's Josie Robertson Plaza (UWS)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Pride Panel: Queer Book Debuts You Should Know About",
+    "description": "Books Are Magic (Brooklyn Heights).",
+    "start_date": "2025-06-26",
     "start_time": "7:00 pm",
-    "link": "https://greenlightbookstore.com/juneteenth2025",
-    "address": "Greenlight Bookstore, Fort Greene",
-    "cost": "Free"
+    "link": "https://booksaremagic.net/events/2655920250626",
+    "address": "Books Are Magic (Brooklyn Heights)",
+    "cost": "Free admission (donations welcome)"
   },
   {
-    "title": "new york city gay men’s chorus juneteenth concert: unapologetic: our celebration of queer black love",
-    "description": "A concert celebrating queer black love at the Cathedral of St. John the Divine in Morningside Heights.",
-    "start_date": "2025-06-20",
+    "title": "Pride on the Plaza Silent Disco",
+    "description": "North Oculus Plaza (FIDI).",
+    "start_date": "2025-06-26",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/pride-on-the-plaza-silent-disco-world-trade-center-tickets-1388287738999",
+    "address": "North Oculus Plaza (FIDI)",
+    "cost": "Free (a credit or debit card is required for the check-in process to use the required headphones)"
+  },
+  {
+    "title": "The Makers’ Ensemble Prism Prom",
+    "description": "Judson Assembly Hall (Greenwich Village).",
+    "start_date": "2025-06-26",
+    "start_time": "7:00 pm",
+    "link": "https://partiful.com/e/HvYMZVyg6N6sUfxjj80w",
+    "address": "Judson Assembly Hall (Greenwich Village)",
+    "cost": "$10 suggested donation"
+  },
+  {
+    "title": "Pat Party!!!",
+    "description": "Union Pool (Williamsburg).",
+    "start_date": "2025-06-26",
+    "start_time": "9:00 pm",
+    "link": "https://dice.fm/event/avov62-pat-party-26th-jun-union-pool-new-york-tickets",
+    "address": "Union Pool (Williamsburg)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "MoMA Pride Celebration",
+    "description": "Museum of Modern Art (Midtown).",
+    "start_date": "2025-06-25",
+    "start_time": "6:30 pm",
+    "link": "https://www.moma.org/calendar/events/10638",
+    "address": "Museum of Modern Art (Midtown)",
+    "cost": "Free admission with RSVP"
+  },
+  {
+    "title": "Kweendom: A Night of Queer Stand-Up",
+    "description": "NYPL Stephen A. Schwarzman Building’s Celeste Auditorium (Midtown).",
+    "start_date": "2025-06-25",
+    "start_time": "7:00 pm",
+    "link": "https://www.nypl.org/events/programs/2025/06/25/kweendom",
+    "address": "NYPL Stephen A. Schwarzman Building’s Celeste Auditorium (Midtown)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Queer Window LGBTQIA+ Sketch Show: Pride Edition",
+    "description": "UCB (East Village).",
+    "start_date": "2025-06-25",
+    "start_time": "8:30 pm",
+    "link": "https://ucbcomedy.com/show/queer-window-pride-edition/",
+    "address": "UCB (East Village)",
+    "cost": "$10 adv, $15 day of"
+  },
+  {
+    "title": "Moleskine Sample Sale",
+    "description": "Save on notebooks, stationary, accessories, and more.",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-29",
+    "link": "https://260samplesale.com/pages/moleskine-nomad-ny",
+    "address": "260 Fifth Ave (Nomad)",
+    "cost": "undefined"
+  },
+  {
+    "title": "We Love a Theme: A Storytelling Show",
+    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at Bailey Swilley’s monthly storytelling show. Tonight’s ‘oooh that’s salty…’ theme features Stuart Ginsberg, Sarah Finucane, Anoush Froundjian, and Michele Carlo.",
+    "start_date": "2025-06-24",
+    "start_time": "7:00 pm",
+    "link": "https://www.petescandystore.com/calendar/",
+    "address": "Pete’s Candy Store (Williamsburg)",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "NYC Magic Ensemble",
+    "description": "Expect the unexpected as the NYC Magic Ensemble presents a night of magicians and mentalists at Young Ethel’s, featuring performers Carl Mercurio, Eric Qiu, and Mike Kurylo.",
+    "start_date": "2025-06-24",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/nyc-magic-ensemble-young-ethels-tickets-1391807346239",
+    "address": "Young Ethel’s (South Slope)",
+    "cost": "$10 (a limited number of 2-for-$15 tickets are also available)"
+  },
+  {
+    "title": "Something Old, Something New, Something Blue: Pride Edition",
+    "description": "Good things come in threes at the Something Old, Something New, Something Blue stand-up show, where comedians are required to include an old joke, a new joke, and a dirty joke in their sets. Hosted by Caitlin Reese (HBO), featuring Ely Kreimendahl, Danny Suggs, Calvin Cato, Jess Salomon, Jilberto Soto, and Micah Eames.",
+    "start_date": "2025-06-24",
+    "start_time": "7:30 pm",
+    "link": "https://qedastoria.com/products/something-old-something-new-something-blue",
+    "address": "Q.E.D. (Astoria)",
+    "cost": "$15"
+  },
+  {
+    "title": "Scientific Controversies: Listening to Whales",
+    "description": "Explore the scientific, philosophical, and technical challenges of communicating with whales, and consider what their language might reveal about intelligence, consciousness, and social bonds among other animals at tonight’s edition of Pioneer Works’ Scientific Controversies series.",
+    "start_date": "2025-06-24",
     "start_time": "8:00 pm",
-    "link": "https://www.stjohndivine.org/calendar/52733/unapologetic-our-celebration-of-queer-black-love",
-    "address": "Cathedral of St. John the Divine, Morningside Heights",
-    "cost": "Free"
+    "link": "https://pioneerworks.org/programs/scientific-controversies-listening-to-whales",
+    "address": "Pioneer Works (Red Hook)",
+    "cost": "Free admission (donations welcome)"
   },
   {
-    "title": "boba gays pride comedy show",
-    "description": "A pride-themed comedy show at Caveat in the East Village.",
-    "start_date": "2025-06-20",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/events/boba-gays-pride-comedy-show-6-20-2025",
-    "address": "Caveat, East Village",
-    "cost": "$13.61 with promo code ‘pride’ (reg. $18.76+)"
+    "title": "Pages + Pours: A Book Swap with a Twist",
+    "description": "Sip, swap, and socialize. Hear excerpts, reviews, and recommended pairings of recently loved literature from featured readers, then trade a book and dive into conversations with fellow book lovers.",
+    "start_date": "2025-06-24",
+    "start_time": "8:00 pm",
+    "link": "https://partiful.com/e/OT7iaRBM4RgfZCOT61vz",
+    "address": "Thayer Coffee + Wine Bar (East Village)",
+    "cost": "$15"
+  },
+  {
+    "title": "Murder on Sex Island: A Book Release Show with Jo Firestone and Friends",
+    "description": "Comedian Jo Firestone originally self-published Murder on Sex Island: A Luella Van Horn Mystery, and now it’s become a published-published book. To celebrate, Jo and friends will gather to play toxic reality show games, sign books, and do a Q&A.",
+    "start_date": "2025-06-24",
+    "start_time": "8:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1365765855439",
+    "address": "Littlefield (Gowanus)",
+    "cost": "$10 admission (signed books will be available for purchase)"
+  },
+  {
+    "title": "Naumburg Orchestral Concerts: 2025 Season",
+    "description": "The Naumburg Orchestral Concerts series returns for its 120th season at historic Naumburg Bandshell in Central Park. Tonight: A Far Cry, a self-conducted chamber orchestra, performs works by Andrea Casarrubios, Shelley Washington, Richard Strauss, and more.",
+    "start_date": "2025-06-24",
+    "start_time": "8:00 pm",
+    "link": "https://naumburgconcerts.org/upcoming",
+    "address": "Naumburg Bandshell (Central Park)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Live Band Karaoke at Arlene’s Grocery",
+    "description": "Choose from a wide assortment of rock and pop songs and sing with your very own live band backing you up.",
+    "start_date": "2025-06-24",
+    "start_time": "8:00 pm",
+    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
+    "address": "Arlene’s Grocery (LES)",
+    "cost": "$10"
   }
 ]

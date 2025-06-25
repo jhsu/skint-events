@@ -1,7 +1,7 @@
 [
   {
     "title": "Fourth Annual Pride at the High Line: A United Front",
-    "description": "The High Line at 17th Street (Meatpacking District).",
+    "description": "Event at the High Line at 17th Street (Meatpacking District).",
     "start_date": "2025-06-26",
     "start_time": "5:00 pm",
     "link": "https://www.thehighline.org/events/pride-2025/",
@@ -10,7 +10,7 @@
   },
   {
     "title": "Pride Celebration Dance Party at Riverside Park",
-    "description": "Pier 45 (West Village).",
+    "description": "Dance party at Pier 45 (West Village).",
     "start_date": "2025-06-26",
     "start_time": "6:30 pm",
     "link": "https://hudsonriverpark.org/visit/events/event/pride-celebration-june-26-2025/",
@@ -19,7 +19,7 @@
   },
   {
     "title": "Stud Country Line Dancing and Two-Stepping Party",
-    "description": "Lincoln Center's Josie Robertson Plaza (UWS).",
+    "description": "Line dancing party at Lincoln Center's Josie Robertson Plaza (UWS).",
     "start_date": "2025-06-26",
     "start_time": "6:30 pm",
     "link": "https://www.lincolncenter.org/series/summer-for-the-city/stud-country-581",
@@ -28,7 +28,7 @@
   },
   {
     "title": "Pride Panel: Queer Book Debuts You Should Know About",
-    "description": "Books Are Magic (Brooklyn Heights).",
+    "description": "Panel discussion at Books Are Magic (Brooklyn Heights).",
     "start_date": "2025-06-26",
     "start_time": "7:00 pm",
     "link": "https://booksaremagic.net/events/2655920250626",
@@ -37,7 +37,7 @@
   },
   {
     "title": "Pride on the Plaza Silent Disco",
-    "description": "North Oculus Plaza (FIDI).",
+    "description": "Silent disco at North Oculus Plaza (FIDI).",
     "start_date": "2025-06-26",
     "start_time": "7:00 pm",
     "link": "https://www.eventbrite.com/e/pride-on-the-plaza-silent-disco-world-trade-center-tickets-1388287738999",
@@ -46,7 +46,7 @@
   },
   {
     "title": "The Makers’ Ensemble Prism Prom",
-    "description": "Judson Assembly Hall (Greenwich Village).",
+    "description": "Event at Judson Assembly Hall (Greenwich Village).",
     "start_date": "2025-06-26",
     "start_time": "7:00 pm",
     "link": "https://partiful.com/e/HvYMZVyg6N6sUfxjj80w",
@@ -55,7 +55,7 @@
   },
   {
     "title": "Pat Party!!!",
-    "description": "Union Pool (Williamsburg).",
+    "description": "Event at Union Pool (Williamsburg).",
     "start_date": "2025-06-26",
     "start_time": "9:00 pm",
     "link": "https://dice.fm/event/avov62-pat-party-26th-jun-union-pool-new-york-tickets",
@@ -63,8 +63,80 @@
     "cost": "Free admission"
   },
   {
+    "title": "We Love a Theme: A Storytelling Show",
+    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at Bailey Swilley’s monthly storytelling show. Tonight’s ‘oooh that’s salty…’ theme features Stuart Ginsberg, Sarah Finucane, Anoush Froundjian, and Michele Carlo.",
+    "start_date": "2025-06-25",
+    "start_time": "7:00 pm",
+    "link": "https://www.petescandystore.com/calendar/",
+    "address": "Pete’s Candy Store (Williamsburg)",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "NYC Magic Ensemble",
+    "description": "Expect the unexpected as the NYC Magic Ensemble presents a night of magicians and mentalists at Young Ethel’s, featuring performers Carl Mercurio, Eric Qiu, and Mike Kurylo.",
+    "start_date": "2025-06-25",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/nyc-magic-ensemble-young-ethels-tickets-1391807346239",
+    "address": "Young Ethel’s (South Slope)",
+    "cost": "$10 (a limited number of 2-for-$15 tickets are also available)"
+  },
+  {
+    "title": "Something Old, Something New, Something Blue: Pride Edition",
+    "description": "Good things come in threes at the Something Old, Something New, Something Blue stand-up show, where comedians are required to include an old joke, a new joke, and a dirty joke in their sets. Hosted by Caitlin Reese (HBO), featuring Ely Kreimendahl, Danny Suggs, Calvin Cato, Jess Salomon, Jilberto Soto, and Micah Eames.",
+    "start_date": "2025-06-25",
+    "start_time": "7:30 pm",
+    "link": "https://qedastoria.com/products/something-old-something-new-something-blue",
+    "address": "Q.E.D. (Astoria)",
+    "cost": "$15"
+  },
+  {
+    "title": "Scientific Controversies: Listening to Whales",
+    "description": "Explore the scientific, philosophical, and technical challenges of communicating with whales, and consider what their language might reveal about intelligence, consciousness, and social bonds among other animals.",
+    "start_date": "2025-06-25",
+    "start_time": "8:00 pm",
+    "link": "https://pioneerworks.org/programs/scientific-controversies-listening-to-whales",
+    "address": "Pioneer Works (Red Hook)",
+    "cost": "Free admission (donations welcome)"
+  },
+  {
+    "title": "Pages + Pours: A Book Swap with a Twist",
+    "description": "Sip, swap, and socialize. Hear excerpts, reviews, and recommended pairings of recently loved literature from featured readers, then trade a book and dive into conversations with fellow book lovers.",
+    "start_date": "2025-06-25",
+    "start_time": "8:00 pm",
+    "link": "https://partiful.com/e/OT7iaRBM4RgfZCOT61vz",
+    "address": "Thayer Coffee + Wine Bar (East Village)",
+    "cost": "$15"
+  },
+  {
+    "title": "Murder on Sex Island: A Book Release Show with Jo Firestone and Friends",
+    "description": "Comedian Jo Firestone originally self-published Murder on Sex Island: A Luella Van Horn Mystery, and now it’s become a published-published book. To celebrate, Jo and friends will gather to play toxic reality show games, sign books, and do a Q+A.",
+    "start_date": "2025-06-25",
+    "start_time": "8:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1365765855439",
+    "address": "Littlefield (Gowanus)",
+    "cost": "$10 admission (signed books will be available for purchase)"
+  },
+  {
+    "title": "Naumburg Orchestral Concerts: 2025 Season",
+    "description": "The Naumburg Orchestral Concerts series returns for its 120th season at historic Naumburg Bandshell in Central Park. Tonight: A Far Cry, a self-conducted chamber orchestra, performs works by Andrea Casarrubios, Shelley Washington, Richard Strauss, and more.",
+    "start_date": "2025-06-25",
+    "start_time": "8:00 pm",
+    "link": "https://naumburgconcerts.org/upcoming",
+    "address": "Naumburg Bandshell (Central Park)",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Live Band Karaoke at Arlene’s Grocery",
+    "description": "Choose from a wide assortment of rock and pop songs and sing with your very own live band backing you up.",
+    "start_date": "2025-06-25",
+    "start_time": "8:00 pm",
+    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
+    "address": "Arlene’s Grocery (LES)",
+    "cost": "$10"
+  },
+  {
     "title": "MoMA Pride Celebration",
-    "description": "Museum of Modern Art (Midtown).",
+    "description": "Museum of Modern Art (Midtown) hosts a pride celebration.",
     "start_date": "2025-06-25",
     "start_time": "6:30 pm",
     "link": "https://www.moma.org/calendar/events/10638",
@@ -73,16 +145,16 @@
   },
   {
     "title": "Kweendom: A Night of Queer Stand-Up",
-    "description": "NYPL Stephen A. Schwarzman Building’s Celeste Auditorium (Midtown).",
+    "description": "Stand-up comedy event at NYPL Stephen A. Schwarzman Building’s Celeste Auditorium (Midtown).",
     "start_date": "2025-06-25",
     "start_time": "7:00 pm",
     "link": "https://www.nypl.org/events/programs/2025/06/25/kweendom",
-    "address": "NYPL Stephen A. Schwarzman Building’s Celeste Auditorium (Midtown)",
+    "address": "NYPL Stephen A. Schwarzman Building (Midtown)",
     "cost": "Free admission"
   },
   {
     "title": "Queer Window LGBTQIA+ Sketch Show: Pride Edition",
-    "description": "UCB (East Village).",
+    "description": "Sketch comedy show at UCB (East Village).",
     "start_date": "2025-06-25",
     "start_time": "8:30 pm",
     "link": "https://ucbcomedy.com/show/queer-window-pride-edition/",
@@ -97,77 +169,5 @@
     "link": "https://260samplesale.com/pages/moleskine-nomad-ny",
     "address": "260 Fifth Ave (Nomad)",
     "cost": "undefined"
-  },
-  {
-    "title": "We Love a Theme: A Storytelling Show",
-    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at Bailey Swilley’s monthly storytelling show. Tonight’s ‘oooh that’s salty…’ theme features Stuart Ginsberg, Sarah Finucane, Anoush Froundjian, and Michele Carlo.",
-    "start_date": "2025-06-24",
-    "start_time": "7:00 pm",
-    "link": "https://www.petescandystore.com/calendar/",
-    "address": "Pete’s Candy Store (Williamsburg)",
-    "cost": "Free ($5 suggested donation)"
-  },
-  {
-    "title": "NYC Magic Ensemble",
-    "description": "Expect the unexpected as the NYC Magic Ensemble presents a night of magicians and mentalists at Young Ethel’s, featuring performers Carl Mercurio, Eric Qiu, and Mike Kurylo.",
-    "start_date": "2025-06-24",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/nyc-magic-ensemble-young-ethels-tickets-1391807346239",
-    "address": "Young Ethel’s (South Slope)",
-    "cost": "$10 (a limited number of 2-for-$15 tickets are also available)"
-  },
-  {
-    "title": "Something Old, Something New, Something Blue: Pride Edition",
-    "description": "Good things come in threes at the Something Old, Something New, Something Blue stand-up show, where comedians are required to include an old joke, a new joke, and a dirty joke in their sets. Hosted by Caitlin Reese (HBO), featuring Ely Kreimendahl, Danny Suggs, Calvin Cato, Jess Salomon, Jilberto Soto, and Micah Eames.",
-    "start_date": "2025-06-24",
-    "start_time": "7:30 pm",
-    "link": "https://qedastoria.com/products/something-old-something-new-something-blue",
-    "address": "Q.E.D. (Astoria)",
-    "cost": "$15"
-  },
-  {
-    "title": "Scientific Controversies: Listening to Whales",
-    "description": "Explore the scientific, philosophical, and technical challenges of communicating with whales, and consider what their language might reveal about intelligence, consciousness, and social bonds among other animals at tonight’s edition of Pioneer Works’ Scientific Controversies series.",
-    "start_date": "2025-06-24",
-    "start_time": "8:00 pm",
-    "link": "https://pioneerworks.org/programs/scientific-controversies-listening-to-whales",
-    "address": "Pioneer Works (Red Hook)",
-    "cost": "Free admission (donations welcome)"
-  },
-  {
-    "title": "Pages + Pours: A Book Swap with a Twist",
-    "description": "Sip, swap, and socialize. Hear excerpts, reviews, and recommended pairings of recently loved literature from featured readers, then trade a book and dive into conversations with fellow book lovers.",
-    "start_date": "2025-06-24",
-    "start_time": "8:00 pm",
-    "link": "https://partiful.com/e/OT7iaRBM4RgfZCOT61vz",
-    "address": "Thayer Coffee + Wine Bar (East Village)",
-    "cost": "$15"
-  },
-  {
-    "title": "Murder on Sex Island: A Book Release Show with Jo Firestone and Friends",
-    "description": "Comedian Jo Firestone originally self-published Murder on Sex Island: A Luella Van Horn Mystery, and now it’s become a published-published book. To celebrate, Jo and friends will gather to play toxic reality show games, sign books, and do a Q&A.",
-    "start_date": "2025-06-24",
-    "start_time": "8:00 pm",
-    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1365765855439",
-    "address": "Littlefield (Gowanus)",
-    "cost": "$10 admission (signed books will be available for purchase)"
-  },
-  {
-    "title": "Naumburg Orchestral Concerts: 2025 Season",
-    "description": "The Naumburg Orchestral Concerts series returns for its 120th season at historic Naumburg Bandshell in Central Park. Tonight: A Far Cry, a self-conducted chamber orchestra, performs works by Andrea Casarrubios, Shelley Washington, Richard Strauss, and more.",
-    "start_date": "2025-06-24",
-    "start_time": "8:00 pm",
-    "link": "https://naumburgconcerts.org/upcoming",
-    "address": "Naumburg Bandshell (Central Park)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Live Band Karaoke at Arlene’s Grocery",
-    "description": "Choose from a wide assortment of rock and pop songs and sing with your very own live band backing you up.",
-    "start_date": "2025-06-24",
-    "start_time": "8:00 pm",
-    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
-    "address": "Arlene’s Grocery (LES)",
-    "cost": "$10"
   }
 ]

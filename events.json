@@ -1,173 +1,90 @@
 [
   {
-    "title": "Fourth Annual Pride at the High Line: A United Front",
-    "description": "Celebrate Pride at the High Line with free admission.",
-    "start_date": "2025-06-26",
-    "start_time": "5:00 pm",
-    "link": "https://www.thehighline.org/events/pride-2025/",
-    "address": "The High Line at 17th Street (Meatpacking District)",
+    "title": "Free Outdoor Movies: Captain America: Brave New World",
+    "description": "Join us for a free outdoor movie screening of 'Captain America: Brave New World' at Mae Grant Playground (East Harlem).",
+    "start_date": "2025-07-02",
+    "start_time": "various times (weather permitting)",
+    "link": "https://www.nycgovparks.org/events/2025/07/02/movies-under-the-stars-captain-america-brave-new-world",
+    "address": "Mae Grant Playground, East Harlem"
+  },
+  {
+    "title": "Summer Concerts at Hudson Yards",
+    "description": "The annual concert series returns to the public square + gardens at Hudson Yards for eight weeks. Tonight: electronic music duo The Knocks with an opening set by DJ Chachi.",
+    "start_date": "2025-07-02",
+    "start_time": "6:00 pm",
+    "link": "https://www.hudsonyardsnewyork.com/summer-concerts-wells-fargo-stage",
+    "address": "Hudson Yards",
     "cost": "Free admission"
   },
   {
-    "title": "Pride Celebration Dance Party at Riverside Park",
-    "description": "Join the dance party at Pier 45 for Pride celebrations.",
-    "start_date": "2025-06-26",
-    "start_time": "6:30 pm",
-    "link": "https://hudsonriverpark.org/visit/events/event/pride-celebration-june-26-2025/",
-    "address": "Pier 45 (West Village)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Stud Country Line Dancing and Two-Stepping Party",
-    "description": "Join the line dancing party at Lincoln Center’s Josie Robertson Plaza.",
-    "start_date": "2025-06-26",
-    "start_time": "6:30 pm",
-    "link": "https://www.lincolncenter.org/series/summer-for-the-city/stud-country-581",
-    "address": "Lincoln Center’s Josie Robertson Plaza (UWS)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Pride Panel: Queer Book Debuts You Should Know About",
-    "description": "Join a panel discussion at Books Are Magic about new queer book releases.",
-    "start_date": "2025-06-26",
+    "title": "The Great American Retro Road Trip",
+    "description": "Join journalist Rolando Pujol as he discusses his new book, 'The Great American Retro Road Trip'—a coast-to-coast celebration of quirky roadside attractions, from the coffee pot and the big duck to the world’s largest paint can and neon signage galore. Joining Rolando in conversation is entertainment reporter Joelle Garguilo.",
+    "start_date": "2025-07-02",
     "start_time": "7:00 pm",
-    "link": "https://booksaremagic.net/events/2655920250626",
-    "address": "Books Are Magic (Brooklyn Heights)",
-    "cost": "Free admission (donations welcome)"
+    "link": "https://www.strandbooks.com/events/event72225",
+    "address": "The Rare Book Room at Strand Bookstore, Union Square",
+    "cost": "$10 admission (books will be available for purchase)"
   },
   {
-    "title": "Pride on the Plaza Silent Disco",
-    "description": "Enjoy a silent disco at North Oculus Plaza.",
-    "start_date": "2025-06-26",
+    "title": "Slay’s Anatomy",
+    "description": "Watch your favorite fictional doctors return in this fully-improvised take on television's longest-running primetime medical drama.",
+    "start_date": "2025-07-02",
     "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/pride-on-the-plaza-silent-disco-world-trade-center-tickets-1388287738999",
-    "address": "North Oculus Plaza (FiDi)",
-    "cost": "Free (credit or debit card required for check-in)"
+    "link": "https://www.brooklyncc.com/show-schedule/slaysanatomy-7-2",
+    "address": "Brooklyn Comedy Collective, Williamsburg",
+    "cost": "$12 adv, $15 day of"
   },
   {
-    "title": "The Makers’ Ensemble Prism Prom",
-    "description": "Join the Prism Prom at Judson Assembly Hall.",
-    "start_date": "2025-06-26",
-    "start_time": "7:00 pm",
-    "link": "https://partiful.com/e/HvYMZVyg6N6sUfxjj80w",
-    "address": "Judson Assembly Hall (Greenwich Village)",
-    "cost": "$10 suggested donation"
-  },
-  {
-    "title": "Pat Party!!!",
-    "description": "Join the Pat Party at Union Pool.",
-    "start_date": "2025-06-26",
-    "start_time": "9:00 pm",
-    "link": "https://dice.fm/event/avov62-pat-party-26th-jun-union-pool-new-york-tickets",
-    "address": "Union Pool (Williamsburg)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "MoMA Pride Celebration",
-    "description": "Celebrate Pride at the Museum of Modern Art.",
-    "start_date": "2025-06-25",
-    "start_time": "6:30 pm",
-    "link": "https://www.moma.org/calendar/events/10638",
-    "address": "Museum of Modern Art (Midtown)",
-    "cost": "Free admission with RSVP"
-  },
-  {
-    "title": "Kweendom: A Night of Queer Stand-Up",
-    "description": "An evening of queer stand-up comedy at the NYPL Stephen A. Schwarzman Building’s Celeste Auditorium.",
-    "start_date": "2025-06-25",
-    "start_time": "7:00 pm",
-    "link": "https://www.nypl.org/events/programs/2025/06/25/kweendom",
-    "address": "NYPL Stephen A. Schwarzman Building (Midtown)",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Queer Window LGBTQIA+ Sketch Show: Pride Edition",
-    "description": "A sketch show celebrating LGBTQIA+ voices at UCB.",
-    "start_date": "2025-06-25",
-    "start_time": "8:30 pm",
-    "link": "https://ucbcomedy.com/show/queer-window-pride-edition/",
-    "address": "UCB (East Village)",
-    "cost": "$10 adv, $15 day of"
-  },
-  {
-    "title": "Moleskine Sample Sale",
-    "description": "Save on notebooks, stationary, accessories, and more.",
-    "start_date": "2025-06-24",
-    "end_date": "2025-06-29",
-    "link": "https://260samplesale.com/pages/moleskine-nomad-ny",
-    "address": "260 Fifth Ave (Nomad)",
-    "cost": "Free"
-  },
-  {
-    "title": "We Love a Theme: A Storytelling Show",
-    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at Bailey Swilley’s monthly storytelling show. Tonight’s ‘oooh that’s salty…’ theme features Stuart Ginsberg, Sarah Finucane, Anoush Froundjian, and Michele Carlo.",
-    "start_date": "2025-06-24",
-    "start_time": "7:00 pm",
-    "link": "https://www.petescandystore.com/calendar/",
-    "address": "Pete’s Candy Store (Williamsburg)",
-    "cost": "Free ($5 suggested donation)"
-  },
-  {
-    "title": "NYC Magic Ensemble",
-    "description": "Expect the unexpected as the NYC Magic Ensemble presents a night of magicians and mentalists featuring performers Carl Mercurio, Eric Qiu, and Mike Kurylo.",
-    "start_date": "2025-06-24",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/nyc-magic-ensemble-young-ethels-tickets-1391807346239",
-    "address": "Young Ethel’s (South Slope)",
-    "cost": "$10 (a limited number of 2-for-$15 tickets are also available)"
-  },
-  {
-    "title": "Something Old, Something New, Something Blue: Pride Edition",
-    "description": "Good things come in threes at the Something Old, Something New, Something Blue stand-up show, where comedians are required to include an old joke, a new joke, and a dirty joke in their sets. Hosted by Caitlin Reese (HBO), featuring Ely Kreimendahl, Danny Suggs, Calvin Cato, Jess Salomon, Jilberto Soto, and Micah Eames.",
-    "start_date": "2025-06-24",
+    "title": "Awkward Teenage Years",
+    "description": "Laugh and reminisce as storytellers relive their growing-up joys and traumas for your entertainment. Hosted by Will Clegg, featuring Ronna Levy, Mikayla Sherfy, Dave Kalema, Devan Sandiford, and Rita Rigano.",
+    "start_date": "2025-07-02",
     "start_time": "7:30 pm",
-    "link": "https://qedastoria.com/products/something-old-something-new-something-blue",
-    "address": "Q.E.D. (Astoria)",
-    "cost": "$15"
+    "link": "https://tickets.frigid.nyc/event/6897:26/",
+    "address": "Under St. Marks, East Village",
+    "cost": "$1-15 sliding scale admission"
   },
   {
-    "title": "Scientific Controversies: Listening to Whales",
-    "description": "Explore the scientific, philosophical, and technical challenges of communicating with whales, and consider what their language might reveal about intelligence, consciousness, and social bonds among other animals.",
-    "start_date": "2025-06-24",
-    "start_time": "8:00 pm",
-    "link": "https://pioneerworks.org/programs/scientific-controversies-listening-to-whales",
-    "address": "Pioneer Works (Red Hook)",
-    "cost": "Free (donations welcome)"
+    "title": "Friends with Caveats",
+    "description": "Expect everything from stand-up and character performances to music and even PowerPoint presentations at Caveat's weekly comedy show, 'Friends with Caveats.'",
+    "start_date": "2025-07-02",
+    "start_time": "9:30 pm",
+    "link": "https://caveat.nyc/events/friends-with-caveats--7-2-2025",
+    "address": "Caveat, LES",
+    "cost": "$10 adv, $15 door"
   },
   {
-    "title": "Pages + Pours: A Book Swap with a Twist",
-    "description": "Sip, swap, and socialize. Hear excerpts, reviews, and recommended pairings of recently loved literature from featured readers, then trade a book and dive into conversations with fellow book lovers.",
-    "start_date": "2025-06-24",
-    "start_time": "8:00 pm",
-    "link": "https://partiful.com/e/OT7iaRBM4RgfZCOT61vz",
-    "address": "Thayer Coffee + Wine Bar (East Village)",
-    "cost": "$15"
+    "title": "Rooftop Cinema Club",
+    "description": "Take your movie night to new heights at Rooftop Cinema Club, the annual open-air movie series held at the third floor Skylawn rooftop of the Embassy Suites Hotel in Midtown. Catch cult favorites, classics, and newer releases all season long, with provided wireless headphones to help block out the city buzz. Soda, beer, wine, cocktails, popcorn, candy, hot dogs, pretzels, nachos, pizza, and more are available for purchase to make it a full night out.",
+    "start_date": "2025-07-01",
+    "end_date": "2025-09-30",
+    "link": "https://rooftopcinemaclub.com/new-york/venue/midtown/",
+    "address": "Embassy Suites Hotel, Midtown",
+    "cost": "$12-29 admission (15% off for military, 10% off for students)"
   },
   {
-    "title": "Murder on Sex Island: A Book Release Show with Jo Firestone and Friends",
-    "description": "Comedian Jo Firestone celebrates the release of her book 'Murder on Sex Island: A Luella Van Horn Mystery' with games, book signings, and a Q&A.",
-    "start_date": "2025-06-24",
-    "start_time": "8:00 pm",
-    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1365765855439",
-    "address": "Littlefield (Gowanus)",
-    "cost": "$10"
+    "title": "The Chess Fight",
+    "description": "Brooklyn Action Theater makes its debut with 'The Chess Fight', a reimagining of a chess match from the perspective of the pieces themselves. Staged outdoors at Summit Rock in Central Park, the 'knight' out features dramatic and comedic moments, plus stage combat with 10 different weapons.",
+    "start_date": "2025-07-01",
+    "start_time": "6:30 pm",
+    "link": "https://www.brooklynactiontheater.com/events",
+    "address": "Summit Rock, Central Park",
+    "cost": "Free admission (tips are encouraged)"
   },
   {
-    "title": "Naumburg Orchestral Concerts: 2025 Season",
-    "description": "The Naumburg Orchestral Concerts series returns for its 120th season at historic Naumburg Bandshell in Central Park. Tonight: A Far Cry, a self-conducted chamber orchestra, performs works by Andrea Casarrubios, Shelley Washington, Richard Strauss, and more.",
-    "start_date": "2025-06-24",
-    "start_time": "8:00 pm",
-    "link": "https://naumburgconcerts.org/upcoming",
-    "address": "Naumburg Bandshell (Central Park)",
-    "cost": "Free"
+    "title": "André Aciman with Kanishk Tharoor",
+    "description": "André Aciman, author of 'Call Me by Your Name' and distinguished professor of comparative literature at the CUNY Graduate Center, presents his new short fiction collection, 'Room on the Sea: Three Novellas', at Greenlight Bookstore (Fort Greene). Aciman will read from and discuss the book with Fort Greene author Kanishk Tharoor before an audience Q&A and signing.",
+    "start_date": "2025-07-01",
+    "start_time": "7:30 pm",
+    "link": "https://greenlightbookstore.com/event/2025-07-01/andre-aciman-kanishk-tharoor",
+    "address": "Greenlight Bookstore, Fort Greene",
+    "cost": "Free admission (books will be available for purchase)"
   },
   {
-    "title": "Live Band Karaoke at Arlene’s Grocery",
-    "description": "Choose from a wide assortment of rock and pop songs and sing with your very own live band backing you up.",
-    "start_date": "2025-06-24",
-    "start_time": "8:00 pm",
-    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
-    "address": "Arlene’s Grocery (LES)",
-    "cost": "$10"
+    "title": "Lincoln Center’s Fourth Annual Summer for the City",
+    "description": "Lincoln Center's annual arts festival brings two months of free and choose-what-you-pay music concerts, performances, dance parties, film screenings, and more to its Upper West Side campus. This week: Baila Cozmic with DJ duo Dada Cozmic and Ultra Violet (Weds 7pm), Salsa with Las Guaracheras (Thurs 6:30pm), a silent disco with DJ Hellotones (Thurs 10pm), and more.",
+    "start_date": "2025-07-01",
+    "end_date": "2025-08-09",
+    "link": "https://www.lincolncenter.org/series/summer-for-the-city",
+    "address": "Lincoln Center, Upper West Side"
   }
 ]

@@ -1,9 +1,96 @@
 [
   {
-    "title": "Free Outdoor Movies: Captain America: Brave New World",
-    "description": "Join us for a free outdoor movie screening of 'Captain America: Brave New World' at Mae Grant Playground (East Harlem).",
+    "title": "54th Annual International African Arts Festival",
+    "description": "The International African Arts Festival returns to Commodore Barry Park (Fort Greene), bringing together performers, artisans, and food vendors from Africa, the Caribbean, Europe, the U.S., and Latin and South America for three days. Rain or shine.",
+    "start_date": "2025-07-04",
+    "end_date": "2025-07-06",
+    "link": "https://www.iaafestival.org",
+    "address": "Commodore Barry Park, Fort Greene",
+    "cost": "Free admission (donations welcome at the gate)"
+  },
+  {
+    "title": "Nathan’s Famous Annual Fourth of July International Hot Dog-Eating Contest",
+    "description": "The world’s top competitive eaters battle it out in this belly-busting spectacle, held every year at the original Nathan’s Famous location in Coney Island.",
+    "start_date": "2025-07-04",
+    "start_time": "10:00 am",
+    "link": "https://majorleagueeating.com/july4th",
+    "address": "Nathan’s Famous, Coney Island",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Str8 West Coastin’",
+    "description": "DJs Still Life, Eleven, and Meka bring west coast summer hip-hop vibes to Brooklyn’s Friends and Lovers (Crown Heights).",
+    "start_date": "2025-07-04",
+    "start_time": "10:00 pm",
+    "link": "https://www.fnlbk.com/upcoming/str8-west-coastin-ajytd",
+    "address": "Friends and Lovers, Crown Heights",
+    "cost": "$5 before 11pm with RSVP, $10 otherwise"
+  },
+  {
+    "title": "Bryant Park Picnic Performances: New York Guitar Festival Presents",
+    "description": "Bryant Park's annual summer performance series is back with 25 evenings of free live music, theater, and dance in the heart of Midtown. Bring your own picnic or purchase food and drinks from on-site vendors. Blankets and bistro chairs are provided for use.",
+    "start_date": "2025-07-03",
+    "start_time": "7:00 pm",
+    "link": "https://bryantpark.org/activities/picnic-performances",
+    "address": "Bryant Park",
+    "cost": "Free admission"
+  },
+  {
+    "title": "The Pit’s 13th Annual Indie-Pendence Day Fest",
+    "description": "The People’s Improv Theater presents the 13th Annual Indie-Pendence Day Fest, a two-day improv comedy celebration featuring up-and-coming teams and seasoned ensembles across three Chelsea venues.",
+    "start_date": "2025-07-03",
+    "start_time": "7:00 pm",
+    "link": "https://thepit-nyc.com/festivals/#indie-pendence-fest",
+    "address": "The People’s Improv Theater, Chelsea",
+    "cost": "$11.99/show, $30/pass"
+  },
+  {
+    "title": "Free Outdoor Movies",
+    "description": "Join us for free outdoor movies! Tonight's features include Call Me by Your Name at Fort Greene Park (Brooklyn), The Little Mermaid at Dyckman Marina in Inwood Hill Park, and Wicked at the Unisphere in Flushing Meadows Corona Park (Queens).",
+    "start_date": "2025-07-03",
+    "link": "https://www.nycgovparks.org/events/2025/07/03/movies-under-the-stars-the-little-mermaid",
+    "address": "Various Locations"
+  },
+  {
+    "title": "Nathan’s Famous Fourth of July Hot Dog-Eating Contest Weigh-In",
+    "description": "See the world’s top eaters get weighed in ahead of tomorrow’s Coney Island competition.",
+    "start_date": "2025-07-03",
+    "start_time": "12:00 pm",
+    "link": "https://www.hudsonyardsnewyork.com/events/nathans-famous-hot-dog-eating-competition-weigh",
+    "address": "Public Square + Gardens at Hudson Yards",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Sunset Salsa",
+    "description": "Dance into golden hour at Hudson River Park’s Sunset Salsa series, returning to Pier 76 (Midtown West) for the summer. Led by performer and instructor Talía Castro-Pozo, each night kicks off with a beginner salsa lesson—open to first-timers and seasoned dancers alike—followed by an open dance party with guest DJs.",
+    "start_date": "2025-07-03",
+    "start_time": "6:30 pm",
+    "link": "https://hudsonriverpark.org/visit/events/event/sunset-salsa-july-3-2025/",
+    "address": "Pier 76, Midtown West",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Immigrant Jam Comedy",
+    "description": "German-born, NYC-raised comedian and actor Lucie Pohl celebrates all things cross-cultural, international, and delightfully different at the Immigrant Jam stand-up show, featuring immigrant and first-generation comedians.",
+    "start_date": "2025-07-03",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/series/immigrant-jam/",
+    "address": "Caveat, LES",
+    "cost": "$18.76 with promo code ‘jamily’ (reg. $24-25)"
+  },
+  {
+    "title": "Come As You Are: ’90s Music on Screen Series",
+    "description": "Madonna: Truth or Dare, Party Girl, Singles, Slow Century, The Decline of Western Civilization III, and more.",
+    "start_date": "2025-07-03",
+    "end_date": "2025-07-20",
+    "link": "https://metrograph.com/category/come-as-you-are/",
+    "address": "Metrograph, LES",
+    "cost": "$17"
+  },
+  {
+    "title": "Free Outdoor Movies",
+    "description": "Join us for free outdoor movies! Tonight's features include Captain America: Brave New World at Mae Grant Playground (East Harlem) and Sinners at Parklife (Gowanus). Note: food/drink purchase required at Parklife.",
     "start_date": "2025-07-02",
-    "start_time": "various times (weather permitting)",
     "link": "https://www.nycgovparks.org/events/2025/07/02/movies-under-the-stars-captain-america-brave-new-world",
     "address": "Mae Grant Playground, East Harlem"
   },
@@ -18,7 +105,7 @@
   },
   {
     "title": "The Great American Retro Road Trip",
-    "description": "Join journalist Rolando Pujol as he discusses his new book, 'The Great American Retro Road Trip'—a coast-to-coast celebration of quirky roadside attractions, from the coffee pot and the big duck to the world’s largest paint can and neon signage galore. Joining Rolando in conversation is entertainment reporter Joelle Garguilo.",
+    "description": "Join journalist Rolando Pujol as he discusses his new book, The Great American Retro Road Trip—a coast-to-coast celebration of quirky roadside attractions, from the coffee pot and the big duck to the world’s largest paint can and neon signage galore. Joining Rolando in conversation is entertainment reporter Joelle Garguilo.",
     "start_date": "2025-07-02",
     "start_time": "7:00 pm",
     "link": "https://www.strandbooks.com/events/event72225",
@@ -45,7 +132,7 @@
   },
   {
     "title": "Friends with Caveats",
-    "description": "Expect everything from stand-up and character performances to music and even PowerPoint presentations at Caveat's weekly comedy show, 'Friends with Caveats.'",
+    "description": "Expect everything from stand-up and character performances to music and even PowerPoint presentations at Caveat's weekly comedy show, 'Friends with Caveats.' Tonight's lineup features Nat Towsen, Sarah Adelman, Emily Baker, Gary Simons, Shosh Brodman, and more. Hosted by Art Cai.",
     "start_date": "2025-07-02",
     "start_time": "9:30 pm",
     "link": "https://caveat.nyc/events/friends-with-caveats--7-2-2025",
@@ -54,7 +141,7 @@
   },
   {
     "title": "Rooftop Cinema Club",
-    "description": "Take your movie night to new heights at Rooftop Cinema Club, the annual open-air movie series held at the third floor Skylawn rooftop of the Embassy Suites Hotel in Midtown. Catch cult favorites, classics, and newer releases all season long, with provided wireless headphones to help block out the city buzz. Soda, beer, wine, cocktails, popcorn, candy, hot dogs, pretzels, nachos, pizza, and more are available for purchase to make it a full night out.",
+    "description": "Take your movie night to new heights at Rooftop Cinema Club, the annual open-air movie series held at the third floor Skylawn rooftop of the Embassy Suites Hotel in Midtown. Catch cult favorites, classics, and newer releases all season long, with provided wireless headphones to help block out the city buzz. Soda, beer, wine, cocktails, popcorn, candy, hot dogs, pretzels, nachos, pizza, and more are available for purchase to make it a full night out. This month’s screenings include Casablanca, Coming to America, Do the Right Thing, Ghostbusters, Interstellar, Taxi Driver, The Grand Budapest Hotel, The Great Gatsby, The Princess Bride, Top Gun, Up, and many more.",
     "start_date": "2025-07-01",
     "end_date": "2025-09-30",
     "link": "https://rooftopcinemaclub.com/new-york/venue/midtown/",
@@ -62,17 +149,27 @@
     "cost": "$12-29 admission (15% off for military, 10% off for students)"
   },
   {
+    "title": "Rooftop Movies at Yotel Times Square",
+    "description": "Take in a flick on the rooftop terrace of the Green Room 42 at Yotel Times Square. Food and drinks will be available for purchase. This month’s selections include Beetlejuice, Cats, Clueless, Ferris Bueller's Day Off, Mary Poppins, National Treasure, When Harry Met Sally, and more.",
+    "start_date": "2025-07-01",
+    "end_date": "2025-09-30",
+    "link": "https://thegreenroom42.venuetix.com/",
+    "address": "Yotel Times Square",
+    "cost": "$21+"
+  },
+  {
     "title": "The Chess Fight",
-    "description": "Brooklyn Action Theater makes its debut with 'The Chess Fight', a reimagining of a chess match from the perspective of the pieces themselves. Staged outdoors at Summit Rock in Central Park, the 'knight' out features dramatic and comedic moments, plus stage combat with 10 different weapons.",
+    "description": "Brooklyn Action Theater makes its debut with The Chess Fight, a reimagining of a chess match from the perspective of the pieces themselves. Staged outdoors at Summit Rock in Central Park, the ‘Knight’ out features dramatic and comedic moments, plus stage combat with 10 different weapons.",
     "start_date": "2025-07-01",
     "start_time": "6:30 pm",
+    "end_time": "7:30 pm",
     "link": "https://www.brooklynactiontheater.com/events",
     "address": "Summit Rock, Central Park",
     "cost": "Free admission (tips are encouraged)"
   },
   {
     "title": "André Aciman with Kanishk Tharoor",
-    "description": "André Aciman, author of 'Call Me by Your Name' and distinguished professor of comparative literature at the CUNY Graduate Center, presents his new short fiction collection, 'Room on the Sea: Three Novellas', at Greenlight Bookstore (Fort Greene). Aciman will read from and discuss the book with Fort Greene author Kanishk Tharoor before an audience Q&A and signing.",
+    "description": "André Aciman, author of Call Me by Your Name and distinguished professor of comparative literature at the CUNY Graduate Center, presents his new short fiction collection, Room on the Sea: Three Novellas, at Greenlight Bookstore (Fort Greene). Aciman will read from and discuss the book with Fort Greene author Kanishk Tharoor before an audience Q&A and signing.",
     "start_date": "2025-07-01",
     "start_time": "7:30 pm",
     "link": "https://greenlightbookstore.com/event/2025-07-01/andre-aciman-kanishk-tharoor",

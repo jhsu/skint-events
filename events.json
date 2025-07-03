@@ -1,12 +1,10 @@
 [
   {
-    "title": "54th Annual International African Arts Festival",
-    "description": "The International African Arts Festival returns to Commodore Barry Park (Fort Greene), bringing together performers, artisans, and food vendors from Africa, the Caribbean, Europe, the U.S., and Latin and South America for three days. Rain or shine.",
+    "title": "Fireworks!",
+    "description": "Where to watch the big displays for free: Jersey City’s 4th of July Festival + Fireworks at Exchange Place and Macy’s 49th Annual Fourth of July Fireworks Show along the East River between Pier 17 and the Downtown Manhattan Heliport.",
     "start_date": "2025-07-04",
-    "end_date": "2025-07-06",
-    "link": "https://www.iaafestival.org",
-    "address": "Commodore Barry Park, Fort Greene",
-    "cost": "Free admission (donations welcome at the gate)"
+    "link": "https://www.macys.com/s/fireworks/",
+    "address": "Exchange Place, Jersey City"
   },
   {
     "title": "Nathan’s Famous Annual Fourth of July International Hot Dog-Eating Contest",
@@ -28,7 +26,7 @@
   },
   {
     "title": "Bryant Park Picnic Performances: New York Guitar Festival Presents",
-    "description": "Bryant Park's annual summer performance series is back with 25 evenings of free live music, theater, and dance in the heart of Midtown. Bring your own picnic or purchase food and drinks from on-site vendors. Blankets and bistro chairs are provided for use.",
+    "description": "Bryant Park's annual summer performance series is back with 25 evenings of free live music, theater, and dance in the heart of Midtown. Bring your own picnic or purchase food and drinks from on-site vendors.",
     "start_date": "2025-07-03",
     "start_time": "7:00 pm",
     "link": "https://bryantpark.org/activities/picnic-performances",
@@ -37,7 +35,7 @@
   },
   {
     "title": "The Pit’s 13th Annual Indie-Pendence Day Fest",
-    "description": "The People’s Improv Theater presents the 13th Annual Indie-Pendence Day Fest, a two-day improv comedy celebration featuring up-and-coming teams and seasoned ensembles across three Chelsea venues.",
+    "description": "The People’s Improv Theater presents the 13th annual Indie-Pendence Day Fest, a two-day improv comedy celebration featuring up-and-coming teams and seasoned ensembles across three Chelsea venues.",
     "start_date": "2025-07-03",
     "start_time": "7:00 pm",
     "link": "https://thepit-nyc.com/festivals/#indie-pendence-fest",
@@ -46,10 +44,10 @@
   },
   {
     "title": "Free Outdoor Movies",
-    "description": "Join us for free outdoor movies! Tonight's features include Call Me by Your Name at Fort Greene Park (Brooklyn), The Little Mermaid at Dyckman Marina in Inwood Hill Park, and Wicked at the Unisphere in Flushing Meadows Corona Park (Queens).",
+    "description": "Join us for free outdoor movies! This week features Call Me by Your Name at Fort Greene Park (Brooklyn) and The Little Mermaid at Dyckman Marina in Inwood Hill Park.",
     "start_date": "2025-07-03",
     "link": "https://www.nycgovparks.org/events/2025/07/03/movies-under-the-stars-the-little-mermaid",
-    "address": "Various Locations"
+    "address": "Fort Greene Park, Brooklyn"
   },
   {
     "title": "Nathan’s Famous Fourth of July Hot Dog-Eating Contest Weigh-In",
@@ -57,7 +55,7 @@
     "start_date": "2025-07-03",
     "start_time": "12:00 pm",
     "link": "https://www.hudsonyardsnewyork.com/events/nathans-famous-hot-dog-eating-competition-weigh",
-    "address": "Public Square + Gardens at Hudson Yards",
+    "address": "Public Square + Gardens, Hudson Yards",
     "cost": "Free admission"
   },
   {
@@ -88,19 +86,28 @@
     "cost": "$17"
   },
   {
+    "title": "54th Annual International African Arts Festival",
+    "description": "The International African Arts Festival returns to Commodore Barry Park (Fort Greene), bringing together performers, artisans, and food vendors from Africa, the Caribbean, Europe, the U.S., and Latin and South America for three days. Rain or shine.",
+    "start_date": "2025-07-03",
+    "end_date": "2025-07-05",
+    "link": "https://www.iaafestival.org",
+    "address": "Commodore Barry Park, Fort Greene",
+    "cost": "Free admission (donations welcome at the gate)"
+  },
+  {
     "title": "Free Outdoor Movies",
-    "description": "Join us for free outdoor movies! Tonight's features include Captain America: Brave New World at Mae Grant Playground (East Harlem) and Sinners at Parklife (Gowanus). Note: food/drink purchase required at Parklife.",
+    "description": "Join us for free outdoor movies! This week features Captain America: Brave New World at Mae Grant Playground (East Harlem) and Sinners at Parklife (Gowanus). Note: food/drink purchase required at Parklife.",
     "start_date": "2025-07-02",
     "link": "https://www.nycgovparks.org/events/2025/07/02/movies-under-the-stars-captain-america-brave-new-world",
     "address": "Mae Grant Playground, East Harlem"
   },
   {
     "title": "Summer Concerts at Hudson Yards",
-    "description": "The annual concert series returns to the public square + gardens at Hudson Yards for eight weeks. Tonight: electronic music duo The Knocks with an opening set by DJ Chachi.",
+    "description": "The annual concert series returns to the Public Square + Gardens at Hudson Yards for eight weeks. Tonight: electronic music duo The Knocks with an opening set by DJ Chachi.",
     "start_date": "2025-07-02",
     "start_time": "6:00 pm",
     "link": "https://www.hudsonyardsnewyork.com/summer-concerts-wells-fargo-stage",
-    "address": "Hudson Yards",
+    "address": "Public Square + Gardens, Hudson Yards",
     "cost": "Free admission"
   },
   {
@@ -109,7 +116,7 @@
     "start_date": "2025-07-02",
     "start_time": "7:00 pm",
     "link": "https://www.strandbooks.com/events/event72225",
-    "address": "The Rare Book Room at Strand Bookstore, Union Square",
+    "address": "Rare Book Room, Strand Bookstore, Union Square",
     "cost": "$10 admission (books will be available for purchase)"
   },
   {
@@ -132,7 +139,7 @@
   },
   {
     "title": "Friends with Caveats",
-    "description": "Expect everything from stand-up and character performances to music and even PowerPoint presentations at Caveat's weekly comedy show, 'Friends with Caveats.' Tonight's lineup features Nat Towsen, Sarah Adelman, Emily Baker, Gary Simons, Shosh Brodman, and more. Hosted by Art Cai.",
+    "description": "Expect everything from stand-up and character performances to music and even PowerPoint presentations at Caveat's weekly comedy show, 'Friends with Caveats.' Tonight's lineup features Nat Towsen, Sarah Adelman, Emily Baker, Gary Simons, Shosh Brodman, and more.",
     "start_date": "2025-07-02",
     "start_time": "9:30 pm",
     "link": "https://caveat.nyc/events/friends-with-caveats--7-2-2025",
@@ -147,15 +154,6 @@
     "link": "https://rooftopcinemaclub.com/new-york/venue/midtown/",
     "address": "Embassy Suites Hotel, Midtown",
     "cost": "$12-29 admission (15% off for military, 10% off for students)"
-  },
-  {
-    "title": "Rooftop Movies at Yotel Times Square",
-    "description": "Take in a flick on the rooftop terrace of the Green Room 42 at Yotel Times Square. Food and drinks will be available for purchase. This month’s selections include Beetlejuice, Cats, Clueless, Ferris Bueller's Day Off, Mary Poppins, National Treasure, When Harry Met Sally, and more.",
-    "start_date": "2025-07-01",
-    "end_date": "2025-09-30",
-    "link": "https://thegreenroom42.venuetix.com/",
-    "address": "Yotel Times Square",
-    "cost": "$21+"
   },
   {
     "title": "The Chess Fight",

@@ -1,185 +1,244 @@
 [
   {
-    "title": "Fireworks!",
-    "description": "Where to watch the big displays for free: Jersey City’s 4th of July Festival + Fireworks at Exchange Place and Macy’s 49th Annual Fourth of July Fireworks Show along the East River between Pier 17 and the Downtown Manhattan Heliport.",
-    "start_date": "2025-07-04",
-    "link": "https://www.macys.com/s/fireworks/",
-    "address": "Exchange Place, Jersey City"
+    "title": "Free Junior's Mini Strawberries + Cream Cheesecake",
+    "description": "A promotional event featuring free cheesecake at Junior's x Wimbledon food truck in Dumbo and Flatiron.",
+    "start_date": "2025-07-07",
+    "start_time": "8:00 am",
+    "end_date": "2025-07-08",
+    "end_time": "5:00 pm",
+    "link": "https://www.instagram.com/p/DLaLFVvRQBr/",
+    "address": "Dumbo and Flatiron (exact locations TBA)",
+    "cost": "Free"
   },
   {
-    "title": "Nathan’s Famous Annual Fourth of July International Hot Dog-Eating Contest",
-    "description": "The world’s top competitive eaters battle it out in this belly-busting spectacle, held every year at the original Nathan’s Famous location in Coney Island.",
-    "start_date": "2025-07-04",
+    "title": "Dixon Place’s Hot! Festival",
+    "description": "The world’s longest-running LGBTQIA+ arts festival featuring theater, dance, and music.",
+    "start_date": "2025-07-07",
+    "start_time": "Undefined",
+    "end_date": "2025-07-26",
+    "end_time": "Undefined",
+    "link": "https://dixonplace.org/category/hot-festival/",
+    "address": "Dixon Place, LES",
+    "cost": "$10-30"
+  },
+  {
+    "title": "Free Outdoor Movies",
+    "description": "Outdoor movie screenings at various locations including Bryant Park and Hudson.",
+    "start_date": "2025-07-07",
+    "start_time": "4:00 pm",
+    "end_date": "2025-07-07",
+    "end_time": "Undefined",
+    "link": "https://bryantpark.org/activities/movie-nights",
+    "address": "Bryant Park, Midtown and Hudson",
+    "cost": "Free"
+  },
+  {
+    "title": "Angelika ‘Classics’ Screening Series",
+    "description": "Screening of iconic films at Village East by Angelika.",
+    "start_date": "2025-07-07",
+    "start_time": "4:00 pm",
+    "end_date": "2025-07-07",
+    "end_time": "Undefined",
+    "link": "https://angelikafilmcenter.com/villageeast/signature-programming/angelika-classics",
+    "address": "Village East by Angelika",
+    "cost": "$19"
+  },
+  {
+    "title": "Broadway by the Boardwalk",
+    "description": "An outdoor concert series featuring Broadway stars at Clinton Cove in Hudson River Park.",
+    "start_date": "2025-07-07",
+    "start_time": "6:30 pm",
+    "end_date": "2025-08-11",
+    "end_time": "Undefined",
+    "link": "https://hudsonriverpark.org/event-series/broadway-by-the-boardwalk/",
+    "address": "Clinton Cove, Hudson River Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Biology on Tap: 'It’s Getting Hot' Edition",
+    "description": "A speaker series blending biology and beer at Pete's Candy Store.",
+    "start_date": "2025-07-07",
+    "start_time": "7:00 pm",
+    "end_date": "2025-07-07",
+    "end_time": "Undefined",
+    "link": "https://www.instagram.com/biologyontap/",
+    "address": "Pete's Candy Store, Williamsburg",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "Red White + Vintage Bazaar at Grand Bazaar NYC",
+    "description": "An indoor and outdoor market featuring vintage goods and local vendors at Grand Bazaar NYC.",
+    "start_date": "2025-07-06",
     "start_time": "10:00 am",
-    "link": "https://majorleagueeating.com/july4th",
-    "address": "Nathan’s Famous, Coney Island",
-    "cost": "Free admission"
+    "end_date": "2025-07-06",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/red-white-vintage-bazaar/",
+    "address": "100 W 77th St at Columbus Ave, UWS",
+    "cost": "Free"
   },
   {
-    "title": "Str8 West Coastin’",
-    "description": "DJs Still Life, Eleven, and Meka bring west coast summer hip-hop vibes to Brooklyn’s Friends and Lovers (Crown Heights).",
-    "start_date": "2025-07-04",
-    "start_time": "10:00 pm",
-    "link": "https://www.fnlbk.com/upcoming/str8-west-coastin-ajytd",
-    "address": "Friends and Lovers, Crown Heights",
-    "cost": "$5 before 11pm with RSVP, $10 otherwise"
+    "title": "Korea Fest x Philippines Fest and Japan Fes",
+    "description": "A cultural festival featuring performances and activities from Korea, the Philippines, and Japan.",
+    "start_date": "2025-07-06",
+    "start_time": "10:00 am",
+    "end_date": "2025-07-06",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/philippinesfest/",
+    "address": "Lexington Ave between East 43rd and 48th Streets",
+    "cost": "Undefined"
   },
   {
-    "title": "Bryant Park Picnic Performances: New York Guitar Festival Presents",
-    "description": "Bryant Park's annual summer performance series is back with 25 evenings of free live music, theater, and dance in the heart of Midtown. Bring your own picnic or purchase food and drinks from on-site vendors.",
-    "start_date": "2025-07-03",
+    "title": "Union Pool’s 13th Annual Summer Thunder Concert Series",
+    "description": "Free afternoon concerts at Union Pool featuring various artists every Sunday through summer.",
+    "start_date": "2025-07-06",
+    "start_time": "2:00 pm",
+    "end_date": "2025-08-24",
+    "end_time": "6:00 pm",
+    "link": "https://www.union-pool.com/calendar",
+    "address": "Union Pool, Williamsburg",
+    "cost": "Free"
+  },
+  {
+    "title": "Soul Summit",
+    "description": "A house music dance party at Knockdown Center, rain or shine.",
+    "start_date": "2025-07-06",
+    "start_time": "4:00 pm",
+    "end_date": "2025-07-06",
+    "end_time": "10:30 pm",
+    "link": "https://dice.fm/event/xepb2l-soul-summit-6th-jul-ruins-at-knockdown-center-new-york-tickets",
+    "address": "Knockdown Center",
+    "cost": "Free"
+  },
+  {
+    "title": "Summer on the Hudson: Amplified Sundays",
+    "description": "An outdoor live music series at Riverside Park South featuring local bands.",
+    "start_date": "2025-07-06",
     "start_time": "7:00 pm",
-    "link": "https://bryantpark.org/activities/picnic-performances",
-    "address": "Bryant Park",
-    "cost": "Free admission"
+    "end_date": "2025-07-06",
+    "end_time": "Undefined",
+    "link": "https://www.nycgovparks.org/events/2025/07/06/amplified-sundays",
+    "address": "Pier I, Riverside Park South, UWS",
+    "cost": "Free"
   },
   {
-    "title": "The Pit’s 13th Annual Indie-Pendence Day Fest",
-    "description": "The People’s Improv Theater presents the 13th annual Indie-Pendence Day Fest, a two-day improv comedy celebration featuring up-and-coming teams and seasoned ensembles across three Chelsea venues.",
-    "start_date": "2025-07-03",
-    "start_time": "7:00 pm",
-    "link": "https://thepit-nyc.com/festivals/#indie-pendence-fest",
-    "address": "The People’s Improv Theater, Chelsea",
-    "cost": "$11.99/show, $30/pass"
+    "title": "Say Less: A Too Truthful Comedy Show",
+    "description": "A comedy show with personal stories and live music at UCB East Village.",
+    "start_date": "2025-07-06",
+    "start_time": "8:30 pm",
+    "end_date": "2025-07-06",
+    "end_time": "Undefined",
+    "link": "https://ucbcomedy.com/show/say-less-07-06-25/",
+    "address": "UCB, East Village",
+    "cost": "$15"
   },
   {
-    "title": "Free Outdoor Movies",
-    "description": "Join us for free outdoor movies! This week features Call Me by Your Name at Fort Greene Park (Brooklyn) and The Little Mermaid at Dyckman Marina in Inwood Hill Park.",
-    "start_date": "2025-07-03",
-    "link": "https://www.nycgovparks.org/events/2025/07/03/movies-under-the-stars-the-little-mermaid",
-    "address": "Fort Greene Park, Brooklyn"
-  },
-  {
-    "title": "Nathan’s Famous Fourth of July Hot Dog-Eating Contest Weigh-In",
-    "description": "See the world’s top eaters get weighed in ahead of tomorrow’s Coney Island competition.",
-    "start_date": "2025-07-03",
-    "start_time": "12:00 pm",
-    "link": "https://www.hudsonyardsnewyork.com/events/nathans-famous-hot-dog-eating-competition-weigh",
-    "address": "Public Square + Gardens, Hudson Yards",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Sunset Salsa",
-    "description": "Dance into golden hour at Hudson River Park’s Sunset Salsa series, returning to Pier 76 (Midtown West) for the summer. Led by performer and instructor Talía Castro-Pozo, each night kicks off with a beginner salsa lesson—open to first-timers and seasoned dancers alike—followed by an open dance party with guest DJs.",
-    "start_date": "2025-07-03",
-    "start_time": "6:30 pm",
-    "link": "https://hudsonriverpark.org/visit/events/event/sunset-salsa-july-3-2025/",
-    "address": "Pier 76, Midtown West",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Immigrant Jam Comedy",
-    "description": "German-born, NYC-raised comedian and actor Lucie Pohl celebrates all things cross-cultural, international, and delightfully different at the Immigrant Jam stand-up show, featuring immigrant and first-generation comedians.",
-    "start_date": "2025-07-03",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/series/immigrant-jam/",
-    "address": "Caveat, LES",
-    "cost": "$18.76 with promo code ‘jamily’ (reg. $24-25)"
-  },
-  {
-    "title": "Come As You Are: ’90s Music on Screen Series",
-    "description": "Madonna: Truth or Dare, Party Girl, Singles, Slow Century, The Decline of Western Civilization III, and more.",
-    "start_date": "2025-07-03",
-    "end_date": "2025-07-20",
-    "link": "https://metrograph.com/category/come-as-you-are/",
-    "address": "Metrograph, LES",
-    "cost": "$17"
-  },
-  {
-    "title": "54th Annual International African Arts Festival",
-    "description": "The International African Arts Festival returns to Commodore Barry Park (Fort Greene), bringing together performers, artisans, and food vendors from Africa, the Caribbean, Europe, the U.S., and Latin and South America for three days. Rain or shine.",
-    "start_date": "2025-07-03",
+    "title": "Venezuelan Cultural Fest",
+    "description": "A celebration of Venezuelan culture featuring food, music, and more at CultureLab LIC in Queens.",
+    "start_date": "2025-07-05",
+    "start_time": "11:00 am",
     "end_date": "2025-07-05",
-    "link": "https://www.iaafestival.org",
-    "address": "Commodore Barry Park, Fort Greene",
-    "cost": "Free admission (donations welcome at the gate)"
+    "end_time": "8:00 pm",
+    "link": "https://www.instagram.com/venezuelanculturalfest/",
+    "address": "CultureLab LIC, Queens",
+    "cost": "Free"
   },
   {
-    "title": "Free Outdoor Movies",
-    "description": "Join us for free outdoor movies! This week features Captain America: Brave New World at Mae Grant Playground (East Harlem) and Sinners at Parklife (Gowanus). Note: food/drink purchase required at Parklife.",
-    "start_date": "2025-07-02",
-    "link": "https://www.nycgovparks.org/events/2025/07/02/movies-under-the-stars-captain-america-brave-new-world",
-    "address": "Mae Grant Playground, East Harlem"
+    "title": "A.I.R. Gallery's Annual Postcard Show: Wish You Were Here",
+    "description": "An exhibition featuring postcard-sized artworks by various artists, with proceeds benefiting the gallery.",
+    "start_date": "2025-07-05",
+    "start_time": "12:00 pm",
+    "end_date": "2025-08-03",
+    "end_time": "6:00 pm",
+    "link": "https://www.airgallery.org/exhibitions/2025-postcard-show",
+    "address": "A.I.R. Gallery",
+    "cost": "$45 per artwork"
   },
   {
-    "title": "Summer Concerts at Hudson Yards",
-    "description": "The annual concert series returns to the Public Square + Gardens at Hudson Yards for eight weeks. Tonight: electronic music duo The Knocks with an opening set by DJ Chachi.",
-    "start_date": "2025-07-02",
-    "start_time": "6:00 pm",
-    "link": "https://www.hudsonyardsnewyork.com/summer-concerts-wells-fargo-stage",
-    "address": "Public Square + Gardens, Hudson Yards",
-    "cost": "Free admission"
+    "title": "The Classical Theater of Harlem: Will Power's Memnon",
+    "description": "An outdoor production of Will Power's play about the Ethiopian king Memnon at the Richard Rogers Amphitheater.",
+    "start_date": "2025-07-05",
+    "start_time": "Undefined",
+    "end_date": "2025-07-27",
+    "end_time": "Undefined",
+    "link": "https://www.cthnyc.org",
+    "address": "Richard Rogers Amphitheater, Marcus Garvey Park, East Harlem",
+    "cost": "Free"
   },
   {
-    "title": "The Great American Retro Road Trip",
-    "description": "Join journalist Rolando Pujol as he discusses his new book, The Great American Retro Road Trip—a coast-to-coast celebration of quirky roadside attractions, from the coffee pot and the big duck to the world’s largest paint can and neon signage galore. Joining Rolando in conversation is entertainment reporter Joelle Garguilo.",
-    "start_date": "2025-07-02",
-    "start_time": "7:00 pm",
-    "link": "https://www.strandbooks.com/events/event72225",
-    "address": "Rare Book Room, Strand Bookstore, Union Square",
-    "cost": "$10 admission (books will be available for purchase)"
-  },
-  {
-    "title": "Slay’s Anatomy",
-    "description": "Watch your favorite fictional doctors return in this fully-improvised take on television's longest-running primetime medical drama.",
-    "start_date": "2025-07-02",
-    "start_time": "7:00 pm",
-    "link": "https://www.brooklyncc.com/show-schedule/slaysanatomy-7-2",
-    "address": "Brooklyn Comedy Collective, Williamsburg",
-    "cost": "$12 adv, $15 day of"
-  },
-  {
-    "title": "Awkward Teenage Years",
-    "description": "Laugh and reminisce as storytellers relive their growing-up joys and traumas for your entertainment. Hosted by Will Clegg, featuring Ronna Levy, Mikayla Sherfy, Dave Kalema, Devan Sandiford, and Rita Rigano.",
-    "start_date": "2025-07-02",
-    "start_time": "7:30 pm",
-    "link": "https://tickets.frigid.nyc/event/6897:26/",
-    "address": "Under St. Marks, East Village",
-    "cost": "$1-15 sliding scale admission"
-  },
-  {
-    "title": "Friends with Caveats",
-    "description": "Expect everything from stand-up and character performances to music and even PowerPoint presentations at Caveat's weekly comedy show, 'Friends with Caveats.' Tonight's lineup features Nat Towsen, Sarah Adelman, Emily Baker, Gary Simons, Shosh Brodman, and more.",
-    "start_date": "2025-07-02",
-    "start_time": "9:30 pm",
-    "link": "https://caveat.nyc/events/friends-with-caveats--7-2-2025",
-    "address": "Caveat, LES",
-    "cost": "$10 adv, $15 door"
-  },
-  {
-    "title": "Rooftop Cinema Club",
-    "description": "Take your movie night to new heights at Rooftop Cinema Club, the annual open-air movie series held at the third floor Skylawn rooftop of the Embassy Suites Hotel in Midtown. Catch cult favorites, classics, and newer releases all season long, with provided wireless headphones to help block out the city buzz. Soda, beer, wine, cocktails, popcorn, candy, hot dogs, pretzels, nachos, pizza, and more are available for purchase to make it a full night out. This month’s screenings include Casablanca, Coming to America, Do the Right Thing, Ghostbusters, Interstellar, Taxi Driver, The Grand Budapest Hotel, The Great Gatsby, The Princess Bride, Top Gun, Up, and many more.",
-    "start_date": "2025-07-01",
-    "end_date": "2025-09-30",
-    "link": "https://rooftopcinemaclub.com/new-york/venue/midtown/",
-    "address": "Embassy Suites Hotel, Midtown",
-    "cost": "$12-29 admission (15% off for military, 10% off for students)"
-  },
-  {
-    "title": "The Chess Fight",
-    "description": "Brooklyn Action Theater makes its debut with The Chess Fight, a reimagining of a chess match from the perspective of the pieces themselves. Staged outdoors at Summit Rock in Central Park, the ‘Knight’ out features dramatic and comedic moments, plus stage combat with 10 different weapons.",
-    "start_date": "2025-07-01",
-    "start_time": "6:30 pm",
-    "end_time": "7:30 pm",
-    "link": "https://www.brooklynactiontheater.com/events",
-    "address": "Summit Rock, Central Park",
-    "cost": "Free admission (tips are encouraged)"
-  },
-  {
-    "title": "André Aciman with Kanishk Tharoor",
-    "description": "André Aciman, author of Call Me by Your Name and distinguished professor of comparative literature at the CUNY Graduate Center, presents his new short fiction collection, Room on the Sea: Three Novellas, at Greenlight Bookstore (Fort Greene). Aciman will read from and discuss the book with Fort Greene author Kanishk Tharoor before an audience Q&A and signing.",
-    "start_date": "2025-07-01",
-    "start_time": "7:30 pm",
-    "link": "https://greenlightbookstore.com/event/2025-07-01/andre-aciman-kanishk-tharoor",
-    "address": "Greenlight Bookstore, Fort Greene",
-    "cost": "Free admission (books will be available for purchase)"
+    "title": "This is Spinal Tap 41st Anniversary Screenings",
+    "description": "Screening of the classic mockumentary film in select theaters.",
+    "start_date": "2025-07-05",
+    "start_time": "Undefined",
+    "end_date": "2025-07-10",
+    "end_time": "Undefined",
+    "link": "https://www.fathomentertainment.com/releases/this-is-spinal-tap/",
+    "address": "Various theaters",
+    "cost": "Various prices"
   },
   {
     "title": "Lincoln Center’s Fourth Annual Summer for the City",
-    "description": "Lincoln Center's annual arts festival brings two months of free and choose-what-you-pay music concerts, performances, dance parties, film screenings, and more to its Upper West Side campus. This week: Baila Cozmic with DJ duo Dada Cozmic and Ultra Violet (Weds 7pm), Salsa with Las Guaracheras (Thurs 6:30pm), a silent disco with DJ Hellotones (Thurs 10pm), and more.",
-    "start_date": "2025-07-01",
+    "description": "An arts festival featuring free and choose-what-you-pay events at Lincoln Center.",
+    "start_date": "2025-07-05",
+    "start_time": "Undefined",
     "end_date": "2025-08-09",
+    "end_time": "Undefined",
     "link": "https://www.lincolncenter.org/series/summer-for-the-city",
-    "address": "Lincoln Center, Upper West Side"
+    "address": "Lincoln Center, Upper West Side",
+    "cost": "Free"
+  },
+  {
+    "title": "Silent Disco",
+    "description": "A monthly silent disco event at Riverside Park’s Pier I with three DJs spinning different genres.",
+    "start_date": "2025-07-05",
+    "start_time": "6:00 pm",
+    "end_date": "2025-07-05",
+    "end_time": "10:00 pm",
+    "link": "https://www.nycgovparks.org/parks/riverside-park-south/events/2025/07/05/summer-on-the-hudson-silent-disco",
+    "address": "Riverside Park’s Pier I",
+    "cost": "Free (credit/debit card needed for headphone check-in)"
+  },
+  {
+    "title": "Tom D’s Big New York Show",
+    "description": "A comedy show featuring NYC history, trivia, and special guests at Caveat.",
+    "start_date": "2025-07-05",
+    "start_time": "7:00 pm",
+    "end_date": "2025-07-05",
+    "end_time": "Undefined",
+    "link": "https://www.caveat.nyc/events/tom-ds-big-new-york-show-7-5-2025",
+    "address": "Caveat",
+    "cost": "$5 with promo code ‘tomdnyc’"
+  },
+  {
+    "title": "Feel the News with Marcela Onyango",
+    "description": "A variety comedy show featuring guests and supporting mutual aid projects at Friends and Lovers.",
+    "start_date": "2025-07-05",
+    "start_time": "7:30 pm",
+    "end_date": "2025-07-05",
+    "end_time": "Undefined",
+    "link": "https://www.fnlbk.com/upcoming/2021/6/11/feel-the-news-w-marcela-onyengo-jw9eb-ppd92",
+    "address": "Friends and Lovers, Crown Heights",
+    "cost": "$10"
+  },
+  {
+    "title": "The Drunk Texts: Forsooth! Jaws",
+    "description": "A comedic take on the classic film Jaws with audience participation at The Rat NYC.",
+    "start_date": "2025-07-05",
+    "start_time": "9:00 pm",
+    "end_date": "2025-07-05",
+    "end_time": "Undefined",
+    "link": "https://randomaccesstheatre.weebly.com/drunk-texts.html",
+    "address": "The Rat NYC, Dumbo",
+    "cost": "$10-12"
+  },
+  {
+    "title": "54th Annual International African Arts Festival",
+    "description": "A festival celebrating African arts, culture, and food at Commodore Barry Park in Fort Greene.",
+    "start_date": "2025-07-04",
+    "start_time": "10:00 am",
+    "end_date": "2025-07-06",
+    "end_time": "9:00 pm",
+    "link": "https://www.iaafestival.org",
+    "address": "Commodore Barry Park, Fort Greene",
+    "cost": "Free (donations welcome)"
   }
 ]

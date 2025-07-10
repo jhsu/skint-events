@@ -1,20 +1,13 @@
 [
   {
-    "title": "NYO2",
-    "description": "Experience the “bright future for classical music” exemplified by Carnegie Hall’s “superbly talented” NYO2. Led by the “electrifying” Rafael Payare, the performance includes Jimmy López’s orchestral homage to Afro-Peruvian music, Perú Negro; Shostakovich’s demanding Cello Concerto No. 1, featuring renowned cellist Alisa Weilerstein; and Prokofiev’s powerful Symphony No. 5, which the composer called “a symphony of the grandeur of the human spirit.”",
-    "start_date": "2025-07-27",
-    "start_time": "7:00 PM",
-    "link": "https://www.carnegiehall.org/Calendar/2025/07/27/NYO2-0700PM",
-    "address": "Stern Auditorium / Perelman Stage",
-    "cost": "$30 (with promo code SKN55478)"
-  },
-  {
-    "title": "NYO Jazz",
-    "description": "Trumpet great Sean Jones leads the latest lineup of this evolving big band of amazing young jazz musicians from across the United States. This year’s performance features Grammy Award–winning vocalist Luciana Souza in a special set that highlights Brazilian composers, including Antônio Carlos Jobim and Ivan Lins. The band’s stylistic range is highlighted further in pieces by Duke Ellington, John Clayton, Christine Jensen, and more, plus commissioned music by Dafnis Prieto.",
-    "start_date": "2025-07-26",
-    "start_time": "7:00 PM",
-    "link": "https://www.carnegiehall.org/Calendar/2025/07/26/NYO-Jazz-0700PM",
-    "address": "Stern Auditorium / Perelman Stage",
-    "cost": "$30 (with promo code SKN55478)"
+    "title": "BFPL Vineyard",
+    "description": "Waterfront Wine Tasting Event at Brookfield Place. Celebrate summer by exploring a selection of wines on the waterfront during BFPL Vineyard, an exclusive wine tasting event at Brookfield Place. Connoisseurs and enthusiasts alike can indulge in a delightful experience that includes expertly curated wines, complimentary light bites, and waterfront views. Each $50 ticket provides a reservation for a party of two (2 individuals). Note that you must be 21+ to attend.",
+    "start_date": "2025-07-15",
+    "start_time": "5:00 PM",
+    "end_date": "2025-07-15",
+    "end_time": "7:30 PM",
+    "link": "https://bfplny.com/event/bfpl-vineyard/",
+    "address": "230 Vesey Street, Lower Manhattan",
+    "cost": "$50 for two"
   }
 ]

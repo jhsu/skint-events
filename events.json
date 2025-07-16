@@ -1,13 +1,13 @@
 [
   {
-    "title": "BFPL Vineyard",
-    "description": "Waterfront Wine Tasting Event at Brookfield Place. Celebrate summer by exploring a selection of wines on the waterfront during BFPL Vineyard, an exclusive wine tasting event at Brookfield Place. Connoisseurs and enthusiasts alike can indulge in a delightful experience that includes expertly curated wines, complimentary light bites, and waterfront views. Each $50 ticket provides a reservation for a party of two (2 individuals). Note that you must be 21+ to attend.",
-    "start_date": "2025-07-15",
-    "start_time": "5:00 PM",
-    "end_date": "2025-07-15",
-    "end_time": "7:30 PM",
-    "link": "https://bfplny.com/event/bfpl-vineyard/",
-    "address": "230 Vesey Street, Lower Manhattan",
-    "cost": "$50 for two"
+    "title": "Polishing Shakespeare",
+    "description": "Twilight Theatre Co. in association with Kitchen Theatre Company presents a sly comedy inspired by an unbelievably true story about a dot-com billionaire who pays an esteemed American theatre company to translate Shakespeare into English. A runaway hit at the Edinburgh Fringe and Kitchen Theatre Company in Ithaca, Polishing Shakespeare arrives Off Broadway.",
+    "start_date": "2025-07-10",
+    "start_time": "7:15 pm",
+    "end_date": "2025-08-10",
+    "end_time": "7:15 pm",
+    "link": "https://www.59e59.org/shows/show-detail/polishing-shakespeare/?utm_source=ps-skint&utm_medium=web&utm_campaign=polishingshakespeare",
+    "address": "59E59 Theaters, a quick block from SUBWAY 4/5/6 N/W/R at 59 St.",
+    "cost": "$19 (reg. $44) with code SKINT"
   }
 ]

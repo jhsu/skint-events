@@ -1,13 +1,76 @@
 [
   {
-    "title": "Polishing Shakespeare",
-    "description": "Twilight Theatre Co. in association with Kitchen Theatre Company presents a sly comedy inspired by an unbelievably true story about a dot-com billionaire who pays an esteemed American theatre company to translate Shakespeare into English. A runaway hit at the Edinburgh Fringe and Kitchen Theatre Company in Ithaca, Polishing Shakespeare arrives Off Broadway.",
-    "start_date": "2025-07-10",
-    "start_time": "7:15 pm",
-    "end_date": "2025-08-10",
-    "end_time": "7:15 pm",
-    "link": "https://www.59e59.org/shows/show-detail/polishing-shakespeare/?utm_source=ps-skint&utm_medium=web&utm_campaign=polishingshakespeare",
-    "address": "59E59 Theaters, a quick block from SUBWAY 4/5/6 N/W/R at 59 St.",
-    "cost": "$19 (reg. $44) with code SKINT"
+    "title": "Uptown Bounce",
+    "description": "Two museums, one block party—el museo del barrio and the museum of the city of new york team up for the annual uptown bounce. Expect djs, dancing, free museum admission, and more, with unique programming at each spot.",
+    "start_date": "2025-07-24",
+    "start_time": "6:00 pm",
+    "end_date": "2025-07-24",
+    "end_time": "9:00 pm",
+    "link": "https://www.elmuseo.org/event/uptown-bounce/",
+    "address": "el museo del barrio and the museum of the city of new york",
+    "cost": "Free"
+  },
+  {
+    "title": "Hudson Classical Theater Company: The Lady from the Sea",
+    "description": "Hudson Classical Theater Company celebrates its 22nd summer season with intimate, outdoor productions of Henrik Ibsen's The Lady from the Sea at the Soldiers’ and Sailors’ Monument in Riverside Park. Pay-what-you-can admission (donations will be accepted following the show).",
+    "start_date": "2025-07-24",
+    "start_time": "6:30 pm",
+    "link": "https://www.nycgovparks.org/parks/riverside-park/events/2025/07/24/hudson-classical-theater-company-presents-the-lady-from-the-sea",
+    "address": "Soldiers’ and Sailors’ Monument, Riverside Park",
+    "cost": "Pay-what-you-can"
+  },
+  {
+    "title": "Broadway in Bryant Park",
+    "description": "Broadway comes to Bryant Park as stars perform some of their biggest hits at this annual lunchtime performance series. Today: Hadestown, Hamilton, Mamma Mia!, Moulin Rouge! The Musical, Six, and The Outsiders with a pre-show by the AMDA College of the Performing Arts.",
+    "start_date": "2025-07-24",
+    "start_time": "12:30 pm",
+    "link": "https://bryantpark.org/calendar/event/broadway-in-bryant-park-events/2025-07-24",
+    "address": "Bryant Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Live at the Archway: Summer Music + Art in the Dumbo Archway",
+    "description": "Sights and sounds fill the public plaza underneath the Manhattan Bridge in Dumbo. Tonight: Philly-based singer-songwriter Sug Daniels and Jenn Macksoud. Food and drink will be available for purchase. Rain or shine.",
+    "start_date": "2025-07-24",
+    "start_time": "6:00 pm",
+    "link": "https://dumbo.nyc/liveatthearchway/",
+    "address": "Dumbo Archway",
+    "cost": "Free"
+  },
+  {
+    "title": "Sunset Salsa",
+    "description": "Dance into golden hour at Hudson River Park’s Sunset Salsa series, returning to Pier 76 for the summer. Led by performer and instructor Talía Castro-Pozo, each night kicks off with a beginner salsa lesson—open to first-timers and seasoned dancers alike—followed by an open dance party with guest DJs.",
+    "start_date": "2025-07-24",
+    "start_time": "6:30 pm",
+    "link": "https://hudsonriverpark.org/visit/events/event/sunset-salsa-july-24-2025/",
+    "address": "Pier 76, Midtown West",
+    "cost": "Free"
+  },
+  {
+    "title": "Top Shelf Stories",
+    "description": "Julia Whitehouse serves up an evening of carefully crafted storytelling at UCB (East Village). Tonight’s show features guests Pavar Snipe, Natasha Vaynblat, Sharon Spell, and Nat Townsen, plus one open mic slot reserved for an audience member.",
+    "start_date": "2025-07-24",
+    "start_time": "7:00 pm",
+    "link": "https://ucbcomedy.com/show/top-shelf-stories-07-24-25/",
+    "address": "UCB, East Village",
+    "cost": "$10 adv, $15 day of"
+  },
+  {
+    "title": "F*Bomb Presents: Hole Tribute",
+    "description": "Following up last month's Nirvana tribute concert, the F*Bomb rock + roll party gets grungy again with a tribute to Hole.",
+    "start_date": "2025-07-24",
+    "start_time": "7:00 pm",
+    "link": "https://www.ticketweb.com/event/fbomb-hole-tribute-show-the-bowery-electric-tickets/14459023",
+    "address": "The Bowery Electric, East Village",
+    "cost": "$15 adv, $20 door"
+  },
+  {
+    "title": "Divaland Presents: Disney Channel Pageant",
+    "description": "Eight drag contestants go head-to-head in three nostalgia-fueled categories inspired by the Disney Channel shows you couldn’t get enough of. Judged by Wizards of Waverly Place alum Dan Benson and RuPaul’s Drag Race’s Robin Fierce.",
+    "start_date": "2025-07-24",
+    "start_time": "8:00 pm",
+    "link": "https://www.3dollarbillbk.com/rsvp/2025/7/24/disney-channel-pageant",
+    "address": "3 Dollar Bill, East Williamsburg",
+    "cost": "$19.48+"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "title": "Ballet Folklórico Mexicano de Nueva York’s 13th Annual Guelaguetza Festival",
-    "description": "A cultural festival at Socrates Sculpture Park celebrating Mexican traditions and performances.",
+    "description": "A cultural festival at Socrates Sculpture Park celebrating Mexican traditions.",
     "start_date": "2025-07-27",
     "start_time": "12:00 pm",
     "end_time": "6:00 pm",
@@ -10,8 +10,36 @@
     "cost": ""
   },
   {
+    "title": "46th Annual Thunderbird American Indian Powwow",
+    "description": "A cultural event at Queens County Farm Museum featuring Thunderbird American Indian dancers. $19 admission supports the scholarship fund and education program.",
+    "start_date": "2025-07-26",
+    "end_date": "2025-07-28",
+    "link": "https://www.queensfarm.org/thunderbird-american-indian-powwow/",
+    "address": "Queens County Farm Museum",
+    "cost": "$19"
+  },
+  {
+    "title": "115th Annual St. Ann's Feast",
+    "description": "An annual Italian festival held at 7th + Jefferson Streets in Hoboken.",
+    "start_date": "2025-07-26",
+    "end_date": "2025-07-28",
+    "link": "https://stannhoboken.com/feast",
+    "address": "7th + Jefferson Streets, Hoboken",
+    "cost": ""
+  },
+  {
+    "title": "Chinatown Night Market's Final Season",
+    "description": "A vibrant night market at Forsyth Plaza featuring food, shopping, and entertainment.",
+    "start_date": "2025-07-26",
+    "start_time": "8:00 pm",
+    "end_time": "11:30 pm",
+    "link": "https://www.thinkchinatown.org/nightmarket",
+    "address": "Forsyth Plaza",
+    "cost": ""
+  },
+  {
     "title": "Wax + Stacks: Brooklyn Flea Record Fair",
-    "description": "A record fair at the New York Public Library for the Performing Arts featuring vinyl records and music-related items.",
+    "description": "A record fair at the New York Public Library for the Performing Arts, showcasing vinyl records and music memorabilia.",
     "start_date": "2025-07-26",
     "start_time": "11:00 am",
     "end_time": "5:00 pm",
@@ -21,17 +49,17 @@
   },
   {
     "title": "Brooklyn Summer Beer Wine + Spirits Fest",
-    "description": "A festival at Brooklyn Navy Yard featuring unlimited samples of beer, wine, and spirits, along with food and entertainment.",
+    "description": "A festival at Brooklyn Navy Yard featuring unlimited samples of beer, wine, and spirits, along with live entertainment and food for purchase.",
     "start_date": "2025-07-26",
     "start_time": "1:00 pm",
     "end_time": "4:30 pm",
     "link": "https://theskint.com/brooklyn-summer-beer-wine-spirits-fest-save-40-on-tickets-sponsored-3/",
     "address": "Brooklyn Navy Yard Building 77 Waterfront Promenade, 141 Flushing Ave, Brooklyn, NY 11205",
-    "cost": "$40 (with promo code 'skint')"
+    "cost": "$40 (save 40% with promo code 'SKINT')"
   },
   {
     "title": "12th Annual Stoops Summer Festival",
-    "description": "A neighborhood festival featuring art crawls and a block party at Stuyvesant Ave + Decatur St.",
+    "description": "A community festival featuring art crawls and a block party at Stuyvesant Ave + Decatur St in Bed-Stuy.",
     "start_date": "2025-07-26",
     "start_time": "1:30 pm",
     "end_time": "7:00 pm",
@@ -61,7 +89,7 @@
   },
   {
     "title": "FAD Market: Summer Pop-Up",
-    "description": "A summer market at St. Paul’s Church featuring local vendors and artisans.",
+    "description": "A summer pop-up market at St. Paul’s Church in Boerum Hill/Cobble Hill.",
     "start_date": "2025-07-26",
     "start_time": "11:00 am",
     "end_time": "6:00 pm",
@@ -78,152 +106,5 @@
     "link": "https://www.eventbrite.com/e/african-popup-festival-2025-summer-edition-tickets-1061583628209",
     "address": "Hillel Plaza at Flatbush/Nostrand",
     "cost": ""
-  },
-  {
-    "title": "46th Annual Thunderbird American Indian Powwow",
-    "description": "A cultural event at Queens County Farm Museum featuring Thunderbird American Indian dancers. $19 admission supports the scholarship fund and education program.",
-    "start_date": "2025-07-25",
-    "end_date": "2025-07-28",
-    "link": "https://www.queensfarm.org/thunderbird-american-indian-powwow/",
-    "address": "Queens County Farm Museum",
-    "cost": "$19"
-  },
-  {
-    "title": "115th Annual St. Ann's Feast",
-    "description": "An annual Italian festival held at 7th + Jefferson Streets in Hoboken.",
-    "start_date": "2025-07-25",
-    "end_date": "2025-07-28",
-    "link": "https://stannhoboken.com/feast",
-    "address": "7th + Jefferson Streets, Hoboken",
-    "cost": ""
-  },
-  {
-    "title": "Chinatown Night Market's Final Season",
-    "description": "An evening market at Forsyth Plaza featuring food, shopping, and entertainment.",
-    "start_date": "2025-07-25",
-    "start_time": "8:00 pm",
-    "end_time": "11:30 pm",
-    "link": "https://www.thinkchinatown.org/nightmarket",
-    "address": "Forsyth Plaza",
-    "cost": ""
-  },
-  {
-    "title": "Free Outdoor Movies: A Good Person",
-    "description": "Outdoor movie screening at Highbridge Park featuring the film 'A Good Person'.",
-    "start_date": "2025-07-25",
-    "start_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2025/07/25/muts-a-good-person",
-    "address": "Highbridge Park, Washington Heights",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Paddington in Peru",
-    "description": "Outdoor movie screening at Bensonhurst Park featuring the film 'Paddington in Peru'.",
-    "start_date": "2025-07-25",
-    "start_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2025/07/25/movies-under-the-stars-paddington-in-peru",
-    "address": "Bensonhurst Park, Brooklyn",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: The Abyss",
-    "description": "Outdoor movie screening at the Intrepid Museum's Flight Deck featuring the film 'The Abyss'.",
-    "start_date": "2025-07-25",
-    "start_time": "various times",
-    "link": "https://intrepidmuseum.org/free-friday-onsite-astronomy-night-movie-night-july-25",
-    "address": "Intrepid Museum, Hell's Kitchen",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: The Wild Robot",
-    "description": "Outdoor movie screening at Southpoint Park featuring the film 'The Wild Robot'.",
-    "start_date": "2025-07-25",
-    "start_time": "various times",
-    "link": "https://rioc.ny.gov/372/Roosevelt-Island-Outdoor-Summer-Movie-Se",
-    "address": "Southpoint Park, Roosevelt Island",
-    "cost": "Free"
-  },
-  {
-    "title": "Warm Up 2025",
-    "description": "An outdoor music series at MoMA PS1 featuring underground and emerging electronic talent.",
-    "start_date": "2025-07-25",
-    "start_time": "4:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://www.momaps1.org/en/programs/609-warm-up-2025",
-    "address": "MoMA PS1, LIC",
-    "cost": "$25+"
-  },
-  {
-    "title": "Sounds at Sunset",
-    "description": "An outdoor music series at Brooklyn Bridge Park featuring Americana music.",
-    "start_date": "2025-07-25",
-    "start_time": "6:00 pm",
-    "link": "https://brooklynbridgepark.org/events/category/sounds-at-sunset/",
-    "address": "Brooklyn Bridge Park",
-    "cost": "Free"
-  },
-  {
-    "title": "Intrepid Museum’s Free Friday with Astronomy Night",
-    "description": "An evening of free activities and film screenings at the Intrepid Museum.",
-    "start_date": "2025-07-25",
-    "start_time": "6:00 pm",
-    "link": "https://intrepidmuseum.org/onsite-astronomy-night-july-25",
-    "address": "Intrepid Museum, Hell's Kitchen",
-    "cost": "Free"
-  },
-  {
-    "title": "Scrappy Reading Series",
-    "description": "An evening of readings by emerging and established writers at Compère Collective in Red Hook.",
-    "start_date": "2025-07-25",
-    "start_time": "7:00 pm",
-    "link": "https://theskint.com/youre-invited-to-scrappy-reading-series-sponsored/",
-    "address": "Compère Collective, Red Hook",
-    "cost": "Free"
-  },
-  {
-    "title": "Poets House's Summer Nights",
-    "description": "An outdoor poetry and music event at Rockefeller Park featuring various performers.",
-    "start_date": "2025-07-25",
-    "start_time": "7:00 pm",
-    "link": "https://poetshouse.org/event/summer-nights-diggs-martin-79-5/",
-    "address": "Rockefeller Park, Battery Park City",
-    "cost": "Free"
-  },
-  {
-    "title": "Abolish Everything: A Fast-Paced, Low-Stakes Comedy Debate Show",
-    "description": "A comedy debate show at Caveat featuring various comedians.",
-    "start_date": "2025-07-25",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/events",
-    "address": "Caveat, NYC",
-    "cost": "$15.67 with promo code 'abolishtheskint'"
-  },
-  {
-    "title": "Bryant Park Picnic Performances: New York Guitar Festival Presents",
-    "description": "A summer performance series at Bryant Park featuring live music.",
-    "start_date": "2025-07-25",
-    "start_time": "7:00 pm",
-    "link": "https://bryantpark.org/activities/picnic-performances",
-    "address": "Bryant Park, Midtown",
-    "cost": "Free"
-  },
-  {
-    "title": "Jazz + Gin: Speakeasy Soirée",
-    "description": "A speakeasy soirée featuring live jazz and cocktails at a former 1920s speakeasy.",
-    "start_date": "2025-07-25",
-    "start_time": "7:00 pm",
-    "end_time": "midnight",
-    "link": "https://www.prohibitionproductions.com/calendar/072525",
-    "address": "Urbane Arts Club, Ditmas Park",
-    "cost": "$20 with promo code 'skint'"
-  },
-  {
-    "title": "Dungeons and Comics: Roll for Performance",
-    "description": "A comedy show at Union Hall featuring a Dungeons and Dragons theme.",
-    "start_date": "2025-07-25",
-    "start_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/dungeons-and-comics-roll-for-performance-tickets-1514281800629",
-    "address": "Union Hall, Park Slope",
-    "cost": "$12 adv, $15 door"
   }
 ]

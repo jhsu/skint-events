@@ -1,19 +1,20 @@
 [
   {
-    "title": "Ballet Folklórico Mexicano de Nueva York’s 13th Annual Guelaguetza Festival",
-    "description": "A cultural festival at Socrates Sculpture Park celebrating Mexican traditions.",
-    "start_date": "2025-07-27",
-    "start_time": "12:00 pm",
-    "end_time": "6:00 pm",
-    "link": "https://socratessculpturepark.org/programevent/guelaguetza-2025/",
-    "address": "Socrates Sculpture Park, LIC",
+    "title": "Chinatown Night Market's Final Season",
+    "description": "An evening market at Forsyth Plaza featuring various vendors and activities.",
+    "start_date": "2025-07-28",
+    "start_time": "8:00 pm",
+    "end_date": "2025-07-28",
+    "end_time": "11:30 pm",
+    "link": "https://www.thinkchinatown.org/nightmarket",
+    "address": "Forsyth Plaza",
     "cost": ""
   },
   {
     "title": "46th Annual Thunderbird American Indian Powwow",
     "description": "A cultural event at Queens County Farm Museum featuring Thunderbird American Indian dancers. $19 admission supports the scholarship fund and education program.",
-    "start_date": "2025-07-26",
-    "end_date": "2025-07-28",
+    "start_date": "2025-07-27",
+    "end_date": "2025-07-27",
     "link": "https://www.queensfarm.org/thunderbird-american-indian-powwow/",
     "address": "Queens County Farm Museum",
     "cost": "$19"
@@ -21,20 +22,21 @@
   {
     "title": "115th Annual St. Ann's Feast",
     "description": "An annual Italian festival held at 7th + Jefferson Streets in Hoboken.",
-    "start_date": "2025-07-26",
-    "end_date": "2025-07-28",
+    "start_date": "2025-07-27",
+    "end_date": "2025-07-27",
     "link": "https://stannhoboken.com/feast",
     "address": "7th + Jefferson Streets, Hoboken",
     "cost": ""
   },
   {
-    "title": "Chinatown Night Market's Final Season",
-    "description": "A vibrant night market at Forsyth Plaza featuring food, shopping, and entertainment.",
-    "start_date": "2025-07-26",
-    "start_time": "8:00 pm",
-    "end_time": "11:30 pm",
-    "link": "https://www.thinkchinatown.org/nightmarket",
-    "address": "Forsyth Plaza",
+    "title": "Ballet Folklórico Mexicano de Nueva York’s 13th Annual Guelaguetza Festival",
+    "description": "A cultural festival at Socrates Sculpture Park featuring traditional Mexican dance and music.",
+    "start_date": "2025-07-27",
+    "start_time": "12:00 pm",
+    "end_date": "2025-07-27",
+    "end_time": "6:00 pm",
+    "link": "https://socratessculpturepark.org/programevent/guelaguetza-2025/",
+    "address": "Socrates Sculpture Park, LIC",
     "cost": ""
   },
   {
@@ -42,6 +44,7 @@
     "description": "A record fair at the New York Public Library for the Performing Arts, showcasing vinyl records and music memorabilia.",
     "start_date": "2025-07-26",
     "start_time": "11:00 am",
+    "end_date": "2025-07-26",
     "end_time": "5:00 pm",
     "link": "https://www.nypl.org/events/programs/2025/07/26/wax-stacks-brooklyn-flea-record-fair-library-performing-arts",
     "address": "New York Public Library for the Performing Arts (UWS)",
@@ -49,19 +52,21 @@
   },
   {
     "title": "Brooklyn Summer Beer Wine + Spirits Fest",
-    "description": "A festival at Brooklyn Navy Yard featuring unlimited samples of beer, wine, and spirits, along with live entertainment and food for purchase.",
+    "description": "A festival at Brooklyn Navy Yard featuring unlimited samples of beer, wine, and spirits, along with live entertainment and food vendors.",
     "start_date": "2025-07-26",
     "start_time": "1:00 pm",
-    "end_time": "4:30 pm",
+    "end_date": "2025-07-26",
+    "end_time": "9:30 pm",
     "link": "https://theskint.com/brooklyn-summer-beer-wine-spirits-fest-save-40-on-tickets-sponsored-3/",
     "address": "Brooklyn Navy Yard Building 77 Waterfront Promenade, 141 Flushing Ave, Brooklyn, NY 11205",
-    "cost": "$40 (save 40% with promo code 'SKINT')"
+    "cost": "$40 (with promo code 'skint')"
   },
   {
     "title": "12th Annual Stoops Summer Festival",
     "description": "A community festival featuring art crawls and a block party at Stuyvesant Ave + Decatur St in Bed-Stuy.",
     "start_date": "2025-07-26",
     "start_time": "1:30 pm",
+    "end_date": "2025-07-26",
     "end_time": "7:00 pm",
     "link": "https://www.stoopsbedstuy.org",
     "address": "Stuyvesant Ave + Decatur St, Bed-Stuy",
@@ -72,6 +77,7 @@
     "description": "An artisan market and workshop at Nowadays in Ridgewood.",
     "start_date": "2025-07-26",
     "start_time": "2:00 pm",
+    "end_date": "2025-07-26",
     "end_time": "8:00 pm",
     "link": "https://ra.co/events/2214972",
     "address": "Nowadays, Ridgewood",
@@ -79,9 +85,10 @@
   },
   {
     "title": "Ninth Annual Kingsland Wildflowers Festival",
-    "description": "A festival at Kingsland Wildflowers Green Roof featuring community engagement and activities.",
+    "description": "A festival at Kingsland Wildflowers Green Roof + Community Engagement Center in Greenpoint.",
     "start_date": "2025-07-26",
     "start_time": "2:00 pm",
+    "end_date": "2025-07-26",
     "end_time": "7:00 pm",
     "link": "https://www.kingslandwildflowers.com/wildflower-festival",
     "address": "Kingsland Wildflowers Green Roof + Community Engagement Center, Greenpoint",
@@ -92,6 +99,7 @@
     "description": "A summer pop-up market at St. Paul’s Church in Boerum Hill/Cobble Hill.",
     "start_date": "2025-07-26",
     "start_time": "11:00 am",
+    "end_date": "2025-07-27",
     "end_time": "6:00 pm",
     "link": "https://fadmarket.co/summer-st-paul",
     "address": "St. Paul’s Church, Boerum Hill/Cobble Hill",
@@ -99,12 +107,49 @@
   },
   {
     "title": "African Pop-Up Festival: Summer Edition",
-    "description": "A cultural festival at Hillel Plaza featuring African food, music, and crafts.",
+    "description": "A cultural festival at Hillel Plaza at Flatbush/Nostrand featuring African food, music, and crafts.",
     "start_date": "2025-07-26",
     "start_time": "12:00 pm",
+    "end_date": "2025-07-27",
     "end_time": "7:00 pm",
     "link": "https://www.eventbrite.com/e/african-popup-festival-2025-summer-edition-tickets-1061583628209",
     "address": "Hillel Plaza at Flatbush/Nostrand",
     "cost": ""
+  },
+  {
+    "title": "Free Outdoor Movies: A Good Person",
+    "description": "Outdoor movie screening at Highbridge Park featuring the film 'A Good Person'.",
+    "start_date": "2025-07-25",
+    "start_time": "various times",
+    "link": "https://www.nycgovparks.org/events/2025/07/25/muts-a-good-person",
+    "address": "Highbridge Park, Washington Heights",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Paddington in Peru",
+    "description": "Outdoor movie screening at Bensonhurst Park featuring the film 'Paddington in Peru'.",
+    "start_date": "2025-07-25",
+    "start_time": "various times",
+    "link": "https://www.nycgovparks.org/events/2025/07/25/movies-under-the-stars-paddington-in-peru",
+    "address": "Bensonhurst Park, Brooklyn",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: The Abyss",
+    "description": "Outdoor movie screening at the Intrepid Museum's Flight Deck featuring the film 'The Abyss'.",
+    "start_date": "2025-07-25",
+    "start_time": "various times",
+    "link": "https://intrepidmuseum.org/free-friday-onsite-astronomy-night-movie-night-july-25",
+    "address": "Intrepid Museum, Hell's Kitchen",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: The Wild Robot",
+    "description": "Outdoor movie screening at Southpoint Park featuring the film 'The Wild Robot'.",
+    "start_date": "2025-07-25",
+    "start_time": "various times",
+    "link": "https://rioc.ny.gov/372/Roosevelt-Island-Outdoor-Summer-Movie-Se",
+    "address": "Southpoint Park, Roosevelt Island",
+    "cost": "Free"
   }
 ]

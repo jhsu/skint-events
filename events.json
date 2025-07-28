@@ -1,20 +1,9 @@
 [
   {
-    "title": "Chinatown Night Market's Final Season",
-    "description": "An evening market at Forsyth Plaza featuring various vendors and activities.",
-    "start_date": "2025-07-28",
-    "start_time": "8:00 pm",
-    "end_date": "2025-07-28",
-    "end_time": "11:30 pm",
-    "link": "https://www.thinkchinatown.org/nightmarket",
-    "address": "Forsyth Plaza",
-    "cost": ""
-  },
-  {
     "title": "46th Annual Thunderbird American Indian Powwow",
     "description": "A cultural event at Queens County Farm Museum featuring Thunderbird American Indian dancers. $19 admission supports the scholarship fund and education program.",
-    "start_date": "2025-07-27",
-    "end_date": "2025-07-27",
+    "start_date": "2025-07-28",
+    "end_date": "2025-07-28",
     "link": "https://www.queensfarm.org/thunderbird-american-indian-powwow/",
     "address": "Queens County Farm Museum",
     "cost": "$19"
@@ -22,10 +11,21 @@
   {
     "title": "115th Annual St. Ann's Feast",
     "description": "An annual Italian festival held at 7th + Jefferson Streets in Hoboken.",
-    "start_date": "2025-07-27",
-    "end_date": "2025-07-27",
+    "start_date": "2025-07-28",
+    "end_date": "2025-07-28",
     "link": "https://stannhoboken.com/feast",
     "address": "7th + Jefferson Streets, Hoboken",
+    "cost": ""
+  },
+  {
+    "title": "Chinatown Night Market's Final Season",
+    "description": "A vibrant night market at Forsyth Plaza featuring food, shopping, and entertainment.",
+    "start_date": "2025-07-28",
+    "start_time": "8:00 pm",
+    "end_date": "2025-07-28",
+    "end_time": "11:30 pm",
+    "link": "https://www.thinkchinatown.org/nightmarket",
+    "address": "Forsyth Plaza",
     "cost": ""
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "title": "Ninth Annual Kingsland Wildflowers Festival",
-    "description": "A festival at Kingsland Wildflowers Green Roof + Community Engagement Center in Greenpoint.",
+    "description": "A community festival at Kingsland Wildflowers Green Roof + Community Engagement Center in Greenpoint.",
     "start_date": "2025-07-26",
     "start_time": "2:00 pm",
     "end_date": "2025-07-26",
@@ -107,7 +107,7 @@
   },
   {
     "title": "African Pop-Up Festival: Summer Edition",
-    "description": "A cultural festival at Hillel Plaza at Flatbush/Nostrand featuring African food, music, and crafts.",
+    "description": "A cultural festival at Hillel Plaza at Flatbush/Nostrand featuring food, music, and art.",
     "start_date": "2025-07-26",
     "start_time": "12:00 pm",
     "end_date": "2025-07-27",
@@ -118,36 +118,40 @@
   },
   {
     "title": "Free Outdoor Movies: A Good Person",
-    "description": "Outdoor movie screening at Highbridge Park featuring the film 'A Good Person'.",
+    "description": "A free outdoor movie screening at Highbridge Park in Washington Heights.",
     "start_date": "2025-07-25",
     "start_time": "various times",
+    "end_date": "2025-07-25",
     "link": "https://www.nycgovparks.org/events/2025/07/25/muts-a-good-person",
     "address": "Highbridge Park, Washington Heights",
     "cost": "Free"
   },
   {
     "title": "Free Outdoor Movies: Paddington in Peru",
-    "description": "Outdoor movie screening at Bensonhurst Park featuring the film 'Paddington in Peru'.",
+    "description": "A free outdoor movie screening at Bensonhurst Park in Brooklyn.",
     "start_date": "2025-07-25",
     "start_time": "various times",
+    "end_date": "2025-07-25",
     "link": "https://www.nycgovparks.org/events/2025/07/25/movies-under-the-stars-paddington-in-peru",
     "address": "Bensonhurst Park, Brooklyn",
     "cost": "Free"
   },
   {
     "title": "Free Outdoor Movies: The Abyss",
-    "description": "Outdoor movie screening at the Intrepid Museum's Flight Deck featuring the film 'The Abyss'.",
+    "description": "A free outdoor movie screening at the Intrepid Museum's Flight Deck in Hell's Kitchen.",
     "start_date": "2025-07-25",
     "start_time": "various times",
+    "end_date": "2025-07-25",
     "link": "https://intrepidmuseum.org/free-friday-onsite-astronomy-night-movie-night-july-25",
-    "address": "Intrepid Museum, Hell's Kitchen",
+    "address": "Intrepid Museum's Flight Deck, Hell's Kitchen",
     "cost": "Free"
   },
   {
     "title": "Free Outdoor Movies: The Wild Robot",
-    "description": "Outdoor movie screening at Southpoint Park featuring the film 'The Wild Robot'.",
+    "description": "A free outdoor movie screening at Southpoint Park on Roosevelt Island.",
     "start_date": "2025-07-25",
     "start_time": "various times",
+    "end_date": "2025-07-25",
     "link": "https://rioc.ny.gov/372/Roosevelt-Island-Outdoor-Summer-Movie-Se",
     "address": "Southpoint Park, Roosevelt Island",
     "cost": "Free"

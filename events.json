@@ -1,159 +1,72 @@
 [
   {
-    "title": "46th Annual Thunderbird American Indian Powwow",
-    "description": "A cultural event at Queens County Farm Museum featuring Thunderbird American Indian dancers. $19 admission supports the scholarship fund and education program.",
-    "start_date": "2025-07-28",
-    "end_date": "2025-07-28",
-    "link": "https://www.queensfarm.org/thunderbird-american-indian-powwow/",
-    "address": "Queens County Farm Museum",
-    "cost": "$19"
+    "title": "Wagner Park Reopening",
+    "description": "After a two-year closure for resiliency improvements, downtown's Wagner Park reopens to the public. The 3.5-acre waterfront space will host a lineup of free events through October, kicking off with an outdoor performance by Taylor Mac.",
+    "start_date": "2025-07-29",
+    "start_time": "7:00 pm",
+    "end_date": "2025-10-29",
+    "link": "https://media.bpca.ny.gov/wp-content/uploads/2025/06/18135717/Wagner-Park-Opening-Season-Programming-Juy-October-2025.pdf",
+    "address": "Wagner Park, Downtown, NY",
+    "cost": "Free"
   },
   {
-    "title": "115th Annual St. Ann's Feast",
-    "description": "An annual Italian festival held at 7th + Jefferson Streets in Hoboken.",
-    "start_date": "2025-07-28",
-    "end_date": "2025-07-28",
-    "link": "https://stannhoboken.com/feast",
-    "address": "7th + Jefferson Streets, Hoboken",
-    "cost": ""
+    "title": "Lincoln Center’s Fourth Annual Summer for the City",
+    "description": "Lincoln Center's annual arts festival brings two months of free and choose-what-you-pay music concerts, performances, dance parties, film screenings, and more to its Upper West Side campus.",
+    "start_date": "2025-07-29",
+    "link": "https://www.lincolncenter.org/series/summer-for-the-city/v/calendar",
+    "cost": "Varies"
   },
   {
-    "title": "Chinatown Night Market's Final Season",
-    "description": "A vibrant night market at Forsyth Plaza featuring food, shopping, and entertainment.",
-    "start_date": "2025-07-28",
+    "title": "Free Outdoor Movies: Elf and Party Girl",
+    "description": "Enjoy free outdoor movies at Domino Park (Williamsburg) featuring 'Elf' and 'Party Girl'.",
+    "start_date": "2025-07-29",
+    "link": "https://www.dominopark.com/events/movie-nights-in-the-square-july29",
+    "address": "Domino Park, Williamsburg, NY",
+    "cost": "Free"
+  },
+  {
+    "title": "Letters + Sodas: LIC Reading Series",
+    "description": "Writer Lana Schwartz brings together comedians and writers for a night of standup, humor pieces, fiction, and essay readings at The Greats of Craft (LIC).",
+    "start_date": "2025-07-29",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1409365332649",
+    "address": "The Greats of Craft, LIC, NY",
+    "cost": "$5"
+  },
+  {
+    "title": "NYC Magic Ensemble",
+    "description": "Expect the unexpected as the NYC Magic Ensemble presents a night of magicians and mentalists at Young Ethel’s (South Slope).",
+    "start_date": "2025-07-29",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/nyc-magic-ensemble-young-ethels-tickets-1417240026069",
+    "address": "Young Ethel’s, South Slope, NY",
+    "cost": "$10 (limited 2-for-$15 tickets available)"
+  },
+  {
+    "title": "Live at the Gantries",
+    "description": "Kupferberg Center for the Arts presents Live at the Gantries, an annual outdoor concert series at Gantry Plaza State Park (LIC) showcasing local artists. Tonight: Afro-Colombian ensemble Rebolú.",
+    "start_date": "2025-07-29",
+    "start_time": "7:00 pm",
+    "link": "https://kupferbergcenter.org/about/live-at-the-gantries/",
+    "address": "Gantry Plaza State Park, LIC, NY",
+    "cost": "Free"
+  },
+  {
+    "title": "Rooftop Films: New York Non-Fiction 2025",
+    "description": "The popular Rooftop Films series returns for its 29th season. Tonight: Jessica Earnshaw’s 'Baby Doe' at the Old American Can Factory (Gowanus), followed by filmmaker discussion and a reception.",
+    "start_date": "2025-07-29",
     "start_time": "8:00 pm",
-    "end_date": "2025-07-28",
-    "end_time": "11:30 pm",
-    "link": "https://www.thinkchinatown.org/nightmarket",
-    "address": "Forsyth Plaza",
-    "cost": ""
+    "link": "https://rooftopfilms.com/event/baby-doe/",
+    "address": "Old American Can Factory, Gowanus, NY",
+    "cost": "$20"
   },
   {
-    "title": "Ballet Folklórico Mexicano de Nueva York’s 13th Annual Guelaguetza Festival",
-    "description": "A cultural festival at Socrates Sculpture Park featuring traditional Mexican dance and music.",
-    "start_date": "2025-07-27",
-    "start_time": "12:00 pm",
-    "end_date": "2025-07-27",
-    "end_time": "6:00 pm",
-    "link": "https://socratessculpturepark.org/programevent/guelaguetza-2025/",
-    "address": "Socrates Sculpture Park, LIC",
-    "cost": ""
-  },
-  {
-    "title": "Wax + Stacks: Brooklyn Flea Record Fair",
-    "description": "A record fair at the New York Public Library for the Performing Arts, showcasing vinyl records and music memorabilia.",
-    "start_date": "2025-07-26",
-    "start_time": "11:00 am",
-    "end_date": "2025-07-26",
-    "end_time": "5:00 pm",
-    "link": "https://www.nypl.org/events/programs/2025/07/26/wax-stacks-brooklyn-flea-record-fair-library-performing-arts",
-    "address": "New York Public Library for the Performing Arts (UWS)",
-    "cost": ""
-  },
-  {
-    "title": "Brooklyn Summer Beer Wine + Spirits Fest",
-    "description": "A festival at Brooklyn Navy Yard featuring unlimited samples of beer, wine, and spirits, along with live entertainment and food vendors.",
-    "start_date": "2025-07-26",
-    "start_time": "1:00 pm",
-    "end_date": "2025-07-26",
-    "end_time": "9:30 pm",
-    "link": "https://theskint.com/brooklyn-summer-beer-wine-spirits-fest-save-40-on-tickets-sponsored-3/",
-    "address": "Brooklyn Navy Yard Building 77 Waterfront Promenade, 141 Flushing Ave, Brooklyn, NY 11205",
-    "cost": "$40 (with promo code 'skint')"
-  },
-  {
-    "title": "12th Annual Stoops Summer Festival",
-    "description": "A community festival featuring art crawls and a block party at Stuyvesant Ave + Decatur St in Bed-Stuy.",
-    "start_date": "2025-07-26",
-    "start_time": "1:30 pm",
-    "end_date": "2025-07-26",
-    "end_time": "7:00 pm",
-    "link": "https://www.stoopsbedstuy.org",
-    "address": "Stuyvesant Ave + Decatur St, Bed-Stuy",
-    "cost": ""
-  },
-  {
-    "title": "Yard Mart Print Camp: Open Air Artisan Market + Screen Printing Workshop",
-    "description": "An artisan market and workshop at Nowadays in Ridgewood.",
-    "start_date": "2025-07-26",
-    "start_time": "2:00 pm",
-    "end_date": "2025-07-26",
-    "end_time": "8:00 pm",
-    "link": "https://ra.co/events/2214972",
-    "address": "Nowadays, Ridgewood",
-    "cost": ""
-  },
-  {
-    "title": "Ninth Annual Kingsland Wildflowers Festival",
-    "description": "A community festival at Kingsland Wildflowers Green Roof + Community Engagement Center in Greenpoint.",
-    "start_date": "2025-07-26",
-    "start_time": "2:00 pm",
-    "end_date": "2025-07-26",
-    "end_time": "7:00 pm",
-    "link": "https://www.kingslandwildflowers.com/wildflower-festival",
-    "address": "Kingsland Wildflowers Green Roof + Community Engagement Center, Greenpoint",
-    "cost": ""
-  },
-  {
-    "title": "FAD Market: Summer Pop-Up",
-    "description": "A summer pop-up market at St. Paul’s Church in Boerum Hill/Cobble Hill.",
-    "start_date": "2025-07-26",
-    "start_time": "11:00 am",
-    "end_date": "2025-07-27",
-    "end_time": "6:00 pm",
-    "link": "https://fadmarket.co/summer-st-paul",
-    "address": "St. Paul’s Church, Boerum Hill/Cobble Hill",
-    "cost": ""
-  },
-  {
-    "title": "African Pop-Up Festival: Summer Edition",
-    "description": "A cultural festival at Hillel Plaza at Flatbush/Nostrand featuring food, music, and art.",
-    "start_date": "2025-07-26",
-    "start_time": "12:00 pm",
-    "end_date": "2025-07-27",
-    "end_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/african-popup-festival-2025-summer-edition-tickets-1061583628209",
-    "address": "Hillel Plaza at Flatbush/Nostrand",
-    "cost": ""
-  },
-  {
-    "title": "Free Outdoor Movies: A Good Person",
-    "description": "A free outdoor movie screening at Highbridge Park in Washington Heights.",
-    "start_date": "2025-07-25",
-    "start_time": "various times",
-    "end_date": "2025-07-25",
-    "link": "https://www.nycgovparks.org/events/2025/07/25/muts-a-good-person",
-    "address": "Highbridge Park, Washington Heights",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Paddington in Peru",
-    "description": "A free outdoor movie screening at Bensonhurst Park in Brooklyn.",
-    "start_date": "2025-07-25",
-    "start_time": "various times",
-    "end_date": "2025-07-25",
-    "link": "https://www.nycgovparks.org/events/2025/07/25/movies-under-the-stars-paddington-in-peru",
-    "address": "Bensonhurst Park, Brooklyn",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: The Abyss",
-    "description": "A free outdoor movie screening at the Intrepid Museum's Flight Deck in Hell's Kitchen.",
-    "start_date": "2025-07-25",
-    "start_time": "various times",
-    "end_date": "2025-07-25",
-    "link": "https://intrepidmuseum.org/free-friday-onsite-astronomy-night-movie-night-july-25",
-    "address": "Intrepid Museum's Flight Deck, Hell's Kitchen",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: The Wild Robot",
-    "description": "A free outdoor movie screening at Southpoint Park on Roosevelt Island.",
-    "start_date": "2025-07-25",
-    "start_time": "various times",
-    "end_date": "2025-07-25",
-    "link": "https://rioc.ny.gov/372/Roosevelt-Island-Outdoor-Summer-Movie-Se",
-    "address": "Southpoint Park, Roosevelt Island",
-    "cost": "Free"
+    "title": "Live Band Karaoke at Arlene’s Grocery",
+    "description": "Choose from a wide assortment of rock and pop songs and take the stage with your very own live band (Nakatomi5) backing you up at Arlene’s Grocery (LES).",
+    "start_date": "2025-07-29",
+    "start_time": "8:00 pm",
+    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
+    "address": "Arlene’s Grocery, LES, NY",
+    "cost": "$10 adv, $15 door"
   }
 ]

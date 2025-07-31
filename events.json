@@ -1,12 +1,52 @@
 [
   {
+    "title": "Silent Movie Week at MoMA",
+    "description": "The Museum of Modern Art presents its third annual silent movie week, featuring seven recently restored silent films from 1923-28. The series opens with Walter Ruttmann’s 'Berlin: Symphony of a City'.",
+    "start_date": "2025-08-01",
+    "link": "https://www.moma.org/calendar/film/5833",
+    "cost": "$14 general, $12 seniors, $10 students"
+  },
+  {
+    "title": "Free Outdoor Movies: Captain America: Brave New World",
+    "description": "Enjoy free outdoor movies at Rainey Park (LIC) featuring 'Captain America: Brave New World'.",
+    "start_date": "2025-08-01",
+    "link": "https://www.nycgovparks.org/events/2025/07/30/movies-under-the-srars-captain-america-brave-new-world",
+    "cost": "Free"
+  },
+  {
+    "title": "Jazz at Pier 84",
+    "description": "Jazz up your evening with the Jazz Foundation of America's free outdoor concerts at Hudson River Park's Pier 84 (Hell’s Kitchen).",
+    "start_date": "2025-08-01",
+    "start_time": "7:00 pm",
+    "link": "https://hudsonriverpark.org/visit/events/event/jazz-at-pier-84-july-30-2025-pucci-amanda-jhones/",
+    "address": "Hudson River Park, Pier 84, Hell’s Kitchen",
+    "cost": "Free"
+  },
+  {
+    "title": "Fightin’ Words! A Language Game Show",
+    "description": "Three contestants compete in a series of word-based games to win the ultimate prize: a new word of their creation will be added to the people’s lexicon.",
+    "start_date": "2025-08-01",
+    "start_time": "9:30 pm",
+    "link": "https://caveat.nyc/events/fightin-words-7-31-2025",
+    "cost": "$13.61 with promo code ‘skintwords’ (reg. $18.76-20)"
+  },
+  {
+    "title": "Happy Birthday, Kate: A Kate Bush Party",
+    "description": "DJ Bright Light Bright Light’s annual dance party celebrating all things Kate Bush returns to C’mon Everybody (Bed-Stuy).",
+    "start_date": "2025-08-01",
+    "start_time": "10:00 pm",
+    "link": "https://dice.fm/event/bbmovo-happy-birthday-kate-a-kate-bush-party-31st-jul-cmon-everybody-new-york-tickets",
+    "address": "C’mon Everybody, Bed-Stuy",
+    "cost": "$12.36"
+  },
+  {
     "title": "Wagner Park Reopening",
     "description": "After a two-year closure for resiliency improvements, downtown's Wagner Park reopens to the public. The 3.5-acre waterfront space will host a lineup of free events through October, kicking off with an outdoor performance by Taylor Mac.",
     "start_date": "2025-07-29",
     "start_time": "7:00 pm",
     "end_date": "2025-10-29",
     "link": "https://media.bpca.ny.gov/wp-content/uploads/2025/06/18135717/Wagner-Park-Opening-Season-Programming-Juy-October-2025.pdf",
-    "address": "Wagner Park, Downtown, NY",
+    "address": "Wagner Park, Downtown Manhattan",
     "cost": "Free"
   },
   {
@@ -14,14 +54,13 @@
     "description": "Lincoln Center's annual arts festival brings two months of free and choose-what-you-pay music concerts, performances, dance parties, film screenings, and more to its Upper West Side campus.",
     "start_date": "2025-07-29",
     "link": "https://www.lincolncenter.org/series/summer-for-the-city/v/calendar",
-    "cost": "Varies"
+    "cost": "Free"
   },
   {
     "title": "Free Outdoor Movies: Elf and Party Girl",
     "description": "Enjoy free outdoor movies at Domino Park (Williamsburg) featuring 'Elf' and 'Party Girl'.",
     "start_date": "2025-07-29",
     "link": "https://www.dominopark.com/events/movie-nights-in-the-square-july29",
-    "address": "Domino Park, Williamsburg, NY",
     "cost": "Free"
   },
   {
@@ -30,7 +69,7 @@
     "start_date": "2025-07-29",
     "start_time": "7:00 pm",
     "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1409365332649",
-    "address": "The Greats of Craft, LIC, NY",
+    "address": "The Greats of Craft, LIC",
     "cost": "$5"
   },
   {
@@ -39,8 +78,8 @@
     "start_date": "2025-07-29",
     "start_time": "7:00 pm",
     "link": "https://www.eventbrite.com/e/nyc-magic-ensemble-young-ethels-tickets-1417240026069",
-    "address": "Young Ethel’s, South Slope, NY",
-    "cost": "$10 (limited 2-for-$15 tickets available)"
+    "address": "Young Ethel’s, South Slope",
+    "cost": "$10"
   },
   {
     "title": "Live at the Gantries",
@@ -48,16 +87,16 @@
     "start_date": "2025-07-29",
     "start_time": "7:00 pm",
     "link": "https://kupferbergcenter.org/about/live-at-the-gantries/",
-    "address": "Gantry Plaza State Park, LIC, NY",
+    "address": "Gantry Plaza State Park, LIC",
     "cost": "Free"
   },
   {
     "title": "Rooftop Films: New York Non-Fiction 2025",
-    "description": "The popular Rooftop Films series returns for its 29th season. Tonight: Jessica Earnshaw’s 'Baby Doe' at the Old American Can Factory (Gowanus), followed by filmmaker discussion and a reception.",
+    "description": "The popular rooftop films series returns for its 29th season. Tonight: Jessica Earnshaw’s 'Baby Doe' at the Old American Can Factory (Gowanus), followed by filmmaker discussion and a reception.",
     "start_date": "2025-07-29",
     "start_time": "8:00 pm",
     "link": "https://rooftopfilms.com/event/baby-doe/",
-    "address": "Old American Can Factory, Gowanus, NY",
+    "address": "Old American Can Factory, Gowanus",
     "cost": "$20"
   },
   {
@@ -66,7 +105,7 @@
     "start_date": "2025-07-29",
     "start_time": "8:00 pm",
     "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
-    "address": "Arlene’s Grocery, LES, NY",
+    "address": "Arlene’s Grocery, LES",
     "cost": "$10 adv, $15 door"
   }
 ]

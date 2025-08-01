@@ -1,111 +1,112 @@
 [
   {
-    "title": "Silent Movie Week at MoMA",
-    "description": "The Museum of Modern Art presents its third annual silent movie week, featuring seven recently restored silent films from 1923-28. The series opens with Walter Ruttmann’s 'Berlin: Symphony of a City'.",
-    "start_date": "2025-08-01",
-    "link": "https://www.moma.org/calendar/film/5833",
-    "cost": "$14 general, $12 seniors, $10 students"
+    "title": "third annual summer blockfest hip-hop festival + community celebration",
+    "description": "770 jackson street, hoboken.",
+    "start_date": "2025-08-03",
+    "start_time": "12:00 pm",
+    "end_date": "2025-08-03",
+    "end_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/the-3rd-annual-summer-blockfest-hip-hop-festival-community-celebration-tickets-1337417705359",
+    "address": "770 Jackson Street, Hoboken",
+    "cost": "Undefined"
   },
   {
-    "title": "Free Outdoor Movies: Captain America: Brave New World",
-    "description": "Enjoy free outdoor movies at Rainey Park (LIC) featuring 'Captain America: Brave New World'.",
-    "start_date": "2025-08-01",
-    "link": "https://www.nycgovparks.org/events/2025/07/30/movies-under-the-srars-captain-america-brave-new-world",
+    "title": "phoenicia flea at strong rope brewery",
+    "description": "red hook.",
+    "start_date": "2025-08-03",
+    "start_time": "1:00 pm",
+    "end_date": "2025-08-03",
+    "end_time": "7:00 pm",
+    "link": "https://www.strongropebrewery.com/events-calendar/red-hook-phoenicia-flea-2025-aug",
+    "address": "red hook",
+    "cost": "Undefined"
+  },
+  {
+    "title": "smorgasburg x suntory present: japan meets brooklyn – matsuri",
+    "description": "smorgasburg (williamsburg).",
+    "start_date": "2025-08-02",
+    "start_time": "11:00 am",
+    "end_date": "2025-08-02",
+    "end_time": "6:00 pm",
+    "link": "https://www.smorgasburg.com/new-events/japan-meets-brooklyn-matsuri",
+    "address": "smorgasburg, Williamsburg",
     "cost": "Free"
   },
   {
-    "title": "Jazz at Pier 84",
-    "description": "Jazz up your evening with the Jazz Foundation of America's free outdoor concerts at Hudson River Park's Pier 84 (Hell’s Kitchen).",
-    "start_date": "2025-08-01",
+    "title": "jersey city night market",
+    "description": "city hall ancillary lot. free admission (pay-as-you-go).",
+    "start_date": "2025-08-02",
+    "start_time": "3:00 pm",
+    "end_date": "2025-08-02",
+    "end_time": "9:00 pm",
+    "link": "https://www.jcnightmarket.com",
+    "address": "city hall ancillary lot",
+    "cost": "Free"
+  },
+  {
+    "title": "brooklyn art meetup",
+    "description": "maria hernandez park (bushwick).",
+    "start_date": "2025-08-02",
+    "start_time": "3:30 pm",
+    "end_date": "2025-08-02",
+    "end_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/brooklyn-art-meetup-make-art-make-friends-make-memories-registration-1407723010419",
+    "address": "maria hernandez park, Bushwick",
+    "cost": "Undefined"
+  },
+  {
+    "title": "catvideofest 2025",
+    "description": "catvideofest returns to the big screen with cool kitty clips of all kinds, from fresh submissions to sourced animations, music videos, and iconic internet gems. a portion of ticket proceeds from every show will go to local animal shelters and/or animal welfare organizations.",
+    "start_date": "2025-08-02",
+    "start_time": "Undefined",
+    "end_date": "2025-08-10",
+    "end_time": "Undefined",
+    "link": "http://www.catvideofest.com",
+    "address": "Various locations",
+    "cost": "Various prices"
+  },
+  {
+    "title": "shakespeare in the garden",
+    "description": "stag + lion theatre co. presents their take on shakepeare's as you like it in west side community garden’s floral setting.",
+    "start_date": "2025-08-02",
+    "start_time": "6:00 pm",
+    "end_date": "2025-08-03",
+    "end_time": "Undefined",
+    "link": "https://www.westsidecommunitygarden.org",
+    "address": "west side community garden",
+    "cost": "Free"
+  },
+  {
+    "title": "blank page theatre co's 2025 summer new works festival",
+    "description": "discover new stories based on today’s social climate at blank page theatre co's 2025 summer new works festival.",
+    "start_date": "2025-08-02",
     "start_time": "7:00 pm",
-    "link": "https://hudsonriverpark.org/visit/events/event/jazz-at-pier-84-july-30-2025-pucci-amanda-jhones/",
-    "address": "Hudson River Park, Pier 84, Hell’s Kitchen",
+    "end_date": "2025-08-03",
+    "end_time": "Undefined",
+    "link": "https://blankpagetheatreco.com/shows-tickets",
+    "address": "the tank, midtown",
+    "cost": "$23"
+  },
+  {
+    "title": "rise up nyc",
+    "description": "the rise up nyc summer concert series returns with 10 free outdoor concerts across the five boroughs.",
+    "start_date": "2025-08-02",
+    "start_time": "5:00 pm",
+    "end_date": "2025-08-17",
+    "end_time": "Undefined",
+    "link": "https://riseupnycconcerts.com/",
+    "address": "outside of the Apollo Theatre, Harlem",
     "cost": "Free"
   },
   {
-    "title": "Fightin’ Words! A Language Game Show",
-    "description": "Three contestants compete in a series of word-based games to win the ultimate prize: a new word of their creation will be added to the people’s lexicon.",
-    "start_date": "2025-08-01",
-    "start_time": "9:30 pm",
-    "link": "https://caveat.nyc/events/fightin-words-7-31-2025",
-    "cost": "$13.61 with promo code ‘skintwords’ (reg. $18.76-20)"
-  },
-  {
-    "title": "Happy Birthday, Kate: A Kate Bush Party",
-    "description": "DJ Bright Light Bright Light’s annual dance party celebrating all things Kate Bush returns to C’mon Everybody (Bed-Stuy).",
-    "start_date": "2025-08-01",
-    "start_time": "10:00 pm",
-    "link": "https://dice.fm/event/bbmovo-happy-birthday-kate-a-kate-bush-party-31st-jul-cmon-everybody-new-york-tickets",
-    "address": "C’mon Everybody, Bed-Stuy",
-    "cost": "$12.36"
-  },
-  {
-    "title": "Wagner Park Reopening",
-    "description": "After a two-year closure for resiliency improvements, downtown's Wagner Park reopens to the public. The 3.5-acre waterfront space will host a lineup of free events through October, kicking off with an outdoor performance by Taylor Mac.",
-    "start_date": "2025-07-29",
-    "start_time": "7:00 pm",
-    "end_date": "2025-10-29",
-    "link": "https://media.bpca.ny.gov/wp-content/uploads/2025/06/18135717/Wagner-Park-Opening-Season-Programming-Juy-October-2025.pdf",
-    "address": "Wagner Park, Downtown Manhattan",
+    "title": "first saturdays at brooklyn museum: ‘en fuego’",
+    "description": "brooklyn museum hosts a full evening of live music, talks, film screenings, hands-on art, tours, and more.",
+    "start_date": "2025-08-02",
+    "start_time": "5:00 pm",
+    "end_date": "2025-08-02",
+    "end_time": "9:30 pm",
+    "link": "https://www.brooklynmuseum.org/visit/first_saturdays/",
+    "address": "brooklyn museum",
     "cost": "Free"
-  },
-  {
-    "title": "Lincoln Center’s Fourth Annual Summer for the City",
-    "description": "Lincoln Center's annual arts festival brings two months of free and choose-what-you-pay music concerts, performances, dance parties, film screenings, and more to its Upper West Side campus.",
-    "start_date": "2025-07-29",
-    "link": "https://www.lincolncenter.org/series/summer-for-the-city/v/calendar",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Elf and Party Girl",
-    "description": "Enjoy free outdoor movies at Domino Park (Williamsburg) featuring 'Elf' and 'Party Girl'.",
-    "start_date": "2025-07-29",
-    "link": "https://www.dominopark.com/events/movie-nights-in-the-square-july29",
-    "cost": "Free"
-  },
-  {
-    "title": "Letters + Sodas: LIC Reading Series",
-    "description": "Writer Lana Schwartz brings together comedians and writers for a night of standup, humor pieces, fiction, and essay readings at The Greats of Craft (LIC).",
-    "start_date": "2025-07-29",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1409365332649",
-    "address": "The Greats of Craft, LIC",
-    "cost": "$5"
-  },
-  {
-    "title": "NYC Magic Ensemble",
-    "description": "Expect the unexpected as the NYC Magic Ensemble presents a night of magicians and mentalists at Young Ethel’s (South Slope).",
-    "start_date": "2025-07-29",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/nyc-magic-ensemble-young-ethels-tickets-1417240026069",
-    "address": "Young Ethel’s, South Slope",
-    "cost": "$10"
-  },
-  {
-    "title": "Live at the Gantries",
-    "description": "Kupferberg Center for the Arts presents Live at the Gantries, an annual outdoor concert series at Gantry Plaza State Park (LIC) showcasing local artists. Tonight: Afro-Colombian ensemble Rebolú.",
-    "start_date": "2025-07-29",
-    "start_time": "7:00 pm",
-    "link": "https://kupferbergcenter.org/about/live-at-the-gantries/",
-    "address": "Gantry Plaza State Park, LIC",
-    "cost": "Free"
-  },
-  {
-    "title": "Rooftop Films: New York Non-Fiction 2025",
-    "description": "The popular rooftop films series returns for its 29th season. Tonight: Jessica Earnshaw’s 'Baby Doe' at the Old American Can Factory (Gowanus), followed by filmmaker discussion and a reception.",
-    "start_date": "2025-07-29",
-    "start_time": "8:00 pm",
-    "link": "https://rooftopfilms.com/event/baby-doe/",
-    "address": "Old American Can Factory, Gowanus",
-    "cost": "$20"
-  },
-  {
-    "title": "Live Band Karaoke at Arlene’s Grocery",
-    "description": "Choose from a wide assortment of rock and pop songs and take the stage with your very own live band (Nakatomi5) backing you up at Arlene’s Grocery (LES).",
-    "start_date": "2025-07-29",
-    "start_time": "8:00 pm",
-    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
-    "address": "Arlene’s Grocery, LES",
-    "cost": "$10 adv, $15 door"
   }
 ]

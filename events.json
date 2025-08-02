@@ -1,112 +1,12 @@
 [
   {
-    "title": "third annual summer blockfest hip-hop festival + community celebration",
-    "description": "770 jackson street, hoboken.",
-    "start_date": "2025-08-03",
-    "start_time": "12:00 pm",
-    "end_date": "2025-08-03",
-    "end_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/the-3rd-annual-summer-blockfest-hip-hop-festival-community-celebration-tickets-1337417705359",
-    "address": "770 Jackson Street, Hoboken",
-    "cost": "Undefined"
-  },
-  {
-    "title": "phoenicia flea at strong rope brewery",
-    "description": "red hook.",
-    "start_date": "2025-08-03",
-    "start_time": "1:00 pm",
-    "end_date": "2025-08-03",
-    "end_time": "7:00 pm",
-    "link": "https://www.strongropebrewery.com/events-calendar/red-hook-phoenicia-flea-2025-aug",
-    "address": "red hook",
-    "cost": "Undefined"
-  },
-  {
-    "title": "smorgasburg x suntory present: japan meets brooklyn – matsuri",
-    "description": "smorgasburg (williamsburg).",
-    "start_date": "2025-08-02",
-    "start_time": "11:00 am",
-    "end_date": "2025-08-02",
-    "end_time": "6:00 pm",
-    "link": "https://www.smorgasburg.com/new-events/japan-meets-brooklyn-matsuri",
-    "address": "smorgasburg, Williamsburg",
-    "cost": "Free"
-  },
-  {
-    "title": "jersey city night market",
-    "description": "city hall ancillary lot. free admission (pay-as-you-go).",
-    "start_date": "2025-08-02",
-    "start_time": "3:00 pm",
-    "end_date": "2025-08-02",
-    "end_time": "9:00 pm",
-    "link": "https://www.jcnightmarket.com",
-    "address": "city hall ancillary lot",
-    "cost": "Free"
-  },
-  {
-    "title": "brooklyn art meetup",
-    "description": "maria hernandez park (bushwick).",
-    "start_date": "2025-08-02",
-    "start_time": "3:30 pm",
-    "end_date": "2025-08-02",
-    "end_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/brooklyn-art-meetup-make-art-make-friends-make-memories-registration-1407723010419",
-    "address": "maria hernandez park, Bushwick",
-    "cost": "Undefined"
-  },
-  {
-    "title": "catvideofest 2025",
-    "description": "catvideofest returns to the big screen with cool kitty clips of all kinds, from fresh submissions to sourced animations, music videos, and iconic internet gems. a portion of ticket proceeds from every show will go to local animal shelters and/or animal welfare organizations.",
-    "start_date": "2025-08-02",
-    "start_time": "Undefined",
-    "end_date": "2025-08-10",
-    "end_time": "Undefined",
-    "link": "http://www.catvideofest.com",
-    "address": "Various locations",
-    "cost": "Various prices"
-  },
-  {
-    "title": "shakespeare in the garden",
-    "description": "stag + lion theatre co. presents their take on shakepeare's as you like it in west side community garden’s floral setting.",
-    "start_date": "2025-08-02",
-    "start_time": "6:00 pm",
-    "end_date": "2025-08-03",
-    "end_time": "Undefined",
-    "link": "https://www.westsidecommunitygarden.org",
-    "address": "west side community garden",
-    "cost": "Free"
-  },
-  {
-    "title": "blank page theatre co's 2025 summer new works festival",
-    "description": "discover new stories based on today’s social climate at blank page theatre co's 2025 summer new works festival.",
-    "start_date": "2025-08-02",
-    "start_time": "7:00 pm",
-    "end_date": "2025-08-03",
-    "end_time": "Undefined",
-    "link": "https://blankpagetheatreco.com/shows-tickets",
-    "address": "the tank, midtown",
-    "cost": "$23"
-  },
-  {
-    "title": "rise up nyc",
-    "description": "the rise up nyc summer concert series returns with 10 free outdoor concerts across the five boroughs.",
-    "start_date": "2025-08-02",
-    "start_time": "5:00 pm",
-    "end_date": "2025-08-17",
-    "end_time": "Undefined",
-    "link": "https://riseupnycconcerts.com/",
-    "address": "outside of the Apollo Theatre, Harlem",
-    "cost": "Free"
-  },
-  {
-    "title": "first saturdays at brooklyn museum: ‘en fuego’",
-    "description": "brooklyn museum hosts a full evening of live music, talks, film screenings, hands-on art, tours, and more.",
-    "start_date": "2025-08-02",
-    "start_time": "5:00 pm",
-    "end_date": "2025-08-02",
-    "end_time": "9:30 pm",
-    "link": "https://www.brooklynmuseum.org/visit/first_saturdays/",
-    "address": "brooklyn museum",
-    "cost": "Free"
+    "title": "SEND A MANIAC TO CATCH A MANIAC: DEMOLITION MAN",
+    "description": "A Staged Parody Fan event featuring trivia, raffle prizes, and audience participation. Starring David Rey, Lenny Thomas, Caroline Orlando, Christina Elise Perry, Laura Clare Browne, and Kirk Gostkowski. One complimentary drink with each ticket!",
+    "start_date": "2025-08-08",
+    "start_time": "7:30 pm",
+    "end_date": "2025-08-09",
+    "link": "https://www.theskint.com/demolition-man-fan-parody-event-sponsored/",
+    "address": "The Chain Theatre, 312 W 36 Street, 4th Floor (Between 8th and 9th ave)",
+    "cost": "$5 off advance tickets with promo code \"SKINT\""
   }
 ]

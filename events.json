@@ -1,11 +1,13 @@
 [
   {
-    "title": "Theatre for a New Audience’s 25/26 Season",
-    "description": "Theatre for a New Audience is proud to celebrate its 46th season featuring David Eldridge’s new version of Henrik Ibsen’s The Wild Duck, William Shakespeare’s The Tragedy of Coriolanus, and Teatro La Plaza’s Hamlet performed in Spanish with projected English translation. Early-bird pricing available until August 11.",
-    "start_date": "2025-08-11",
-    "end_date": "2026-06-30",
-    "link": "https://www.theskint.com/announcing-theatre-for-a-new-audiences-25-26-season-save-on-subscriptions-now-sponsored/",
-    "address": "Polonsky Shakespeare Center, 262 Ashland Place, Brooklyn, NY 11217",
-    "cost": "$55 per ticket (Early Bird Special: $40 per ticket)"
+    "title": "Intrepid Summer Beer Wine & Spirits Fest",
+    "description": "The Summer Beer Wine And Spirits Fest comes to the historic Intrepid Museum on Friday, August 8, pouring more than 100 styles of beer, wine, and spirits from producers near and far! It’s a perfect chance to hang with friends and chat with brewers, sommeliers, and master distillers about the craft behind your next favorite go-to pours. Guests can enjoy unlimited samples all night, plus live entertainment, interactive games, and access to food available for purchase from Chavas Empanadas, Mozzarepas, and Taste of Poland.",
+    "start_date": "2025-08-08",
+    "start_time": "6:30 pm",
+    "end_date": "2025-08-08",
+    "end_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/intrepid-summer-beer-wine-and-spirits-fest-tickets-1319156495589?discount=THESKINT",
+    "address": "The Intrepid Museum, Pier 86, W 46th St, New York, NY 10036",
+    "cost": "Save 40% on advance tickets with promo code THESKINT."
   }
 ]

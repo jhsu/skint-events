@@ -1,13 +1,269 @@
 [
   {
-    "title": "Party Like It’s 1999: Don’t Go Chasing Waterfalls Edition",
-    "description": "The number-one song of the land in the summer of 1995 was a meaningful gem from a trio called TLC. Party Like It’s 1999: Don’t Go Chasing Waterfalls Edition will mark that 30th anniversary by giving you double shots of T-Boz, Chilli and Left Eye all night long. Plus DJ Steve will also serve up our usual mix of the best rock, pop, R&B, hip-hop and dance tunes from the 1990s and 2000s!",
-    "start_date": "2025-08-09",
-    "start_time": "10:30 pm",
-    "end_date": "2025-08-10",
-    "end_time": "3:30 am",
-    "link": "https://www.eventbrite.com/e/party-like-its-1999-dont-go-chasing-waterfalls-edition-tickets-1419326928049",
-    "address": "Littlefield, 635 Sackett Street, Brooklyn, NY 11217",
+    "title": "Handmade in the Boroughs Bazaar at Grand Bazaar NYC",
+    "description": "A bazaar featuring handmade goods from local artisans at Grand Bazaar NYC.",
+    "start_date": "2025-08-13",
+    "start_time": "10:00 am",
+    "end_date": "2025-08-13",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/handmade-in-the-boroughs-bazaar/",
+    "address": "100 W 77th St at Columbus Ave, UWS",
+    "cost": "Undefined"
+  },
+  {
+    "title": "43rd Annual Dominican Day Parade",
+    "description": "Celebrate Dominican culture at the annual parade along Sixth Avenue.",
+    "start_date": "2025-08-13",
+    "start_time": "11:00 pm",
+    "link": "https://www.instagram.com/natddp/",
+    "address": "Sixth Avenue from W 39th to W 54th Streets",
+    "cost": "Undefined"
+  },
+  {
+    "title": "A Great Day in Harlem (Part of Harlem Week)",
+    "description": "Join the celebration at General Grant National Memorial for a day of activities and community.",
+    "start_date": "2025-08-13",
+    "start_time": "12:00 pm",
+    "end_date": "2025-08-13",
+    "end_time": "7:00 pm",
+    "link": "https://harlemweek.com/event/a-great-day-in-harlem/",
+    "address": "General Grant National Memorial, Morningside Heights",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Korea Fest",
+    "description": "A festival celebrating Korean culture and community on Steinway Street.",
+    "start_date": "2025-08-13",
+    "start_time": "12:00 pm",
+    "end_date": "2025-09-06",
+    "end_time": "9:00 pm",
+    "link": "https://www.korea-fest.com",
+    "address": "Steinway Street between 31st Ave + Broadway, Astoria",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Frozen Treats Takedown",
+    "description": "A competition featuring frozen treats at Threes Brewing in Gowanus.",
+    "start_date": "2025-08-13",
+    "start_time": "1:00 pm",
+    "link": "https://thetakedowns.com",
+    "address": "Threes Brewing, Gowanus",
+    "cost": "$30"
+  },
+  {
+    "title": "Jo Firestone Presents the First Annual Pie Tasting Festival",
+    "description": "Join comedian Jo Firestone for a pie tasting festival at Littlefield in Gowanus.",
+    "start_date": "2025-08-13",
+    "start_time": "2:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1467150750389",
+    "address": "Littlefield, Gowanus",
+    "cost": "$15"
+  },
+  {
+    "title": "Chinatown Block Party",
+    "description": "Celebrate community at the Chinatown Block Party on Mosco Street.",
+    "start_date": "2025-08-13",
+    "start_time": "4:30 pm",
+    "end_date": "2025-08-13",
+    "end_time": "8:30 pm",
+    "link": "https://www.thinkchinatown.org/blockparty",
+    "address": "Mosco Street, Chinatown, Manhattan",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Ninth Annual Indian Independence Day Celebration",
+    "description": "Join the celebration at Exchange Place Plaza in Jersey City for Indian Independence Day.",
+    "start_date": "2025-08-13",
+    "start_time": "5:00 pm",
+    "end_date": "2025-08-13",
+    "end_time": "8:30 pm",
+    "link": "https://www.facebook.com/events/737581242096301/",
+    "address": "Exchange Place Plaza, Jersey City",
+    "cost": "Undefined"
+  },
+  {
+    "title": "28th Annual NYC Black Pride",
+    "description": "Celebrate Black Pride across various locations in NYC.",
+    "start_date": "2025-08-13",
+    "end_date": "2025-08-17",
+    "link": "https://gaycitynews.com/guide-to-nyc-black-pride-2025-august-10-17/",
+    "address": "Various locations",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Grand Street Summer Restaurant Week",
+    "description": "Enjoy special menus and deals at restaurants in East Williamsburg.",
+    "start_date": "2025-08-13",
+    "end_date": "2025-08-24",
+    "link": "https://www.grandstreetbk.org/blog/guide-to-rw-25summer",
+    "address": "East Williamsburg",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Brooklyn Bites by Blundstone: Rooftop Food Festival",
+    "description": "A rooftop food festival at Brooklyn Grange featuring various food vendors and activities.",
+    "start_date": "2025-08-12",
+    "start_time": "10:00 am",
+    "end_date": "2025-08-12",
+    "end_time": "8:00 pm",
+    "link": "https://www.brooklyngrangefarm.com/upcoming-events/bkbitesblundstone",
+    "address": "Brooklyn Grange at Sunset Park, Brooklyn",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Spike's Joint Pop-Up Poster + Book Stoop Sale",
+    "description": "A pop-up sale featuring posters and books at filmmaker Spike Lee’s HQ, with Spike Lee in attendance for signings.",
+    "start_date": "2025-08-12",
+    "start_time": "12:00 pm",
+    "end_date": "2025-08-12",
+    "end_time": "7:00 pm",
+    "link": "https://www.instagram.com/p/DNDm5_pOjAm/",
+    "address": "40 Acres and a Mule HQ, Fort Greene",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Black Vegfest",
+    "description": "A festival celebrating plant-based living and culture at Lincoln Terrace Park.",
+    "start_date": "2025-08-12",
+    "start_time": "12:00 pm",
+    "end_date": "2025-08-12",
+    "end_time": "7:00 pm",
+    "link": "https://blackvegfest.org",
+    "address": "Lincoln Terrace Park, Crown Heights",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Yoga Block Party",
+    "description": "Join the community for a yoga block party on Graham Avenue, featuring yoga sessions and activities.",
+    "start_date": "2025-08-12",
+    "start_time": "2:00 pm",
+    "end_date": "2025-08-12",
+    "end_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/graham-ave-block-party-by-yoga-block-party-tickets-1470877015749",
+    "address": "Graham Ave between Scholes and Meserole, East Williamsburg",
+    "cost": "Undefined"
+  },
+  {
+    "title": "K-Pop Foodie Fest",
+    "description": "A food festival celebrating K-Pop culture and cuisine at Magnolia Landing.",
+    "start_date": "2025-08-12",
+    "start_time": "2:00 pm",
+    "end_date": "2025-08-12",
+    "end_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/k-pop-foodie-fest-tickets-1455034971769",
+    "address": "Magnolia Landing, Jersey City",
+    "cost": "Undefined"
+  },
+  {
+    "title": "35th Hong Kong Dragon Boat Festival",
+    "description": "Join the excitement of the Hong Kong Dragon Boat Festival at Flushing Meadows Corona Park.",
+    "start_date": "2025-08-12",
+    "start_time": "9:00 am",
+    "end_date": "2025-08-13",
+    "end_time": "5:00 pm",
+    "link": "https://www.hkdbf-ny.org",
+    "address": "Flushing Meadows Corona Park, Queens",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Intrepid Summer Beer Wine and Spirits Fest",
+    "description": "Enjoy a variety of beers, wines, and spirits at the Intrepid Museum in Hell's Kitchen. Save 40% on advance tickets with promo code ‘theskint’.",
+    "start_date": "2025-08-11",
+    "start_time": "6:30 pm",
+    "end_date": "2025-08-11",
+    "end_time": "10:00 pm",
+    "link": "https://www.theskint.com/intrepid-summer-beer-wine-spirits-fest-save-40-on-tickets-sponsored/",
+    "address": "Intrepid Museum, Hell's Kitchen",
+    "cost": "$5 before 11pm with RSVP, $10 without"
+  },
+  {
+    "title": "Annual East Harlem Giglio Festival",
+    "description": "Join the festivities at the Annual East Harlem Giglio Festival, featuring food, music, and cultural celebrations.",
+    "start_date": "2025-08-11",
+    "end_date": "2025-08-13",
+    "link": "https://www.eastharlemgiglio.org/",
+    "address": "Pleasant Avenue between 114th + 116th Streets, East Harlem",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Shakespeare in the Park: Twelfth Night",
+    "description": "Enjoy a free performance of Twelfth Night at Central Park's Delacorte Theater.",
+    "start_date": "2025-08-11",
+    "end_date": "2025-09-14",
+    "link": "https://publictheater.org/productions/season/2425/fsitp/twelfth-night/",
+    "address": "Delacorte Theater, Central Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Alan Turing + The Queen of the Night",
+    "description": "A queer fantasy musical about Alan Turing at The Players Theatre.",
+    "start_date": "2025-08-11",
+    "end_date": "2025-08-31",
+    "link": "https://www.alanturingandthequeenofthenight.com",
+    "address": "The Players Theatre, Greenwich Village",
+    "cost": "$20+"
+  },
+  {
+    "title": "Chain NYC Film Festival",
+    "description": "A celebration of bold voices and original storytelling featuring over 160 films at Chain Theatre.",
+    "start_date": "2025-08-11",
+    "end_date": "2025-08-17",
+    "link": "https://www.chainfilmfestival.com/",
+    "address": "Chain Theatre, Garment District / Hell's Kitchen",
+    "cost": "$13+"
+  },
+  {
+    "title": "Bad Survivor with Alex Dvorak",
+    "description": "Screening of the indie dark comedy 'Bad Survivor' at Quad Cinema.",
+    "start_date": "2025-08-11",
+    "end_date": "2025-08-14",
+    "link": "https://quadcinema.com/film/bad-survivor/",
+    "address": "Quad Cinema, Greenwich Village",
     "cost": "$10"
+  },
+  {
+    "title": "Lincoln Center’s Fourth Annual Summer for the City",
+    "description": "An arts festival featuring free and choose-what-you-pay events at Lincoln Center.",
+    "start_date": "2025-08-11",
+    "end_date": "2025-08-14",
+    "link": "https://www.lincolncenter.org/series/summer-for-the-city/v/calendar",
+    "address": "Lincoln Center, Upper West Side",
+    "cost": "Free or choose-what-you-pay"
+  },
+  {
+    "title": "Get Insider Access to the City’s Best Secrets with New York Adventure Club",
+    "description": "Explore NYC's hidden gems with guided tours and experiences.",
+    "start_date": "2025-08-11",
+    "end_date": "2025-08-13",
+    "link": "https://nyadventureclub.com/categories/all",
+    "address": "Various locations",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Summerstage",
+    "description": "A series of free outdoor shows featuring various artists at different locations.",
+    "start_date": "2025-08-11",
+    "end_date": "2025-08-13",
+    "link": "https://cityparksfoundation.org/summerstage/",
+    "address": "Various locations",
+    "cost": "Free"
+  },
+  {
+    "title": "47th Annual BRIC Celebrate Brooklyn! Festival",
+    "description": "New York City’s longest-running free outdoor performing arts festival at Prospect Park.",
+    "start_date": "2025-08-11",
+    "end_date": "2025-08-12",
+    "link": "https://bricartsmedia.org/celebrate-brooklyn/",
+    "address": "Prospect Park, Brooklyn",
+    "cost": "Free"
+  },
+  {
+    "title": "Demolition Man: Fan Parody Event",
+    "description": "A staged parody fan event at Chain Theatre with trivia and audience participation.",
+    "start_date": "2025-08-11",
+    "end_date": "2025-08-12",
+    "link": "https://www.usualrejects.com/",
+    "address": "Chain Theatre, Garment District / Hell's Kitchen",
+    "cost": "$5 with promo code 'skint'"
   }
 ]

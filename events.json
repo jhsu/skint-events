@@ -8,7 +8,7 @@
     "end_time": "6:00 pm",
     "link": "https://fianynjct.org",
     "address": "Madison Ave from E 38th to E 27th St",
-    "cost": "Free admission"
+    "cost": "Undefined"
   },
   {
     "title": "Pan-Afro Wisdom (P.O.W.) Fest",
@@ -19,7 +19,7 @@
     "end_time": "7:00 pm",
     "link": "https://www.divinetimescollective.com/event-details-registration/pow-fest-2025",
     "address": "Herbert Von King Park, Bed-Stuy",
-    "cost": "Free admission"
+    "cost": "Undefined"
   },
   {
     "title": "Brooklyn Bound Vintage's One-Year Anniversary",
@@ -41,7 +41,7 @@
     "end_time": "6:00 pm",
     "link": "https://www.eventbrite.com/e/afrobeats-vs-dancehall-takeover-barclays-center-summer-sound-clash-tickets-1539243020309",
     "address": "Barclays Center Plaza, Prospect Heights",
-    "cost": "Free admission"
+    "cost": "Free"
   },
   {
     "title": "African Pop-Up Festival",
@@ -52,18 +52,18 @@
     "end_time": "9:00 pm",
     "link": "https://www.eventbrite.com/e/african-popup-festival-2025-summer-edition-tickets-1061583628209",
     "address": "Hillel Plaza at Flatbush/Nostrand",
-    "cost": "Free admission"
+    "cost": "Undefined"
   },
   {
     "title": "The Annual Big Aussie BBQ",
-    "description": "Join us for a delicious BBQ at Old Stone House in Park Slope, featuring Australian food and drinks.",
+    "description": "Join us for a delicious BBQ at the Old Stone House in Park Slope, featuring Australian food and drinks.",
     "start_date": "2025-08-16",
     "start_time": "12:00 pm",
     "end_date": "2025-08-16",
     "end_time": "5:00 pm",
     "link": "https://bigaussiebbq.com",
     "address": "Old Stone House, Park Slope",
-    "cost": "Free admission"
+    "cost": "Undefined"
   },
   {
     "title": "Bomb's Annual Small Press Flea",
@@ -74,7 +74,7 @@
     "end_time": "9:00 pm",
     "link": "https://bombmagazine.org/events/small-press-flea-2025/",
     "address": "Amant, East Williamsburg",
-    "cost": "Free admission"
+    "cost": "Undefined"
   },
   {
     "title": "The Annual Blues BBQ Music + Food Festival",
@@ -85,18 +85,18 @@
     "end_time": "9:00 pm",
     "link": "https://hudsonriverpark.org/visit/events/event/blues-bbq-festival-2025/",
     "address": "Pier 76, Midtown West",
-    "cost": "Free admission"
+    "cost": "Undefined"
   },
   {
     "title": "A Tea Party Swap Meet for Kings, Things, and In-Betweens",
-    "description": "Join us for a unique swap meet experience with a suggested donation.",
+    "description": "Join us for a unique swap meet with a suggested donation for entry.",
     "start_date": "2025-08-16",
     "start_time": "2:00 pm",
     "end_date": "2025-08-16",
     "end_time": "6:00 pm",
     "link": "https://withfriends.events/event/JaizsS2u/footlight-presents-a-tea-party-swap-meet-for-kings-things-and-in-betweens/",
     "address": "Undefined",
-    "cost": "Suggested donation: $5-15"
+    "cost": "$5-15"
   },
   {
     "title": "13th Annual Hindu Lamp Ceremony",
@@ -107,7 +107,7 @@
     "end_time": "7:30 pm",
     "link": "https://brooklynbridgepark.org/event/hindu-lamp-ceremony/",
     "address": "Brooklyn Bridge Park’s Pebble Beach",
-    "cost": "Free admission"
+    "cost": "Undefined"
   },
   {
     "title": "65th Annual Jersey City Puerto Rican Day Festival + Parade",
@@ -118,7 +118,29 @@
     "end_time": "9:00 pm",
     "link": "https://www.instagram.com/jcprhac/",
     "address": "Christopher Columbus Dr between Marin Blvd + Warren St",
-    "cost": "Free admission"
+    "cost": "Undefined"
+  },
+  {
+    "title": "Holy Rosary Church’s Annual La Festa Italiana",
+    "description": "Enjoy Italian culture and food at Holy Rosary Church in Jersey City.",
+    "start_date": "2025-08-16",
+    "start_time": "5:00 pm",
+    "end_date": "2025-08-20",
+    "end_time": "11:00 pm",
+    "link": "https://lafestajc.com",
+    "address": "344 6th Street, Jersey City",
+    "cost": "Undefined"
+  },
+  {
+    "title": "51st Feast of Santa Rosalia",
+    "description": "Celebrate Italian culture at the Feast of Santa Rosalia in Bensonhurst, Brooklyn.",
+    "start_date": "2025-08-16",
+    "start_time": "Undefined",
+    "end_date": "2025-08-24",
+    "end_time": "Undefined",
+    "link": "https://www.instagram.com/p/DKCX09ZxYnY/",
+    "address": "18th Avenue from 68th to 75th Street, Bensonhurst, Brooklyn",
+    "cost": "Undefined"
   },
   {
     "title": "The Final Chinatown Night Market",
@@ -129,28 +151,6 @@
     "end_time": "11:30 pm",
     "link": "https://www.thinkchinatown.org/nightmarket",
     "address": "Forsyth Plaza",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Holy Rosary Church’s Annual La Festa Italiana",
-    "description": "Enjoy Italian culture and festivities at Holy Rosary Church.",
-    "start_date": "2025-08-15",
-    "start_time": "5:00 pm",
-    "end_date": "2025-08-20",
-    "end_time": "11:00 pm",
-    "link": "https://lafestajc.com",
-    "address": "344 6th Street, Jersey City",
-    "cost": "Free admission"
-  },
-  {
-    "title": "51st Feast of Santa Rosalia",
-    "description": "Join the festivities at the Feast of Santa Rosalia in Bensonhurst, Brooklyn.",
-    "start_date": "2025-08-15",
-    "start_time": "Undefined",
-    "end_date": "2025-08-24",
-    "end_time": "Undefined",
-    "link": "https://www.instagram.com/p/DKCX09ZxYnY/",
-    "address": "18th Avenue from 68th to 75th Street, Bensonhurst, Brooklyn",
-    "cost": "Free admission"
+    "cost": "Free"
   }
 ]

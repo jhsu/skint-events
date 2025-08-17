@@ -1,32 +1,32 @@
 [
   {
     "title": "43rd India Day Parade and Festival",
-    "description": "Join the parade and enjoy food and cultural programs along Madison Ave.",
-    "start_date": "2025-08-17",
+    "description": "Join us for a parade and festival celebrating Indian culture in NYC.",
+    "start_date": "2025-08-20",
     "start_time": "11:00 am",
-    "end_date": "2025-08-17",
+    "end_date": "2025-08-20",
     "end_time": "6:00 pm",
     "link": "https://fianynjct.org",
     "address": "Madison Ave from E 38th to E 27th St",
-    "cost": "Undefined"
+    "cost": "Free admission"
   },
   {
     "title": "Pan-Afro Wisdom (P.O.W.) Fest",
-    "description": "A cultural festival at Herbert Von King Park in Bed-Stuy.",
-    "start_date": "2025-08-17",
+    "description": "A celebration of Afro culture at Herbert Von King Park in Bed-Stuy.",
+    "start_date": "2025-08-20",
     "start_time": "12:00 pm",
-    "end_date": "2025-08-17",
+    "end_date": "2025-08-20",
     "end_time": "7:00 pm",
     "link": "https://www.divinetimescollective.com/event-details-registration/pow-fest-2025",
     "address": "Herbert Von King Park, Bed-Stuy",
-    "cost": "Undefined"
+    "cost": "Free admission"
   },
   {
     "title": "Brooklyn Bound Vintage's One-Year Anniversary",
-    "description": "Celebrate with vintage shopping and fun at Rein Studios in East Williamsburg.",
-    "start_date": "2025-08-17",
+    "description": "Celebrate with us at Rein Studios featuring vintage finds and local vendors.",
+    "start_date": "2025-08-20",
     "start_time": "1:00 pm",
-    "end_date": "2025-08-17",
+    "end_date": "2025-08-20",
     "end_time": "6:00 pm",
     "link": "https://posh.vip/e/bkbound-hits-1-year-",
     "address": "Rein Studios, East Williamsburg",
@@ -34,123 +34,123 @@
   },
   {
     "title": "Afrobeats vs Dancehall Takeover",
-    "description": "Enjoy a lively music event at Barclays Center Plaza in Prospect Heights.",
-    "start_date": "2025-08-17",
+    "description": "A lively dance party at Barclays Center Plaza featuring Afrobeats and Dancehall music.",
+    "start_date": "2025-08-20",
     "start_time": "1:00 pm",
-    "end_date": "2025-08-17",
+    "end_date": "2025-08-20",
     "end_time": "6:00 pm",
     "link": "https://www.eventbrite.com/e/afrobeats-vs-dancehall-takeover-barclays-center-summer-sound-clash-tickets-1539243020309",
     "address": "Barclays Center Plaza, Prospect Heights",
-    "cost": "Free"
+    "cost": "Free admission"
   },
   {
     "title": "African Pop-Up Festival",
-    "description": "A vibrant festival at Hillel Plaza at Flatbush/Nostrand.",
-    "start_date": "2025-08-17",
+    "description": "A vibrant festival celebrating African culture at Hillel Plaza.",
+    "start_date": "2025-08-20",
     "start_time": "1:00 pm",
-    "end_date": "2025-08-17",
+    "end_date": "2025-08-20",
     "end_time": "9:00 pm",
     "link": "https://www.eventbrite.com/e/african-popup-festival-2025-summer-edition-tickets-1061583628209",
     "address": "Hillel Plaza at Flatbush/Nostrand",
-    "cost": "Undefined"
-  },
-  {
-    "title": "The Annual Big Aussie BBQ",
-    "description": "Join us for a delicious BBQ at the Old Stone House in Park Slope, featuring Australian food and drinks.",
-    "start_date": "2025-08-16",
-    "start_time": "12:00 pm",
-    "end_date": "2025-08-16",
-    "end_time": "5:00 pm",
-    "link": "https://bigaussiebbq.com",
-    "address": "Old Stone House, Park Slope",
-    "cost": "Undefined"
-  },
-  {
-    "title": "Bomb's Annual Small Press Flea",
-    "description": "Explore a variety of small press publications and meet local artists at Amant in East Williamsburg.",
-    "start_date": "2025-08-16",
-    "start_time": "1:00 pm",
-    "end_date": "2025-08-16",
-    "end_time": "9:00 pm",
-    "link": "https://bombmagazine.org/events/small-press-flea-2025/",
-    "address": "Amant, East Williamsburg",
-    "cost": "Undefined"
-  },
-  {
-    "title": "The Annual Blues BBQ Music + Food Festival",
-    "description": "Enjoy live music and delicious BBQ at Pier 76 in Midtown West.",
-    "start_date": "2025-08-16",
-    "start_time": "1:00 pm",
-    "end_date": "2025-08-16",
-    "end_time": "9:00 pm",
-    "link": "https://hudsonriverpark.org/visit/events/event/blues-bbq-festival-2025/",
-    "address": "Pier 76, Midtown West",
-    "cost": "Undefined"
-  },
-  {
-    "title": "A Tea Party Swap Meet for Kings, Things, and In-Betweens",
-    "description": "Join us for a unique swap meet with a suggested donation for entry.",
-    "start_date": "2025-08-16",
-    "start_time": "2:00 pm",
-    "end_date": "2025-08-16",
-    "end_time": "6:00 pm",
-    "link": "https://withfriends.events/event/JaizsS2u/footlight-presents-a-tea-party-swap-meet-for-kings-things-and-in-betweens/",
-    "address": "Undefined",
-    "cost": "$5-15"
-  },
-  {
-    "title": "13th Annual Hindu Lamp Ceremony",
-    "description": "Experience a beautiful ceremony at Brooklyn Bridge Park’s Pebble Beach.",
-    "start_date": "2025-08-16",
-    "start_time": "4:00 pm",
-    "end_date": "2025-08-16",
-    "end_time": "7:30 pm",
-    "link": "https://brooklynbridgepark.org/event/hindu-lamp-ceremony/",
-    "address": "Brooklyn Bridge Park’s Pebble Beach",
-    "cost": "Undefined"
-  },
-  {
-    "title": "65th Annual Jersey City Puerto Rican Day Festival + Parade",
-    "description": "Celebrate Puerto Rican culture with a festival and parade in Jersey City.",
-    "start_date": "2025-08-16",
-    "start_time": "12:00 pm",
-    "end_date": "2025-08-17",
-    "end_time": "9:00 pm",
-    "link": "https://www.instagram.com/jcprhac/",
-    "address": "Christopher Columbus Dr between Marin Blvd + Warren St",
-    "cost": "Undefined"
+    "cost": "Free admission"
   },
   {
     "title": "Holy Rosary Church’s Annual La Festa Italiana",
-    "description": "Enjoy Italian culture and food at Holy Rosary Church in Jersey City.",
-    "start_date": "2025-08-16",
+    "description": "Join us for a traditional Italian festival at Holy Rosary Church.",
+    "start_date": "2025-08-20",
     "start_time": "5:00 pm",
     "end_date": "2025-08-20",
     "end_time": "11:00 pm",
     "link": "https://lafestajc.com",
     "address": "344 6th Street, Jersey City",
-    "cost": "Undefined"
+    "cost": "Free admission"
   },
   {
     "title": "51st Feast of Santa Rosalia",
-    "description": "Celebrate Italian culture at the Feast of Santa Rosalia in Bensonhurst, Brooklyn.",
-    "start_date": "2025-08-16",
-    "start_time": "Undefined",
+    "description": "Celebrate Italian culture at the Feast of Santa Rosalia in Bensonhurst.",
+    "start_date": "2025-08-20",
+    "start_time": "TBD",
     "end_date": "2025-08-24",
-    "end_time": "Undefined",
+    "end_time": "TBD",
     "link": "https://www.instagram.com/p/DKCX09ZxYnY/",
     "address": "18th Avenue from 68th to 75th Street, Bensonhurst, Brooklyn",
-    "cost": "Undefined"
+    "cost": "Free admission"
+  },
+  {
+    "title": "The Annual Big Aussie BBQ",
+    "description": "Join us for a delicious BBQ at the Old Stone House in Park Slope, featuring Australian food and drinks.",
+    "start_date": "2025-08-19",
+    "start_time": "12:00 pm",
+    "end_date": "2025-08-19",
+    "end_time": "5:00 pm",
+    "link": "https://bigaussiebbq.com",
+    "address": "Old Stone House, Park Slope",
+    "cost": "Free admission"
+  },
+  {
+    "title": "Bomb's Annual Small Press Flea",
+    "description": "Explore a variety of small press publications and meet local artists at Amant in East Williamsburg.",
+    "start_date": "2025-08-19",
+    "start_time": "1:00 pm",
+    "end_date": "2025-08-19",
+    "end_time": "9:00 pm",
+    "link": "https://bombmagazine.org/events/small-press-flea-2025/",
+    "address": "Amant, East Williamsburg",
+    "cost": "Free admission"
+  },
+  {
+    "title": "The Annual Blues BBQ Music + Food Festival",
+    "description": "Enjoy live music and delicious BBQ at Pier 76 in Midtown West.",
+    "start_date": "2025-08-19",
+    "start_time": "1:00 pm",
+    "end_date": "2025-08-19",
+    "end_time": "9:00 pm",
+    "link": "https://hudsonriverpark.org/visit/events/event/blues-bbq-festival-2025/",
+    "address": "Pier 76, Midtown West",
+    "cost": "Free admission"
+  },
+  {
+    "title": "A Tea Party Swap Meet for Kings, Things, and In-Betweens",
+    "description": "Join us for a unique swap meet experience with a suggested donation.",
+    "start_date": "2025-08-19",
+    "start_time": "2:00 pm",
+    "end_date": "2025-08-19",
+    "end_time": "6:00 pm",
+    "link": "https://withfriends.events/event/JaizsS2u/footlight-presents-a-tea-party-swap-meet-for-kings-things-and-in-betweens/",
+    "address": "TBD",
+    "cost": "Suggested donation: $5-15"
+  },
+  {
+    "title": "13th Annual Hindu Lamp Ceremony",
+    "description": "Experience a beautiful ceremony at Brooklyn Bridge Park’s Pebble Beach.",
+    "start_date": "2025-08-19",
+    "start_time": "4:00 pm",
+    "end_date": "2025-08-19",
+    "end_time": "7:30 pm",
+    "link": "https://brooklynbridgepark.org/event/hindu-lamp-ceremony/",
+    "address": "Brooklyn Bridge Park’s Pebble Beach",
+    "cost": "Free admission"
+  },
+  {
+    "title": "65th Annual Jersey City Puerto Rican Day Festival + Parade",
+    "description": "Celebrate Puerto Rican culture with a festival and parade in Jersey City.",
+    "start_date": "2025-08-19",
+    "start_time": "12:00 pm",
+    "end_date": "2025-08-20",
+    "end_time": "9:00 pm",
+    "link": "https://www.instagram.com/jcprhac/",
+    "address": "Christopher Columbus Dr between Marin Blvd + Warren St",
+    "cost": "Free admission"
   },
   {
     "title": "The Final Chinatown Night Market",
     "description": "Enjoy a vibrant night market experience at Forsyth Plaza featuring food, crafts, and local vendors.",
-    "start_date": "2025-08-15",
+    "start_date": "2025-08-18",
     "start_time": "8:00 pm",
-    "end_date": "2025-08-15",
+    "end_date": "2025-08-18",
     "end_time": "11:30 pm",
     "link": "https://www.thinkchinatown.org/nightmarket",
     "address": "Forsyth Plaza",
-    "cost": "Free"
+    "cost": "Free admission"
   }
 ]

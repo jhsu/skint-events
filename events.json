@@ -1,7 +1,142 @@
 [
   {
+    "title": "39th Chelsea International Fine Art Competition Exhibition",
+    "description": "Agora Gallery’s annual juried exhibition featuring paintings, sculptures, and mixed media pieces. Opening reception on 8/21 from 6-8pm.",
+    "start_date": "2025-08-20",
+    "end_date": "2025-08-27",
+    "link": "https://agora-gallery.com/exhibitions-calendar/",
+    "address": "Agora Gallery, Chelsea",
+    "cost": "Free"
+  },
+  {
+    "title": "Eighth Annual Rockaway Film Festival",
+    "description": "The Rockaway Film Festival returns to Averne Cinema for five days of indoor and outdoor screenings and live music.",
+    "start_date": "2025-08-20",
+    "end_date": "2025-08-24",
+    "link": "https://www.rockawayfilmfestival.org",
+    "address": "Averne Cinema",
+    "cost": "$10"
+  },
+  {
+    "title": "Free Outdoor Movies: Bend It Like Beckham",
+    "description": "Bend It Like Beckham at Pier I at Riverside Park South (UWS).",
+    "start_date": "2025-08-20",
+    "start_time": "various times",
+    "link": "https://www.nycgovparks.org/events/2025/08/20/pier-i-picture-show",
+    "address": "Pier I, Riverside Park South, UWS",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Downton Abbey: A New Era",
+    "description": "Downton Abbey: A New Era at Pier A Park (Hoboken).",
+    "start_date": "2025-08-20",
+    "start_time": "various times",
+    "link": "https://www.hobokennj.gov/departments/cultural-affairs",
+    "address": "Pier A Park, Hoboken",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Holes",
+    "description": "Holes at Dyker Beach Park.",
+    "start_date": "2025-08-20",
+    "start_time": "various times",
+    "link": "https://www.nycgovparks.org/events/2025/08/20/movies-under-the-stars-holes-2003",
+    "address": "Dyker Beach Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Indiana Jones and the Last Crusade",
+    "description": "Indiana Jones and the Last Crusade at Prospect Park.",
+    "start_date": "2025-08-20",
+    "start_time": "various times",
+    "link": "https://www.bkmag.com/movies/",
+    "address": "Prospect Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: The Royal Tenenbaums",
+    "description": "The Royal Tenenbaums at Elizabeth Street Garden (Nolita).",
+    "start_date": "2025-08-20",
+    "start_time": "various times",
+    "link": "https://www.elizabethstreetgarden.com/calendar/2025/6/25/movie-night-67jxg-f3a3b",
+    "address": "Elizabeth Street Garden, Nolita",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Up",
+    "description": "Up at Corporal John A Seravalli Playground (West Village).",
+    "start_date": "2025-08-20",
+    "start_time": "various times",
+    "link": "https://www.nycgovparks.org/events/2025/08/20/movies-under-the-stars-up",
+    "address": "Corporal John A Seravalli Playground, West Village",
+    "cost": "Free"
+  },
+  {
+    "title": "Summerstage: Free Concert with Joey Valence + Brae",
+    "description": "Summerstage presents a free concert with hip-hop duo Joey Valence + Brae at Central Park's Rumsey Playfield.",
+    "start_date": "2025-08-20",
+    "start_time": "6:00 pm",
+    "link": "https://cityparksfoundation.org/events/joey-valence-brae/",
+    "address": "Central Park, Rumsey Playfield",
+    "cost": "Free"
+  },
+  {
+    "title": "Adam Wade: Live in New York",
+    "description": "20-time Moth Story Slam winner Adam Wade returns to Under St. Marks Theater with a storytelling show.",
+    "start_date": "2025-08-20",
+    "start_time": "7:00 pm",
+    "link": "https://tickets.frigid.nyc/event/6897:476/",
+    "address": "Under St. Marks Theater, East Village",
+    "cost": "Sliding scale admission"
+  },
+  {
+    "title": "Will You Accept This Rose? Live with Arden Myrin",
+    "description": "Podcast host Arden Myrin discusses the latest The Bachelor episode at Union Hall (Park Slope).",
+    "start_date": "2025-08-20",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/arden-myrins-will-you-accept-this-rose-live-tickets-1487171412729",
+    "address": "Union Hall, Park Slope",
+    "cost": "$15"
+  },
+  {
+    "title": "We Have Fun: A Stand-Up Show",
+    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s (South Slope) with stand-up performances.",
+    "start_date": "2025-08-20",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
+    "address": "Young Ethel’s, South Slope",
+    "cost": "Free"
+  },
+  {
+    "title": "Ambush Comedy Show",
+    "description": "The Ambush Comedy Show at Hellrazor Barber Shop in Williamsburg features a lineup of comedians. BYOB.",
+    "start_date": "2025-08-20",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/ambush-comedy-w-josh-johnson-brittany-cardwell-lucas-connolly-tickets-764291816397",
+    "address": "Hellrazor Barber Shop, Williamsburg",
+    "cost": "Free"
+  },
+  {
+    "title": "Night Market Comedy",
+    "description": "A mostly Asian comedy show at Emmy Squared (East Village) featuring standup performances.",
+    "start_date": "2025-08-20",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/night-market-comedy-tickets-1549894428959",
+    "address": "Emmy Squared, East Village",
+    "cost": "$12"
+  },
+  {
+    "title": "Rooftop Films Presents: Lurker",
+    "description": "The popular rooftop films series returns for its 29th season at The Old American Can Factory (Gowanus).",
+    "start_date": "2025-08-20",
+    "start_time": "8:00 pm",
+    "link": "https://rooftopfilms.com/event/mistress-dispeller/",
+    "address": "The Old American Can Factory, Gowanus",
+    "cost": "$20"
+  },
+  {
     "title": "Free Outdoor Movies: Forrest Gump",
-    "description": "Watch 'Forrest Gump' on the rooftop at Pier 17 (Lower Manhattan).",
+    "description": "Forrest Gump on the rooftop at Pier 17 (Lower Manhattan).",
     "start_date": "2025-08-19",
     "start_time": "various times",
     "link": "https://theseaport.nyc/events/seaport-cinema/",
@@ -10,7 +145,7 @@
   },
   {
     "title": "Free Outdoor Movies: Madagascar",
-    "description": "Watch 'Madagascar' at Herbert Von King Park (Bed-Stuy).",
+    "description": "Madagascar at Herbert Von King Park (Bed-Stuy).",
     "start_date": "2025-08-19",
     "start_time": "various times",
     "link": "https://www.nycgovparks.org/events/2025/08/19/movies-under-the-stars-madagascar-2005",
@@ -19,7 +154,7 @@
   },
   {
     "title": "Free Outdoor Movies: The Goonies",
-    "description": "Watch 'The Goonies' at Bella Abzug Park (Hell’s Kitchen).",
+    "description": "The Goonies at Bella Abzug Park (Hell’s Kitchen).",
     "start_date": "2025-08-19",
     "start_time": "various times",
     "link": "https://www.nycgovparks.org/events/2025/08/19/august-movie-nights-at-bella-abzug-park-the-goonies",
@@ -28,7 +163,7 @@
   },
   {
     "title": "Free Outdoor Movies: Wicked",
-    "description": "Watch 'Wicked' at Village Park (Jersey City).",
+    "description": "Wicked at Village Park (Jersey City).",
     "start_date": "2025-08-19",
     "start_time": "various times",
     "link": "https://jerseycityculture.org/events/summer-in-the-city/",
@@ -54,16 +189,16 @@
   },
   {
     "title": "Astronomy on Tap: 100th Birthday of Cecilia Payne-Gaposchkin’s Thesis",
-    "description": "A night where astronomy enthusiasts gather for talks by professional scientists and themed games at Pete’s Candy Store (Williamsburg).",
+    "description": "A night where astronomy enthusiasts gather for talks by professional scientists and educators at Pete’s Candy Store (Williamsburg).",
     "start_date": "2025-08-19",
     "start_time": "7:00 pm",
     "link": "https://astronomyontap.org/event/astronomy-on-tap-nyc-160-100th-birthday-of-cecilia-payne-gaposchkins-thesis/",
-    "address": "Pete’s Candy Store, Williamsburg",
+    "address": "Pete's Candy Store, Williamsburg",
     "cost": "Free"
   },
   {
     "title": "The Broad Squad",
-    "description": "A monthly comedy variety show featuring a female-fronted lineup and tarot readings at Young Ethel’s (South Slope).",
+    "description": "Monthly comedy variety show featuring a female-fronted lineup and tarot readings at Young Ethel’s (South Slope).",
     "start_date": "2025-08-19",
     "start_time": "7:00 pm",
     "link": "https://www.eventbrite.com/e/the-broad-squad-tickets-1550030405669",

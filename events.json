@@ -1,278 +1,159 @@
 [
   {
-    "title": "39th Chelsea International Fine Art Competition Exhibition",
-    "description": "Agora Gallery’s annual juried exhibition features paintings, sculptures, and mixed media pieces. Opening reception 8/21 6-8pm.",
-    "start_date": "2025-08-21",
-    "start_time": "6:00 pm",
-    "link": "https://agora-gallery.com/exhibitions-calendar/",
-    "address": "Agora Gallery, Chelsea",
+    "title": "48th Annual Brighton Jubilee",
+    "description": "Brighton Beach Avenue between Corbin Place + Coney Island Ave.",
+    "start_date": "2025-08-24",
+    "start_time": "10:00 am",
+    "end_date": "2025-08-24",
+    "end_time": "6:00 pm",
+    "link": "http://brightonbeach.com/jubilee-festival.html",
+    "address": "Brighton Beach Avenue, Brooklyn, NY",
     "cost": "Free"
   },
   {
-    "title": "Eighth Annual Rockaway Film Festival",
-    "description": "The Rockaway Film Festival returns to Averne Cinema for five days of indoor and outdoor screenings and live music.",
-    "start_date": "2025-08-21",
-    "end_date": "2025-08-25",
-    "link": "https://www.rockawayfilmfestival.org",
-    "cost": "$10"
-  },
-  {
-    "title": "Ninth Annual East Village Queer Film Festival",
-    "description": "Highlights queer-themed shorts, features, and documentaries by and featuring LGBTQIA+ artists at The Wild Project (East Village).",
-    "start_date": "2025-08-21",
-    "end_date": "2025-08-25",
-    "link": "https://thewildproject.org/performances/evq-2025/",
-    "cost": "$10"
-  },
-  {
-    "title": "Free Outdoor Movies: Dog Day Afternoon",
-    "description": "Watch 'Dog Day Afternoon' at Fort Greene Park (Brooklyn).",
-    "start_date": "2025-08-21",
-    "start_time": "various times",
-    "link": "https://www.bkmag.com/movies/",
-    "address": "Fort Greene Park, Brooklyn",
+    "title": "41st Pakistan Day Parade",
+    "description": "Madison Ave between E 38th St to E 27th St.",
+    "start_date": "2025-08-24",
+    "start_time": "11:00 am",
+    "end_date": "2025-08-24",
+    "end_time": "6:00 pm",
+    "link": "https://www.facebook.com/officalpakistandayparadenyc",
+    "address": "Madison Ave, New York, NY",
     "cost": "Free"
   },
   {
-    "title": "Free Outdoor Movies: Hidden Figures",
-    "description": "Watch 'Hidden Figures' at Brooklyn Bridge Park's Pier 1 Harbor View Lawn.",
-    "start_date": "2025-08-21",
-    "start_time": "various times",
-    "link": "https://brooklynbridgepark.org/event/movies-with-a-view-august-21/",
-    "address": "Brooklyn Bridge Park, Pier 1 Harbor View Lawn",
+    "title": "25th Jersey City Pride Equality March/Rally and Festival",
+    "description": "Rally starts at 11:30am; march kicks off at 1pm; the festival runs 1pm-9pm.",
+    "start_date": "2025-08-23",
+    "start_time": "11:30 am",
+    "end_date": "2025-08-23",
+    "end_time": "9:00 pm",
+    "link": "https://www.jerseycitypride.com/events",
+    "address": "Jersey City, NJ",
     "cost": "Free"
   },
   {
-    "title": "Free Outdoor Movies: Love + Basketball",
-    "description": "Watch 'Love + Basketball' at 145th St and the Hudson in Riverside Park (West Harlem).",
-    "start_date": "2025-08-21",
-    "start_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2025/08/21/movies-on-the-waterfront",
-    "address": "145th St and the Hudson, Riverside Park, West Harlem",
+    "title": "Japan Village Summer Festival",
+    "description": "Japan Village at Industry City.",
+    "start_date": "2025-08-23",
+    "start_time": "1:00 pm",
+    "end_date": "2025-08-23",
+    "end_time": "6:00 pm",
+    "link": "https://www.japanvillage.com/summer-festival-2025",
+    "address": "Industry City, Brooklyn, NY",
     "cost": "Free"
   },
   {
-    "title": "Free Outdoor Movies: Soundtrack to a Coup D’état",
-    "description": "Watch 'Soundtrack to a Coup D’état' with a pre-screening performance by T.K. Blue at the Jackie Robinson Bandshell (West Harlem).",
-    "start_date": "2025-08-21",
-    "start_time": "various times",
-    "link": "https://cityparksfoundation.org/events/film-screening-soundtrack-to-a-coup-detat-performance-t-k-blue-and-planet-bluu/",
-    "address": "Jackie Robinson Bandshell, West Harlem",
+    "title": "Great Jones Distilling Co. Fourth Anniversary",
+    "description": "$4 one-hour distillery tours with tastings.",
+    "start_date": "2025-08-23",
+    "link": "https://greatjonesdistillingco.com/events/great-jones-distilling-co-fourth-anniversary/",
+    "cost": "$4"
+  },
+  {
+    "title": "Planet Brooklyn",
+    "description": "A new two-day music festival featuring ticketed shows at Barclays Center, Brooklyn Paramount, and BAM, plus a block party in front of BAM (Fort Greene).",
+    "start_date": "2025-08-23",
+    "end_date": "2025-08-24",
+    "link": "https://planetbrooklynfest.com",
+    "cost": "Ticketed"
+  },
+  {
+    "title": "Night at the Movies: An M. Night Shyamalan Retrospective",
+    "description": "2-for-1 double bills placing Shyamalan's features alongside a film of his choosing, with Shyamalan in-person at select screenings.",
+    "start_date": "2025-08-22",
+    "end_date": "2025-09-04",
+    "link": "https://www.filmlinc.org/series/night-at-the-movies-an-m-night-shyamalan-retrospective/",
+    "address": "Lincoln Center, UWS",
+    "cost": "$17 general, $14 students, seniors, persons with disabilities"
+  },
+  {
+    "title": "Summers of Change",
+    "description": "Aftersun, Call Me By Your Name, Do the Right Thing, Summer with Monika, and more.",
+    "start_date": "2025-08-22",
+    "end_date": "2025-08-28",
+    "link": "https://www.bam.org/film/2025/summers-of-change",
+    "address": "BAM, Fort Greene",
+    "cost": "$17"
+  },
+  {
+    "title": "Seven Scenes at Little Island",
+    "description": "Outdoor evening of dance and live music at the amph at Little Island (Meatpacking District).",
+    "start_date": "2025-08-22",
+    "start_time": "8:30 pm",
+    "end_date": "2025-08-28",
+    "link": "https://littleisland.org/event/seven-scenes/2025-08-22/",
+    "address": "Little Island, Meatpacking District",
+    "cost": "$10 standing, $25 seated"
+  },
+  {
+    "title": "Summerstage: Charlie Parker Jazz Festival",
+    "description": "Annual Charlie Parker Jazz Festival for three evenings.",
+    "start_date": "2025-08-22",
+    "end_date": "2025-08-24",
+    "link": "https://cityparksfoundation.org/summerstage/",
     "cost": "Free"
   },
   {
-    "title": "Free Outdoor Movies: Bend It Like Beckham",
-    "description": "Watch 'Bend It Like Beckham' at Pier I at Riverside Park South (UWS).",
-    "start_date": "2025-08-20",
-    "start_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2025/08/20/pier-i-picture-show",
-    "address": "Pier I, Riverside Park South, UWS",
+    "title": "Fifth Annual Rockaway Beach Surf Music Festival",
+    "description": "Catch a wave and ride three nights of twangy guitars featuring nine east coast surf bands.",
+    "start_date": "2025-08-22",
+    "end_date": "2025-08-24",
+    "link": "https://www.facebook.com/events/998586355377162/",
     "cost": "Free"
   },
   {
-    "title": "Free Outdoor Movies: Downton Abbey: A New Era",
-    "description": "Watch 'Downton Abbey: A New Era' at Pier A Park (Hoboken).",
-    "start_date": "2025-08-20",
-    "start_time": "various times",
-    "link": "https://www.hobokennj.gov/departments/cultural-affairs",
-    "address": "Pier A Park, Hoboken",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Holes",
-    "description": "Watch 'Holes' at Dyker Beach Park.",
-    "start_date": "2025-08-20",
-    "start_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2025/08/20/movies-under-the-stars-holes-2003",
-    "address": "Dyker Beach Park",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Indiana Jones and the Last Crusade",
-    "description": "Watch 'Indiana Jones and the Last Crusade' at Prospect Park.",
-    "start_date": "2025-08-20",
-    "start_time": "various times",
-    "link": "https://www.bkmag.com/movies/",
-    "address": "Prospect Park",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: The Royal Tenenbaums",
-    "description": "Watch 'The Royal Tenenbaums' at Elizabeth Street Garden (Nolita).",
-    "start_date": "2025-08-20",
-    "start_time": "various times",
-    "link": "https://www.elizabethstreetgarden.com/calendar/2025/6/25/movie-night-67jxg-f3a3b",
-    "address": "Elizabeth Street Garden, Nolita",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Up",
-    "description": "Watch 'Up' at Corporal John A Seravalli Playground (West Village).",
-    "start_date": "2025-08-20",
-    "start_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2025/08/20/movies-under-the-stars-up",
-    "address": "Corporal John A Seravalli Playground, West Village",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Party Girl",
-    "description": "Watch 'Party Girl' at Parklife (Gowanus). Note: food/drink purchase required.",
-    "start_date": "2025-08-20",
-    "start_time": "various times",
-    "link": "https://parklifebk.com/event/outdoor-cinema-at-parklife-presents-party-girl/",
-    "address": "Parklife, Gowanus",
-    "cost": "Free (food/drink purchase required)"
-  },
-  {
-    "title": "Summerstage: Free Concert with Joey Valence + Brae",
-    "description": "Summerstage presents a free concert with hip-hop duo Joey Valence + Brae at Central Park's Rumsey Playfield.",
-    "start_date": "2025-08-20",
-    "start_time": "6:00 pm",
-    "link": "https://cityparksfoundation.org/events/joey-valence-brae/",
-    "address": "Central Park, Rumsey Playfield",
-    "cost": "Free"
-  },
-  {
-    "title": "Adam Wade: Live in New York",
-    "description": "20-time Moth Story Slam winner Adam Wade returns to Under St. Marks Theater with a storytelling show.",
-    "start_date": "2025-08-20",
+    "title": "Tale Storytelling Show",
+    "description": "An evening of performances by some of the city’s best storytellers, hosted by Harmon Leon.",
+    "start_date": "2025-08-22",
     "start_time": "7:00 pm",
-    "link": "https://tickets.frigid.nyc/event/6897:476/",
-    "address": "Under St. Marks Theater, East Village",
-    "cost": "Sliding scale admission"
+    "link": "https://www.eventbrite.com/e/tale-nycs-finest-storytelling-tickets-1564086046469",
+    "address": "The Red Room at KGB Bar, East Village",
+    "cost": "$15 (half price online with promo code ‘discountskint’) plus a two-drink minimum."
   },
   {
-    "title": "Will You Accept This Rose? Live with Arden Myrin",
-    "description": "Podcast host Arden Myrin discusses the latest 'The Bachelor' episode at Union Hall (Park Slope).",
-    "start_date": "2025-08-20",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/arden-myrins-will-you-accept-this-rose-live-tickets-1487171412729",
-    "address": "Union Hall, Park Slope",
-    "cost": "$15"
-  },
-  {
-    "title": "We Have Fun: A Stand-Up Show",
-    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s (South Slope) with stand-up.",
-    "start_date": "2025-08-20",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
-    "address": "Young Ethel’s, South Slope",
+    "title": "Bryant Park Picnic Performances",
+    "description": "Free live music, theater, and dance in the heart of midtown.",
+    "start_date": "2025-08-22",
+    "start_time": "7:00 pm",
+    "link": "https://bryantpark.org/activities/picnic-performances",
+    "address": "Bryant Park, New York, NY",
     "cost": "Free"
   },
   {
-    "title": "Ambush Comedy Show",
-    "description": "The Ambush Comedy Show buzzes into Hellrazor Barber Shop in Williamsburg with a lineup of comedians.",
-    "start_date": "2025-08-20",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/ambush-comedy-w-josh-johnson-brittany-cardwell-lucas-connolly-tickets-764291816397",
-    "address": "Hellrazor Barber Shop, Williamsburg",
-    "cost": "Free"
-  },
-  {
-    "title": "Night Market Comedy",
-    "description": "A mostly Asian comedy show at Emmy Squared (East Village) featuring standup by various comedians.",
-    "start_date": "2025-08-20",
-    "start_time": "8:00 pm",
-    "link": "https://www.eventbrite.com/e/night-market-comedy-tickets-1549894428959",
-    "address": "Emmy Squared, East Village",
-    "cost": "$12"
-  },
-  {
-    "title": "Rooftop Films Presents: Lurker",
-    "description": "The popular rooftop films series returns for its 29th season at The Old American Can Factory (Gowanus).",
-    "start_date": "2025-08-20",
-    "start_time": "8:00 pm",
-    "link": "https://rooftopfilms.com/event/mistress-dispeller/",
-    "address": "The Old American Can Factory, Gowanus",
+    "title": "Rooftop Films Presents",
+    "description": "A night of short films with filmmaker Q+A, live music, and an afterparty.",
+    "start_date": "2025-08-22",
+    "start_time": "7:45 pm",
+    "link": "https://rooftopfilms.com/event/rooftop-shots-closing-night-2025/",
+    "address": "Green-Wood Cemetery, Brooklyn",
     "cost": "$20"
   },
   {
-    "title": "Free Outdoor Movies: Forrest Gump",
-    "description": "Watch 'Forrest Gump' on the rooftop at Pier 17 (Lower Manhattan).",
-    "start_date": "2025-08-19",
-    "start_time": "various times",
-    "link": "https://theseaport.nyc/events/seaport-cinema/",
-    "address": "Pier 17, Lower Manhattan",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Madagascar",
-    "description": "Watch 'Madagascar' at Herbert Von King Park (Bed-Stuy).",
-    "start_date": "2025-08-19",
-    "start_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2025/08/19/movies-under-the-stars-madagascar-2005",
-    "address": "Herbert Von King Park, Bed-Stuy",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: The Goonies",
-    "description": "Watch 'The Goonies' at Bella Abzug Park (Hell’s Kitchen).",
-    "start_date": "2025-08-19",
-    "start_time": "various times",
-    "link": "https://www.nycgovparks.org/events/2025/08/19/august-movie-nights-at-bella-abzug-park-the-goonies",
-    "address": "Bella Abzug Park, Hell’s Kitchen",
-    "cost": "Free"
-  },
-  {
-    "title": "Free Outdoor Movies: Wicked",
-    "description": "Watch 'Wicked' at Village Park (Jersey City).",
-    "start_date": "2025-08-19",
-    "start_time": "various times",
-    "link": "https://jerseycityculture.org/events/summer-in-the-city/",
-    "address": "Village Park, Jersey City",
-    "cost": "Free"
-  },
-  {
-    "title": "2-for-1 Broadway Week Tickets",
-    "description": "2-for-1 Broadway week tickets go on sale today for performances running 9/8 thru 9/21.",
-    "start_date": "2025-08-19",
-    "start_time": "10:00 am",
-    "link": "https://www.nyctourism.com/broadway-week/",
-    "cost": "Varies"
-  },
-  {
-    "title": "Brooklyn Books + Booze",
-    "description": "Hear established and up-and-coming authors read from their current works at Barrow's Intense Tasting Room (Industry City).",
-    "start_date": "2025-08-19",
-    "start_time": "7:00 pm",
-    "link": "https://randeedawn.com/bonus/brooklyn-books-booze/",
-    "address": "Barrow's Intense Tasting Room, Industry City",
-    "cost": "Free"
-  },
-  {
-    "title": "Astronomy on Tap: 100th Birthday of Cecilia Payne-Gaposchkin’s Thesis",
-    "description": "A night where astronomy enthusiasts gather for talks by professional scientists and themed games at Pete's Candy Store (Williamsburg).",
-    "start_date": "2025-08-19",
-    "start_time": "7:00 pm",
-    "link": "https://astronomyontap.org/event/astronomy-on-tap-nyc-160-100th-birthday-of-cecilia-payne-gaposchkins-thesis/",
-    "address": "Pete's Candy Store, Williamsburg",
-    "cost": "Free"
-  },
-  {
-    "title": "The Broad Squad",
-    "description": "A monthly comedy variety show featuring a female-fronted lineup and tarot readings at Young Ethel’s (South Slope).",
-    "start_date": "2025-08-19",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/the-broad-squad-tickets-1550030405669",
-    "address": "Young Ethel’s, South Slope",
-    "cost": "Free ($10 suggested donation)"
-  },
-  {
-    "title": "Animation Nights New York",
-    "description": "Watch a curated program of animated short films from around the world at The Gutter Spare Room (Williamsburg).",
-    "start_date": "2025-08-19",
+    "title": "Laugh It Off",
+    "description": "Comedians try their best to ‘fix’ audience members' everyday problems.",
+    "start_date": "2025-08-22",
     "start_time": "8:00 pm",
-    "link": "https://www.animationnights.com/upcoming-screening-events/",
-    "address": "The Gutter Spare Room, Williamsburg",
-    "cost": "Pay-what-you-wish"
+    "link": "https://www.eventbrite.com/e/laugh-it-off-stand-up-comedy-in-the-east-village-tickets-1226474039869",
+    "address": "Boyb. Melrose Podcasts, East Village",
+    "cost": "$16"
   },
   {
-    "title": "Cinema Smootaphilia: In the Realm of the Senses",
-    "description": "Ensemble Erotic performs a live, original soundtrack to Nagisa Ōshima’s 1976 erotic classic at TV Eye (Ridgewood).",
-    "start_date": "2025-08-19",
-    "start_time": "9:30 pm",
-    "link": "https://www.eventim.us/event/smootaphilia-ensemble-erotic-in-the-realm-of-the-senses/661703",
-    "address": "TV Eye, Ridgewood",
-    "cost": "$15"
+    "title": "Bitches Brew Comedy Show",
+    "description": "Women-produced and-hosted comedy show with various performers.",
+    "start_date": "2025-08-22",
+    "start_time": "8:30 pm",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Halyards, Gowanus",
+    "cost": "Free (tip jar will be passed around at the end of the show)."
+  },
+  {
+    "title": "Take Me to Your Best Friend's House: An Indie Sleaze Dance Party",
+    "description": "Dance to indie rock, dance-punk, and bloghouse bands spun by DJs.",
+    "start_date": "2025-08-22",
+    "start_time": "11:00 pm",
+    "link": "https://tickets.venuepilot.com/e/electric-77-presents-take-me-to-your-bestfriends-house-an-indie-sleaze-dance-party-2025-08-22-baker-f-7fde4e",
+    "address": "Baker Falls, LES",
+    "cost": "$5"
   }
 ]

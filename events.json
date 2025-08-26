@@ -1,11 +1,182 @@
 [
   {
-    "title": "FALL FOR DANCE FESTIVAL",
-    "description": "This beloved New York festival is back with “its most international lineup” in years. Highlights include The Stuttgart Ballet, Alvin Ailey American Dance Theater, San Francisco Ballet, Hugo Marchand, Clara Furey/Bent Hollow, kNoname Artist | Roderick George, and more.",
-    "start_date": "2025-09-16",
-    "end_date": "2025-09-27",
-    "link": "https://www.nycitycenter.org/pdps/fallfordance/?utm_source=theskint&utm_medium=email&utm_campaign=FY26FallforDance",
-    "address": "New York City Center",
-    "cost": "$30"
+    "title": "Jaws 50th Anniversary Screenings",
+    "description": "Stephen Spielberg’s 1975 blockbuster resurfaces for its 50th anniversary, with screenings in 4K, digital 3D, and IMAX.",
+    "start_date": "2025-08-28",
+    "end_date": "2025-09-04",
+    "link": "https://www.fandango.com/jaws-50th-anniversary-2025-241002/movie-overview",
+    "address": ""
+  },
+  {
+    "title": "16th Annual NYC Unicycle Festival",
+    "description": "The New York City Unicycle Festival rolls back into town for four days of one-wheeled fun. This year’s fest kicks off with long-distance rides on Thursday and Friday, then pulls up to Hudson River Park’s Pier 76 (Midtown West) on Saturday and Sunday with a learn-to-ride area for newbies, exhibitions, and games like unicycle basketball and hockey.",
+    "start_date": "2025-08-28",
+    "end_date": "2025-08-31",
+    "link": "http://nycunifest.com",
+    "address": "Hudson River Park’s Pier 76, Midtown West",
+    "cost": "Free"
+  },
+  {
+    "title": "Abolish Everything: A Fast-Paced, Low-Stakes Comedy Debate Show",
+    "description": "Comedians roast their pet peeves, a panel of improvisers grills them with questions, and the audience decides what gets abolished. Hosted by Chandler Dean. Note: all shows will be taped for Nebula.",
+    "start_date": "2025-08-28",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/events/abolish-everything-8-28-2025",
+    "address": "",
+    "cost": "$15.67 with promo code ‘abolishtheskint’ (reg. $26+)"
+  },
+  {
+    "title": "Free Outdoor Movies: Mamma Mia!",
+    "description": "Outdoor movie screening of 'Mamma Mia!' at Pier I at Riverside Park South (UWS).",
+    "start_date": "2025-08-27",
+    "link": "https://www.nycgovparks.org/events/2025/08/27/summer-on-the-hudson-pier-i-picture-show-mamma-mia-2008",
+    "address": "Pier I at Riverside Park South, UWS",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Miss Congeniality",
+    "description": "Outdoor movie screening of 'Miss Congeniality' at Prospect Park.",
+    "start_date": "2025-08-27",
+    "link": "https://www.bkmag.com/movies/",
+    "address": "Prospect Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Summer of Soul",
+    "description": "Outdoor movie screening of 'Summer of Soul' at Tompkins Square Park (LES).",
+    "start_date": "2025-08-27",
+    "link": "https://www.lesfilmfestival.com/movies-in-the-park",
+    "address": "Tompkins Square Park, LES",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Wish",
+    "description": "Outdoor movie screening of 'Wish' at Courtney Callender Playground (Harlem).",
+    "start_date": "2025-08-27",
+    "link": "https://www.nycgovparks.org/events/2025/08/27/movies-under-the-stars-wish",
+    "address": "Courtney Callender Playground, Harlem",
+    "cost": "Free"
+  },
+  {
+    "title": "Reading 101",
+    "description": "Writers Alexis Nowicki and Maria Robins-Somerville debut Reading 101, a new literary series at Night Club 101 (East Village). Each event features five readers across genres sharing five-minute excerpts, followed by a DJ set and party.",
+    "start_date": "2025-08-27",
+    "start_time": "7:00 pm",
+    "link": "https://www.ticketweb.com/event/reading-101-night-club-101-tickets/13935594",
+    "address": "Night Club 101, East Village",
+    "cost": "Free"
+  },
+  {
+    "title": "Letters + Sodas: LIC Reading Series",
+    "description": "Writer Lana Schwartz brings together comedians and writers for a night of standup, humor pieces, fiction, and essay readings at The Greats of Craft (LIC).",
+    "start_date": "2025-08-27",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1587668552379",
+    "address": "The Greats of Craft, LIC",
+    "cost": "$5"
+  },
+  {
+    "title": "Summerstage: Morgan Freeman's Symphonic Blues Experience",
+    "description": "Go on a journey through the history of the delta blues as Morgan Freeman's Symphonic Blues Experience blends live blues and orchestral performances with narration filmed on location at Morgan Freeman’s Ground Zero Blues Club in Mississippi.",
+    "start_date": "2025-08-27",
+    "start_time": "7:00 pm",
+    "link": "https://cityparksfoundation.org/events/morgan-freemans-symphonic-blues-experience/",
+    "address": "Rumsey Playfield, Central Park",
+    "cost": "Free"
+  },
+  {
+    "title": "We Have Fun: A Stand-Up Show",
+    "description": "Hosts Zach Sims and Dan Wilbur team up to bring the fun-ny to Young Ethel’s (South Slope), with stand-up by Dave Ross, Ali O’Neil, Rob Cantrell, and Josh Rabin.",
+    "start_date": "2025-08-27",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
+    "address": "Young Ethel’s, South Slope",
+    "cost": "Free"
+  },
+  {
+    "title": "The Moth Storyslam",
+    "description": "The popular community-based open mic storytelling competition, where anyone can share a five-minute tale based on the evening’s theme to an attentive audience, returns to The Bell House (Gowanus). Tonight’s theme: ‘gumption.’",
+    "start_date": "2025-08-27",
+    "start_time": "8:00 pm",
+    "link": "https://themoth.org/events/gumption-nyc-2025",
+    "address": "The Bell House, Gowanus",
+    "cost": "$19.65"
+  },
+  {
+    "title": "Constellation Prize: An Astrology-Based Comedy Game Show",
+    "description": "Stand-up meets the stars at Constellation Prize, a show where comedians perform short three-minute sets—then a panel of astrologers try to guess their zodiac sign. An open mic follows.",
+    "start_date": "2025-08-27",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/constellation-prize-tickets-1591211258709",
+    "address": "Starr Bar, Bushwick",
+    "cost": "Free"
+  },
+  {
+    "title": "Rooftop Films Presents: Mistress Dispeller",
+    "description": "The popular rooftop films series, one of the world’s longest-running and largest outdoor showcases for indie film, returns for its 29th season. Tonight: Elizabeth Lo’s 'Mistress Dispeller', followed by an afterparty.",
+    "start_date": "2025-08-27",
+    "start_time": "8:00 pm",
+    "link": "https://rooftopfilms.com/event/mistress-dispeller/",
+    "address": "The Old American Can Factory, Gowanus",
+    "cost": "$20"
+  },
+  {
+    "title": "The Metropolitan Opera Summer HD Festival",
+    "description": "The Met’s 16th summer HD festival features free outdoor screenings of the company’s live in HD opera series productions. Held at Lincoln Center’s Josie Robertson Plaza with seating for 2,500, screenings are rain or shine, but will be canceled in the event of thunder, lightning, or high wind.",
+    "start_date": "2025-08-26",
+    "end_date": "2025-09-01",
+    "link": "https://www.metopera.org/season/summer-events/summer-hd-festival/",
+    "address": "Lincoln Center’s Josie Robertson Plaza",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Battle of the Sexes",
+    "description": "Outdoor movie screening of 'Battle of the Sexes' at the Rooftop at Pier 17 (Lower Manhattan).",
+    "start_date": "2025-08-26",
+    "link": "https://theseaport.nyc/events/seaport-cinema/",
+    "address": "Rooftop at Pier 17, Lower Manhattan",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Big Hero 6",
+    "description": "Outdoor movie screening of 'Big Hero 6' at Cadman Plaza Park (Brooklyn Heights).",
+    "start_date": "2025-08-26",
+    "link": "https://www.nycgovparks.org/events/2025/08/26/movies-under-the-stars-big-hero-6-",
+    "address": "Cadman Plaza Park, Brooklyn Heights",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: La La Land",
+    "description": "Outdoor movie screening of 'La La Land' at Bella Abzug Park (Hell’s Kitchen).",
+    "start_date": "2025-08-26",
+    "link": "https://www.nycgovparks.org/events/2025/08/26/august-movie-nights-at-bella-abzug-park-la-la-land",
+    "address": "Bella Abzug Park, Hell’s Kitchen",
+    "cost": "Free"
+  },
+  {
+    "title": "Free Outdoor Movies: Teenage Mutant Ninja Turtles: Mutant Mayhem and Ocean's 8",
+    "description": "Outdoor movie screening of 'Teenage Mutant Ninja Turtles: Mutant Mayhem' and 'Ocean's 8' at Domino Park (Williamsburg).",
+    "start_date": "2025-08-26",
+    "link": "https://www.dominopark.com/events/movie-nights-in-the-square-aug26",
+    "address": "Domino Park, Williamsburg",
+    "cost": "Free"
+  },
+  {
+    "title": "We Love a Theme: A Storytelling Show",
+    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at Bailey Swilley’s monthly storytelling show. Tonight’s ‘burned’ theme features Calvin Cato, Adam Selbst, Wes Hazard, and Carly Ciarrochi.",
+    "start_date": "2025-08-26",
+    "start_time": "7:00 pm",
+    "link": "https://www.petescandystore.com/calendar/",
+    "address": "Pete’s Candy Store, Williamsburg",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "Live Band Karaoke at Arlene’s Grocery",
+    "description": "Choose from a wide assortment of rock and pop songs and take the stage with your very own live band (Nakatomi5) backing you up.",
+    "start_date": "2025-08-26",
+    "start_time": "8:00 pm",
+    "link": "https://www.arlenesgrocerynyc.com/upcoming-events",
+    "address": "Arlene’s Grocery, LES",
+    "cost": "$10 adv, $15 day-of"
   }
 ]

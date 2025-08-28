@@ -1,15 +1,15 @@
 [
   {
     "title": "Jaws 50th Anniversary Screenings",
-    "description": "Stephen Spielberg’s 1975 blockbuster resurfaces for its 50th anniversary, with screenings in 4K, digital 3D, and IMAX.",
+    "description": "Stephen Spielberg's 1975 blockbuster resurfaces for its 50th anniversary, with screenings in 4K, digital 3D, and IMAX.",
     "start_date": "2025-08-28",
+    "end_date": "2025-09-04",
     "link": "https://www.fandango.com/jaws-50th-anniversary-2025-241002/movie-overview",
-    "address": "Various locations",
-    "cost": "Various prices"
+    "address": ""
   },
   {
     "title": "16th Annual NYC Unicycle Festival",
-    "description": "The New York City Unicycle Festival rolls back into town for four days of one-wheeled fun. This year’s fest kicks off with long-distance rides on Thursday and Friday, then pulls up to Hudson River Park’s Pier 76 (Midtown West) on Saturday and Sunday with a learn-to-ride area for newbies, exhibitions, and games like unicycle basketball and hockey.",
+    "description": "The New York City Unicycle Festival rolls back into town for four days of one-wheeled fun. This year's fest kicks off with long-distance rides on Thursday and Friday, then pulls up to Hudson River Park’s Pier 76 (Midtown West) on Saturday and Sunday with a learn-to-ride area for newbies, exhibitions, and games like unicycle basketball and hockey.",
     "start_date": "2025-08-28",
     "end_date": "2025-08-31",
     "link": "http://nycunifest.com",
@@ -22,8 +22,16 @@
     "start_date": "2025-08-28",
     "start_time": "7:00 pm",
     "link": "https://caveat.nyc/events/abolish-everything-8-28-2025",
-    "address": "Caveat",
-    "cost": "$15.67 with promo code ‘abolishtheskint’ (reg. $26+)"
+    "address": "",
+    "cost": "$15.67 with promo code 'abolishtheskint' (reg. $26+)"
+  },
+  {
+    "title": "Free Outdoor Movies: Bringing Up Baby",
+    "description": "Outdoor movie screening of 'Bringing Up Baby' at Parklife (Gowanus). Note: food/drink purchase required.",
+    "start_date": "2025-08-27",
+    "link": "https://parklifebk.com/event/outdoor-cinema-at-parklife-presents-bringing-up-baby/",
+    "address": "Parklife, Gowanus",
+    "cost": "Free"
   },
   {
     "title": "Free Outdoor Movies: Mamma Mia!",
@@ -95,7 +103,7 @@
   },
   {
     "title": "The Moth Storyslam",
-    "description": "The popular community-based open mic storytelling competition, where anyone can share a five-minute tale based on the evening’s theme to an attentive audience, returns to The Bell House (Gowanus). Tonight’s theme: ‘gumption.’",
+    "description": "The popular community-based open mic storytelling competition, where anyone can share a five-minute tale based on the evening’s theme to an attentive audience. Tonight’s theme: ‘gumption.’",
     "start_date": "2025-08-27",
     "start_time": "8:00 pm",
     "link": "https://themoth.org/events/gumption-nyc-2025",

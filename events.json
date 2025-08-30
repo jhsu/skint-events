@@ -7,14 +7,16 @@
     "end_date": "2025-09-07",
     "end_time": "",
     "link": "https://www.hobokenitalianfestival.com",
-    "address": "Sinatra Drive between 1st + 3rd Streets, Hoboken",
+    "address": "Sinatra Drive between 1st and 3rd Streets, Hoboken",
     "cost": ""
   },
   {
     "title": "Paul Reubens Selects",
-    "description": "A film series featuring various films at BAM Rose Cinemas in Fort Greene.",
+    "description": "A film series at BAM Rose Cinemas featuring various films selected by Paul Reubens. Admission is $17 for general and $12 for seniors.",
     "start_date": "2025-09-04",
+    "start_time": "",
     "end_date": "2025-09-11",
+    "end_time": "",
     "link": "https://www.bam.org/film/2025/paul-reubens-selects",
     "address": "BAM Rose Cinemas, Fort Greene",
     "cost": "$17 general, $12 seniors"
@@ -31,19 +33,8 @@
     "cost": ""
   },
   {
-    "title": "Summer Send-Off Bazaar at Grand Bazaar NYC",
-    "description": "An indoor and outdoor bazaar at 100 W 77th St at Columbus Ave in the Upper West Side.",
-    "start_date": "2025-08-31",
-    "start_time": "10:00 am",
-    "end_date": "2025-08-31",
-    "end_time": "5:00 pm",
-    "link": "https://grandbazaarnyc.org/events/summer-send-off-bazaar/",
-    "address": "100 W 77th St at Columbus Ave, UWS",
-    "cost": ""
-  },
-  {
     "title": "Metropolitan Postcard Club Show + Sale",
-    "description": "A show and sale featuring various postcards at the Church of the Village in Greenwich Village.",
+    "description": "A show and sale featuring various postcards at the Church of the Village in Greenwich Village. Admission is $3.",
     "start_date": "2025-08-30",
     "start_time": "10:00 am",
     "end_date": "2025-08-30",
@@ -65,7 +56,7 @@
   },
   {
     "title": "45th Annual Richmond County Fair",
-    "description": "A fair featuring various activities at Historic Richmond Town, Staten Island.",
+    "description": "A fair featuring various activities at Historic Richmond Town, Staten Island. Admission is $15 for general, $12 for seniors, and $7 for youths.",
     "start_date": "2025-08-30",
     "start_time": "12:00 pm",
     "end_date": "2025-09-01",
@@ -75,117 +66,146 @@
     "cost": "$15 general, $12 seniors, $7 youths"
   },
   {
+    "title": "Summer Send-Off Bazaar at Grand Bazaar NYC",
+    "description": "An indoor and outdoor bazaar at 100 W 77th St at Columbus Ave (UWS).",
+    "start_date": "2025-08-30",
+    "start_time": "10:00 am",
+    "end_date": "2025-08-30",
+    "end_time": "5:00 pm",
+    "link": "https://grandbazaarnyc.org/events/summer-send-off-bazaar/",
+    "address": "100 W 77th St at Columbus Ave, UWS",
+    "cost": ""
+  },
+  {
     "title": "Animation Mixtape",
-    "description": "A film series showcasing various animated films at IFC Center in Greenwich Village.",
-    "start_date": "2025-08-29",
+    "description": "A film series at IFC Center featuring various animated films. Admission is $18 for general and $15 for seniors.",
+    "start_date": "2025-08-30",
+    "start_time": "",
     "end_date": "2025-09-04",
+    "end_time": "",
     "link": "https://www.ifccenter.com/films/animation-mixtape/",
     "address": "IFC Center, Greenwich Village",
     "cost": "$18 general, $15 seniors"
   },
   {
     "title": "First as Tragedy, Then as Farce: Anti-Fascist Comedies",
-    "description": "A film series featuring anti-fascist comedies at BAM Rose Cinemas in Fort Greene.",
-    "start_date": "2025-08-29",
+    "description": "A film series at BAM Rose Cinemas featuring various anti-fascist comedies. Admission is $17 for general and $12 for seniors.",
+    "start_date": "2025-08-30",
+    "start_time": "",
     "end_date": "2025-09-04",
+    "end_time": "",
     "link": "https://www.bam.org/film/2025/tragedy-farce",
     "address": "BAM Rose Cinemas, Fort Greene",
     "cost": "$17 general, $12 seniors"
   },
   {
-    "title": "Third Annual ‘Big + Loud’ Screening Series",
-    "description": "A film series featuring classic films at The Paris Theater in Midtown.",
-    "start_date": "2025-08-29",
-    "end_date": "2025-09-25",
-    "link": "https://www.paristheaternyc.com/series/big-loud-2025",
-    "address": "The Paris Theater, Midtown",
-    "cost": "$17 general, $15 seniors"
-  },
-  {
     "title": "Down to Earth Festival",
-    "description": "An international performance and theater festival across outdoor spaces in Manhattan, Brooklyn, and Queens.",
-    "start_date": "2025-08-29",
+    "description": "An international performance and theater festival taking place in outdoor spaces across Manhattan, Brooklyn, and Queens. Free admission.",
+    "start_date": "2025-08-30",
+    "start_time": "",
     "end_date": "2025-09-07",
+    "end_time": "",
     "link": "https://www.downtoearthfestival.org/",
     "address": "",
-    "cost": "Free admission"
+    "cost": "Free"
   },
   {
     "title": "Bryant Park Picnic Performances",
-    "description": "An annual summer performance series featuring live music, theater, and dance in Bryant Park.",
-    "start_date": "2025-08-29",
+    "description": "An annual summer performance series featuring free live music, theater, and dance in Bryant Park. Free admission.",
+    "start_date": "2025-08-30",
+    "start_time": "",
     "end_date": "2025-09-05",
+    "end_time": "",
     "link": "https://bryantpark.org/activities/picnic-performances",
-    "address": "Bryant Park, Midtown",
-    "cost": "Free admission"
+    "address": "Bryant Park",
+    "cost": "Free"
   },
   {
     "title": "Pericles: A Public Works Concert Experience",
-    "description": "A retelling of Shakespeare’s epic at The Cathedral of St. John the Divine in Morningside Heights.",
-    "start_date": "2025-08-29",
-    "end_date": "2025-09-02",
+    "description": "A retelling of Shakespeare’s epic about losing and rediscovering faith at the Cathedral of St. John the Divine. Free admission.",
+    "start_date": "2025-08-30",
+    "start_time": "8:00 pm",
+    "end_date": "2025-09-01",
+    "end_time": "",
     "link": "https://publictheater.org/productions/season/2425/public-works/pericles-a-public-works-concert-experience/",
-    "address": "The Cathedral of St. John the Divine, Morningside Heights",
-    "cost": "Free admission"
+    "address": "Cathedral of St. John the Divine, Morningside Heights",
+    "cost": "Free"
   },
   {
     "title": "Flop House Comedy Club",
-    "description": "An indie comedy club featuring various comedians at two locations in NYC.",
-    "start_date": "2025-08-29",
-    "end_date": "2025-08-30",
+    "description": "An indie comedy club featuring various comedians. Save 33% with promo code ‘skint’.",
+    "start_date": "2025-08-30",
+    "start_time": "8:00 pm",
+    "end_date": "2025-08-31",
+    "end_time": "",
     "link": "https://www.flophousecomedy.com",
     "address": "362 Grand Street, Williamsburg / 83 1st Ave, East Village",
-    "cost": "Free admission (with drink purchase)"
+    "cost": ""
   },
   {
     "title": "Free Outdoor Movies: A Minecraft Movie",
     "description": "A free outdoor movie screening at Cooper Park in East Williamsburg.",
-    "start_date": "2025-08-29",
+    "start_date": "2025-08-30",
+    "start_time": "",
+    "end_date": "2025-08-30",
+    "end_time": "",
     "link": "https://www.nycgovparks.org/events/2025/08/29/movies-under-the-stars-a-minecraft-movie-2025",
     "address": "Cooper Park, East Williamsburg",
-    "cost": "Free admission"
+    "cost": "Free"
   },
   {
     "title": "Free Outdoor Movies: Brasiliana, The Black Musical That Introduced Brazil to the World",
     "description": "A free outdoor movie screening at Thomas Jefferson Park in East Harlem.",
-    "start_date": "2025-08-29",
+    "start_date": "2025-08-30",
+    "start_time": "",
+    "end_date": "2025-08-30",
+    "end_time": "",
     "link": "https://www.nycgovparks.org/events/2025/08/29/brasiliana-the-black-musical-that-introduced-brazil-to-the-world",
     "address": "Thomas Jefferson Park, East Harlem",
-    "cost": "Free admission"
+    "cost": "Free"
   },
   {
     "title": "Free Outdoor Movies: Field of Dreams",
     "description": "A free outdoor movie screening at Whitey Ford Field in Astoria.",
-    "start_date": "2025-08-29",
+    "start_date": "2025-08-30",
+    "start_time": "",
+    "end_date": "2025-08-30",
+    "end_time": "",
     "link": "https://www.nycgovparks.org/events/2025/08/29/movies-under-the-stars-field-of-dreams",
     "address": "Whitey Ford Field, Astoria",
-    "cost": "Free admission"
+    "cost": "Free"
   },
   {
     "title": "Forever Michael",
-    "description": "A tribute party for Michael Jackson at Signal in East Williamsburg.",
-    "start_date": "2025-08-29",
+    "description": "A birthday tribute party for Michael Jackson at Signal in East Williamsburg. Free entry during happy hour from 6-9pm.",
+    "start_date": "2025-08-30",
     "start_time": "6:00 pm",
+    "end_date": "2025-08-30",
+    "end_time": "late",
     "link": "https://ra.co/events/2222404",
     "address": "Signal, East Williamsburg",
     "cost": "Various prices (free entry happy hour 6-9pm)"
   },
   {
     "title": "Bitches Brew Comedy Show",
-    "description": "A women-produced and hosted comedy show at Halyards in Gowanus.",
-    "start_date": "2025-08-29",
+    "description": "A women-produced and hosted comedy show at Halyards in Gowanus. Free admission with a tip jar.",
+    "start_date": "2025-08-30",
     "start_time": "8:30 pm",
+    "end_date": "2025-08-30",
+    "end_time": "",
     "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
     "address": "Halyards, Gowanus",
-    "cost": "Free admission (tip jar will be passed around)"
+    "cost": "Free"
   },
   {
     "title": "Niche Night: Come Out and Play 90s + 2000s Alt Night",
-    "description": "A dance party featuring 90s and early 2000s music at Alphaville in Bushwick.",
-    "start_date": "2025-08-29",
+    "description": "A dance party featuring 90s and early 2000s music at Alphaville in Bushwick. Free admission.",
+    "start_date": "2025-08-30",
     "start_time": "10:30 pm",
+    "end_date": "2025-08-30",
+    "end_time": "",
     "link": "https://dice.fm/event/mxrav9-niche-night-29th-aug-alphaville-new-york-tickets",
     "address": "Alphaville, Bushwick",
-    "cost": "Free admission"
+    "cost": "Free"
   }
 ]

@@ -1,214 +1,208 @@
 [
   {
-    "title": "the annual taste of times square",
-    "description": "Get ‘tastes’ from 30 restaurants for under $10 each. Save 20% when you purchase a wristband in advance.",
-    "start_date": "2025-09-08",
-    "start_time": "5:00 pm",
-    "end_time": "9:00 pm",
-    "link": "https://www.timessquarenyc.org/things-to-do/taste-of-times-square",
-    "address": "Duffy Square and the Broadway Plazas between 43rd + 48th Streets",
-    "cost": "Under $10"
+    "title": "nitehawk shorts animation showcase",
+    "description": "Animation showcase at Nitehawk Prospect Park. $15 admission.",
+    "start_date": "2025-09-11",
+    "start_time": "8:45 pm",
+    "link": "https://nitehawkcinema.com/prospectpark/showtimes/nitehawk-shorts-animation-showcase-9-11-25-845-pm/",
+    "address": "Nitehawk Prospect Park",
+    "cost": "$15"
   },
   {
-    "title": "28th annual ferragosto festival",
-    "description": "Arthur Avenue between East 187th St + Crescent Ave (Bronx).",
-    "start_date": "2025-09-07",
-    "start_time": "12:00 pm",
-    "end_time": "6:00 pm",
-    "link": "https://ferragosto.com",
-    "address": "Arthur Avenue between East 187th St + Crescent Ave, Bronx",
+    "title": "the 99th feast of san gennaro",
+    "description": "Annual feast in Little Italy featuring food, vendors, and live music. Free admission (pay-as-you-go).",
+    "start_date": "2025-09-11",
+    "end_date": "2025-09-21",
+    "link": "https://sangennaronyc.org",
+    "address": "Little Italy and Nolita",
+    "cost": "Free (pay-as-you-go)"
+  },
+  {
+    "title": "printed matter’s ny art book fair",
+    "description": "Annual art book fair at MoMA PS1 featuring over 250 exhibitors. $40 Thursday opening night, $8 Friday-Saturday, free admission Sunday.",
+    "start_date": "2025-09-11",
+    "end_date": "2025-09-14",
+    "link": "https://nyabf2025.printedmatterartbookfairs.org/",
+    "address": "MoMA PS1, LIC",
+    "cost": "$40 thurs opening night, $8 fri-sat, free admission sun"
+  },
+  {
+    "title": "commemorating 9/11",
+    "description": "Tribute in Light installation and Table of Silence Project performance at Lincoln Center’s Josie Robertson Plaza. Free admission.",
+    "start_date": "2025-09-11",
+    "link": "https://www.timeout.com/newyork/things-to-do/ways-to-mark-september-11-in-nyc",
+    "address": "Lincoln Center’s Josie Robertson Plaza",
     "cost": "Free"
   },
   {
-    "title": "west side county fair",
-    "description": "Pier I in Riverside Park South (UWS).",
-    "start_date": "2025-09-07",
-    "start_time": "1:00 pm",
-    "end_time": "6:00 pm",
-    "link": "https://www.nycgovparks.org/parks/riverside-park-south/events/2025/09/07/west-side-county-fair",
-    "address": "Pier I in Riverside Park South, UWS",
-    "cost": "Free"
-  },
-  {
-    "title": "nyc labor day parade",
-    "description": "Fifth avenue from 44th to 64th street.",
-    "start_date": "2025-09-06",
-    "start_time": "10:00 am",
-    "end_time": "3:00 pm",
-    "link": "https://nycclc.org/events/2025-nyc-labor-day-parade",
-    "address": "Fifth Avenue from 44th to 64th Street",
-    "cost": "Free"
-  },
-  {
-    "title": "taiwanfest",
-    "description": "6th ave (bet, 39th + 40th st), manhattan.",
-    "start_date": "2025-09-06",
-    "start_time": "12:00 pm",
-    "end_time": "5:00 pm",
-    "link": "https://taiwanfest.nyc/2025-09-06",
-    "address": "6th Ave (between 39th + 40th St), Manhattan",
-    "cost": "Free"
-  },
-  {
-    "title": "korea fest",
-    "description": "Culture Lab LIC (Queens).",
-    "start_date": "2025-09-06",
-    "start_time": "12:00 pm",
-    "end_time": "9:00 pm",
-    "link": "https://www.korea-fest.com",
-    "address": "Culture Lab LIC, Queens",
-    "cost": "Free"
-  },
-  {
-    "title": "51st annual gracie square art show",
-    "description": "Carl Schurz Park (Yorkville).",
-    "start_date": "2025-09-06",
-    "start_time": "10:00 am",
-    "end_date": "2025-09-07",
-    "end_time": "5:00 pm",
-    "link": "https://www.graciesquareartshow.com",
-    "address": "Carl Schurz Park, Yorkville",
-    "cost": "Free"
-  },
-  {
-    "title": "thx it’s thrifted day-to-night market",
-    "description": "Brooklyn Roots Collective (East Williamsburg).",
-    "start_date": "2025-09-06",
-    "start_time": "1:00 pm",
-    "end_date": "2025-09-07",
-    "end_time": "5:00 pm",
-    "link": "https://posh.vip/e/thx-its-thrifted-day-to-night-market",
-    "address": "Brooklyn Roots Collective, East Williamsburg",
-    "cost": "$15+"
-  },
-  {
-    "title": "the first-ever curbside restaurant week",
-    "description": "39 participating restaurants with outdoor seating.",
-    "start_date": "2025-09-05",
-    "end_date": "2025-09-12",
-    "link": "https://www.openplans.org/curbside-restaurant-week",
-    "cost": "Free"
-  },
-  {
-    "title": "armory arts week",
-    "description": "A weekend of major shows featuring artists and galleries from around the world.",
-    "start_date": "2025-09-05",
-    "end_date": "2025-09-07",
-    "link": "https://www.thearmoryshow.com/",
-    "cost": "Free-$59"
-  },
-  {
-    "title": "neurotica fest",
-    "description": "A four-day lineup of storytelling, solo comedy shows, book talks, and more at Under St. Marks Theater and Parkside Lounge (East Village/LES).",
-    "start_date": "2025-09-05",
-    "end_date": "2025-09-08",
-    "link": "https://frigid.nyc/festivals/neurotica/",
-    "cost": "$15-$25 (several shows offer pay-what-you-can tickets)"
-  },
-  {
-    "title": "12th brooklyn wildlife summer festival",
-    "description": "The brooklyn wildlife summer fest returns for an 12th year with indie and diy musicians, artists, and creatives over three days.",
-    "start_date": "2025-09-05",
-    "end_date": "2025-09-07",
-    "link": "https://www.bksummerfest.com",
-    "cost": "$5+"
-  },
-  {
-    "title": "first novel friday at the center for fiction",
-    "description": "An evening celebrating a selection of notable debut novels with author readings, discussion, and signings.",
-    "start_date": "2025-09-05",
+    "title": "dapperq lgbtqia+ fashion show",
+    "description": "Annual LGBTQIA+ fashion show at Brooklyn Museum. $20 admission.",
+    "start_date": "2025-09-11",
     "start_time": "6:00 pm",
-    "link": "https://centerforfiction.org/event/first-novel-friday-dominion-these-memories-do-not-belong-to-us-and-to-the-moon-and-back/",
-    "address": "The Center for Fiction, Fort Greene",
-    "cost": "$5+"
+    "link": "https://www.dapperq.com/2025/08/dapperq-10th-annual-nyfw-show-at-brooklyn-museum/",
+    "address": "Brooklyn Museum",
+    "cost": "$20"
   },
   {
-    "title": "lower east stories",
-    "description": "A storytelling salon where each month brings a fresh theme and fresh tales.",
-    "start_date": "2025-09-05",
-    "start_time": "6:30 pm",
-    "link": "https://ptknitwear.com/events/47814",
-    "address": "P+T Knitwear Bookstore + Café, LES",
-    "cost": "$10"
+    "title": "gen z vs millennials gameshow",
+    "description": "Comedy gameshow at C’mon Everybody. $13.39, proceeds benefit the Transgender Law Center.",
+    "start_date": "2025-09-11",
+    "start_time": "8:00 pm",
+    "link": "https://dice.fm/event/xe5dql-gen-z-vs-millenials-11th-sep-cmon-everybody-new-york-tickets",
+    "address": "C’mon Everybody, Bed-Stuy",
+    "cost": "$13.39 (proceeds benefit the Transgender Law Center)"
   },
   {
-    "title": "nerd nite: 20th season premiere",
-    "description": "Fun-yet-informative presentations on a wide range of subjects.",
-    "start_date": "2025-09-05",
+    "title": "peer revue",
+    "description": "Ted talks with comedians at Caveat, featuring real experts and real talks. $13.61 with promo code 'skintrevue'.",
+    "start_date": "2025-09-10",
     "start_time": "7:00 pm",
-    "link": "https://nyc.nerdnite.com/2025/08/07/nerd-nite-nyc-season-20-premiere-on-friday-september-5-2025-w-history-of-nyc-garbage-science-of-comedy-and-namibia-trivia-too/",
-    "address": "Littlefield, Gowanus",
-    "cost": "$12 for the presentations at 8:15pm, add $4 to play pre-show trivia at 7pm"
-  },
-  {
-    "title": "immigrant jam comedy",
-    "description": "A stand-up show featuring immigrant and first generation comedians.",
-    "start_date": "2025-09-05",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/series/immigrant-jam/",
+    "link": "https://caveat.nyc/events/peer-revue-9-10-2025",
     "address": "Caveat, LES",
-    "cost": "$14.64 with promo code ‘skint’ (reg. $24-25)"
+    "cost": "$13.61 with promo code 'skintrevue' (reg. $18.76-20)"
   },
   {
-    "title": "bryant park picnic performances",
-    "description": "Free live music, theater, and dance in the heart of midtown.",
-    "start_date": "2025-09-05",
+    "title": "fantastic fiction at kgb",
+    "description": "Monthly speculative-fiction reading series at KGB Bar featuring Fran Wilde and Shiva Kumar. Free admission.",
+    "start_date": "2025-09-10",
     "start_time": "7:00 pm",
-    "link": "https://bryantpark.org/activities/picnic-performances",
-    "address": "Bryant Park",
+    "link": "https://www.kgbfantasticfiction.org/2025/09/02/fran-wilde-shiva-kumar-september-10th/",
+    "address": "KGB Bar, East Village",
     "cost": "Free"
   },
   {
-    "title": "free friday at magnet theater",
-    "description": "Catch premiere: the improvised musical or the friday night show for exactly zero dollars.",
-    "start_date": "2025-09-05",
-    "start_time": "7:30 pm",
-    "link": "https://magnettheater.com/calendar/calendar/?date=2025-09-05#schedule-holder",
-    "address": "Magnet Theater, Chelsea",
+    "title": "mortified",
+    "description": "Storytelling show where adults share embarrassing childhood artifacts at Littlefield. $12 advance, $15 day of.",
+    "start_date": "2025-09-10",
+    "start_time": "8:00 pm",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1402773175329",
+    "address": "Littlefield, Gowanus",
+    "cost": "$12 adv, $15 day of"
+  },
+  {
+    "title": "written in brooklyn storytelling series presents: ‘maybe not the best idea’ edition",
+    "description": "Storytelling event at Farm.One in Prospect Heights. $17.85 with promo code 'skint'.",
+    "start_date": "2025-09-10",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/written-in-brooklyn-storytelling-series-presents-maybe-not-the-best-idea-tickets-1587660909519",
+    "address": "Farm.One, Prospect Heights",
+    "cost": "$17.85 with promo code 'skint' (reg. $28.52)"
+  },
+  {
+    "title": "my kinda night! a queer variety show",
+    "description": "Variety show featuring drag, cabaret, and comedy at Medusa Bar Brooklyn. Free admission.",
+    "start_date": "2025-09-10",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/my-kinda-night-a-queer-variety-show-tickets-1312343257009",
+    "address": "Medusa Bar Brooklyn, East Williamsburg",
     "cost": "Free"
   },
   {
-    "title": "bitches brew comedy show",
-    "description": "A women-produced and-hosted comedy show.",
-    "start_date": "2025-09-05",
-    "start_time": "8:30 pm",
-    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "address": "Halyards, Gowanus",
+    "title": "handle with care: robert rauschenberg’s ecological conscience",
+    "description": "Exhibition at NYU’s Grey Art Museum featuring Robert Rauschenberg’s ecological conscience, running through 4/11/2026. Suggested donation of $5 for non-NYU students, faculty, and staff.",
+    "start_date": "2025-09-09",
+    "end_date": "2026-04-11",
+    "link": "https://greyartmuseum.nyu.edu",
+    "address": "NYU’s Grey Art Museum, Noho",
+    "cost": "$5 suggested donation"
+  },
+  {
+    "title": "station paused for forecasting: unstable landscapes",
+    "description": "Exhibition featuring a new generation of artists from the Academy of Arts, Architecture, and Design in Prague, running through 12/31.",
+    "start_date": "2025-09-09",
+    "end_date": "2025-12-31",
+    "link": "https://new-york.czechcentres.cz/en/program/stanice-pozastavene-predpovedi?locale=en",
+    "address": "Bohemian National Hall, UES",
     "cost": "Free"
   },
   {
-    "title": "what i did for love: improv based on your love story",
-    "description": "UCB improvisers interview an audience member about their love life, then turn their stories into a fully improvised performance.",
-    "start_date": "2025-09-05",
-    "start_time": "9:00 pm",
-    "link": "https://ucbcomedy.com/show/what-i-did-for-love-09-05-25/",
-    "cost": "$15 adv, $20 day of"
+    "title": "dress, dreams, and desire: fashion and psychoanalysis",
+    "description": "Exhibition at The Museum at FIT exploring the intersection of fashion and psychoanalysis, running through 1/4/2026. Free admission.",
+    "start_date": "2025-09-09",
+    "end_date": "2026-01-04",
+    "link": "https://www.fitnyc.edu/museum/exhibitions/dress-dreams-desire/index.php",
+    "address": "The Museum at FIT, Chelsea",
+    "cost": "Free"
   },
   {
-    "title": "the drunk texts: the devil weareth prada or, a wintour’s tale",
-    "description": "A shakespearean retelling of the devil wear’s prada that combines drinking games, improvisation, and audience participation.",
-    "start_date": "2025-09-05",
-    "start_time": "9:00 pm",
-    "link": "https://randomaccesstheatre.weebly.com/drunk-texts.html",
-    "address": "The Rat NYC, Dumbo",
+    "title": "camouflage by ai weiwei",
+    "description": "Exhibition by Ai Weiwei at FDR Four Freedoms State Park, running through 11/10. Free admission.",
+    "start_date": "2025-09-09",
+    "end_date": "2025-11-10",
+    "link": "https://www.fdrfourfreedomspark.org/event/camouflage-by-ai-weiwei/",
+    "address": "FDR Four Freedoms State Park, Roosevelt Island",
+    "cost": "Free"
+  },
+  {
+    "title": "gaza biennale new york pavilion",
+    "description": "Exhibition at Recess Art featuring the Gaza Biennale, running through 1/24/2026. Free admission.",
+    "start_date": "2025-09-09",
+    "end_date": "2026-01-24",
+    "link": "https://www.recessart.org/projects/395-gaza-biennial-2025",
+    "address": "Recess Art, Clinton Hill",
+    "cost": "Free"
+  },
+  {
+    "title": "beetles, cats, clouds: the manga of tsurita kuniko, yamada murasaki, and kondoh akino",
+    "description": "Exhibition at 80WSE NYU Gallery showcasing manga artists, running through 1/24/2026. Free admission.",
+    "start_date": "2025-09-09",
+    "end_date": "2026-01-24",
+    "link": "https://80wse.org/exhibitions/beetles-cats-clouds-the-manga-of-tsurita-kuniko-yamada-murasaki-and-kondoh-akino",
+    "address": "80WSE NYU Gallery, Greenwich Village",
+    "cost": "Free"
+  },
+  {
+    "title": "salt water remembers: textile arts center 16th artists-in-residence exhibition",
+    "description": "Exhibition at Textile Arts Center showcasing artists-in-residence, running through 9/24. Free admission.",
+    "start_date": "2025-09-09",
+    "end_date": "2025-09-24",
+    "link": "https://textileartscenter.com/announcement/air-16-final-exhibition/",
+    "address": "Textile Arts Center, Gowanus",
+    "cost": "Free"
+  },
+  {
+    "title": "alt citizen 15 year anniversary show series",
+    "description": "Concert series celebrating 15 years of Alt Citizen with multiple acts across various venues in NYC. $15 advance, $20 at the door.",
+    "start_date": "2025-09-09",
+    "end_date": "2025-09-13",
+    "link": "https://altcitizen.itm.studio/c/alt-citizen-15-year-anniversary-show-series",
+    "address": "Multiple venues in Manhattan, Brooklyn, and Queens",
+    "cost": "$15 adv, $20 doors"
+  },
+  {
+    "title": "our findings show! the science gameshow",
+    "description": "Science gameshow hosted by Tom Lum at Caveat, featuring trials inspired by real scientific papers. $13.61 with promo code 'skint'.",
+    "start_date": "2025-09-09",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/events/our-findings-show-9-9-2025",
+    "address": "Caveat, LES",
+    "cost": "$13.61 with promo code 'skint' (reg. $24-25)"
+  },
+  {
+    "title": "i <3 the 90's cover band night",
+    "description": "Cover band night featuring 90's hits at TV Eye, with prizes for best 90's gear. $12 admission.",
+    "start_date": "2025-09-09",
+    "start_time": "7:00 pm",
+    "link": "https://wl.eventim.us/event/i-less3-the-90s-night/661500?afflky=tveye",
+    "address": "TV Eye, Ridgewood",
     "cost": "$12"
   },
   {
-    "title": "three-day champion",
-    "description": "A comedic storytelling podcast wrapped inside a game show.",
-    "start_date": "2025-09-05",
-    "start_time": "9:30 pm",
-    "link": "https://www.caveat.nyc/events/three-day-champion-9-5-2025",
-    "address": "Caveat, LES",
-    "cost": "$18.76 with promo code ‘champpodlive25’ (reg. $24-25)"
+    "title": "dan fest ’25 – ‘a night of perfect, free films’",
+    "description": "Film screening and Q&A with Dan Perlman at Anthology Archives. Free admission.",
+    "start_date": "2025-09-09",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com.au/e/dan-fest-25-a-night-of-perfect-free-films-tickets-1607242939899",
+    "address": "Anthology Archives, East Village",
+    "cost": "Free"
   },
   {
-    "title": "judith fair: a drag tribute show",
-    "description": "A tribute to the alt lesbian and lesbian-adjacent divas of the 1990’s.",
-    "start_date": "2025-09-05",
-    "start_time": "10:30 pm",
-    "link": "https://dice.fm/event/mxrlwk-judith-fair-5th-sep-cmon-everybody-new-york-tickets",
-    "address": "C’mon Everybody, Bed-Stuy",
-    "cost": "$16.25"
+    "title": "free outdoor movie: sideways",
+    "description": "Outdoor movie screening at the Rooftop at Pier 17. Free admission.",
+    "start_date": "2025-09-09",
+    "start_time": "8:00 pm",
+    "link": "https://theseaport.nyc/events/seaport-cinema/",
+    "address": "Rooftop at Pier 17, Seaport",
+    "cost": "Free"
   }
 ]

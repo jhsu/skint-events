@@ -1,57 +1,11 @@
 [
   {
-    "title": "Fall for Dance Festival",
-    "description": "This beloved New York festival is back with its most international lineup in years. Highlights include the Stuttgart Ballet, Alvin Ailey American Dance Theater, San Francisco Ballet, and more. Tickets are still available, but you need to hurry. Best availability is Sep 18 through 20. Every seat in the house is just $30 (fees included)!",
-    "start_date": "2025-09-16",
-    "end_date": "2025-09-27",
-    "link": "https://www.nycitycenter.org/pdps/fallfordance/?utm_source=theskint&utm_medium=email&utm_campaign=fy26fallfordance",
-    "address": "",
-    "cost": "$30"
-  },
-  {
-    "title": "Summerstage Concert",
-    "description": "Summerstage presents a concert featuring performances by Soccer Mommy, Hurray for the Riff Raff, Dummy, and Sam Sumpter at Rumsey Playfield in Central Park. Free admission.",
-    "start_date": "2025-09-16",
-    "start_time": "6:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://cityparksfoundation.org/events/soccer-mommy-hurray-for-the-riff-raff-dummy/",
-    "address": "Rumsey Playfield, Central Park",
-    "cost": "Free"
-  },
-  {
-    "title": "Astronomy on Tap: ‘High Gravity’ Edition",
-    "description": "A night where astronomy enthusiasts gather at a local bar for talks by professional scientists and educators—plus themed games and other cosmic fun. Tonight’s gravity-themed show celebrates gravity with speakers Saavik Ford and James Chan of CUNY and AMNH. Free admission.",
-    "start_date": "2025-09-16",
-    "start_time": "7:00 pm",
-    "link": "https://astronomyontap.org/event/astronomy-on-tap-nyc-161-high-gravity/",
-    "address": "Pete’s Candy Store, Williamsburg",
-    "cost": "Free"
-  },
-  {
-    "title": "The Broad Squad",
-    "description": "Kendra Cunningham presents a monthly comedy variety show featuring a female-fronted lineup and tarot readings. Tonight's lineup includes Maggie Champagne, Mel Deluca, Ophira Eisenberg, Vicki Ferentinos, Cat Montesi, and Gabe Pacheco. Free admission with a $10 suggested donation.",
-    "start_date": "2025-09-16",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/the-broad-squad-tickets-1681486043019",
-    "address": "Young Ethel’s, South Slope",
-    "cost": "Free ($10 suggested donation)"
-  },
-  {
-    "title": "Stuart Laws Has to Be Joking?",
-    "description": "British comedian Stuart Laws brings his standup show about relationships, travel, toilets, neurodivergence, and how his life changed once he started dating an American, to Under St. Marks Theater. $15.",
-    "start_date": "2025-09-16",
-    "start_time": "7:00 pm",
-    "link": "https://tickets.frigid.nyc/event/6897:1205/6897:6452/",
-    "address": "Under St. Marks Theater, East Village",
-    "cost": "$15"
-  },
-  {
-    "title": "Animation Nights New York",
-    "description": "Watch a curated program of animated short films from around the world at this monthly screening event. Pay-what-you-wish admission.",
-    "start_date": "2025-09-16",
-    "start_time": "8:00 pm",
-    "link": "https://www.animationnights.com/upcoming-screening-events/",
-    "address": "The Gutter Spare Room, Williamsburg",
-    "cost": "Pay-what-you-wish"
+    "title": "MYRTLE AVENUE NEGRONI WEEK 2025",
+    "description": "A week-long celebration of the iconic Italian cocktail featuring exclusive menus from ten local bars and restaurants on Myrtle Avenue.",
+    "start_date": "2025-09-22",
+    "end_date": "2025-09-28",
+    "link": "https://www.theskint.com/myrtle-avenue-negroni-week-2025-sponsored/",
+    "address": "Myrtle Avenue",
+    "cost": "undefined"
   }
 ]

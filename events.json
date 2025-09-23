@@ -1,11 +1,115 @@
 [
   {
-    "title": "MYRTLE AVENUE NEGRONI WEEK 2025",
-    "description": "A week-long celebration of the iconic Italian cocktail featuring exclusive menus from ten local bars and restaurants on Myrtle Avenue.",
-    "start_date": "2025-09-22",
-    "end_date": "2025-09-28",
-    "link": "https://www.theskint.com/myrtle-avenue-negroni-week-2025-sponsored/",
-    "address": "Myrtle Avenue",
+    "title": "Brooklyn Tequila Fest",
+    "description": "Discover, sip, and savor something new at the Brooklyn Tequila Fest! With more than 100 styles of tequila, mezcal, spirits, cocktails, and more, it’s a perfect chance to hang with friends and chat with distillers.",
+    "start_date": "2025-09-27",
+    "start_time": "1:00 pm",
+    "end_time": "4:00 pm",
+    "address": "Brooklyn Navy Yard Building 77 Waterfront Promenade, 141 Flushing Ave, Brooklyn, NY 11205",
     "cost": "undefined"
+  },
+  {
+    "title": "Seventh Annual Mobile Dance Film Festival",
+    "description": "The first film festival to screen dance films shot solely on mobile devices returns with 10 new shorts.",
+    "start_date": "2025-09-24",
+    "start_time": "7:00 pm",
+    "address": "280 Broadway Gibney: Agnes Varis Performing Arts Center, Civic Center/Tribeca",
+    "cost": "Pay-what-you-can"
+  },
+  {
+    "title": "Opera Italiana in Central Park: Opera Unbound: A Sunset Serenade",
+    "description": "Opera is in the air at Central Park’s Naumburg Bandshell, featuring selections by Verdi, Leoncavallo, Mascagni, Puccini, and Rossini. Free admission.",
+    "start_date": "2025-09-24",
+    "start_time": "5:30 pm",
+    "address": "Naumburg Bandshell, Central Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Letters + Sodas: LIC Reading Series",
+    "description": "Writer Lana Schwartz brings together comedians and writers for a night of standup, humor pieces, fiction, and essay readings.",
+    "start_date": "2025-09-24",
+    "start_time": "7:00 pm",
+    "address": "The Greats of Craft, LIC",
+    "cost": "$5"
+  },
+  {
+    "title": "Not in My Backyard! A Political Comedy Roundtable",
+    "description": "A panel of opinionated NYC comedians, journalists, and politicians debate local issues causing drama in your neighborhood’s Facebook group.",
+    "start_date": "2025-09-24",
+    "start_time": "7:00 pm",
+    "address": "UCB, East Village",
+    "cost": "$10 adv, $15 day of"
+  },
+  {
+    "title": "Artists + Beers",
+    "description": "Pair cinema with cervezas at 'Artists + Beers', a semi-monthly screening series highlighting short films, docs, and music videos by local filmmakers.",
+    "start_date": "2025-09-24",
+    "start_time": "7:00 pm",
+    "address": "All Night Skate, Bed-Stuy",
+    "cost": "Free"
+  },
+  {
+    "title": "We Have Fun: A Stand-Up Show",
+    "description": "Hosts Zach Sims and Dan Wilbur bring the fun-ny to Young Ethel’s with stand-up by various comedians.",
+    "start_date": "2025-09-24",
+    "start_time": "7:30 pm",
+    "address": "Young Ethel's, South Slope",
+    "cost": "Free"
+  },
+  {
+    "title": "Ditmas Lit",
+    "description": "A diverse range of fiction writers, storytellers, poets, and essayists share their work at the Ditmas Lit series.",
+    "start_date": "2025-09-24",
+    "start_time": "8:00 pm",
+    "address": "Urbane Arts Club, Ditmas Park",
+    "cost": "Free"
+  },
+  {
+    "title": "Comedy on Kingston",
+    "description": "The Comedy on Kingston show returns with a night of stand-up featuring various comedians.",
+    "start_date": "2025-09-24",
+    "start_time": "8:30 pm",
+    "address": "Salon on Kingston, Crown Heights",
+    "cost": "$12"
+  },
+  {
+    "title": "Fightin’ Words! A Language Game Show",
+    "description": "Three contestants compete in a series of word-based games to win the ultimate prize: a new word of their creation will be added to the people’s lexicon.",
+    "start_date": "2025-09-24",
+    "start_time": "9:30 pm",
+    "address": "Caveat",
+    "cost": "$13.61 with promo code ‘skintwords’ (reg. $18.76-20)"
+  },
+  {
+    "title": "Target Margin Theater's The Degenerate Lab",
+    "description": "For the first time since the pandemic, the Target Margin Theater lab returns with The Degenerate Lab, a series of productions answering the question, ‘what is degenerate art now?’. Tickets start at $20.",
+    "start_date": "2025-09-23",
+    "end_date": "2025-10-05",
+    "link": "https://www.targetmargin.org/degenerate-lab/",
+    "cost": "$20"
+  },
+  {
+    "title": "Myrtle Avenue Negroni Week",
+    "description": "Raise a glass at this week-long celebration of the iconic Italian cocktail! 10 local bars and restaurants will showcase exclusive menus. Each participating venue is also making a donation to Slow Food.",
+    "start_date": "2025-09-23",
+    "end_date": "2025-09-28",
+    "link": "https://myrtleavenue.org/negroni-week-2025-on-myrtle-avenue/",
+    "cost": "undefined"
+  },
+  {
+    "title": "We Love a Theme: A Storytelling Show",
+    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at Bailey Swilley’s monthly storytelling show. Tonight’s ‘bad apples’ theme features Jenna Dioguardi, Kenice Mobley, Julie Piñero, and Mandy Wagnac.",
+    "start_date": "2025-09-23",
+    "start_time": "7:00 pm",
+    "address": "Pete's Candy Store, Williamsburg",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "Sixties Surreal at the Whitney",
+    "description": "A new exhibition at the Whitney Museum explores how artists in 1960s America used surrealism to respond to the era’s social and political changes. The show features works by more than 100 artists.",
+    "start_date": "2025-09-23",
+    "end_date": "2025-01-19",
+    "link": "https://whitney.org/exhibitions/sixties-surreal",
+    "cost": "$30 general, $24 seniors/students, free for 25 and under"
   }
 ]

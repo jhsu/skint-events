@@ -1,95 +1,150 @@
 [
   {
     "title": "Brooklyn Tequila Fest",
-    "description": "Tequila and mezcal enthusiasts—come discover, sip, and savor something new at the Brooklyn Tequila Fest! With more than 100 styles of tequila, mezcal, spirits, cocktails, and more, it’s a perfect chance to hang with friends and chat with distillers and representatives about the craft behind your next favorite go-to pours. Guests can enjoy unlimited samples all night, plus live entertainment, interactive games, and access to food available for purchase from Angry Archies, Chavas Empanadas, Mozzarepas, Taste of Poland, and more.",
+    "description": "Discover, sip, and savor at the Brooklyn Tequila Fest with more than 100 styles of tequila, mezcal, spirits, cocktails, and more. Enjoy unlimited samples, live entertainment, and food available for purchase.",
     "start_date": "2025-09-27",
     "start_time": "1:00 pm",
-    "end_date": "2025-09-27",
-    "end_time": "9:00 pm",
+    "end_time": "4:00 pm",
     "link": "https://www.eventbrite.com/e/brooklyn-tequila-fest-tickets-1432062701089?discount=THESKINT",
     "address": "Brooklyn Navy Yard Building 77 Waterfront Promenade, 141 Flushing Ave, Brooklyn, NY 11205",
-    "cost": "$40 (with promo code THESKINT)"
+    "cost": "Varies (discount available)"
   },
   {
-    "title": "Sixties Surreal at the Whitney",
-    "description": "A new exhibition at the Whitney Museum explores how artists in 1960s America used surrealism to respond to the era's social and political changes. The show features works by more than 100 artists, including Diane Arbus, Romare Bearden, and Yayoi Kusama.",
-    "start_date": "2025-09-24",
-    "end_date": "2025-01-19",
-    "link": "https://whitney.org/exhibitions/sixties-surreal",
-    "address": "Whitney Museum of American Art, Meatpacking District",
-    "cost": "$30 general, $24 seniors/students, free for 25 and under, free to all every Friday 5-10pm, free to all every second Sunday."
+    "title": "University Open Air: Fall Edition",
+    "description": "Immigrant teachers, professors, and academics share their knowledge with the public at a series of free classes around Prospect Park Boathouse.",
+    "start_date": "2025-09-25",
+    "end_date": "2025-10-05",
+    "link": "https://www.bklynlibrary.org/university-open-air"
+  },
+  {
+    "title": "Illumination NYC Light Art Festival",
+    "description": "The annual light festival features 15+ light installations, performances, and food trucks.",
+    "start_date": "2025-09-25",
+    "start_time": "6:30 pm",
+    "end_date": "2025-09-27",
+    "end_time": "11:30 pm",
+    "link": "https://www.illumination.nyc",
+    "cost": "Free"
+  },
+  {
+    "title": "Bryant Park Square Dance",
+    "description": "Bryant Park’s annual midtown hoedown featuring live music, mechanical bull rides, and lawn games.",
+    "start_date": "2025-09-25",
+    "start_time": "6:00 pm",
+    "link": "https://bryantpark.org/calendar/event/square-dance",
+    "cost": "Free"
+  },
+  {
+    "title": "Winging It: An Open Mic Night at Lofty Pigeon Books",
+    "description": "An open mic night for sharing scripts, poems, music, and jokes at Kensington’s Lofty Pigeon Books.",
+    "start_date": "2025-09-25",
+    "start_time": "6:30 pm",
+    "link": "https://www.eventbrite.com/e/winging-it-an-open-mic-night-at-lofty-pigeon-books-tickets-1250056957009",
+    "cost": "Free"
+  },
+  {
+    "title": "Limousine Reading Series",
+    "description": "Hear new works from various writers at the 'dark academia' themed edition of the Limousine Reading Series.",
+    "start_date": "2025-09-25",
+    "start_time": "7:00 pm",
+    "link": "https://partiful.com/e/2WUf1tmaccOJnkMs6Yoq",
+    "address": "Berry Park, Williamsburg",
+    "cost": "$5"
+  },
+  {
+    "title": "Risk! Live Show and Story Slam",
+    "description": "Hear guests tell true stories they never thought they’d share in public at Kevin Allison’s Risk! show.",
+    "start_date": "2025-09-25",
+    "start_time": "7:00 pm",
+    "link": "https://www.caveat.nyc/events/risk-live-show-and-story-slam-in-new-york-9-25-2025",
+    "address": "Caveat, LES",
+    "cost": "$14.64 with promo code ‘skint’"
+  },
+  {
+    "title": "NYC Magic Ensemble",
+    "description": "A night of magicians and mentalists at Young Ethel’s featuring various performers.",
+    "start_date": "2025-09-25",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/nyc-magic-ensemble-young-ethels-925-tickets-1454823970659",
+    "cost": "$10 (limited 2-for-$15 tickets available)"
+  },
+  {
+    "title": "Scream Scene Presents: Poltergeist Screening and Horror Hangout",
+    "description": "A screening of the supernatural horror classic Poltergeist at Cassette, followed by a hangout with other horror fans.",
+    "start_date": "2025-09-25",
+    "start_time": "7:00 pm",
+    "link": "https://dice.fm/event/l8n6vl-scream-scene-presents-poltergeist-25th-sep-cassette-new-york-city-tickets"
   },
   {
     "title": "Seventh Annual Mobile Dance Film Festival",
-    "description": "The Mobile Dance Film Festival, the first film festival to screen dance films shot solely on mobile devices, returns with 10 new shorts.",
+    "description": "The first film festival to screen dance films shot solely on mobile devices returns with 10 new shorts.",
     "start_date": "2025-09-24",
     "start_time": "7:00 pm",
-    "end_date": "2025-09-25",
     "link": "https://www.mobiledancefilmfestival.com",
-    "address": "280 Broadway Gibney: Agnes Varis Performing Arts Center, Civic Center/Tribeca",
-    "cost": "Pay-what-you-can admission"
+    "address": "280 Broadway Gibney: Agnes Varis Performing Arts Center, Civic Center/Tribeca"
   },
   {
     "title": "Opera Italiana in Central Park: Opera Unbound: A Sunset Serenade",
-    "description": "Opera is in the air at Central Park’s Naumburg Bandshell, where conductor Alvise Casellati leads soprano Leah Hawkins, tenor Murat Karahan, and members from the Met Opera, NY Philharmonic, Juilliard, and the Manhattan School of Music in an outdoor performance of selections by Verdi, Leoncavallo, Mascagni, Puccini, and Rossini.",
+    "description": "An outdoor performance featuring selections by Verdi, Leoncavallo, Mascagni, Puccini, and Rossini at Central Park’s Naumburg Bandshell.",
     "start_date": "2025-09-24",
     "start_time": "5:30 pm",
     "link": "https://www.operaitalianaisintheair.com/home",
-    "address": "Central Park’s Naumburg Bandshell",
-    "cost": "Free admission"
+    "cost": "Free"
   },
   {
     "title": "Letters + Sodas: LIC Reading Series",
-    "description": "Writer Lana Schwartz brings together comedians and writers for a night of standup, humor pieces, fiction, and essay readings at the Greats of Craft (LIC).",
+    "description": "A night of standup, humor pieces, fiction, and essay readings featuring various writers and comedians.",
     "start_date": "2025-09-24",
     "start_time": "7:00 pm",
     "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1693582042479",
-    "address": "Greats of Craft, LIC",
     "cost": "$5"
   },
   {
     "title": "Not in My Backyard! A Political Comedy Roundtable",
-    "description": "A panel of opinionated NYC comedians, journalists, and politicians debate the local issues causing drama in your neighborhood’s Facebook group.",
+    "description": "A panel of opinionated NYC comedians, journalists, and politicians debate local issues causing drama in neighborhood Facebook groups.",
     "start_date": "2025-09-24",
     "start_time": "7:00 pm",
     "link": "https://ucbcomedy.com/show/not-in-my-backyard-09-24-25/",
-    "address": "UCB, East Village",
     "cost": "$10 adv, $15 day of"
   },
   {
-    "title": "Artists + Beers",
-    "description": "Pair cinema with cervezas at 'Artists + Beers,' a semi-monthly screening series highlighting short films, docs, and music videos by local filmmakers.",
-    "start_date": "2025-09-24",
-    "start_time": "7:00 pm",
-    "link": "https://www.instagram.com/p/DOrPhXsEopF/?img_index=1",
-    "address": "All Night Skate, Bed-Stuy",
-    "cost": "Free admission"
-  },
-  {
-    "title": "We Have Fun: A Stand-Up Show",
-    "description": "Hosts Zach Sims and Dan Wilbur team up to bring the fun-ny to Young Ethel’s, with stand-up by Laura Lane, Kelly Bachman, Jonathan Van Halem, Max Fine, and Lizzie High.",
-    "start_date": "2025-09-24",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
-    "address": "Young Ethel’s, South Slope",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Comedy on Kingston",
-    "description": "The Comedy on Kingston show returns with a night of stand up featuring Emma Willmann, Jenny Zigrino, Murahd Shawki, Simeon Goodson, and Pat Burtscher.",
-    "start_date": "2025-09-24",
-    "start_time": "8:30 pm",
-    "link": "https://www.eventbrite.com/e/comedy-on-kingston-stand-up-comedy-in-crown-heights-brooklyn-tickets-1681414107859",
-    "address": "Salon on Kingston, Crown Heights",
-    "cost": "$12"
-  },
-  {
     "title": "Fightin’ Words! A Language Game Show",
-    "description": "Three contestants compete in a series of word-based games to win the ultimate prize: a new word of their creation will be added to the people’s lexicon.",
+    "description": "Contestants compete in word-based games to win a new word added to the people’s lexicon.",
     "start_date": "2025-09-24",
     "start_time": "9:30 pm",
     "link": "https://caveat.nyc/events/fightin-words-a-language-game-show-9-24-2025",
-    "address": "Caveat, LES",
-    "cost": "$13.61 with promo code ‘skintwords’ (reg. $18.76-20)"
+    "cost": "$13.61 with promo code ‘skintwords’"
+  },
+  {
+    "title": "Target Margin Theater's The Degenerate Lab",
+    "description": "For the first time since the pandemic, the Target Margin Theater lab returns with The Degenerate Lab, a series of productions answering the question, ‘what is degenerate art now?’ Featuring various performances and events.",
+    "start_date": "2025-09-23",
+    "end_date": "2025-10-05",
+    "link": "https://www.targetmargin.org/degenerate-lab/",
+    "cost": "$20"
+  },
+  {
+    "title": "Myrtle Avenue Negroni Week",
+    "description": "Raise a glass at this week-long celebration of the iconic Italian cocktail! 10 local bars and restaurants will showcase exclusive menus.",
+    "start_date": "2025-09-23",
+    "end_date": "2025-09-28",
+    "link": "https://myrtleavenue.org/negroni-week-2025-on-myrtle-avenue/"
+  },
+  {
+    "title": "We Love a Theme: A Storytelling Show",
+    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at Bailey Swilley’s monthly storytelling show. Tonight’s ‘bad apples’ theme features various performers.",
+    "start_date": "2025-09-23",
+    "start_time": "7:00 pm",
+    "link": "https://www.petescandystore.com/calendar/",
+    "address": "Pete's Candy Store, Williamsburg",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "Sixties Surreal at the Whitney",
+    "description": "A new exhibition at the Whitney Museum explores how artists in 1960s America used surrealism to respond to the era's social and political changes.",
+    "start_date": "2025-09-23",
+    "end_date": "2025-01-19",
+    "link": "https://whitney.org/exhibitions/sixties-surreal",
+    "cost": "$30 general, $24 seniors/students, free for 25 and under"
   }
 ]

@@ -1,150 +1,187 @@
 [
   {
-    "title": "Brooklyn Tequila Fest",
-    "description": "Discover, sip, and savor at the Brooklyn Tequila Fest with more than 100 styles of tequila, mezcal, spirits, cocktails, and more. Enjoy unlimited samples, live entertainment, and food available for purchase.",
-    "start_date": "2025-09-27",
-    "start_time": "1:00 pm",
-    "end_time": "4:00 pm",
-    "link": "https://www.eventbrite.com/e/brooklyn-tequila-fest-tickets-1432062701089?discount=THESKINT",
-    "address": "Brooklyn Navy Yard Building 77 Waterfront Promenade, 141 Flushing Ave, Brooklyn, NY 11205",
-    "cost": "Varies (discount available)"
+    "title": "3rd fungus festival",
+    "description": "Randalls Island Urban Farm.",
+    "start_date": "2025-10-08",
+    "start_time": "11:00 am",
+    "end_time": "3:00 pm",
+    "link": "https://www.newyorkmyc.org/3rd-fungus-festival-2025/",
+    "cost": "Undefined"
   },
   {
-    "title": "University Open Air: Fall Edition",
-    "description": "Immigrant teachers, professors, and academics share their knowledge with the public at a series of free classes around Prospect Park Boathouse.",
-    "start_date": "2025-09-25",
-    "end_date": "2025-10-05",
-    "link": "https://www.bklynlibrary.org/university-open-air"
+    "title": "st. francis day fair and pet blessings",
+    "description": "The Cathedral of Saint John the Divine (Morningside Heights).",
+    "start_date": "2025-10-08",
+    "start_time": "12:00 pm",
+    "end_time": "2:00 pm",
+    "link": "https://www.stjohndivine.org/calendar/53235/st-francis-day-fair",
+    "cost": "Undefined"
   },
   {
-    "title": "Illumination NYC Light Art Festival",
-    "description": "The annual light festival features 15+ light installations, performances, and food trucks.",
-    "start_date": "2025-09-25",
-    "start_time": "6:30 pm",
-    "end_date": "2025-09-27",
-    "end_time": "11:30 pm",
-    "link": "https://www.illumination.nyc",
-    "cost": "Free"
+    "title": "50th annual atlantic antic street festival",
+    "description": "Along Brooklyn’s Atlantic Avenue from Hicks Street to 4th Avenue.",
+    "start_date": "2025-10-08",
+    "start_time": "12:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://www.atlanticave.org/atlanticantic",
+    "cost": "Undefined"
   },
   {
-    "title": "Bryant Park Square Dance",
-    "description": "Bryant Park’s annual midtown hoedown featuring live music, mechanical bull rides, and lawn games.",
-    "start_date": "2025-09-25",
-    "start_time": "6:00 pm",
-    "link": "https://bryantpark.org/calendar/event/square-dance",
-    "cost": "Free"
+    "title": "88th annual pulaski day parade",
+    "description": "Starts at Fifth Ave and 41st Street.",
+    "start_date": "2025-10-08",
+    "start_time": "12:30 am",
+    "link": "https://www.pulaskiparade.org",
+    "cost": "Undefined"
   },
   {
-    "title": "Winging It: An Open Mic Night at Lofty Pigeon Books",
-    "description": "An open mic night for sharing scripts, poems, music, and jokes at Kensington’s Lofty Pigeon Books.",
-    "start_date": "2025-09-25",
-    "start_time": "6:30 pm",
-    "link": "https://www.eventbrite.com/e/winging-it-an-open-mic-night-at-lofty-pigeon-books-tickets-1250056957009",
-    "cost": "Free"
+    "title": "kids costume swap",
+    "description": "The Windjammer (Ridgewood).",
+    "start_date": "2025-10-08",
+    "start_time": "2:00 pm",
+    "end_time": "5:00 pm",
+    "link": "https://withfriends.events/event/8aEbHPLv/kids-costume-swap/",
+    "cost": "Undefined"
   },
   {
-    "title": "Limousine Reading Series",
-    "description": "Hear new works from various writers at the 'dark academia' themed edition of the Limousine Reading Series.",
-    "start_date": "2025-09-25",
-    "start_time": "7:00 pm",
-    "link": "https://partiful.com/e/2WUf1tmaccOJnkMs6Yoq",
-    "address": "Berry Park, Williamsburg",
-    "cost": "$5"
+    "title": "fourth annual city of forest day",
+    "description": "120 events across the five boroughs.",
+    "start_date": "2025-10-07",
+    "link": "https://forestforall.nyc/city-of-forest-day/",
+    "cost": "Undefined"
   },
   {
-    "title": "Risk! Live Show and Story Slam",
-    "description": "Hear guests tell true stories they never thought they’d share in public at Kevin Allison’s Risk! show.",
-    "start_date": "2025-09-25",
-    "start_time": "7:00 pm",
-    "link": "https://www.caveat.nyc/events/risk-live-show-and-story-slam-in-new-york-9-25-2025",
-    "address": "Caveat, LES",
-    "cost": "$14.64 with promo code ‘skint’"
+    "title": "nigeria independence day parade",
+    "description": "Madison Ave from 38th St to 24th St.",
+    "start_date": "2025-10-07",
+    "start_time": "10:00 am",
+    "link": "https://www.facebook.com/NIDPNYC/",
+    "cost": "Undefined"
   },
   {
-    "title": "NYC Magic Ensemble",
-    "description": "A night of magicians and mentalists at Young Ethel’s featuring various performers.",
-    "start_date": "2025-09-25",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/nyc-magic-ensemble-young-ethels-925-tickets-1454823970659",
-    "cost": "$10 (limited 2-for-$15 tickets available)"
+    "title": "old stone house artisans fall bazaar",
+    "description": "Washington Park (Park Slope).",
+    "start_date": "2025-10-07",
+    "start_time": "10:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://www.brooklynpop-up.com/market-details/old-stone-house-artisans-bazaar/r/recQW5LJu5luYJfSA",
+    "cost": "Undefined"
   },
   {
-    "title": "Scream Scene Presents: Poltergeist Screening and Horror Hangout",
-    "description": "A screening of the supernatural horror classic Poltergeist at Cassette, followed by a hangout with other horror fans.",
-    "start_date": "2025-09-25",
-    "start_time": "7:00 pm",
-    "link": "https://dice.fm/event/l8n6vl-scream-scene-presents-poltergeist-25th-sep-cassette-new-york-city-tickets"
+    "title": "korean parade + festival",
+    "description": "Parade (12-2pm): Sixth Ave from 38th to 27th St; Festival (10am-6pm): Koreatown, 32nd St bet Broadway + Fifth Ave.",
+    "start_date": "2025-10-07",
+    "start_time": "10:00 am",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/p/DOy5rc4kkrH/",
+    "cost": "Undefined"
   },
   {
-    "title": "Seventh Annual Mobile Dance Film Festival",
-    "description": "The first film festival to screen dance films shot solely on mobile devices returns with 10 new shorts.",
-    "start_date": "2025-09-24",
-    "start_time": "7:00 pm",
-    "link": "https://www.mobiledancefilmfestival.com",
-    "address": "280 Broadway Gibney: Agnes Varis Performing Arts Center, Civic Center/Tribeca"
+    "title": "philippines fest presents: ubeland new york",
+    "description": "4th Avenue bet 9th + 10th Streets (East Village).",
+    "start_date": "2025-10-07",
+    "start_time": "11:00 am",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/philippinesfest/",
+    "cost": "Undefined"
   },
   {
-    "title": "Opera Italiana in Central Park: Opera Unbound: A Sunset Serenade",
-    "description": "An outdoor performance featuring selections by Verdi, Leoncavallo, Mascagni, Puccini, and Rossini at Central Park’s Naumburg Bandshell.",
-    "start_date": "2025-09-24",
+    "title": "chinatown mid-autumn open streets",
+    "description": "Pell Street, Manhattan.",
+    "start_date": "2025-10-07",
+    "start_time": "12:00 pm",
+    "end_time": "3:00 pm",
+    "link": "https://chinatown.nyc/celebrate-mid-autumn-open-streets/",
+    "cost": "Undefined"
+  },
+  {
+    "title": "diwali on hudson",
+    "description": "Exchange Place in Jersey City.",
+    "start_date": "2025-10-07",
+    "start_time": "12:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://www.facebook.com/SCAJerseyCity",
+    "cost": "Undefined"
+  },
+  {
+    "title": "jersey city night market",
+    "description": "City Hall Ancillary Lot.",
+    "start_date": "2025-10-07",
+    "start_time": "3:00 pm",
+    "end_time": "9:00 pm",
+    "link": "https://www.jcnightmarket.com",
+    "cost": "Undefined"
+  },
+  {
+    "title": "maker faire coney island",
+    "description": "Coney Island Amphitheater.",
+    "start_date": "2025-10-07",
+    "start_time": "11:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://coneyisland.makerfaire.com",
+    "cost": "$25"
+  },
+  {
+    "title": "wia nyc animation festival",
+    "description": "SVA Theatre (Chelsea).",
+    "start_date": "2025-10-07",
     "start_time": "5:30 pm",
-    "link": "https://www.operaitalianaisintheair.com/home",
+    "link": "https://sva.edu/events/wia-nyc-animation-festival-2025",
+    "cost": "Undefined"
+  },
+  {
+    "title": "fifth annual autumn’s dawn film festival",
+    "description": "Film Noir Cinema (Greenpoint).",
+    "start_date": "2025-10-07",
+    "link": "https://filmfreeway.com/AutumnsDawnFilmFestival/tickets",
+    "cost": "Undefined"
+  },
+  {
+    "title": "free glittery magnum ice cream bars",
+    "description": "Ice cream truck on the corner of West 4th + Cornelia Streets (Greenwich Village).",
+    "start_date": "2025-10-06",
+    "start_time": "11:00 am",
+    "end_date": "2025-10-06",
+    "end_time": "5:00 pm",
+    "link": "https://www.instagram.com/p/DPUZ2ufkbnW/",
+    "address": "West 4th + Cornelia Streets, Greenwich Village",
     "cost": "Free"
   },
   {
-    "title": "Letters + Sodas: LIC Reading Series",
-    "description": "A night of standup, humor pieces, fiction, and essay readings featuring various writers and comedians.",
-    "start_date": "2025-09-24",
-    "start_time": "7:00 pm",
-    "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1693582042479",
-    "cost": "$5"
+    "title": "36th annual jersey city art + studio tour",
+    "description": "Multiple venues across Jersey City.",
+    "start_date": "2025-10-06",
+    "link": "https://thejcast.com/events/",
+    "cost": "Undefined"
   },
   {
-    "title": "Not in My Backyard! A Political Comedy Roundtable",
-    "description": "A panel of opinionated NYC comedians, journalists, and politicians debate local issues causing drama in neighborhood Facebook groups.",
-    "start_date": "2025-09-24",
-    "start_time": "7:00 pm",
-    "link": "https://ucbcomedy.com/show/not-in-my-backyard-09-24-25/",
-    "cost": "$10 adv, $15 day of"
+    "title": "tattoo society world expo",
+    "description": "Zerospace (Gowanus).",
+    "start_date": "2025-10-06",
+    "link": "https://tattoosocietyworldexpo.com",
+    "cost": "$25"
   },
   {
-    "title": "Fightin’ Words! A Language Game Show",
-    "description": "Contestants compete in word-based games to win a new word added to the people’s lexicon.",
-    "start_date": "2025-09-24",
-    "start_time": "9:30 pm",
-    "link": "https://caveat.nyc/events/fightin-words-a-language-game-show-9-24-2025",
-    "cost": "$13.61 with promo code ‘skintwords’"
+    "title": "annual new york indie shorts awards",
+    "description": "Look Dine-In Cinemas W57.",
+    "start_date": "2025-10-06",
+    "link": "https://filmfreeway.com/INDIESHORTSAWARDSNEWYORK/tickets",
+    "cost": "Undefined"
   },
   {
-    "title": "Target Margin Theater's The Degenerate Lab",
-    "description": "For the first time since the pandemic, the Target Margin Theater lab returns with The Degenerate Lab, a series of productions answering the question, ‘what is degenerate art now?’ Featuring various performances and events.",
-    "start_date": "2025-09-23",
-    "end_date": "2025-10-05",
-    "link": "https://www.targetmargin.org/degenerate-lab/",
-    "cost": "$20"
+    "title": "hack the planet",
+    "description": "Metrograph (LES).",
+    "start_date": "2025-10-06",
+    "end_date": "2025-10-25",
+    "link": "https://metrograph.com/category/hack-planet/",
+    "cost": "Undefined"
   },
   {
-    "title": "Myrtle Avenue Negroni Week",
-    "description": "Raise a glass at this week-long celebration of the iconic Italian cocktail! 10 local bars and restaurants will showcase exclusive menus.",
-    "start_date": "2025-09-23",
-    "end_date": "2025-09-28",
-    "link": "https://myrtleavenue.org/negroni-week-2025-on-myrtle-avenue/"
-  },
-  {
-    "title": "We Love a Theme: A Storytelling Show",
-    "description": "A lineup of performers tell funny, heartwarming, and cringe-inducing tales at Bailey Swilley’s monthly storytelling show. Tonight’s ‘bad apples’ theme features various performers.",
-    "start_date": "2025-09-23",
-    "start_time": "7:00 pm",
-    "link": "https://www.petescandystore.com/calendar/",
-    "address": "Pete's Candy Store, Williamsburg",
-    "cost": "Free ($5 suggested donation)"
-  },
-  {
-    "title": "Sixties Surreal at the Whitney",
-    "description": "A new exhibition at the Whitney Museum explores how artists in 1960s America used surrealism to respond to the era's social and political changes.",
-    "start_date": "2025-09-23",
-    "end_date": "2025-01-19",
-    "link": "https://whitney.org/exhibitions/sixties-surreal",
-    "cost": "$30 general, $24 seniors/students, free for 25 and under"
+    "title": "sixth annual brooklyn scifi film festival",
+    "description": "Stuart Cinema + Cafe (Greenpoint), Alamo Drafthouse (Downtown Brooklyn), and online.",
+    "start_date": "2025-10-06",
+    "end_date": "2025-10-12",
+    "link": "https://brooklynscififilmfest.com",
+    "cost": "Undefined"
   }
 ]

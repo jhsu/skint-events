@@ -1,13 +1,167 @@
 [
   {
-    "title": "Brooklyn Navy Yard’s Annual Open House",
-    "description": "Join the Brooklyn Navy Yard for their Annual Open House on Saturday, October 18— a free celebration of makers, creativity, and community. Visit the Yard from 12-5 PM and get behind-the-scenes access to over 35 trailblazing Brooklyn-based businesses in fashion, design, technology, and more. Participate in hands-on demos, exclusive tours, timed programs and enjoy on-site food trucks and live entertainment all in one dynamic space!",
-    "start_date": "2025-10-18",
-    "start_time": "12:00 PM",
-    "end_date": "2025-10-18",
-    "end_time": "5:00 PM",
-    "link": "https://www.eventbrite.com/e/brooklyn-navy-yards-annual-open-house-2025-tickets-1563948635469",
-    "address": "Brooklyn Navy Yard",
-    "cost": "Free"
+    "title": "81st Annual Columbus Day Parade",
+    "description": "A parade celebrating Columbus Day along Fifth Avenue from 44th Street to 72nd Street.",
+    "start_date": "2025-10-13",
+    "start_time": "12:00 pm",
+    "end_date": "2025-10-13",
+    "end_time": "3:00 pm",
+    "link": "https://abc7ny.com/post/columbus-day-parade-2025-81st-annual-celebration-nyc-october-13-live-abc-7-new-york/17963774/",
+    "address": "Fifth Avenue from 44th Street to 72nd Street",
+    "cost": ""
+  },
+  {
+    "title": "10th Annual Diwali Times Square",
+    "description": "A celebration of Diwali on Broadway from 46th St to 48th St.",
+    "start_date": "2025-10-12",
+    "start_time": "11:00 am",
+    "end_date": "2025-10-12",
+    "end_time": "9:00 pm",
+    "link": "https://diwalitimessquare.com",
+    "address": "Broadway from 46th St to 48th St",
+    "cost": ""
+  },
+  {
+    "title": "10th Annual Indigenous Peoples Day",
+    "description": "A celebration of Indigenous Peoples Day on Randall’s Island.",
+    "start_date": "2025-10-12",
+    "start_time": "10:00 am",
+    "end_date": "2025-10-13",
+    "end_time": "2:00 pm",
+    "link": "https://ipdnyc.squarespace.com",
+    "address": "Randall’s Island",
+    "cost": ""
+  },
+  {
+    "title": "Kings County Fiber Festival",
+    "description": "A festival celebrating fiber arts at the grounds of the Old Stone House in Washington Park. Rain date is 10/25.",
+    "start_date": "2025-10-11",
+    "start_time": "10:00 am",
+    "end_date": "2025-10-11",
+    "end_time": "5:00 pm",
+    "link": "https://www.kingscountyfiberfestival.org/attend",
+    "address": "The Old Stone House, Washington Park",
+    "cost": ""
+  },
+  {
+    "title": "Astoria Park Alliance’s Fourth Annual Classic Car Show",
+    "description": "Classic car show along Shore Boulevard in Astoria Park.",
+    "start_date": "2025-10-11",
+    "start_time": "11:00 am",
+    "end_date": "2025-10-11",
+    "end_time": "3:00 pm",
+    "link": "https://www.astoriaparkalliance.org/events/astoriaparkclassiccarshow2025-h7l5n-y57j9",
+    "address": "Shore Boulevard, Astoria Park",
+    "cost": ""
+  },
+  {
+    "title": "The Annual New York Queer Zine Fair",
+    "description": "A fair celebrating queer zines at the Lesbian, Gay, Bisexual + Transgender Community Center in Greenwich Village.",
+    "start_date": "2025-10-11",
+    "start_time": "11:00 am",
+    "end_date": "2025-10-11",
+    "end_time": "5:00 pm",
+    "link": "https://www.nyqzf.com",
+    "address": "Lesbian, Gay, Bisexual + Transgender Community Center, Greenwich Village",
+    "cost": ""
+  },
+  {
+    "title": "Smorgasburg Diwali: Festival of Bites",
+    "description": "A food festival celebrating Diwali at Marsha P. Johnson State Park in Williamsburg on Saturday and Breeze Hill in Prospect Park on Sunday.",
+    "start_date": "2025-10-11",
+    "start_time": "11:00 am",
+    "end_date": "2025-10-12",
+    "end_time": "6:00 pm",
+    "link": "https://www.instagram.com/p/DPH6MZxAYbZ/",
+    "address": "Marsha P. Johnson State Park, Williamsburg / Breeze Hill, Prospect Park",
+    "cost": ""
+  },
+  {
+    "title": "Metropolitan Postcard Club Show + Sale",
+    "description": "Cultural event featuring a show and sale of postcards at the Church of the Village in Greenwich Village. Admission is $7.",
+    "start_date": "2025-10-10",
+    "start_time": "12:00 pm",
+    "end_date": "2025-10-11",
+    "end_time": "5:00 pm",
+    "link": "https://metropolitanpostcardclub.com",
+    "address": "Church of the Village, Greenwich Village",
+    "cost": "$7"
+  },
+  {
+    "title": "Green-Wood After Hours",
+    "description": "Explore Green-Wood Cemetery under the night sky with stories of notable New Yorkers. BYO flashlight.",
+    "start_date": "2025-10-10",
+    "start_time": "6:00 pm",
+    "end_date": "2025-10-24",
+    "end_time": "",
+    "link": "https://www.green-wood.com/series/green-wood-after-hours-19/",
+    "address": "Green-Wood Cemetery",
+    "cost": "$30"
+  },
+  {
+    "title": "Vocabaret: ‘Pumpkin Spice’ Edition",
+    "description": "A monthly variety show for language lovers featuring wordplay and entertainment.",
+    "start_date": "2025-10-10",
+    "start_time": "7:00 pm",
+    "end_date": "2025-10-10",
+    "end_time": "",
+    "link": "https://caveat.nyc/events/vocabaret-10-10-2025",
+    "address": "Caveat, LES",
+    "cost": "$18.76 with promo code ‘caveatorb’ (reg. $24-25)"
+  },
+  {
+    "title": "Deadly Crush: A Childhood Ruining Erotic Horror Film",
+    "description": "A screening of the terrible erotic horror movie 'Deadly Crush' with a pre-show presentation.",
+    "start_date": "2025-10-10",
+    "start_time": "7:00 pm",
+    "end_date": "2025-10-10",
+    "end_time": "",
+    "link": "https://withfriends.events/event/1wqxkqq7/deadly-crush-a-childhood-ruining-erotic-horror-film/",
+    "address": "Cloud City, Williamsburg",
+    "cost": "$17.18"
+  },
+  {
+    "title": "Boyz in the Woods Comedy",
+    "description": "A standup-meets-trivia show where audience members can win free drinks by answering trivia questions.",
+    "start_date": "2025-10-10",
+    "start_time": "8:00 pm",
+    "end_date": "2025-10-10",
+    "end_time": "",
+    "link": "https://www.fnlbk.com/upcoming/2021/6/3/boys-in-the-woodz-m4szt-ralr7-j2jtc",
+    "address": "Friends and Lovers, Crown Heights",
+    "cost": "$12 adv, $15 door"
+  },
+  {
+    "title": "Bitches Brew Comedy Show",
+    "description": "A women-produced and hosted comedy show featuring various performers.",
+    "start_date": "2025-10-10",
+    "start_time": "8:30 pm",
+    "end_date": "2025-10-10",
+    "end_time": "",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "address": "Halyards, Gowanus",
+    "cost": "Free (tip jar will be passed around)"
+  },
+  {
+    "title": "Drop Up Video",
+    "description": "A panel of comedians riff on music videos that we love to hate.",
+    "start_date": "2025-10-10",
+    "start_time": "10:00 pm",
+    "end_date": "2025-10-10",
+    "end_time": "",
+    "link": "https://www.eventbrite.com/e/drop-up-video-an-evening-of-comedy-and-music-videos-tickets-1758687263949",
+    "address": "Pine Box Rock Shop, Bushwick",
+    "cost": "$5"
+  },
+  {
+    "title": "Party Like It’s 1999: No Doubt, It’s Gwen Edition",
+    "description": "A dance party celebrating the 30th anniversary of No Doubt’s 'Tragic Kingdom' with DJ Steve Reynolds.",
+    "start_date": "2025-10-10",
+    "start_time": "10:30 pm",
+    "end_date": "2025-10-10",
+    "end_time": "",
+    "link": "https://littlefieldnyc.com/event/?wfea_eb_id=1629085682129",
+    "address": "Littlefield, 635 Sackett Street, Brooklyn, NY 11217",
+    "cost": "$7.42"
   }
 ]

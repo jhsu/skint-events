@@ -1,13 +1,146 @@
 [
   {
-    "title": "WALL TO WALL STEVIE WONDER",
-    "description": "A joyful, FREE, all-day tribute to the iconic Stevie Wonder. From chart-topping hits to hidden gems, this celebration showcases a wide range of artists reimagining Stevie Wonder’s songbook through soul, R&B, hip-hop, world music, gospel, jazz, dance, and beyond.",
-    "start_date": "2025-11-08",
-    "start_time": "2:00 PM",
-    "end_date": "2025-11-08",
-    "end_time": "10:00 PM",
-    "link": "https://www.symphonyspace.org/events/wall-to-wall-stevie-wonder?utm_source=the+skint&utm_medium=email&utm_campaign=Wall+to+Wall+Stevie+Wonder",
-    "address": "Symphony Space, 2537 Broadway & 95th Street, New York, NY 10025",
+    "title": "sunday funday spooky makers market",
+    "description": "footlight underground at the windjammer (ridgewood).",
+    "start_date": "2025-10-26",
+    "start_time": "12:00 pm",
+    "end_time": "6:00 pm",
+    "link": "https://withfriends.events/event/4iXOhaCZ/spooky-makers-market/",
+    "cost": "undefined"
+  },
+  {
+    "title": "annual brooklyn mac and cheese takedown",
+    "description": "royal palms shuffleboard (gowanus),",
+    "start_date": "2025-10-26",
+    "start_time": "1:00 pm",
+    "link": "https://thetakedowns.com/brooklyn-mac-and-cheese-takedown-2025/",
+    "cost": "$30"
+  },
+  {
+    "title": "brooklyn hearts club’s sinister sinner’s market",
+    "description": "crystal lake brooklyn (williamsburg).",
+    "start_date": "2025-10-26",
+    "start_time": "2:00 pm",
+    "end_time": "7:00 pm",
+    "link": "https://www.instagram.com/brooklynheartsclub/p/DPjsJ01kvR4/",
+    "cost": "undefined"
+  },
+  {
+    "title": "madison avenue fall gallery walk",
+    "description": "participating galleries on madison avenue and side streets from east 57th st to east 86th st.",
+    "start_date": "2025-10-25",
+    "start_time": "10:00 am",
+    "end_time": "6:00 pm",
+    "link": "https://madisonavenuebid.org/event/madison-avenue-fall-gallery-walk-2/",
+    "cost": "Free"
+  },
+  {
+    "title": "spike’s joint fall pop-up sale",
+    "description": "at filmmaker spike lee’s 40 acres and a mule hq (fort greene). bonus: lee be in attendance for signings.",
+    "start_date": "2025-10-25",
+    "start_time": "11:00 am",
+    "end_time": "5:00 pm",
+    "link": "https://www.instagram.com/p/DQCxPW9knWn/",
+    "cost": "undefined"
+  },
+  {
+    "title": "patches + pins expo",
+    "description": "bathhouse studios (east village).",
+    "start_date": "2025-10-25",
+    "start_time": "11:00 am",
+    "end_time": "6:00 pm",
+    "link": "https://www.eventbrite.com/e/patches-pins-expo-new-york-city-tickets-1736314426189",
+    "cost": "$5 adv, $10 door"
+  },
+  {
+    "title": "the annual offset art book fair",
+    "description": "sheila c. johnson design center at parsons (greenwich village). timed ticket required.",
+    "start_date": "2025-10-25",
+    "start_time": "1:00 pm",
+    "end_time": "4:00 pm",
+    "link": "https://event.newschool.edu/offsetartbookfair",
+    "cost": "undefined"
+  },
+  {
+    "title": "new york city wine fest",
+    "description": "chelsea industrial, save 40% with promo code ‘theskint’.",
+    "start_date": "2025-10-25",
+    "start_time": "1:00 pm",
+    "end_time": "4:30 pm",
+    "link": "https://www.theskint.com/nyc-wine-fest-returns-save-40-on-tickets-sponsored-2/",
+    "cost": "undefined"
+  },
+  {
+    "title": "fad market fall pop-up",
+    "description": "st. paul’s roman catholic church (cobble hill).",
+    "start_date": "2025-10-25",
+    "start_time": "11:00 am",
+    "end_time": "6:00 pm",
+    "link": "https://fadmarket.co/fall-st-paul",
+    "cost": "undefined"
+  },
+  {
+    "title": "SKINT WEEKEND",
+    "description": "with halloween falling on a friday, we’re getting two full weekends of spooky fun this year! the aws outage slowed us down a bit, so we’ll have our 10/30-11/2 listings ready in a couple of days. in the meantime, check out our roundup of 50+ halloween parties, shows, cover band concerts, pet parades, and more happening this weekend",
+    "start_date": "2025-10-24",
+    "end_date": "2025-10-27",
+    "link": "https://www.theskint.com/fri-mon-10-24-27-skint-weekend/",
+    "cost": "undefined"
+  },
+  {
+    "title": "housing works fourth annual taylor swift karaoke competition",
+    "description": "step up to the mic at housing works (the same place featured in taylor’s ‘all too well (taylor’s version)’ music video) and belt out your fave ts song in front of adoring fans. bonus: the top three singers will score $50-100 housing works gift cards.",
+    "start_date": "2025-10-24",
+    "start_time": "6:00 pm",
+    "link": "https://www.housingworks.org/events/housing-works-annual-taylor-swift-karaoke-competition",
+    "cost": "$10 adv, $15 door"
+  },
+  {
+    "title": "free outdoor movie: top gun: maverick",
+    "description": "at the hudson yards public square and gardens.",
+    "start_date": "2025-10-24",
+    "start_time": "6:00 pm",
+    "link": "https://www.hudsonyardsnewyork.com/movie-nights",
+    "cost": "undefined"
+  },
+  {
+    "title": "tale storytelling show",
+    "description": "harmon leon (this american life, the new yorker) hosts an evening of performances by some of the city’s best storytellers, including john fugelsang, martin dockery, joanne solomon, and rhonda hansome. the red room at kgb bar (east village), half price online with promo code ‘discountskint’ or if you mention the skint at the door (reg. $15), plus a two-drink minimum.",
+    "start_date": "2025-10-24",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/tale-nycs-finest-storytelling-tickets-1770727255889",
+    "cost": "$15"
+  },
+  {
+    "title": "¡vaya! latin music series at lincoln center: dennis hernández y su conjunto amalia",
+    "description": "cuban trumpeter dennis hernández and his band conjunto amalia come to lincoln center’s david rubenstein atrium (uws) for an evening of music and dancing.",
+    "start_date": "2025-10-24",
+    "start_time": "7:30 pm",
+    "link": "https://www.lincolncenter.org/series/lincoln-center-presents/dennis-hernandaacutendez-y-su-conjunto-amalia",
+    "cost": "Free"
+  },
+  {
+    "title": "open to work: an unemployed comedy show",
+    "description": "laugh at linkedin, layoffs, and late-stage-capitalism at amanda melhuish and cat montesi’s open to work comedy show. tonight’s lineup includes ashton womack (the daily show), caitlin reese (nbc), christina casillo (burger diva), justin catchens (vulture), jo wild, and freddy g. friends and lovers (crown heights).",
+    "start_date": "2025-10-24",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/open-to-work-an-unemployed-comedy-show-tickets-1234773794659",
+    "cost": "$10"
+  },
+  {
+    "title": "laugh it off comedy show",
+    "description": "bring your problems to the laugh it off comedy show, where audience members submit their everyday problems and comedians try their best to ‘fix’ them. boyb. melrose podcasts (east village).",
+    "start_date": "2025-10-24",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/laugh-it-off-stand-up-comedy-in-the-east-village-tickets-1226474039869",
+    "cost": "$16"
+  },
+  {
+    "title": "bitches brew comedy show",
+    "description": "this women-produced and-hosted comedy show conjures up big laughs in the back room of halyards (gowanus). tonight's performers include kelly bachman, seaton smith, max fine, micah walsh, and liv talley.",
+    "start_date": "2025-10-24",
+    "start_time": "8:30 pm",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
     "cost": "Free"
   }
 ]

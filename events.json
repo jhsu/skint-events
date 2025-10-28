@@ -1,13 +1,164 @@
 [
   {
-    "title": "JUDD APATOW IN CONVERSATION WITH RONNY CHIENG (SPONSORED)",
-    "description": "The legendary director, producer, and comedic genius behind such classics as Freaks & Geeks, Bridesmaids, and Knocked Up offers a rare glimpse behind the curtain with stories about our favorite comedians and his beloved films. Join us for what promises to be a rollicking night celebrating the biggest comedy nerd in show biz and his storied journey to Hollywood superstardom. In conversation with Ronny Chieng (The Daily Show).",
-    "start_date": "2025-10-25",
-    "start_time": "undefined",
-    "end_date": "undefined",
-    "end_time": "undefined",
-    "link": "https://www.symphonyspace.org/events/judd-apatow-comedy-nerd?utm_source=The+Skint&utm_medium=email&utm_campaign=Judd+Apatow+The+Skint&utm_id=Judd+Apatow+Skint",
-    "address": "undefined",
-    "cost": "$20 with code: Apatow"
+    "title": "Sofia Coppola: A Tribute",
+    "description": "A retrospective of Sofia Coppola’s films at the Museum of Modern Art.",
+    "start_date": "2025-10-30",
+    "end_date": "2025-11-16",
+    "link": "https://www.moma.org/calendar/film/5858",
+    "address": "Museum of Modern Art, Midtown",
+    "cost": "$14 general, $12 seniors, $10 students"
+  },
+  {
+    "title": "Canstruction 2025",
+    "description": "An annual design competition where teams create sculptures from unopened cans of food, on display at Brookfield Place.",
+    "start_date": "2025-10-30",
+    "end_date": "2025-11-10",
+    "link": "https://bfplny.com/event/canstruction2025/",
+    "address": "Brookfield Place, FIDI",
+    "cost": "Free"
+  },
+  {
+    "title": "Baby Teeth Film Festival",
+    "description": "A film festival dedicated to trans, non-binary, and gender queer filmmakers, featuring 27 short films.",
+    "start_date": "2025-10-30",
+    "end_date": "2025-11-02",
+    "link": "https://babyteethfilmfest.com",
+    "address": "Various locations: Millennium Film Workshop, Dear Friend Books, Brooklyn Community Pride Center",
+    "cost": "Sliding scale admission to $20"
+  },
+  {
+    "title": "NYC Magic Ensemble",
+    "description": "A night of magic and mentalism at Young Ethel’s.",
+    "start_date": "2025-10-30",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/nyc-magic-ensemble-young-ethels-halloween-eve-tickets-1454854692549",
+    "address": "Young Ethel’s, South Slope",
+    "cost": "$10 (limited 2-for-$15 tickets available)"
+  },
+  {
+    "title": "Golden Spiral Comedy Show",
+    "description": "A comedy show where set lengths follow the Fibonacci sequence, featuring various comedians.",
+    "start_date": "2025-10-30",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/golden-spiral-comedy-october-30th-tickets-1758648046649",
+    "address": "Whiskey Cellar NYC, East Village",
+    "cost": "$7.18 with promo code ‘skintspiral’ (reg. $10.38+)"
+  },
+  {
+    "title": "Peer Revue",
+    "description": "A comedy show featuring real experts giving talks while comedians improvise.",
+    "start_date": "2025-10-30",
+    "start_time": "9:30 pm",
+    "link": "https://caveat.nyc/events/peer-revue-10-30-2025",
+    "address": "Caveat, LES",
+    "cost": "$13.61 with promo code ‘skintrevue’ (reg. $18.76-20)"
+  },
+  {
+    "title": "Letters + Sodas: LIC Reading Series",
+    "description": "A night of standup and readings featuring various writers and comedians.",
+    "start_date": "2025-10-29",
+    "start_time": "7:00 pm",
+    "link": "https://www.eventbrite.com/e/letters-sodas-lic-reading-series-tickets-1829470759289",
+    "address": "The Greats of Craft, LIC",
+    "cost": "$5"
+  },
+  {
+    "title": "Not in My Backyard! A Political Comedy Roundtable",
+    "description": "A panel of comedians, journalists, and politicians debate local issues in NYC.",
+    "start_date": "2025-10-29",
+    "start_time": "7:00 pm",
+    "link": "https://ucbcomedy.com/show/not-in-my-backyard-10-29-25/",
+    "address": "UCB, East Village",
+    "cost": "$10 adv, $15 day of"
+  },
+  {
+    "title": "Judd Apatow in Conversation with Ronny Chieng",
+    "description": "Judd Apatow shares stories about his career and favorite comedians in a conversation with Ronny Chieng.",
+    "start_date": "2025-10-29",
+    "start_time": "7:30 pm",
+    "link": "https://www.symphonyspace.org/events/judd-apatow-comedy-nerd?utm_source=the+skint&utm_medium=email&utm_campaign=judd+apatow+the+skint&utm_id=judd+apatow+skint",
+    "address": "Symphony Space",
+    "cost": "$20 with code ‘apatow’"
+  },
+  {
+    "title": "We Have Fun: A Stand-Up Show",
+    "description": "Stand-up comedy featuring various comedians at Young Ethel’s.",
+    "start_date": "2025-10-29",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/we-have-fun-a-weekly-stand-up-show-tickets-208767317667",
+    "address": "Young Ethel’s, South Slope",
+    "cost": "Free"
+  },
+  {
+    "title": "Flash Comedy",
+    "description": "A comedy show featuring free polaroids of the audience, hosted by Claire Parker and others.",
+    "start_date": "2025-10-29",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/flash-comedy-tickets-1628744280989",
+    "address": "Mood Ring, Bushwick",
+    "cost": "$10 adv, $15 door"
+  },
+  {
+    "title": "Ambush Comedy Show",
+    "description": "A comedy show at Hellrazor Barber Shop featuring various comedians.",
+    "start_date": "2025-10-29",
+    "start_time": "8:00 pm",
+    "link": "https://www.eventbrite.com/e/ambush-comedy-w-josh-johnson-brittany-cardwell-lucas-connolly-tickets-764291816397",
+    "address": "Hellrazor Barber Shop, Williamsburg",
+    "cost": "Free"
+  },
+  {
+    "title": "Live from NYPL: The Second Estate with Ray D. Madoff and Gary Gulman",
+    "description": "A conversation with Boston College law professor Ray D. Madoff and comedian Gary Gulman about Madoff's new book, 'The Second Estate: How the Tax Code Made an American Aristocracy.'",
+    "start_date": "2025-10-28",
+    "start_time": "7:00 pm",
+    "link": "https://www.nypl.org/events/programs/2025/10/28/second-estate",
+    "address": "NYPL Stephen A. Schwarzman Building’s Celeste Auditorium, Midtown",
+    "cost": "Free"
+  },
+  {
+    "title": "Frontiers Lecture at AMNH: Roman Space Telescope",
+    "description": "Assistant astronomy professor Kishalay De discusses NASA’s Nancy Grace Roman Space Telescope, set to launch in May 2027.",
+    "start_date": "2025-10-28",
+    "start_time": "7:00 pm",
+    "link": "https://www.amnh.org/calendar/roman-space-telescope",
+    "address": "American Museum of Natural History, Hayden Planetarium Space Theater, UWS",
+    "cost": "$20"
+  },
+  {
+    "title": "We Love a Theme: A Storytelling Show",
+    "description": "Performers tell stories at Bailey Swilley’s monthly storytelling show, with a theme of 'Heads Will Roll... Stories About Rage.'",
+    "start_date": "2025-10-28",
+    "start_time": "7:00 pm",
+    "link": "https://www.petescandystore.com/calendar/",
+    "address": "Pete’s Candy Store, Williamsburg",
+    "cost": "Free ($5 suggested donation)"
+  },
+  {
+    "title": "Econlol: An Economics-Themed Comedy Show",
+    "description": "Luke Strathmann hosts comedians and economists to humorously discuss economics and finance.",
+    "start_date": "2025-10-28",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/events/econlol-an-economics-themed-comedy-show-10-28-2025",
+    "address": "Caveat, LES",
+    "cost": "$15.67 with promo code ‘skint’ (reg. $24-25)"
+  },
+  {
+    "title": "Mother’s Milk Variety Show",
+    "description": "A variety show featuring comedy, dance, and music performances, encouraging performers to try something new.",
+    "start_date": "2025-10-28",
+    "start_time": "7:30 pm",
+    "link": "https://dixonplace.org/performances/mothers-milk-2/",
+    "address": "Dixon Place, LES",
+    "cost": "$20 adv, $24 door"
+  },
+  {
+    "title": "Dance Bloc NYC",
+    "description": "Dixon Place’s fifth annual fall dance festival featuring new works from over 20 companies and choreographers.",
+    "start_date": "2025-10-28",
+    "end_date": "2025-10-31",
+    "link": "https://dixonplace.org/performances/danceblocnyc-2025/",
+    "address": "Dixon Place, LES",
+    "cost": "$25+"
   }
 ]

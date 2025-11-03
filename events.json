@@ -4,19 +4,21 @@
     "description": "Frigid New York’s annual Gotham Storytelling Festival returns with two weeks of tales from 20 diverse storytellers.",
     "start_date": "2025-11-03",
     "end_date": "2025-11-16",
-    "link": "https://frigid.nyc/festivals/gotham/"
+    "link": "https://frigid.nyc/festivals/gotham/",
+    "cost": "Sliding scale admission"
   },
   {
     "title": "Concrete Temple Theatre's Concrete Boom",
-    "description": "Concrete Temple Theatre presents three nights of cutting-edge puppetry and visual theatre at Dixon Place (LES).",
+    "description": "Concrete Temple Theatre presents three nights of cutting-edge puppetry and visual theatre at Dixon Place.",
     "start_date": "2025-11-03",
+    "start_time": "7:30 pm",
     "end_date": "2025-11-05",
     "link": "https://concretetempletheatre.com/now/",
     "cost": "$19-22 adv, $22-25 door"
   },
   {
     "title": "Angelika ‘Classics’ Screening Series",
-    "description": "Village East by Angelika’s ‘classics’ screening series celebrates iconic films. Next up: Terry Gilliam’s Twelve Monkeys (1995).",
+    "description": "Village East by Angelika’s ‘Classics’ screening series celebrates iconic films. Next up: Terry Gilliam’s Twelve Monkeys (1995).",
     "start_date": "2025-11-03",
     "start_time": "4:00 pm",
     "link": "https://angelikafilmcenter.com/villageeast/signature-programming/angelika-classics",
@@ -28,7 +30,7 @@
     "start_date": "2025-11-03",
     "start_time": "7:00 pm",
     "link": "https://www.instagram.com/biologyontap/",
-    "cost": "Free admission ($5 suggested donation)."
+    "cost": "Free ($5 suggested donation)"
   },
   {
     "title": "Fun by Design: The Interior Design Game Show",
@@ -36,97 +38,31 @@
     "start_date": "2025-11-03",
     "start_time": "7:00 pm",
     "link": "https://www.caveat.nyc/events/fun-by-design-the-interior-design-game-show-11-3-2025",
-    "cost": "$13.61 with promo code ‘skint’ (reg. $18.76-20)."
+    "cost": "$13.61 with promo code ‘skint’ (reg. $18.76-20)"
   },
   {
     "title": "Living Radio: Contemporary Radio Drama, with a Revisionist Twist",
     "description": "Living Radio stages live performances of five short radio plays inspired by the news, with results ranging from wacky to reflective.",
     "start_date": "2025-11-03",
     "start_time": "7:00 pm",
-    "link": "https://livingradionyc.com"
+    "link": "https://livingradionyc.com",
+    "cost": "Sliding scale admission"
   },
   {
     "title": "Miss Manhattan Non-Fiction Reading Series",
     "description": "Elyssa Goodman and R.C. Gstaad III’s monthly showcase for nonfiction writers returns with an evening of readings.",
     "start_date": "2025-11-03",
     "start_time": "7:30 pm",
-    "link": "https://www.elyssamaxxgoodman.com/miss-manhattan-nonfiction-reading-series"
+    "link": "https://www.elyssamaxxgoodman.com/miss-manhattan-nonfiction-reading-series",
+    "cost": "Free"
   },
   {
     "title": "Not a Boy, Not a Girl Comedy Show",
-    "description": "Will Morrison hosts an LGBTQ+ comedy/variety show at Crystal Lake (Williamsburg).",
+    "description": "Will Morrison hosts an LGBTQ+ comedy/variety show at Crystal Lake. Tonight's lineup features comedians and burlesque performers.",
     "start_date": "2025-11-03",
     "start_time": "7:30 pm",
     "link": "https://www.eventbrite.com/e/not-a-boy-not-a-girl-comedy-variety-show-monday-november-3rd-tickets-1803289670949",
     "cost": "$10"
-  },
-  {
-    "title": "23rd Annual Music Mondays Concert Series",
-    "description": "The Music Mondays concert series returns with a new season of classical and contemporary chamber music at Advent Lutheran Church (UWS).",
-    "start_date": "2025-11-03",
-    "start_time": "7:30 pm",
-    "link": "https://www.musicmondays.org",
-    "cost": "Free admission (note: if online reservations are sold out, there will be a standby line)."
-  },
-  {
-    "title": "Bitches Brew Comedy Show",
-    "description": "This women-produced and-hosted comedy show conjures up big laughs in the back room of Halyards (Gowanus). Tonight's performers include Henry Sir, Sarah Adelman, James Mwaura, Chloe Branche, and Byron Austin.",
-    "start_date": "2025-11-02",
-    "start_time": "8:30 pm",
-    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
-    "cost": "Free (a tip jar will be passed around at the end of the show)."
-  },
-  {
-    "title": "Performa Biennial",
-    "description": "The Performa performing arts festival celebrates its 20th anniversary with three weeks of commissions, live performances, screenings, walking tours, and more across Manhattan and Brooklyn.",
-    "start_date": "2025-11-02",
-    "end_date": "2025-11-23",
-    "link": "https://performa2025.org"
-  },
-  {
-    "title": "Tom D’s Big New York Show",
-    "description": "Comedian and licensed NYC tour guide Tom Delgado takes you through different aspects of NYC each month, with history, comedy, trivia with prizes, and special guests.",
-    "start_date": "2025-11-02",
-    "start_time": "7:00 pm",
-    "link": "https://caveat.nyc/events/tom-ds-big-new-york-show-11-1-2025"
-  },
-  {
-    "title": "Feel the News with Marcela Onyango",
-    "description": "In this monthly variety comedy show, ‘radical lefty’ comedian Marcela Onyango breaks down the latest headlines—helping you decide whether to be mad, glad, or just deeply confused.",
-    "start_date": "2025-11-02",
-    "start_time": "7:30 pm",
-    "link": "https://www.fnlbk.com/upcoming/2021/6/11/feel-the-news-w-marcela-onyengo-jw9eb-ppd92-27t45-rkrmx",
-    "cost": "$10"
-  },
-  {
-    "title": "St Kilda",
-    "description": "Inspired by her Nebraska roots, her Scottish heritage, and the historic 1930 evacuation of Scotland’s archipelago St Kilda, Drama League nominee Jody Christopherson presents her one-woman ‘Scottish horror excursion with supernatural foley looping.’",
-    "start_date": "2025-11-02",
-    "start_time": "7:30 pm",
-    "link": "https://www.eventbrite.com/e/st-kilda-tickets-1839627448219",
-    "cost": "$25"
-  },
-  {
-    "title": "UCBLK: A Variety Show Spotlighting Black Performers",
-    "description": "Join hosts Justin Catchens, Dominique Kaplowitz, and Shem Pennant for a night of improv, sketch, stand-up, and more—featuring a dynamic lineup of black performers.",
-    "start_date": "2025-11-02",
-    "start_time": "9:00 pm",
-    "link": "https://ucbcomedy.com/show/ucblk-11-01-25/",
-    "cost": "$15"
-  },
-  {
-    "title": "Chloe Radcliffe Special Taping Warm-Up Show",
-    "description": "See comedian Chloe Radcliffe run through an hour of new material in preparation for an upcoming special taping.",
-    "start_date": "2025-11-02",
-    "start_time": "10:00 pm",
-    "link": "https://www.eventbrite.com/e/chloe-radcliffe-special-taping-warm-up-tickets-1871390201469",
-    "cost": "$12 adv, $15 door"
-  },
-  {
-    "title": "New York City Marathon",
-    "description": "Watch and cheer on 50,000 runners from around the world as they race 26.2 miles through the city’s five boroughs. Friday’s opening ceremony in Central Park features a parade of nations and concludes with fireworks.",
-    "start_date": "2025-11-02",
-    "link": "https://www.nyrr.org/tcsnycmarathon"
   },
   {
     "title": "Annual Hoboken Artists’ Studio Tour",
@@ -135,18 +71,82 @@
     "start_time": "12:00 pm",
     "end_time": "6:00 pm",
     "link": "https://hobokenmuseum.org/2025artistsstudiotour/",
-    "cost": "Free admission"
+    "cost": "Free"
   },
   {
     "title": "Florence + The Machine Album Release Drag Show",
-    "description": "Celebrate the release of Florence + The Machine's sixth album at this drag show hosted by Megami and Atomic Annie.",
+    "description": "Celebrate the release of Florence + The Machine’s sixth album at this drag show hosted by Megami and Atomic Annie.",
     "start_date": "2025-11-02",
     "start_time": "8:00 pm",
     "link": "https://dice.fm/event/6dblob-florence-the-machine-everybody-scream-2nd-nov-cmon-everybody-new-york-tickets",
     "cost": "$15"
   },
   {
-    "title": "SKINT WEEKEND",
+    "title": "Bitches Brew Comedy Show",
+    "description": "This women-produced and-hosted comedy show conjures up big laughs in the back room of Halyards (Gowanus). Tonight's performers include Henry Sir, Sarah Adelman, James Mwaura, Chloe Branche, and Byron Austin.",
+    "start_date": "2025-11-01",
+    "start_time": "8:30 pm",
+    "link": "https://www.eventbrite.com/e/bitches-brew-free-comedy-stand-up-and-variety-show-tickets-172309360937",
+    "cost": "Free"
+  },
+  {
+    "title": "Performa Biennial",
+    "description": "The Performa performing arts festival celebrates its 20th anniversary with three weeks of commissions, live performances, screenings, walking tours, and more across Manhattan and Brooklyn.",
+    "start_date": "2025-11-01",
+    "end_date": "2025-11-23",
+    "link": "https://performa2025.org",
+    "cost": "Various prices"
+  },
+  {
+    "title": "Tom D’s Big New York Show",
+    "description": "Comedian and licensed NYC tour guide Tom Delgado takes you through different aspects of NYC each month, with history, comedy, trivia with prizes, and special guests.",
+    "start_date": "2025-11-01",
+    "start_time": "7:00 pm",
+    "link": "https://caveat.nyc/events/tom-ds-big-new-york-show-11-1-2025",
+    "cost": "$5 with promo code ‘tomdnyc’"
+  },
+  {
+    "title": "Feel the News with Marcela Onyango",
+    "description": "In this monthly variety comedy show, ‘radical lefty’ comedian Marcela Onyango breaks down the latest headlines, helping you decide whether to be mad, glad, or just deeply confused.",
+    "start_date": "2025-11-01",
+    "start_time": "7:30 pm",
+    "link": "https://www.fnlbk.com/upcoming/2021/6/11/feel-the-news-w-marcela-onyengo-jw9eb-ppd92-27t45-rkrmx",
+    "cost": "$10"
+  },
+  {
+    "title": "St Kilda",
+    "description": "Inspired by her Nebraska roots, her Scottish heritage, and the historic 1930 evacuation of Scotland’s archipelago St Kilda, Drama League nominee Jody Christopherson presents her one-woman ‘Scottish horror excursion with supernatural foley looping.’",
+    "start_date": "2025-11-01",
+    "start_time": "7:30 pm",
+    "link": "https://www.eventbrite.com/e/st-kilda-tickets-1839627448219",
+    "cost": "$25"
+  },
+  {
+    "title": "UCBLK: A Variety Show Spotlighting Black Performers",
+    "description": "Join hosts Justin Catchens, Dominique Kaplowitz, and Shem Pennant for a night of improv, sketch, stand-up, and more—featuring a dynamic lineup of black performers.",
+    "start_date": "2025-11-01",
+    "start_time": "9:00 pm",
+    "link": "https://ucbcomedy.com/show/ucblk-11-01-25/",
+    "cost": "$15"
+  },
+  {
+    "title": "Chloe Radcliffe Special Taping Warm-Up Show",
+    "description": "See comedian Chloe Radcliffe run through an hour of new material in preparation for an upcoming special taping.",
+    "start_date": "2025-11-01",
+    "start_time": "10:00 pm",
+    "link": "https://www.eventbrite.com/e/chloe-radcliffe-special-taping-warm-up-tickets-1871390201469",
+    "cost": "$12 adv, $15 door"
+  },
+  {
+    "title": "New York City Marathon",
+    "description": "Watch and cheer on 50,000 runners from around the world as they race 26.2 miles through the city’s five boroughs. Friday’s opening ceremony in Central Park features a parade of nations and concludes with fireworks.",
+    "start_date": "2025-11-01",
+    "start_time": "4:00 pm",
+    "link": "https://www.nyrr.org/tcsnycmarathon",
+    "cost": "Undefined"
+  },
+  {
+    "title": "Halloween Weekend Events",
     "description": "Check out our roundup of 30+ Halloween weekend events in NYC for $40 and under.",
     "start_date": "2025-10-31",
     "end_date": "2025-11-03",
@@ -156,15 +156,17 @@
   {
     "title": "Rooftop Cinema Club",
     "description": "Take your movie night to new heights at Rooftop Cinema Club, the annual open-air movie series held at the third floor Skylawn rooftop of the Embassy Suites Hotel in Midtown. This year’s season wraps with films like Coco, Practical Magic, and more.",
+    "start_date": "2025-10-31",
     "end_date": "2025-11-09",
     "link": "https://rooftopcinemaclub.com/new-york/venue/midtown/",
-    "cost": "$12-29 admission (15% off for military, 10% off for students)."
+    "cost": "$12-29"
   },
   {
     "title": "Knives Out Marathon at The Paris",
     "description": "The Paris Theater presents all three Knives Out films, featuring sneak preview screenings of Wake Up Dead Man: A Knives Out Mystery with filmmaker Rian Johnson in person on 11/2 + 11/4. Bonus: free popcorn at all screenings.",
+    "start_date": "2025-10-31",
     "end_date": "2025-11-04",
     "link": "https://www.paristheaternyc.com/series/knives-out-marathon",
-    "cost": "$17 general, $15 seniors/students."
+    "cost": "$17 general, $15 seniors/students"
   }
 ]

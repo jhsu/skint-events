@@ -1,96 +1,11 @@
 [
   {
-    "title": "19th Annual Brooklyn Children’s Book Fair",
-    "description": "Brooklyn Museum’s Beaux-Arts Court (Prospect Heights) hosts the annual children's book fair.",
-    "start_date": "2025-11-09",
-    "start_time": "11:00 am",
-    "end_time": "3:30 pm",
-    "link": "https://www.brooklynmuseum.org/programs/brooklyn-childrens-book-fair-november-2025/11-09-2025",
-    "cost": "Free with pay-what-you-can museum admission"
-  },
-  {
-    "title": "Grand Central Holiday Fair",
-    "description": "Grand Central Terminal’s Vanderbilt Hall (Midtown East) hosts the holiday fair.",
-    "start_date": "2025-11-09",
-    "end_date": "2025-12-24",
-    "link": "https://grandcentralterminal.com/holiday-fair/"
-  },
-  {
-    "title": "CJ Hendry Flower Shop",
-    "description": "Artist CJ Hendry opens a brick-and-mortar shop in Soho where her plush flowers are priced at $10 each.",
-    "start_date": "2025-11-09",
-    "start_time": "10:00 am",
-    "end_time": "10:00 pm",
-    "link": "https://resident.com/art-and-culture/2025/10/29/cj-hendry-opens-permanent-flower-shop-in-soho"
-  },
-  {
-    "title": "Designing Women Market",
-    "description": "The New York Historical (UWS) hosts the Designing Women Market.",
-    "start_date": "2025-11-08",
-    "start_time": "11:00 am",
-    "end_time": "5:00 pm",
-    "link": "https://www.nyhistory.org/programs/designing-women-market-fall25?date=2025-11-08"
-  },
-  {
-    "title": "A Current Affair Pop-Up Vintage Marketplace",
-    "description": "Industry City (Brooklyn) hosts a vintage marketplace.",
-    "start_date": "2025-11-08",
-    "start_time": "10:00 am",
-    "end_time": "6:00 pm",
-    "link": "https://itsacurrentaffair.com",
-    "cost": "$20 admission"
-  },
-  {
-    "title": "The Annual WFMU Record + CD Fair",
-    "description": "Metropolitan Pavilion (Chelsea) hosts the annual record and CD fair.",
-    "start_date": "2025-11-08",
-    "start_time": "1:00 pm",
-    "end_date": "2025-11-09",
-    "end_time": "7:00 pm",
-    "link": "https://wfmu.org",
-    "cost": "$10 general admission (save $3 with coupon), $30 early entry 10am-1pm sat"
-  },
-  {
-    "title": "Macy’s Holiday Square Outdoor Market",
-    "description": "Herald Square and Greeley Square host Macy's Holiday Square Outdoor Market.",
-    "start_date": "2025-11-08",
-    "end_date": "2026-01-03",
-    "link": "https://34thstreet.org/calendar/event/herald-holiday-market/2025-11-08"
-  },
-  {
-    "title": "Wall to Wall Stevie Wonder",
-    "description": "A joyful, FREE, all-day tribute to the iconic Stevie Wonder at Symphony Space.",
-    "start_date": "2025-11-08",
-    "start_time": "2:00 pm",
-    "end_time": "10:00 pm",
-    "link": "https://www.symphonyspace.org/events/wall-to-wall-stevie-wonder?utm_source=the+skint&utm_medium=email&utm_campaign=Wall+to+Wall+Stevie+Wonder",
-    "address": "Symphony Space, 2537 Broadway & 95th Street, New York, NY 10025",
-    "cost": "Free general admission seating"
-  },
-  {
-    "title": "41st Westbeth Flea Market",
-    "description": "Shop clothing, jewelry, books, housewares, and more at the annual Westbeth Artists Housing flea market. $10 bag sale on 11/15.",
-    "start_date": "2025-11-07",
-    "end_date": "2025-11-15",
-    "link": "https://westbeth.org/event/westbeth-flea-market-excitement-galore/",
-    "address": "55 Bethune Street, West Village",
-    "cost": "$10 bag sale on 11/15"
-  },
-  {
-    "title": "The Fourth Annual Gingerbread NYC: The Great Borough Bake-Off at MCNY",
-    "description": "The Museum of the City of New York (East Harlem) invites bakers to design edible gingerbread displays celebrating the city’s iconic places.",
-    "start_date": "2025-11-07",
-    "end_date": "2026-01-19",
-    "link": "https://www.mcny.org/exhibition/gingerbread-nyc",
-    "cost": "Pay-what-you-can admission for NYC residents (reg. $23 general, $18 seniors, $14 students, free for everyone on Wednesdays)"
-  },
-  {
-    "title": "Streb: Into Thin Air",
-    "description": "The ‘action heroes’ of Elizabeth Streb’s extreme action ensemble execute choreographed feats of extreme athletic and technical skill in their latest performance.",
-    "start_date": "2025-11-07",
-    "start_time": "Fridays-Sundays",
-    "end_date": "2025-11-30",
-    "link": "https://streb.org/intothinair/",
-    "cost": "$25"
+    "title": "Practice",
+    "description": "A scathing, intricately observed take on power and surrender, Nazareth Hassan's new play follows a company of dedicated actors, dancers, and performance artists as they lose themselves to the violent and beautiful will of a visionary.",
+    "start_date": "2025-10-30",
+    "end_date": "2025-11-16",
+    "link": "https://www.theskint.com/last-chance-get-35-tickets-to-practice-at-playwrights-horizons-thru-11-16-sponsored/",
+    "address": "Playwrights Horizons, New York, NY",
+    "cost": "$35"
   }
 ]

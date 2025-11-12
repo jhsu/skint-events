@@ -1,74 +1,11 @@
 [
   {
-    "title": "Third Annual Night Flight Music Video Festival",
-    "description": "A music video festival featuring various music videos at Nitehawk Cinema in Williamsburg.",
-    "start_date": "2025-11-13",
-    "start_time": "7:30 pm",
-    "link": "https://nitehawkcinema.com/williamsburg/showtimes/night-flight-music-video-festival-2025-11-13-25-700-pm/",
-    "address": "Nitehawk Cinema, Williamsburg",
-    "cost": "Undefined"
-  },
-  {
-    "title": "Broadway Under the Stars",
-    "description": "Enjoy intimate performances from Broadway shows at The Shops at Columbus Circle.",
-    "start_date": "2025-11-13",
-    "start_time": "5:00 pm",
-    "link": "https://www.theshopsatcolumbuscircle.com/events/broadway-under-the-stars-2025/",
-    "address": "The Shops at Columbus Circle, UWS",
-    "cost": "Free admission"
-  },
-  {
-    "title": "Pancakes + Booze Art Show",
-    "description": "A pop-up art show featuring works by local artists and all-you-can-eat pancakes at Brooklyn Monarch.",
-    "start_date": "2025-11-13",
+    "title": "NATE BERKUS, JEREMIAH BRENT, TYLER CAMERON AND MORE DESIGN A NIGHT OF FUN AT SYMPHONY SPACE (SPONSORED)",
+    "description": "The worlds of design, comedy, literature, and pop culture collide for one night only as Nate Berkus brings Jeremiah Brent (Queer Eye), Tyler Cameron (The Bachelorette), writer and comedian Jessi Klein (Dead to Me), and NPR radio personality Emma Choi (Everyone & Their Mom) to the Symphony Space stage for a playful evening of games, readings, and conversation celebrating his new book, Foundations.",
+    "start_date": "2025-11-12",
     "start_time": "7:00 pm",
-    "link": "https://www.pancakesandbooze.com/tickets/nyc",
-    "address": "Brooklyn Monarch, East Williamsburg",
-    "cost": "$19.05"
-  },
-  {
-    "title": "11th Annual Greenwich Village Film Festival",
-    "description": "A film festival showcasing various films at Quad Cinema in Greenwich Village.",
-    "start_date": "2025-11-11",
-    "end_date": "2025-11-13",
-    "link": "https://www.greenwichvillagefilmfestival.com",
-    "address": "Quad Cinema, Greenwich Village",
-    "cost": "Various prices"
-  },
-  {
-    "title": "16th Annual DOC NYC Documentary Festival",
-    "description": "A documentary festival featuring various films at multiple venues including IFC Center, SVA Theatre, and Village East by Angelika.",
-    "start_date": "2025-11-11",
-    "end_date": "2025-11-21",
-    "link": "https://www.docnyc.net",
-    "address": "IFC Center, SVA Theatre, Village East by Angelika, and online",
-    "cost": "Various prices"
-  },
-  {
-    "title": "New York City Veterans Day Parade",
-    "description": "The nation’s largest commemoration of service, marching up Fifth Avenue with over 20,000 participants.",
-    "start_date": "2025-11-11",
-    "start_time": "12:30 pm",
-    "link": "https://gothamist.com/news/veterans-day-parade-is-tuesday-in-nyc-what-to-expect-for-the-march-along-fifth-avenue",
-    "address": "Fifth Avenue from 26th to 45th Streets",
-    "cost": "Undefined"
-  },
-  {
-    "title": "Junk Journal Hang and Zine Trade",
-    "description": "An event for zine fans to create junk journals at Purgatory in Bushwick.",
-    "start_date": "2025-11-11",
-    "start_time": "7:00 pm",
-    "link": "https://dice.fm/event/oendry-downstairs-junk-journal-hang-and-zine-trade-11th-nov-purgatory-new-york-tickets",
-    "address": "Purgatory, Bushwick",
-    "cost": "Free"
-  },
-  {
-    "title": "Quiara Alegría Hudes with Lin-Manuel Miranda: The White Hot",
-    "description": "A book launch event for Quiara Alegría Hudes' debut novel with a signing by Lin-Manuel Miranda at St. Ann and the Holy Trinity Church.",
-    "start_date": "2025-11-11",
-    "start_time": "7:00 pm",
-    "link": "https://booksaremagic.net/events/3572420251111",
-    "address": "St. Ann and the Holy Trinity Church, Brooklyn Heights",
-    "cost": "$10 admission, $31 ticket option includes a copy of the book."
+    "link": "https://www.symphonyspace.org/events/nate-berkus-and-friends-foundations-timeless-design-that-feels-personal?utm_source=The+Skint&utm_medium=email&utm_campaign=NateBerkus+Skint&utm_id=NateBerkus+Skint",
+    "address": "Symphony Space",
+    "cost": "$12 (with code: design)"
   }
 ]
